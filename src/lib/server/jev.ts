@@ -1,3 +1,4 @@
+import type { JevBudget } from './budget.js';
 import type { Classification, Classifier, ClassifyInput } from './classify.js';
 import { defaultAnchor, firstFacet } from './classify.js';
 import {
@@ -83,6 +84,8 @@ export interface JevOptions {
 	thresholds?: Partial<Thresholds>;
 	timeoutMs?: number;
 	fetch?: typeof fetch;
+	/** Spend ceiling. Every HTTP attempt reserves against it before it is sent. */
+	budget?: JevBudget;
 }
 
 export class JevError extends Error {
@@ -166,21 +169,36 @@ export class JevClassifier implements Classifier {
 	}
 
 	private async post(body: unknown): Promise<Record<string, ChoiceAnswer>> {
+		const budget = this.opts.budget;
+		const estimate = budget?.estimate(body) ?? 0;
 		for (let attempt = 0; ; attempt++) {
-			const response = await this.fetch(`${this.opts.baseUrl.replace(/\/$/, '')}/systemone`, {
-				method: 'POST',
-				headers: {
-					authorization: `Bearer ${this.opts.apiKey}`,
-					'content-type': 'application/json'
-				},
-				body: JSON.stringify(body),
-				signal: AbortSignal.timeout(this.opts.timeoutMs ?? 8000)
-			});
+			// Throws BudgetExceededError before anything is sent if a cap would be crossed.
+			const settle = budget?.reserve(estimate);
+			let response: Response;
+			try {
+				response = await this.fetch(`${this.opts.baseUrl.replace(/\/$/, '')}/systemone`, {
+					method: 'POST',
+					headers: {
+						authorization: `Bearer ${this.opts.apiKey}`,
+						'content-type': 'application/json'
+					},
+					body: JSON.stringify(body),
+					signal: AbortSignal.timeout(this.opts.timeoutMs ?? 8000)
+				});
+			} catch (err) {
+				settle?.(); // may have been billed; keep the estimate
+				throw err;
+			}
 			if (response.ok) {
-				const data = (await response.json()) as { answers?: Record<string, ChoiceAnswer> };
+				const data = (await response.json().catch(() => ({}))) as {
+					answers?: Record<string, ChoiceAnswer>;
+					usage?: { input_tokens?: number; output_tokens?: number };
+				};
+				settle?.(data.usage);
 				if (!data.answers) throw new JevError('response had no answers');
 				return data.answers;
 			}
+			settle?.();
 			// One quick retry on rate limiting or overload; the reading can't wait long.
 			const retryable = response.status === 429 || response.status >= 500;
 			if (!retryable || attempt >= 1) {

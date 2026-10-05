@@ -1,6 +1,7 @@
 import type { Spread } from '#lib/spreads.js';
 import type { SharedReading } from '#lib/share.js';
 import { assemble, type AssembledReading } from './assemble.js';
+import { BudgetExceededError } from './budget.js';
 import {
 	fallbackClassification,
 	sanitizeClassification,
@@ -34,9 +35,15 @@ export async function createReading(
 		try {
 			classification = await classifier.classify({ question: opts.question, cards });
 		} catch (err) {
-			// A Jev outage degrades the reading; it never fails it.
-			console.warn('[reading] classifier failed, using fallback:', (err as Error).message);
-			classification = fallbackClassification(cards, 'classifier error');
+			// A Jev outage or a spent budget degrades the reading; it never fails it.
+			const overBudget = err instanceof BudgetExceededError;
+			if (!overBudget) {
+				console.warn('[reading] classifier failed, using fallback:', (err as Error).message);
+			}
+			classification = fallbackClassification(
+				cards,
+				overBudget ? `jev ${err.scope} budget reached` : 'classifier error'
+			);
 		}
 	}
 	if (classification.fellBack.length) {

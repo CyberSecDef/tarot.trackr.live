@@ -9,16 +9,17 @@
 #   ./deploy/deploy.sh --no-build      upload the build/ that is already there
 #
 # Unlike the static trackr sites this is a running Node server (SvelteKit
-# adapter-node). It listens on 127.0.0.1:$TAROT_PORT and DreamHost's proxy
-# maps https://tarot.trackr.live to it. build/ is self-contained (no runtime
-# dependencies), so nothing is installed on the server.
+# adapter-node), kept alive by PM2. It listens on 127.0.0.1:$TAROT_PORT
+# (default 8010) and DreamHost's proxy maps https://tarot.trackr.live to it.
+# build/ is self-contained (no runtime dependencies); PM2 is the only thing
+# the server needs installed.
 #
 # Settings come from .env.local (gitignored):
 #
 #   DREAMHOST_USER=dh_xxxxxx
 #   DREAMHOST_PASS=...              # only used by --install-key
 #   DREAMHOST_HOST=...              # optional, default below
-#   TAROT_PORT=3417                 # optional; must match the panel's proxy
+#   TAROT_PORT=8010                 # optional; must match the panel's proxy
 #
 # The TypeSafe key lives only on the server, in ~/tarot.trackr.live/app/.env,
 # written once by --setup from this repo's .env. Deploys never copy it.
@@ -51,9 +52,11 @@ set -a; source .env.local; set +a
 
 : "${DREAMHOST_USER:?DREAMHOST_USER is not set in .env.local}"
 HOST="${DREAMHOST_HOST:-$DEFAULT_HOST}"
-PORT="${TAROT_PORT:-3417}"
+PORT="${TAROT_PORT:-8010}"
 TARGET="${DREAMHOST_USER}@${HOST}"
 SSH=(ssh -i "$SSH_KEY" -o BatchMode=yes -o ConnectTimeout=10 "$TARGET")
+# Login shell, so PM2 and Node from the user's profile (npm prefix, nvm) are on PATH.
+remote() { "${SSH[@]}" "bash -lc $(printf '%q' "$1")"; }
 
 # ------------------------------------------------------------- one-time: key
 
@@ -77,17 +80,17 @@ APP='$HOME/'"${DOMAIN}/app"
 if [[ $SETUP -eq 1 ]]; then
 	KEY_LINE="$(grep -E '^TYPESAFE_API_KEY=' .env 2>/dev/null || true)"
 	[[ -n "$KEY_LINE" ]] || die "no TYPESAFE_API_KEY in this repo's .env to copy to the server"
-	"${SSH[@]}" "mkdir -p ${APP}/build ${APP}/logs && chmod 700 ${APP}"
+	remote "command -v pm2 >/dev/null" \
+		|| die "pm2 is not on the server's PATH. On the VPS run: npm install -g pm2 (see DEPLOY.md)"
+	remote "mkdir -p ${APP}/build ${APP}/logs ${APP}/data && chmod 700 ${APP}"
 	# The key goes over ssh stdin, never as an argument, so it never appears in
 	# a process list on either machine.
 	printf '%s\n' "$KEY_LINE" | "${SSH[@]}" "umask 077; cat > ${APP}/.env"
-	scp -i "$SSH_KEY" -q deploy/run.sh "${TARGET}:${DOMAIN}/app/run.sh"
-	"${SSH[@]}" "chmod 700 ${APP}/run.sh"
-	# Keepalive: start at boot and every 5 minutes if the process is gone.
-	"${SSH[@]}" "( crontab -l 2>/dev/null | grep -v '${DOMAIN}/app/run.sh' ;
-		echo '@reboot TAROT_PORT=${PORT} ${APP}/run.sh start' ;
-		echo '*/5 * * * * TAROT_PORT=${PORT} ${APP}/run.sh ensure' ) | crontab -"
-	echo "Setup done. Now, in the DreamHost panel, add a proxy for ${DOMAIN} to port ${PORT}."
+	# Log rotation (idempotent) and resurrect-at-boot without needing root.
+	remote "pm2 describe pm2-logrotate >/dev/null 2>&1 || pm2 install pm2-logrotate"
+	remote "( crontab -l 2>/dev/null | grep -v 'pm2 resurrect' ;
+		echo '@reboot bash -lc \"pm2 resurrect\"' ) | crontab -"
+	echo "Setup done. Deploy next, then in the DreamHost panel proxy ${DOMAIN} to port ${PORT}."
 	exit 0
 fi
 
@@ -112,7 +115,7 @@ RSYNC_FLAGS=(-az --delete --human-readable --stats --chmod=D755,F644)
 echo "  from  ${ROOT}/build/"
 echo "  to    ${TARGET}:~/${DOMAIN}/app/build/"
 rsync "${RSYNC_FLAGS[@]}" -e "ssh -i ${SSH_KEY}" ./build/ "${TARGET}:${DOMAIN}/app/build/"
-rsync -az --chmod=F700 -e "ssh -i ${SSH_KEY}" deploy/run.sh "${TARGET}:${DOMAIN}/app/run.sh" \
+rsync -az --chmod=F600 -e "ssh -i ${SSH_KEY}" deploy/ecosystem.config.cjs "${TARGET}:${DOMAIN}/app/ecosystem.config.cjs" \
 	$([[ $DRY_RUN -eq 1 ]] && echo --dry-run)
 
 if [[ $DRY_RUN -eq 1 ]]; then
@@ -122,7 +125,9 @@ fi
 
 # ------------------------------------------------------------ restart, verify
 
-"${SSH[@]}" "TAROT_PORT=${PORT} ${APP}/run.sh restart"
+# Start or reload with the new build, then save so `pm2 resurrect` at boot
+# brings back this exact process list.
+remote "cd ${APP} && TAROT_PORT=${PORT} pm2 startOrReload ecosystem.config.cjs --update-env && pm2 save"
 
 URL="https://${DOMAIN}/"
 for _ in 1 2 3 4 5; do
@@ -135,5 +140,5 @@ if [[ "$CODE" == "200" ]]; then
 	echo "Deployed. ${URL} -> 200; /api/spreads -> ${SPREADS}..."
 	exit 0
 fi
-echo "Deployed, but ${URL} returned ${CODE}. Check ~/${DOMAIN}/app/logs/server.log on the server." >&2
+echo "Deployed, but ${URL} returned ${CODE}. Check: pm2 logs tarot (on the server)." >&2
 exit 1

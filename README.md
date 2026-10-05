@@ -19,6 +19,9 @@ seed ──► ChaCha20 stream ──► shuffle, reversals ──► assemble �
   question travels only as state, never as instructions. Domain and register
   fall back below calibrated confidence thresholds (`src/lib/server/jev.ts`).
   With no key, or on any Jev error, the reading still works on the fallback.
+- **Spend ceiling**: every Jev call reserves its worst-case cost first and is
+  refused past $10/month or $1/day (`src/lib/server/budget.ts`); over budget,
+  readings fall back instead of failing.
 - **Text** is assembled from `content/`: 78 cards × 2 orientations × 6 domains
   × 6 registers × 3 variants, plus openings, position lead-ins, and closings.
   `content/STYLE.md` is the authoring guide; `npm run lint:content` enforces it.
