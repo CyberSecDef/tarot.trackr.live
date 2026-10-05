@@ -14,7 +14,8 @@
 # build/ is self-contained (no runtime dependencies); PM2 is the only thing
 # the server needs installed.
 #
-# Settings come from .env.local (gitignored):
+# Settings come from .env.local or .env (both gitignored). DH_USER and
+# DH_PASS work as short names for the DREAMHOST_ ones:
 #
 #   DREAMHOST_USER=dh_xxxxxx
 #   DREAMHOST_PASS=...              # only used by --install-key
@@ -46,11 +47,20 @@ done
 
 die() { echo "error: $*" >&2; exit 1; }
 
-[[ -f .env.local ]] || die ".env.local not found. See the header of this script."
+[[ -f .env.local || -f .env ]] || die "no .env.local or .env. See the header of this script."
+# Sourced rather than parsed so a password with $ or quotes in it survives.
+# .env.local wins over .env when both set the same name.
+set -a
 # shellcheck disable=SC1091
-set -a; source .env.local; set +a
+[[ -f .env ]] && source .env
+# shellcheck disable=SC1091
+[[ -f .env.local ]] && source .env.local
+set +a
+# Short aliases are accepted too.
+DREAMHOST_USER="${DREAMHOST_USER:-${DH_USER:-}}"
+DREAMHOST_PASS="${DREAMHOST_PASS:-${DH_PASS:-}}"
 
-: "${DREAMHOST_USER:?DREAMHOST_USER is not set in .env.local}"
+: "${DREAMHOST_USER:?DREAMHOST_USER (or DH_USER) is not set in .env.local or .env}"
 HOST="${DREAMHOST_HOST:-$DEFAULT_HOST}"
 PORT="${TAROT_PORT:-8010}"
 TARGET="${DREAMHOST_USER}@${HOST}"
@@ -61,12 +71,12 @@ remote() { "${SSH[@]}" "bash -lc $(printf '%q' "$1")"; }
 # ------------------------------------------------------------- one-time: key
 
 if [[ $INSTALL_KEY -eq 1 ]]; then
-	: "${DREAMHOST_PASS:?DREAMHOST_PASS is not set in .env.local}"
+	: "${DREAMHOST_PASS:?DREAMHOST_PASS (or DH_PASS) is not set in .env.local or .env}"
 	[[ -f "${SSH_KEY}.pub" ]] || die "no public key at ${SSH_KEY}.pub"
 	command -v sshpass >/dev/null || die "sshpass is not installed"
 	SSHPASS="$DREAMHOST_PASS" sshpass -e \
 		ssh-copy-id -i "${SSH_KEY}.pub" -o StrictHostKeyChecking=accept-new "$TARGET"
-	"${SSH[@]}" true && echo "Key auth works. You can delete DREAMHOST_PASS from .env.local now."
+	"${SSH[@]}" true && echo "Key auth works. You can delete DREAMHOST_PASS (or DH_PASS) from .env now."
 	exit 0
 fi
 
@@ -127,7 +137,16 @@ fi
 
 # Start or reload with the new build, then save so `pm2 resurrect` at boot
 # brings back this exact process list.
-remote "cd ${APP} && TAROT_PORT=${PORT} pm2 startOrReload ecosystem.config.cjs --update-env && pm2 save"
+OVERRIDES="TAROT_PORT=${PORT}"
+[[ -n "${TAROT_HOST:-}" ]] && OVERRIDES+=" TAROT_HOST=${TAROT_HOST}"
+[[ -n "${TAROT_TRUSTED_PROXIES:-}" ]] && OVERRIDES+=" TAROT_TRUSTED_PROXIES=${TAROT_TRUSTED_PROXIES}"
+remote "cd ${APP} && ${OVERRIDES} pm2 startOrReload ecosystem.config.cjs --update-env && pm2 save"
+# The app port is on a public IP; confirm it refuses anyone but the proxy.
+DIRECT="$(curl -sS -o /dev/null -w '%{http_code}' --max-time 10 "http://${DOMAIN}:${PORT}/" 2>/dev/null || echo 000)"
+case "$DIRECT" in
+404 | 000) ;;
+*) echo "warning: http://${DOMAIN}:${PORT}/ answered ${DIRECT} directly; the proxy guard is not working" >&2 ;;
+esac
 
 URL="https://${DOMAIN}/"
 for _ in 1 2 3 4 5; do

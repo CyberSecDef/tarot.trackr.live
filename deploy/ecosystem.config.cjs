@@ -20,11 +20,15 @@ module.exports = {
 			exec_mode: 'fork',
 			env: {
 				NODE_ENV: 'production',
-				// Bound to localhost; DreamHost's proxy is the only way in.
-				HOST: '127.0.0.1',
+				// DreamHost's proxy connects to the site's public IP (not localhost),
+				// so listen there. src/hooks.server.ts then refuses any socket that
+				// isn't the proxy itself, so the open port can't be used directly.
+				HOST: process.env.TAROT_HOST || '208.97.156.39',
+				TRUSTED_PROXIES:
+					process.env.TAROT_TRUSTED_PROXIES || '208.97.156.39,208.97.156.55,127.0.0.1,::1',
 				PORT: process.env.TAROT_PORT || '8010',
 				ORIGIN: 'https://tarot.trackr.live',
-				// Behind the proxy every request arrives from 127.0.0.1; the real
+				// Behind the proxy every request arrives from the proxy's address; the real
 				// client is the last X-Forwarded-For hop (used for rate limiting).
 				ADDRESS_HEADER: 'X-Forwarded-For',
 				XFF_DEPTH: '1',

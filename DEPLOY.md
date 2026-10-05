@@ -2,7 +2,7 @@
 
 The site is a Node server (SvelteKit `adapter-node`) on the trackr VPS
 (`vps30818.dreamhostps.com`, Node 24), kept running by **PM2**. It listens on
-`127.0.0.1:8010`, and DreamHost's proxy maps `https://tarot.trackr.live` to it.
+`208.97.156.39:8010`, and DreamHost's proxy maps `https://tarot.trackr.live` to it.
 The build happens here; `build/` has no runtime dependencies, so PM2 is the
 only thing the server needs.
 
@@ -70,9 +70,20 @@ touch it. Node reads it through `--env-file`, so it never appears in PM2's
 saved state or in `pm2 show`. To rotate the key, edit that file and run
 `pm2 restart tarot`.
 
+**Why the app listens on the public IP.** DreamHost's proxy connects to the
+site's IP (`208.97.156.39`), not to `localhost`; with the app on `127.0.0.1`
+the site returns 503 (the domain's `~/logs/tarot.trackr.live/https/error.log`
+shows `attempt to connect to 208.97.156.39:8010 ... failed`). Listening there
+also exposes port 8010 to the internet, so `src/hooks.server.ts` checks the
+TCP peer of every connection against `TRUSTED_PROXIES` and answers 404 to
+anything that isn't the proxy. It checks the socket, not a header, so it
+can't be spoofed. Each deploy confirms `http://tarot.trackr.live:8010/` is
+refused. If DreamHost ever moves the site's IP, set `TAROT_HOST` and
+`TAROT_TRUSTED_PROXIES` in `.env.local` and redeploy.
+
 The ecosystem file sets `ADDRESS_HEADER=X-Forwarded-For` and `XFF_DEPTH=1`:
-behind the proxy every request arrives from `127.0.0.1`, so without them the
-10-per-minute rate limit would be shared by every visitor.
+every request arrives from the proxy, so without them the 10-per-minute rate
+limit would be shared by every visitor.
 
 ## Jev spend ceiling
 

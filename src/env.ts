@@ -56,6 +56,11 @@ export const variables = defineEnvVars({
 		description: 'Directory for runtime state (the Jev spend ledger). Must survive deploys.',
 		schema: optional('data')
 	},
+	TRUSTED_PROXIES: {
+		description:
+			'Comma-separated socket addresses allowed to connect (the reverse proxy). Empty allows everyone.',
+		schema: optional('')
+	},
 	READING_RATE_LIMIT: {
 		description: 'Readings allowed per client IP per minute.',
 		schema: positiveInt('READING_RATE_LIMIT', 10)
