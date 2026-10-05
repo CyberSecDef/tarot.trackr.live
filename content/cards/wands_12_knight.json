@@ -1,0 +1,412 @@
+{
+	"id": "wands_12_knight",
+	"name": "Knight of Wands",
+	"facets": [
+		{
+			"id": "bold_action",
+			"keywords": ["bold action", "a leap into motion", "decisive momentum"]
+		},
+		{
+			"id": "adventure",
+			"keywords": ["adventure", "a restless urge to go", "the call of the open road"]
+		},
+		{
+			"id": "passion",
+			"keywords": ["passion", "a fiery pursuit", "headlong desire"]
+		},
+		{
+			"id": "fearless_energy",
+			"keywords": ["fearless energy", "a burst of courage", "daring"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are nervous about making a move, {keyword} suggests the waiting may be harder than the doing. Pick one clear, kind thing to say and say it, then let the answer be theirs.",
+					"{keyword} can make love feel fast and loud. You are allowed to match it at your own speed; one small thing you control is how often you check your phone today.",
+					"When feelings run hot and you can't tell where they lead, {keyword} asks you to steady your feet first. Take a slow breath before you reply to anything that matters."
+				],
+				"curious": [
+					"{keyword} brings a spark that wants to go somewhere. What would a truly spontaneous evening with someone you like look like?",
+					"What if {keyword} is less about who you chase and more about how alive you feel in the chasing? That is worth noticing honestly.",
+					"{keyword} hints at romance with a bit of motion in it: a trip, a dare, a shared risk. Which adventure would you most like to share with someone?"
+				],
+				"grieving": [
+					"{keyword} may feel jarring while your heart is heavy. You don't have to keep up with anyone's pace; stillness is allowed here.",
+					"If grief has a restless edge, {keyword} might look like a long walk or a drive with the windows down. Moving can sometimes hold feelings that words can't.",
+					"When love has been lost, {keyword} may return one day as an urge to go somewhere new. It doesn't have to be today, and it doesn't erase what you miss."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about initiative. In your relationships, who usually makes the first move, and are you content with that balance?",
+					"Take {keyword} as a prompt to act on something you keep talking about with a partner or friend, like the trip that never gets booked.",
+					"No signs needed: {keyword} works well for starting things and less well for sustaining them. Which does your love life need more right now?"
+				],
+				"hopeful": [
+					"{keyword} is a lively energy for love. If you are hoping for connection, it encourages you to show up, ask, and be seen trying.",
+					"If there is someone you are drawn to, {keyword} suggests that courage could be more attractive than a perfect line. The outcome is still theirs to choose.",
+					"{keyword} invites you to bring more play and heat into an existing bond. A small surprise can say a lot."
+				],
+				"neutral": [
+					"In love, {keyword} points to attraction, initiative and a relationship with plenty of energy, sometimes more spark than steadiness.",
+					"{keyword} speaks of pursuing what you want openly and with enthusiasm, ideally while staying aware of the other person's pace.",
+					"{keyword} highlights excitement and movement in your relationships, along with the question of where all that energy is headed."
+				]
+			},
+			"career": {
+				"anxious": [
+					"When work feels shaky, {keyword} reminds you that you can still move. Choose one stalled task and push it forward by a single step today.",
+					"{keyword} may make it seem like everyone else is racing ahead. You don't have to sprint; one thing in your control is the next email you send.",
+					"If change at work is coming fast, {keyword} invites you to ride it rather than brace against it. Write down what you would want if you could choose."
+				],
+				"curious": [
+					"{keyword} asks where you would go with your work if speed and courage were the only requirements. Which part of that answer could you test?",
+					"What might {keyword} unlock if you pitched the idea instead of polishing it again? Sometimes the first draft is the one that gets things moving.",
+					"{keyword} hints at a role with travel, change or risk in it. Does that excite you, or does it simply sound exciting? The difference matters."
+				],
+				"grieving": [
+					"If you are grieving a job or a colleague, {keyword} may feel like other people's energy, not yours. It is fine to let them carry the pace for a while.",
+					"{keyword} might show up as a sudden urge to quit, move or start over. Grief can make leaving feel like relief; let that urge sit for a little before acting on it.",
+					"When work has carried loss, {keyword} may come back slowly, perhaps as one day where you feel like trying. Notice it without demanding more."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about taking initiative. Is there a decision at work you have been researching long after you had enough information to act?",
+					"Treat {keyword} as a question about pace: are you moving quickly because it helps, or because slowing down feels uncomfortable?",
+					"There is nothing mystical here: {keyword} gets projects started. Pair it with someone who finishes well, and the work tends to go further."
+				],
+				"hopeful": [
+					"{keyword} is a strong energy for career moves. If you are hoping for change, it encourages you to apply, pitch or ask rather than wait to be noticed.",
+					"If you are hoping to make progress, {keyword} suggests momentum may build once you take the first visible step. Keep your footing as it picks up.",
+					"{keyword} invites you to go after the opportunity that slightly scares you. It may or may not land, and either way you have moved."
+				],
+				"neutral": [
+					"At work, {keyword} points to fast movement, new ventures, travel and a strong drive to make things happen.",
+					"{keyword} speaks of initiative and enthusiasm, with a reminder that energy works best when it has a direction.",
+					"{keyword} highlights a period of action at work: launching, pitching, relocating or simply refusing to stand still."
+				]
+			},
+			"money": {
+				"anxious": [
+					"When money feels uncertain, {keyword} can be harnessed in a small way. Take one concrete action today, like setting up a payment you keep forgetting.",
+					"{keyword} may tempt you to fix everything at once. One thing in your control: pick a single money task and finish it before starting another.",
+					"If you are worried, {keyword} invites movement rather than rumination. A short walk, then ten focused minutes with your budget, can do more than an hour of fretting."
+				],
+				"curious": [
+					"{keyword} asks what you would do with money if you were a little braver. A new venture, a trip, an investment in a skill?",
+					"What could {keyword} create if you gave it a small, protected pot of money to play with? Setting the limit first keeps it fun.",
+					"{keyword} hints at quick opportunities. Which ones make you excited, and which make you want to look more closely before leaping?"
+				],
+				"grieving": [
+					"Money tasks after a loss can be draining, and {keyword} may feel far away. Doing one necessary thing is enough for now.",
+					"{keyword} might arrive as an urge to spend, travel or change everything. In grief, it is gentle to let big decisions wait a little.",
+					"If you feel {keyword} returning, perhaps in planning a small trip in someone's memory, you can let it be a quiet tribute."
+				],
+				"skeptical": [
+					"Read practically, {keyword} with money is about speed. Fast decisions can catch opportunities, and they can also skip the fine print. Which way do you lean?",
+					"Take {keyword} as a prompt to act on a financial task you have delayed, like comparing rates or asking about a raise.",
+					"No mystery needed: {keyword} is useful for starting and risky for big commitments. Separate the two before you spend."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging energy for a new venture. If you are hoping for growth, it suggests moving forward while keeping some reserves.",
+					"If you are hoping to improve your situation, {keyword} invites you to make the call, send the invoice or ask the question this week.",
+					"{keyword} suggests momentum is possible. Let it carry you forward, and check your footing every so often."
+				],
+				"neutral": [
+					"With money, {keyword} points to quick moves, ventures in motion, and a willingness to take some risk.",
+					"{keyword} speaks of energy and initiative around resources, best balanced with a pause before big commitments.",
+					"{keyword} highlights financial activity: travel costs, new projects, or opportunities that require you to act."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels restless or tense, {keyword} may be asking for movement. A brisk walk around the block is one small thing you can choose today.",
+					"{keyword} can tip into rushing. One thing in your control: slow down one meal today, and notice how that feels.",
+					"When stress is buzzing, {keyword} invites you to burn some of it off gently, then rest. Both halves count."
+				],
+				"curious": [
+					"{keyword} asks what kind of movement makes you feel most alive. Running, dancing, swimming, climbing? Which haven't you tried in years?",
+					"What would {keyword} look like as a weekend plan? A hike somewhere new could be both adventure and care.",
+					"{keyword} hints that your energy wants an outlet. Where does it go when you sit still too long?"
+				],
+				"grieving": [
+					"Grief can make the body heavy, and {keyword} may feel impossible right now. Rest is a valid choice, not a lack of effort.",
+					"If grief feels restless, {keyword} might look like walking until your thoughts quiet a little. There is no distance you need to reach.",
+					"{keyword} may return slowly. A short outing, a breath of fresh air, a few stretches: each one is enough on its own."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to physical energy and how you spend it. Are you moving enough, or perhaps pushing too hard without rest?",
+					"Treat {keyword} as a prompt to try a new activity for a few weeks. Novelty often makes movement easier to keep up.",
+					"No mysticism needed: {keyword} works best paired with downtime. When did you last take a proper rest day?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to put energy into feeling well. If you are hoping for more vitality, start with something lively that you enjoy.",
+					"If you are hoping to feel stronger, {keyword} suggests a bold but sensible goal, like a walk you have always wanted to do.",
+					"{keyword} is an uplifting energy for self-care. Let it get you moving, and let rest keep you going."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to physical vigour, movement, and the need to give your energy somewhere to go.",
+					"{keyword} speaks of vitality and drive, with a reminder that even a strong fire needs pacing to keep burning.",
+					"{keyword} highlights the body's appetite for activity and adventure, and asks whether your days give that appetite anywhere to go."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsettled, {keyword} reminds you that faith can be active. Do one kind thing today without thinking about it too much.",
+					"{keyword} suggests you can move through doubt rather than solving it first. One small step: a walk with no destination, paying attention as you go.",
+					"When questions feel overwhelming, {keyword} invites you to take one courageous, simple action aligned with your values."
+				],
+				"curious": [
+					"{keyword} asks where your spirit wants to travel. Is there a place, practice or question you feel pulled toward?",
+					"What might {keyword} reveal if you treated your spiritual life as an expedition rather than a routine?",
+					"{keyword} hints at a pilgrimage of some kind, outward or inward. Where would yours begin?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel distant or even unwelcome. It is okay to sit still and let your spirit rest for as long as it needs.",
+					"If restlessness is part of your grief, {keyword} might one day look like a journey to a place that meant something to you both. Only when you are ready.",
+					"{keyword} may arrive later as a wish to honour someone through something you do. For now, gentleness with yourself is enough."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about acting on what you believe. Is there a value you hold that you haven't put into practice lately?",
+					"Treat {keyword} as a prompt to try something unfamiliar, like a retreat, a class or a long solo walk, and observe what you notice.",
+					"No mystical claims: {keyword} simply asks whether your inner life has gone stale. What would shake it up a little?"
+				],
+				"hopeful": [
+					"{keyword} is a lively energy for inner growth. If you are hoping for renewal, it encourages you to explore boldly rather than wait to feel ready.",
+					"If you are hoping for clarity, {keyword} suggests that moving forward may teach you more than waiting for a sign.",
+					"{keyword} invites you to follow the thing that inspires you, even if you can't yet explain where it leads."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to seeking, movement and acting on inspiration rather than waiting for certainty.",
+					"{keyword} speaks of a fiery, searching spirit that learns by doing and by going.",
+					"{keyword} highlights courage in exploring meaning and belief, including the willingness to change your mind."
+				]
+			},
+			"general": {
+				"anxious": [
+					"When life feels uncertain, {keyword} reminds you that action can steady you. Choose one thing you have been putting off and start it today.",
+					"{keyword} might make everything feel fast. You can set your own pace; one thing in your control is what you say yes to this week.",
+					"If you are bracing for change, {keyword} invites you to meet it with movement rather than freezing. Take a single step, then pause."
+				],
+				"curious": [
+					"{keyword} opens an exciting question: if you could set off on any adventure right now, where would you go?",
+					"What might {keyword} stir up if you said yes to the next unexpected invitation?",
+					"{keyword} hints that life wants a bit more motion. Where could you add some spontaneity this month?"
+				],
+				"grieving": [
+					"{keyword} may feel out of step with your grief, as if the world is moving too fast. You don't have to keep up with it.",
+					"If grief makes you restless, {keyword} might look like getting outside and walking. Movement can hold what words cannot.",
+					"{keyword} may return someday as an urge to try something new. It doesn't need to be today, and it won't mean you have forgotten."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about action and initiative. Is there a decision you have analysed enough and simply need to make?",
+					"Treat {keyword} as a prompt to check your pace. Are you moving quickly because it helps, or because stillness feels uncomfortable?",
+					"No mysticism needed: {keyword} is useful for getting things started. What needs a push right now?"
+				],
+				"hopeful": [
+					"{keyword} is a strong, encouraging energy. If you are hoping for change, it suggests taking the leap you have been considering.",
+					"If you are hoping for something new, {keyword} encourages you to go after it with enthusiasm, while staying honest about the risks.",
+					"{keyword} invites you to bring courage and energy to your hopes. Nobody can promise the outcome, but the attempt is yours to make."
+				],
+				"neutral": [
+					"In general, {keyword} points to action, adventure and a strong drive to move forward.",
+					"{keyword} speaks of passion and momentum, best paired with a sense of where you actually want to go.",
+					"{keyword} highlights a season of energy, travel or change, when standing still may feel harder than moving."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} has turned into hot-and-cold signals, try not to read the silence as a final answer. One thing you can do: ask one direct, gentle question instead of guessing.",
+					"{keyword} may feel like too much too fast, or like it has stalled overnight. Either way, you are allowed to pause and check in with yourself before you reply.",
+					"When love feels unpredictable, it can help to put {keyword} down for an evening. Cook something, call a friend, and let your nervous system settle before deciding anything."
+				],
+				"curious": [
+					"Maybe {keyword} burns brightest during the chase. What happens to your interest once someone actually says yes?",
+					"What is holding back {keyword} in love right now? It could be fear of commitment, or fear of being the one who wants more.",
+					"{keyword} could be spread across too many possibilities at once. What might you discover if you gave one connection your full attention?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may vanish completely, or show up as a restless need to fill the empty space. Both are human, and neither needs judging.",
+					"If {keyword} has gone quiet since someone left, there is nothing to rekindle on a schedule. Grief is allowed to set the pace.",
+					"{keyword} might tug at you to leap into something new just to stop the ache. It is kind to notice that pull and give yourself a little time first."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often looks like rushing in and rushing out. Is there a pattern in how your relationships start and end?",
+					"Take {keyword} as a prompt to check your expectations. Are you hoping things will move faster than two real people reasonably can?",
+					"No mystery here: {keyword} without follow-through leaves people unsure where they stand. Where would a steadier, clearer signal help?"
+				],
+				"hopeful": [
+					"{keyword} may be on pause rather than gone. If you are hoping for spark, patience and a plain conversation may do more than a grand gesture.",
+					"If you are hoping things will move forward, {keyword} encourages you to say what you want in words rather than in sudden moves.",
+					"{keyword} might simply need a slower rhythm to last. Hope is reasonable here, as long as you let the other person set some of the pace."
+				],
+				"neutral": [
+					"In love, {keyword} reversed can point to impatience, mixed signals, or passion that flares and fades before it deepens.",
+					"{keyword} appears either stalled or overdone: energy that can't find an outlet, or a rush that leaves little room for knowing each other.",
+					"{keyword} may be turning inward, asking you to understand what really drives your pursuit of closeness."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} at work has turned into frustration, name one specific thing you can move forward today and let that be your win.",
+					"{keyword} may feel held up by delays outside your control. One thing you can do: tidy the loose ends so you are ready when things start moving.",
+					"When {keyword} becomes rushing, small mistakes creep in and feed the worry. Slow down on one important task and give it your full attention."
+				],
+				"curious": [
+					"Perhaps {keyword} is scattered across too many projects to get anywhere. What happens if you quietly drop one?",
+					"What is blocking {keyword} at work? It might be unclear direction, or waiting for permission you don't actually need.",
+					"{keyword} could be turning inward. Is there a quieter, self-directed project that would satisfy your drive better than the loud one?"
+				],
+				"grieving": [
+					"If grief has drained {keyword} from your working life, it is all right to do only what is necessary for a while.",
+					"{keyword} might show up as an urge to walk out and leave everything behind. Big exits made in grief deserve a little more time than usual.",
+					"When work feels hollow after a loss, {keyword} may be postponed. There is no deadline for feeling driven again."
+				],
+				"skeptical": [
+					"Plainly, {keyword} reversed can mean projects started with a bang and quietly abandoned. Is there one worth finishing or formally closing?",
+					"Treat {keyword} as a check on pace. Are you pushing harder than the situation needs, and what is that costing you?",
+					"There is nothing mystical here: {keyword} without a plan often turns into wasted effort. What would a one-page plan look like?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping for progress, this pause is a useful time to prepare the ground.",
+					"If you are hoping to regain momentum, {keyword} encourages a run of small, visible wins rather than one dramatic leap.",
+					"{keyword} might simply need focus to catch again. Hope is fair, especially if you pick one direction and stay with it."
+				],
+				"neutral": [
+					"At work, {keyword} reversed can point to delays, frustration, haste, or energy scattered across too many fronts.",
+					"{keyword} appears blocked or overdone, asking you to balance speed with direction.",
+					"{keyword} suggests looking honestly at what is stalling your progress, or what is pushing you to move too fast."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} has led to rash spending, you can look at it without shame. Pick one recent purchase and simply notice what was going on when you made it.",
+					"{keyword} may feel frozen by money worries. One thing in your control: write a short plan for the next seven days, nothing longer.",
+					"When {keyword} turns into frantic activity, moving money around without a plan, slow down. One clear step beats five rushed ones."
+				],
+				"curious": [
+					"Maybe {keyword} has you eyeing quick wins. Which of those would still look good after a week of thinking it over?",
+					"What is holding back {keyword} with money? Fear of risk, or perhaps not knowing what you are actually aiming for?",
+					"{keyword} could be turning inward. What would you want money to make possible if you weren't in such a hurry?"
+				],
+				"grieving": [
+					"Money decisions after a loss can feel strangely urgent, and {keyword} may push you to act fast. It is kind to wait where you can.",
+					"{keyword} may feel completely absent while you are grieving. Letting someone you trust help with the paperwork is not a failure.",
+					"If {keyword} returns as an urge to escape, a small, affordable outing may be gentler on you than a big financial change."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often looks like impulse spending or ventures launched before the research was done.",
+					"Treat {keyword} as a prompt to count the cost of impatience. Have hurried decisions cost you more than careful ones lately?",
+					"No mystery: {keyword} without follow-through can quietly drain resources. Which half-started money plan needs finishing or ending?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping for financial progress, a slower plan may get you there with less stress.",
+					"If you are hoping for growth, {keyword} encourages you to let one opportunity prove itself before chasing the next.",
+					"{keyword} might simply need grounding. Hope is reasonable, especially with a clear limit on what you are willing to risk."
+				],
+				"neutral": [
+					"With money, {keyword} reversed can point to rash decisions, stalled plans, or frustration that things aren't moving.",
+					"{keyword} appears blocked or overdone, asking for focus, patience and a second look before committing.",
+					"{keyword} suggests examining whether speed is helping or hurting your finances."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} has turned into restlessness or tension, try one calming thing tonight: a warm shower, dim lights, a phone left in another room.",
+					"{keyword} may feel stuck under stress, energy with nowhere to go. One small thing you can do is step outside for five minutes and move a little.",
+					"When your energy feels jittery, {keyword} can wait. Rest is a real choice, not a failure to keep up."
+				],
+				"curious": [
+					"Perhaps {keyword} has you pushing your body harder than it wants to go. Where could you ease off and still feel good?",
+					"What is dampening {keyword} lately? Sleep, stress or plain routine might each be worth a curious look.",
+					"{keyword} could be turning inward. What does your body seem to be asking for this week: movement, stillness, or something in between?"
+				],
+				"grieving": [
+					"Grief can make the body heavy, and {keyword} may be nowhere to be found. Rest and warmth come first.",
+					"If {keyword} shows up as restlessness in grief, a slow walk with no destination might hold some of it.",
+					"{keyword} doesn't need to return on any timetable. Small comforts, like a hot drink or a familiar blanket, are enough today."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can look like going all out, then crashing. Is there a boom-and-bust pattern in how you use your energy?",
+					"Treat {keyword} as a prompt to check whether rest days exist in your week at all.",
+					"No mysticism needed: {keyword} that keeps stalling may simply need a smaller, more realistic goal."
+				],
+				"hopeful": [
+					"{keyword} may be paused while you build steadier energy. That pause can make whatever comes next more sustainable.",
+					"If you are hoping to feel more vital, {keyword} encourages steady effort over bursts. Little and often tends to last longer.",
+					"{keyword} could return in a calmer form. Hope is reasonable, especially if you let your body set the pace."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} reversed can point to restlessness, overexertion, or drive that has run low.",
+					"{keyword} appears blocked or overdone, either bottled up or burned too fast.",
+					"{keyword} suggests balancing your energy with real rest."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} in your inner life feels stuck, there is nothing to force. Sit quietly for one minute and simply notice what is here.",
+					"{keyword} may be blocked by fear of getting it wrong. There is no right speed for a spiritual life; you can go at yours.",
+					"When restless searching makes you more anxious, {keyword} can rest. Choose one familiar practice and let it hold you for a while."
+				],
+				"curious": [
+					"Perhaps {keyword} is rushing you from one teaching to the next. What might you find if you slowed down and stayed with one?",
+					"What is holding back {keyword} on your inner journey? Old beliefs, fear of change, or simply tiredness?",
+					"{keyword} could be turning inward. Is there a question you keep running past instead of sitting with?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel unreachable, and practices that once helped may feel empty. That is all right.",
+					"If {keyword} returns as a restless search for answers about loss, be gentle with yourself. Some questions are meant to be carried, not solved.",
+					"{keyword} can be set down for now. Simply being with your sorrow is enough of a practice today."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can mean chasing new experiences without letting any of them change you. What has actually stuck?",
+					"Treat {keyword} as a prompt to check whether novelty is standing in for depth in your reflective life.",
+					"No mystical claim here: {keyword} stalling may just reflect a crowded season. What could you realistically make room for?"
+				],
+				"hopeful": [
+					"{keyword} may be gathering quietly beneath the surface. If you are hoping for renewal, keep one small practice going.",
+					"If you are hoping to feel inspired again, {keyword} encourages patience. Inspiration often returns through ordinary days.",
+					"{keyword} might be waiting for a steadier moment. Hope is fair; let it arrive rather than chasing it."
+				],
+				"neutral": [
+					"Spiritually, {keyword} reversed can point to restless seeking, impatience, or a fire that has dimmed for now.",
+					"{keyword} appears blocked or overdone, asking for stillness as much as action.",
+					"{keyword} suggests exploring what is holding your inner life back, or rushing it forward."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} has stalled, that doesn't mean you are stuck for good. One small step: finish one short task today, just to feel some movement.",
+					"{keyword} may feel tangled with worry, so you rush or freeze. Choose the smallest possible action and let that be enough.",
+					"When restlessness takes over, {keyword} can pause. A short walk and a glass of water are good places to start."
+				],
+				"curious": [
+					"Perhaps {keyword} is pulling you in several directions at once. Which one actually matters to you?",
+					"What is holding back {keyword} right now? Fatigue, fear, or simply not knowing where to aim?",
+					"{keyword} could be turning inward. What would you go after if you weren't worried about how it looked?"
+				],
+				"grieving": [
+					"In grief, {keyword} may be absent, and that is natural. You don't need to go looking for it.",
+					"If {keyword} flickers as an urge to run, let it pass through without acting on it straight away.",
+					"{keyword} can wait. Moving slowly through these days is its own kind of strength."
+				],
+				"skeptical": [
+					"Plainly, {keyword} reversed often looks like haste or frustration. Where are you trying to force a result?",
+					"Treat {keyword} as a prompt to check impatience. Is the delay really a problem, or just uncomfortable?",
+					"No mystery here: {keyword} without direction burns energy without getting anywhere. What would focus look like this week?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than gone. If you are hoping for change, use this lull to get clear on what you want.",
+					"If you are hoping to move forward, {keyword} encourages steady steps over sudden leaps.",
+					"{keyword} might simply need time to find its direction. Hope is reasonable, paired with a little patience."
+				],
+				"neutral": [
+					"In general, {keyword} reversed points to delays, haste, frustration or scattered energy.",
+					"{keyword} appears blocked or impatient, asking you to aim your energy before you spend it.",
+					"{keyword} suggests looking at what is driving you, and whether it is taking you where you want to go."
+				]
+			}
+		}
+	}
+}

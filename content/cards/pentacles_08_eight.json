@@ -1,0 +1,412 @@
+{
+	"id": "pentacles_08_eight",
+	"name": "Eight of Pentacles",
+	"facets": [
+		{
+			"id": "craftsmanship",
+			"keywords": ["craftsmanship", "careful work", "attention to detail"]
+		},
+		{
+			"id": "apprenticeship",
+			"keywords": ["learning a craft", "an apprenticeship", "practice that sharpens a skill"]
+		},
+		{
+			"id": "diligence",
+			"keywords": ["diligence", "steady focus", "an honest day's work"]
+		},
+		{
+			"id": "mastery",
+			"keywords": ["growing mastery", "quiet expertise", "a skill honed over time"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are worried about a relationship, {keyword} suggests treating it like something you can get better at, not something you either have or don't. Pick one small habit of care to practise this week.",
+					"{keyword} reminds you that love is partly a skill. One thing in your control today: listen to someone close to you without planning your reply.",
+					"When love feels uncertain, {keyword} invites you to focus on the next small, well-made gesture rather than the whole future. Do one thoughtful thing, and do it properly."
+				],
+				"curious": [
+					"{keyword} asks a playful question about love: what relationship skill are you secretly quite good at, and which one are you still learning?",
+					"What if {keyword} were how you thought about intimacy? Every couple and every friendship has its own craft, built up over many small repetitions.",
+					"{keyword} hints that the details matter. What tiny thing does someone you love do that shows they have been paying attention?"
+				],
+				"grieving": [
+					"When you are missing someone, {keyword} may show up in the things they taught you, a recipe, a way of folding the laundry, a phrase. Those skills carry them with you.",
+					"{keyword} can be a quiet place to rest your hands while your heart is heavy. Simple, careful tasks sometimes help grief move a little.",
+					"Grief does not need to be done well, and {keyword} does not ask you to be good at it. Let the small routines of care be enough for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a reminder that healthy relationships take effort and practice. Which skill would help most right now: listening, repair after arguments, or saying what you need?",
+					"Read {keyword} as a plain prompt: do you put as much care into your closest relationships as you do into your work? Many people don't, without meaning to.",
+					"No mystery is needed: {keyword} points to consistency. Small, reliable acts of attention tend to build trust more than occasional big gestures."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign for love. If you are hoping something will deepen, steady attention to the small things is often how it happens.",
+					"If you are hoping to meet someone, {keyword} suggests putting energy into what you love doing. People are often drawn to someone absorbed in their craft.",
+					"{keyword} invites a grounded kind of hope: love that grows through effort and attention, a little better each week."
+				],
+				"neutral": [
+					"In love, {keyword} speaks of effort, attentiveness and the practice of caring for someone well over time.",
+					"{keyword} points to a relationship being worked on with patience and skill. It asks how much attention your closest bonds are receiving.",
+					"{keyword} brings the focus to the craft of relationships: the small, repeated actions that make people feel known."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels overwhelming, {keyword} suggests narrowing your focus to one task and doing it well. Choose the piece of work in front of you and give it your full attention.",
+					"{keyword} reminds you that skill is built one session at a time. One thing in your control today: spend twenty minutes practising something you want to be better at.",
+					"When you doubt yourself at work, {keyword} invites you to look at what you can already do. List three skills you have now that you did not have a few years ago."
+				],
+				"curious": [
+					"{keyword} asks a lively question: what kind of work makes you lose track of time? That absorption can be a clue to your real craft.",
+					"What if {keyword} were the whole point for a while, getting better at something without worrying about where it leads? Notice what you would choose to master.",
+					"{keyword} hints at apprenticeship. Who could you learn from, and what would you ask them if you had an hour of their time?"
+				],
+				"grieving": [
+					"If you are mourning a job, a mentor or a colleague, {keyword} may be one of the things they left you. The skills you built there are still yours.",
+					"{keyword} can offer something steady to do with your hands while grief is loud. Simple, careful work is allowed to be a refuge.",
+					"When work holds grief, {keyword} does not need to be impressive. Doing the basics carefully, and no more, is enough for now."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is about deliberate practice. Skills improve fastest with focused repetition and feedback. Where could you get honest feedback this month?",
+					"Treat {keyword} as a prompt: is your work getting better, or just getting done? Both have their place, but only one builds a career.",
+					"Plainly put, {keyword} points to the value of doing a job properly. Which task have you been rushing that would benefit from more care?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign at work. If you are hoping to advance, steady improvement in your craft is often noticed, even when it feels invisible.",
+					"If you are hoping for a new direction, {keyword} suggests learning a skill that excites you. Small, regular practice can open more doors than you expect.",
+					"{keyword} invites you to take pride in your growing ability. Hope is reasonable here, rooted in the work you are actually doing."
+				],
+				"neutral": [
+					"At work, {keyword} points to skill-building, dedication and the satisfaction of doing something well.",
+					"{keyword} speaks of focused effort, apprenticeship and quality. It asks how much care you are bringing to your work.",
+					"{keyword} highlights the craft side of a career: practice, detail and the slow growth of ability."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money is a worry, {keyword} suggests focusing on what your skills and effort can steadily bring in. One small step: write down one skill you have that others value.",
+					"{keyword} reminds you that financial steadiness is often built through regular, careful habits. One thing in your control today: look over one statement slowly and properly.",
+					"When finances feel shaky, {keyword} invites you to pay close attention to small details. Calmly checking the numbers can feel steadier than avoiding them."
+				],
+				"curious": [
+					"{keyword} raises an interesting question: what are you paid for, and what could you be paid for if your skills kept growing?",
+					"What if {keyword} were how you approached money this month? Treat your budget like a craft to practise, not a test to pass.",
+					"{keyword} hints at the link between skill and value. Which of your abilities do you undervalue, perhaps because they come easily to you?"
+				],
+				"grieving": [
+					"Money can feel heavy after a loss, and {keyword} may simply mean taking one practical task at a time, slowly and carefully.",
+					"{keyword} may touch on what someone built through years of work. You don't need to decide anything about it right now.",
+					"If a loss has changed your circumstances, {keyword} gently suggests doing only the next necessary thing. Careful and slow is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to look at your earning skills. Is there a qualification, practice or habit that would make your work more valuable over time?",
+					"Treat {keyword} as a reminder that small financial details add up. Fees, subscriptions and small leaks are worth an hour of careful attention.",
+					"No mystery here: {keyword} points to diligence. Regular, careful tracking of money tends to bring more ease than occasional big efforts."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image for money. If you are hoping for more security, the effort you put into your skills may slowly be reflected in your income.",
+					"If things are improving, {keyword} invites you to keep the habits that got you here. Steady attention tends to protect progress.",
+					"{keyword} suggests that your work has real value. Hope for financial growth is reasonable when it is built on practice and care."
+				],
+				"neutral": [
+					"Around money, {keyword} points to earning through skill, diligent habits and steady attention to financial detail.",
+					"{keyword} speaks of income built through craft and effort. It asks how carefully you tend your resources.",
+					"{keyword} highlights the connection between the quality of your work and the stability of your finances."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} suggests focusing on one small habit you can do well. One thing you can do today: give a single meal or walk your full attention.",
+					"{keyword} reminds you that care is a skill you can practise. Choose one simple routine for this week and keep it gently.",
+					"When stress is high, {keyword} invites you to bring careful attention to something small, like making tea or tidying a shelf. Steady hands can steady a busy mind."
+				],
+				"curious": [
+					"{keyword} poses an interesting question: what does your body enjoy learning? A new movement, a new recipe, a new way of resting?",
+					"What might {keyword} look like as self-care? Treating rest, food and movement as skills to refine rather than rules to obey.",
+					"{keyword} hints that focus itself can be restoring. Which absorbing activity leaves you feeling clearer afterwards?"
+				],
+				"grieving": [
+					"Grief lives in the body, and {keyword} may simply mean doing one small task carefully, then resting. That is enough.",
+					"{keyword} may look like the familiar routines that hold you up on hard days. Keep the ones that help and let the others go for now.",
+					"When you are carrying loss, {keyword} does not need to be about improvement. Gentle repetition can be comforting without being productive."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to consistency in habits. Small routines practised well tend to make more difference than ambitious plans.",
+					"{keyword} is a plain prompt to look at how you care for yourself. Do you give it the same attention you give your work?",
+					"No mystical reading needed: {keyword} asks whether your daily habits are deliberate or accidental. Pick one to look at closely."
+				],
+				"hopeful": [
+					"{keyword} encourages you to keep building gentle habits. Energy often responds to steady care given with attention.",
+					"If you are hoping to feel stronger, {keyword} suggests learning more about what your body responds to well. That knowledge builds over time.",
+					"{keyword} invites you to take quiet pride in caring for yourself well. Hope grows with practice."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to steady habits, attentive self-care and the satisfaction of doing simple things well.",
+					"{keyword} highlights how practice and focus shape the way you feel day to day.",
+					"{keyword} suggests paying careful attention to your routines and the small details of looking after yourself."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsteady, {keyword} offers a simple anchor: a practice done carefully, even for a few minutes. Choose one and return to it today.",
+					"{keyword} reminds you that inner growth is often built through ordinary repetition. Light a candle, take a walk, sit for five minutes. Small is enough.",
+					"When you feel spiritually lost, {keyword} invites you to focus on what is in front of you. Doing one thing with full attention can be a kind of prayer."
+				],
+				"curious": [
+					"{keyword} asks an intriguing question: what would it mean to treat your inner life as a craft, something you practise and refine?",
+					"What if {keyword} were a spiritual path in itself? Many traditions honour work done with care as a form of devotion.",
+					"{keyword} hints at learning from someone further along. Who do you admire for the way they live out what they believe?"
+				],
+				"grieving": [
+					"{keyword} may feel distant in grief. If any practice still feels steady, let it hold you; if none do, simply resting is enough.",
+					"When you have lost someone, {keyword} can be a way of carrying their example forward, doing something the way they would have done it.",
+					"{keyword} does not ask you to grow through your loss. It only notes that familiar, careful routines can be a quiet place to rest."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about practice. Whatever you believe, reflection and attention are skills that improve with repetition.",
+					"Treat {keyword} as a prompt: is there a value you hold that you rarely practise? Doing beats believing when it comes to change.",
+					"No mystical claim is needed here. {keyword} simply asks how much attention you bring to ordinary moments."
+				],
+				"hopeful": [
+					"{keyword} encourages you to keep showing up to your practice. Inner growth tends to deepen quietly, through steady attention.",
+					"If you are hoping for deeper meaning, {keyword} suggests that it may come through doing, not only thinking.",
+					"{keyword} invites a patient kind of hope, the kind that trusts repeated, careful effort without demanding quick results."
+				],
+				"neutral": [
+					"On the inner path, {keyword} points to disciplined practice, mindful work and the slow refinement of the self.",
+					"{keyword} speaks of devotion through effort and attention. It asks how you practise what you value.",
+					"{keyword} highlights the spiritual side of craft: patience, humility and care in the details."
+				]
+			},
+			"general": {
+				"anxious": [
+					"Whatever is worrying you, {keyword} suggests focusing on the task directly in front of you. Do that one thing carefully and let the rest wait until tomorrow.",
+					"{keyword} reminds you that you have built real skills over time. One small step in your control: name one thing you are better at now than a year ago.",
+					"When life feels uncertain, {keyword} invites you to find steadiness in careful, ordinary work. Steady hands can calm a restless mind."
+				],
+				"curious": [
+					"{keyword} opens a playful question: if you could become truly good at one new thing this year, what would you choose?",
+					"What if {keyword} were the theme of your month? Notice which tasks make you lose track of time, and what that says about you.",
+					"{keyword} hints at the pleasure of practice. Where in your life do you enjoy getting a little better each time?"
+				],
+				"grieving": [
+					"{keyword} may feel far away while you grieve. Simple, familiar tasks can be a refuge, and doing less is also allowed.",
+					"When you are carrying loss, {keyword} can be a way of keeping your hands busy and your mind quiet. Take what comfort you can from it.",
+					"{keyword} can honour what others taught you. The skills you learned from people you love stay with you."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to look at where you put focused effort. Is it in the things that matter most to you?",
+					"Treat {keyword} as a check-in: are you improving at something, or just repeating it? Growth usually needs a little deliberate stretch.",
+					"No mystery here: {keyword} is about effort and practice. Pick one skill that would make life easier and spend a little time on it each day."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image. If you are hoping for progress, steady effort and growing skill are often how it comes.",
+					"If things are going well, {keyword} invites you to take pride in the work behind it. Your care has made a difference.",
+					"{keyword} suggests hope rooted in practice. Keep showing up, and let your ability grow at its own pace."
+				],
+				"neutral": [
+					"Overall, {keyword} speaks of dedication, skill and focused work. It asks where you are putting your best effort.",
+					"{keyword} points to practice, craft and the steady growth of ability over time.",
+					"{keyword} highlights the value of doing things well and of patient, repeated effort."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} has turned into trying to be the perfect partner or friend, that pressure can be exhausting. One step you can take: let one thing be good enough today.",
+					"{keyword} may be pulling you so deep into work that love gets the leftovers. Choose one evening this week to put the tools down and be fully present.",
+					"When {keyword} feels out of reach in a relationship, it is easy to blame yourself. Name one thing you are doing well, then one small thing to practise."
+				],
+				"curious": [
+					"{keyword} might be pointing at the balance between work and love. Where do your best hours go, and who gets them?",
+					"What if {keyword} reversed is asking whether a relationship has gone on autopilot? It could be fun to try one thing together you have never done.",
+					"{keyword} feels a little off-kilter here. Are you over-polishing how you present yourself in love, rather than letting someone see the rough edges?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible right now, as if you can't concentrate on anything or anyone. That is a normal part of grief, not a failing.",
+					"If you have thrown yourself into work since your loss, {keyword} may be a way of coping. That is understandable; just notice whether you are also getting some rest.",
+					"Grief can make {keyword} feel pointless. You don't have to do anything carefully right now. Showing up imperfectly is still showing up."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance. Long working hours and divided attention tend to wear on relationships quietly. How are your evenings spent?",
+					"{keyword} is a prompt to check for perfectionism. Are you holding yourself or someone else to a standard that leaves no room for ordinary mistakes?",
+					"Read plainly, {keyword} reversed often means routine without attention. When did you last ask someone close to you what they actually need from you now?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping to reconnect, small, practised acts of care can rebuild what busyness has worn down.",
+					"If love has taken a back seat to work, {keyword} encourages you to shift a little time back. Hope is reasonable when it is followed by a change in habit.",
+					"{keyword} could return once the pressure to be perfect eases. Hoping for that is fair, especially if you let yourself be a beginner again."
+				],
+				"neutral": [
+					"In love, {keyword} can point to workaholism crowding out closeness, perfectionism, or a relationship running on routine.",
+					"{keyword} appears blocked or overdone: too much effort in one place and too little in another, or care that has become mechanical.",
+					"{keyword} may be delayed or turned inward, asking you to look at how much real attention your relationships are getting."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} has turned into perfectionism at work, nothing may ever feel finished. One step you control: set a time limit on one task and hand it in when the time is up.",
+					"{keyword} may feel out of reach because you are stretched across too many things. Choose one task to do properly today and let the others wait.",
+					"When {keyword} slips into overwork, anxiety tends to grow. Decide on a firm stopping time for tonight and keep to it."
+				],
+				"curious": [
+					"{keyword} might be stuck in repetition. Are you still learning in your role, or just doing the same thing more efficiently?",
+					"What if {keyword} reversed is asking whether you are polishing the wrong thing? It could be interesting to ask which of your tasks actually matter most to others.",
+					"{keyword} feels a little restless here. Is it boredom, or a sign that you are ready for a harder challenge?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible while you grieve; focus scatters and simple tasks take longer. That is all right. Let others know you need some slack.",
+					"If you have buried yourself in work since your loss, {keyword} may be how you are coping. That is understandable, and it is also fine to stop sometimes.",
+					"Grief can make {keyword} feel meaningless. Your skills are not going anywhere; they can wait while you rest."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance: cutting corners on one side, or endless reworking on the other. Which one describes your last week?",
+					"{keyword} is a prompt to check whether your effort matches the stakes. Not every task deserves your best; some only need to be done.",
+					"Read plainly, {keyword} reversed often means skills that have stopped growing. When did you last learn something new for your work?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping to feel engaged at work again, one new skill or project could reignite it.",
+					"If you have been overworking, {keyword} encourages you to step back. Hope is reasonable here; rest often improves the quality of what you make.",
+					"{keyword} could return with a clearer focus. Hoping for that is fair, especially if you let go of trying to perfect everything at once."
+				],
+				"neutral": [
+					"At work, {keyword} can point to perfectionism, cutting corners, boredom, burnout or skills that have stopped developing.",
+					"{keyword} appears blocked or overdone: overworking, or working without care or direction.",
+					"{keyword} may be delayed at work, asking you to look at whether your effort is well aimed and sustainable."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} with money has slipped, perhaps bills unopened or details avoided, that is common and fixable. One step you control: open one thing today and simply read it.",
+					"{keyword} may feel out of reach when you are stretched thin. Choose one financial task to do carefully this week, and let the rest wait.",
+					"When {keyword} turns into obsessive checking of every penny, worry can grow. Set one regular time to look at your money, and leave it alone in between."
+				],
+				"curious": [
+					"{keyword} raises an interesting question: are you working longer hours for money, or building skills that might earn more over time? Both count, but they feel different.",
+					"What if {keyword} reversed is pointing at undercharging? It could be revealing to look at what others pay for work like yours.",
+					"{keyword} feels a little off here. Is money a craft you avoid practising because it feels dull, or because it feels frightening?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible after a loss; paperwork and details can seem unbearable. It is all right to ask someone to sit with you while you go through them.",
+					"If you are working extra to cope with a loss, {keyword} may be part of the strain. Your worth is not measured by how much you produce.",
+					"{keyword} can wait. Meeting basic needs is enough for now, without perfect records or plans."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to sloppy record-keeping, missed details, or working long hours for too little pay. Which one costs you most?",
+					"{keyword} is a prompt about overwork. Are the extra hours actually improving your finances, or just tiring you out?",
+					"Read plainly, {keyword} reversed often means skills that are not being paid fairly. Is there a conversation about your rate or salary you have been putting off?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping for steadier finances, small, careful habits can rebuild them over time.",
+					"If you have been overworking for money, {keyword} encourages you to look for better value in your effort, not just more of it.",
+					"{keyword} could return once you pick up the details again. Hoping for that is reasonable, especially if you start small."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to carelessness with details, overworking for little return, or skills that are underpaid.",
+					"{keyword} appears blocked or overdone: obsessive control on one side, or avoidance on the other.",
+					"{keyword} may be delayed, asking you to look at whether your effort and care with money are well placed."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} has tipped into overwork, your body may be asking for a break. One thing in your control tonight: stop at a set time and do something with no goal at all.",
+					"{keyword} may have become perfectionism about your habits. Let one routine be imperfect this week and notice that nothing falls apart.",
+					"When {keyword} feels scattered, stress can feel louder. Choose one calm, simple task and do it slowly before anything else."
+				],
+				"curious": [
+					"{keyword} poses a question: are you so focused on getting things right that you have stopped enjoying them? It may be worth noticing.",
+					"What would {keyword} look like if rest were part of the craft? Every skill needs time off to grow.",
+					"{keyword} might be turned inward. Where in your body do you hold the effort of long working days?"
+				],
+				"grieving": [
+					"{keyword} may feel beyond you while you grieve; focus scatters and energy dips. That is part of grief, not a lack of discipline.",
+					"If you have kept yourself busy to avoid feeling, {keyword} may be wearing you down. Rest is allowed, even if feelings come with it.",
+					"{keyword} can wait. Your body is doing important work just carrying you through this time."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means long hours with too little rest. Look at your last week and count the hours you truly switched off.",
+					"{keyword} is a prompt about rigid routines. Is a habit that once helped now adding stress because it has become a rule?",
+					"No mysticism here: {keyword} out of balance usually means overwork or lack of focus. Which way are you leaning right now?"
+				],
+				"hopeful": [
+					"{keyword} may be paused while you rest. Hope is reasonable here; returning to care with a lighter touch can help it last.",
+					"If you are hoping to feel better, {keyword} encourages you to work less hard at it. Gentle, simple routines often go further.",
+					"{keyword} could find a better rhythm, with more rest built in. Hoping for that is fair."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to overwork, perfectionism about habits, or routines kept without real attention.",
+					"{keyword} appears out of balance: too much effort, or too little focus. It asks you to look honestly at both.",
+					"{keyword} suggests checking whether your work and habits are leaving enough room for rest."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} has turned into pressure to do your practice perfectly, set that down today. One small step: do the simplest version, badly, and count it.",
+					"{keyword} may feel out of reach when you are scattered. Try one minute of quiet attention to your breath before anything else.",
+					"When {keyword} feels like a chore, inner life can seem like another task to fail. It isn't. Choose rest over effort today."
+				],
+				"curious": [
+					"{keyword} might have become routine without meaning. What would it be like to approach your practice as a beginner again?",
+					"What if {keyword} reversed is asking whether your work has swallowed your inner life? Where does reflection fit into your week?",
+					"{keyword} feels a little stuck here. Is it time to deepen a practice, or to try a new one?"
+				],
+				"grieving": [
+					"{keyword} may feel empty while you grieve, and focus may be hard to find. That emptiness is not a spiritual failing.",
+					"If you have stopped practising since your loss, {keyword} gently says that is all right. Your practice can wait for you.",
+					"{keyword} can rest for now. Grief asks for presence, not discipline."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed may point to going through the motions. When did a practice last actually change how you felt or acted?",
+					"{keyword} is a prompt about perfectionism. If you judge your inner life by how well you perform it, the judging may be the obstacle.",
+					"Read plainly, {keyword} reversed can mean being too busy to reflect. How much quiet time did you have last week?"
+				],
+				"hopeful": [
+					"{keyword} may be on hold while you rest. The hope here is that you could return with more ease and less striving.",
+					"If you have felt stuck, {keyword} encourages you to learn from someone new. Fresh guidance can bring a practice back to life.",
+					"{keyword} could take a gentler form once you let go of doing it perfectly. Hoping for that is fair."
+				],
+				"neutral": [
+					"On the inner path, {keyword} can point to rote practice, perfectionism, or a busy life that leaves no room for reflection.",
+					"{keyword} appears blocked or overdone: striving too hard, or going through the motions without meaning.",
+					"{keyword} may be delayed or turned inward, inviting you to look at how you practise what you value."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} has turned into perfectionism, nothing may feel done. One step in your control: finish one thing today at good enough, and let it go.",
+					"{keyword} may feel scattered when there is too much on your plate. Choose the most important task and give it twenty focused minutes.",
+					"When {keyword} slips into overwork, worry can grow. Decide on a stopping point today and honour it."
+				],
+				"curious": [
+					"{keyword} feels a little off. Are you bored, burnt out, or simply ready for a new challenge? Each points somewhere different.",
+					"What if {keyword} reversed is asking where your effort actually goes? Trace one day and see what it builds.",
+					"{keyword} might be turned inward. What would you practise if no one was watching and nothing depended on it?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible after a loss, with focus hard to find. That is part of grief; be gentle with yourself.",
+					"If you have kept busy to get through your loss, {keyword} may be wearing thin. Rest is allowed.",
+					"{keyword} can wait. Your skills and habits will still be there when you have the energy for them."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance: cutting corners on one side, overworking on the other. Which describes you lately?",
+					"{keyword} is a prompt to notice stagnation. When did you last learn something genuinely new?",
+					"Read plainly, {keyword} reversed often means effort that is not matched to what matters. Which task gets more care than it needs?"
+				],
+				"hopeful": [
+					"{keyword} may simply be delayed. If you are hoping to feel engaged again, one small new challenge can help.",
+					"If you have been overdoing it, {keyword} encourages you to ease off. Rest can improve the quality of everything else.",
+					"{keyword} could return with a fresh focus. Hope is reasonable here, especially if you let yourself start small."
+				],
+				"neutral": [
+					"Overall, {keyword} can point to perfectionism, burnout, cutting corners, boredom or skills that have stopped growing.",
+					"{keyword} appears blocked or overdone: working too hard, or without enough care or direction.",
+					"{keyword} may be delayed or turned inward, asking you to look at whether your effort is sustainable and well aimed."
+				]
+			}
+		}
+	}
+}

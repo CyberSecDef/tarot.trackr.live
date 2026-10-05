@@ -1,0 +1,412 @@
+{
+	"id": "major_05_hierophant",
+	"name": "The Hierophant",
+	"facets": [
+		{
+			"id": "tradition",
+			"keywords": ["tradition", "an established path", "time-tested wisdom"]
+		},
+		{
+			"id": "mentorship",
+			"keywords": ["a trusted mentor", "wise counsel", "teaching"]
+		},
+		{
+			"id": "belonging",
+			"keywords": ["belonging", "a shared belief", "a community"]
+		},
+		{
+			"id": "commitment",
+			"keywords": ["a formal commitment", "a shared vow", "a rite of passage"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you're unsure where a relationship stands, {keyword} can offer something to lean on. Think of a couple or friendship you admire; what simple habit do they keep that you could try?",
+					"{keyword} in love doesn't demand that you get everything right. It suggests asking for guidance; one honest talk with someone older or wiser than the situation can steady you.",
+					"When worry makes love feel shapeless, {keyword} can give it a frame: a shared ritual, a regular check-in, a word you both agree to keep. Choose one small form to start with."
+				],
+				"curious": [
+					"{keyword} in love invites you to look at the scripts you inherited about relationships. Which ones did your family hand you, and which would you rewrite?",
+					"What would a ritual of your own look like between you and someone you love? {keyword} can be playful as well as solemn.",
+					"{card} holds the keys to old teachings. Where might {keyword} show you something useful about loving well, even if it comes from an unexpected source?"
+				],
+				"grieving": [
+					"After a loss in love, {keyword} may offer a place to put your sorrow: a ceremony, a familiar prayer, a gathering of people who knew them too.",
+					"{keyword} doesn't ask you to grieve in any particular way. It may simply remind you that people have carried losses like this before, and you're not alone in it.",
+					"If familiar customs feel comforting right now, lean on them. If they feel hollow, let {keyword} wait. Both responses are allowed."
+				],
+				"skeptical": [
+					"Plainly, {keyword} in a relationship is about shared expectations. Have you and the other person actually agreed on what commitment means, or only assumed?",
+					"No mysticism here: {keyword} points to the conventions you follow in love. Are they chosen, or simply what everyone around you did?",
+					"Treat {keyword} as a prompt to ask for outside perspective. Who could you talk to who has seen relationships like yours work, and not work?"
+				],
+				"hopeful": [
+					"{keyword} suggests that a relationship may benefit from deeper commitment or shared values. Nothing is promised, but common ground tends to steady a bond.",
+					"If you're hoping for something lasting, {keyword} invites you to build on what you both believe in. Shared values can be a quiet, durable foundation.",
+					"There's encouragement in {keyword}: you don't have to invent love from scratch. Others have walked this way and left good advice behind."
+				],
+				"neutral": [
+					"In love, {keyword} points to commitment, shared values and relationships shaped by tradition or community.",
+					"{keyword} here suggests that a relationship may be moving toward something more formal, or drawing on established ways of loving.",
+					"With {keyword} present, the emphasis falls on what two people believe in together, and the customs that hold them."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can be a steadying presence. If you're unsure what to do, ask someone experienced for one piece of advice, and act on just that.",
+					"{keyword} reminds you that you don't have to figure everything out alone. Is there a process, a guide, a colleague you could lean on this week?",
+					"When your job feels uncertain, return to the basics you were taught. {keyword} often holds more steadiness than a new idea."
+				],
+				"curious": [
+					"{keyword} at work invites you to wonder who your teachers have been, and whom you might teach in turn. What knowledge are you carrying that someone else could use?",
+					"What would you learn by studying the people who mastered your craft before you? {keyword} suggests the old ways may hold surprises.",
+					"{card} asks a curious question: where might {keyword} give your ambitions structure, a qualification, an apprenticeship, a respected path?"
+				],
+				"grieving": [
+					"If loss has followed you into work, {keyword} may offer a quiet comfort: familiar procedures, people who've seen hard times before, a little patience.",
+					"{keyword} doesn't ask you to perform. It may simply mean leaning on the steady structures around you while you grieve.",
+					"There's no need to blaze any trails right now. Let {keyword} carry some of the weight, and do what's in front of you."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work points to learning from established methods before trying to improve them. Do you know why things are done the way they are?",
+					"No mystery: {keyword} suggests finding a mentor. Who in your field has the experience you want, and have you asked them anything?",
+					"Use {keyword} as a check: are you working within an institution's rules willingly, or resentfully? Either is worth knowing."
+				],
+				"hopeful": [
+					"{keyword} suggests that a recognised path, training, certification, a respected role, may serve your hopes. Nothing is guaranteed, but it gives you footing.",
+					"If you're hoping to grow, {keyword} invites you to seek out a teacher. Good guidance can shorten the road considerably.",
+					"There's encouragement here: {keyword} often means joining something larger than yourself. Where would you like to belong professionally?"
+				],
+				"neutral": [
+					"In your career, {keyword} points to established structures, mentorship and learning within a tradition.",
+					"{keyword} here suggests working within institutions, following proven methods, or seeking expert guidance.",
+					"With {keyword} present, conventional paths and shared standards may serve you well."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} can mean returning to sound, simple principles: spend less than comes in, keep a little aside. Choose one and lean on it this week.",
+					"If finances feel frightening, {keyword} suggests asking for guidance. A trusted adviser, a reliable guide, or a friend who's good with money could steady you.",
+					"{keyword} doesn't require you to be clever with money. It asks you to follow tried-and-tested habits, one at a time, without drama."
+				],
+				"curious": [
+					"{keyword} invites you to examine the money beliefs you grew up with. Which ones still serve you, and which would you quietly retire?",
+					"What would the most careful person you know do with your finances? {keyword} suggests borrowing their wisdom for a while.",
+					"{card} values what has stood the test of time. Where in your finances could {keyword} offer a steadier approach than chasing the next new thing?"
+				],
+				"grieving": [
+					"When loss touches your finances, {keyword} may mean relying on established processes and trusted advisers. You don't have to work it all out alone.",
+					"{keyword} can be a quiet support during grief. Familiar routines and steady guidance may help more than big decisions.",
+					"If money tasks feel overwhelming, let {keyword} carry some of the load: ask for help, follow the usual steps, rest when you can."
+				],
+				"skeptical": [
+					"Plainly, {keyword} with money means proven principles: budgeting, saving, avoiding schemes that seem too good. Which have you drifted from?",
+					"No magic here: {keyword} points to getting qualified advice before big decisions. Have you checked your plans with someone knowledgeable?",
+					"Use {keyword} as a practical prompt. Are you following conventional wisdom because it fits, or because you haven't questioned it?"
+				],
+				"hopeful": [
+					"{keyword} suggests that steady, conventional choices could support your financial security. Nothing is promised, but reliable habits help.",
+					"If you're hoping for stability, {keyword} invites you to build on time-tested foundations rather than gambles.",
+					"There's encouragement in {keyword}: good guidance and patient habits often carry people further than shortcuts."
+				],
+				"neutral": [
+					"With money, {keyword} points to conservative choices, sound advice and established financial practices.",
+					"{keyword} here suggests following proven methods and seeking trusted counsel before any large financial step.",
+					"With {keyword} present, tradition and steady principles may guide your resources well."
+				]
+			},
+			"health": {
+				"anxious": [
+					"When you feel unsettled, {keyword} can be a simple, familiar ritual: the same morning walk, the same evening tea. Repetition can feel like a hand on your shoulder.",
+					"{keyword} reminds you that you don't need a new system to feel steadier. Return to one habit that has helped you before, and keep it gently this week.",
+					"If worry has you searching for answers, let {keyword} slow you down. Talk with someone you trust about how you've been feeling, and let that be enough for today."
+				],
+				"curious": [
+					"{keyword} invites you to look at the ways of caring for yourself that you learned growing up. Which ones still feel good, and which could you put down?",
+					"What do the people around you do to rest well? {keyword} suggests borrowing one of their rituals and seeing how it fits.",
+					"Get curious about {keyword} in your routines. Is there an old practice, a stretch, a walk, a quiet hour, worth bringing back?"
+				],
+				"grieving": [
+					"In grief, {keyword} can offer a gentle shape to the days: the familiar meals, the usual walk, people who sit with you without needing words.",
+					"{keyword} doesn't ask you to feel better. It may simply help to know that others have carried something like this, and that rest is part of it.",
+					"If your body feels heavy, lean on the customs that comfort you. Let {keyword} hold you through the slow hours."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about time-tested basics: sleep, food, movement, company. Which of these have you let slip lately?",
+					"No mystique needed: {keyword} points to steady habits rather than new trends. What's the simplest routine that genuinely helps you?",
+					"Use {keyword} as a check: whose advice about your energy do you actually trust, and have you listened to it?"
+				],
+				"hopeful": [
+					"{keyword} suggests that steady, familiar habits may help you feel more balanced. Start with one you already know works.",
+					"There's encouragement in {keyword}: wellbeing often grows through practices shared with others. Is there a group or routine you'd enjoy joining?",
+					"If you're hoping to feel steadier, {keyword} invites you to lean on what has worked before, patiently and kindly."
+				],
+				"neutral": [
+					"For your wellbeing, {keyword} points to steady routines, familiar rituals and sound guidance about rest and care.",
+					"{keyword} here suggests that conventional habits and trusted support may sustain your energy.",
+					"With {keyword} present, the invitation is to return to time-tested ways of looking after yourself."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsteady, {keyword} can be a refuge. A familiar prayer, song or reading may hold you when your own words run out.",
+					"{keyword} doesn't ask you to have every answer. It reminds you that others have asked the same questions, and their words are there to borrow.",
+					"When doubt crowds in, return to something you know: a ritual, a place, a teacher's phrase. Let {keyword} steady you for now."
+				],
+				"curious": [
+					"{keyword} invites you to explore the traditions that shaped you. What do you still find meaningful in them, and what have you outgrown?",
+					"What might you learn by studying a practice that's lasted centuries? {keyword} suggests that old wisdom can feel surprisingly fresh.",
+					"{card} sits between the sacred and the everyday. Where could {keyword} help you bring meaning into ordinary routines?"
+				],
+				"grieving": [
+					"In grief, {keyword} may offer words and rituals when your own feel insufficient. Lean on them if they help.",
+					"{keyword} doesn't explain loss. It may simply hold it, through ceremonies and gatherings that remind you you're not alone.",
+					"If familiar practices comfort you now, let them. If they feel empty, {keyword} can wait until you're ready."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about the frameworks people use to find meaning. Which ones have you tested, and which have you simply accepted?",
+					"No supernatural claim needed: {keyword} points to the value of community and shared practice. Where do you find that, if anywhere?",
+					"Use {keyword} as a prompt to examine a belief you hold. Where did it come from, and does it still hold up for you?"
+				],
+				"hopeful": [
+					"{keyword} suggests that a teacher, community or tradition could support your inner growth. Look for one that feels genuinely welcoming.",
+					"There's encouragement in {keyword}: you don't have to walk a spiritual path alone. Others may be ready to walk alongside you.",
+					"If you're seeking deeper meaning, {keyword} invites you to learn from those who've gone before. Their insights may light your way."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to tradition, teaching and belonging to a shared practice.",
+					"{keyword} here suggests that established wisdom or a trusted guide may support your growth.",
+					"With {keyword} present, ritual, study and community may help deepen your sense of meaning."
+				]
+			},
+			"general": {
+				"anxious": [
+					"When life feels uncertain, {keyword} offers something steady to hold. Ask someone you trust for their view, and let their experience calm you a little.",
+					"{keyword} reminds you that you don't have to invent your way through everything. Familiar routines and proven approaches can carry you today.",
+					"If worry is loud, return to one practice that has always helped, whatever it is. Let {keyword} be the anchor."
+				],
+				"curious": [
+					"{keyword} invites you to look at the rules and customs that shape your life. Which ones did you choose, and which did you inherit?",
+					"What would you learn by asking an elder, mentor or expert for their honest take? {keyword} suggests the conversation may surprise you.",
+					"{card} holds the keys to old knowledge. Where might {keyword} unlock something you've been trying to work out alone?"
+				],
+				"grieving": [
+					"In a season of loss, {keyword} may offer comfort through familiar rituals and people who've been through it before.",
+					"{keyword} doesn't ask you to make sense of anything. It can simply hold you, through customs that have held others.",
+					"If tradition comforts you now, lean on it. If it doesn't, let {keyword} rest until it does."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about learning from what's been tried. Before you reinvent something, what has worked for others?",
+					"No mysticism needed: {keyword} points to guidance and convention. Is there an established way of handling your situation that you've overlooked?",
+					"Use {keyword} as a check: are you following a path because it suits you, or because it's expected?"
+				],
+				"hopeful": [
+					"{keyword} suggests that guidance, community or a proven path may help you toward what you hope for. Nothing is promised, but support helps.",
+					"There's encouragement in {keyword}: you're part of something larger, and others may be ready to help.",
+					"If you're seeking direction, {keyword} invites you to learn from those who've walked this way before."
+				],
+				"neutral": [
+					"Overall, {keyword} points to tradition, guidance and belonging, and to the value of learning from those who came before.",
+					"{keyword} here suggests working within established structures or seeking trusted counsel.",
+					"With {keyword} present, shared values and proven paths may serve you better than going it entirely alone."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If a relationship doesn't fit the shape you were taught to expect, {keyword} may feel more like pressure than comfort. You're allowed to define closeness in a way that suits the two of you.",
+					"{keyword} can weigh heavily when you're worried about what others will think of your choices in love. Notice whose approval you're bracing for, and whether you need it.",
+					"When old expectations make you anxious, you can honour {keyword} and still take one small step toward what feels true: a private agreement, a quiet conversation, a choice made on your own terms."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} in your love life has started to feel like a costume. What would you keep if no one were watching?",
+					"What would a relationship look like if you designed it from scratch, rather than copying what you saw growing up? {keyword} may be ready for a rewrite.",
+					"Get curious about which romantic rules you follow out of habit. Where might {keyword} be worth questioning, gently and together?"
+				],
+				"grieving": [
+					"After a loss, the usual customs may not fit what you feel. If {keyword} rings hollow right now, you can grieve in your own way.",
+					"{keyword} may feel distant or even painful in grief. You don't owe anyone a particular kind of mourning.",
+					"If familiar rituals offer no comfort, that's all right. Let {keyword} rest, and find small private ways to remember instead."
+				],
+				"skeptical": [
+					"Plainly, {card} reversed is a prompt to question {keyword} in your relationships. Are you following a script that never quite fitted you?",
+					"Use {keyword} as a check: is a relationship being held together by obligation or expectation more than by what either of you wants?",
+					"No prophecy here: {keyword} reversed often describes outgrowing an old model of love. Which assumption about partnership have you never examined?"
+				],
+				"hopeful": [
+					"{keyword} may be loosening, giving you room to love in a way that feels more honest. That freedom can be a good foundation.",
+					"If you've felt constrained by expectations, there's hope in writing your own agreements. Let {keyword} become something you choose together.",
+					"There's encouragement in breaking an old pattern. As you question {keyword}, you may find a closeness that fits you better."
+				],
+				"neutral": [
+					"In love, {card} reversed shows {keyword} questioned, resisted, or outgrown, inviting relationships on your own terms.",
+					"{keyword} here may feel restrictive, prompting a less conventional approach to commitment.",
+					"Reversed, the card points to {keyword} being rethought, so that what holds a relationship together is chosen rather than assumed."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} may feel stifling, or you may be worried about stepping outside it. Choose one small way to work that feels more like you, and try it quietly.",
+					"If you're uneasy about breaking with how things are done, remember you can question {keyword} without rejecting everything. Start with one respectful suggestion.",
+					"{keyword} can feel heavy when rules seem to matter more than results. Focus on doing your part well, and note what you'd change later."
+				],
+				"curious": [
+					"Reversed, {card} asks whether {keyword} in your working life has become a cage. What would you try if the usual way weren't required?",
+					"What unconventional path might suit you better than the expected one? {keyword} may be ready to be challenged.",
+					"Get curious about {keyword} at work: which rules do you follow because they're useful, and which because no one has ever questioned them?"
+				],
+				"grieving": [
+					"If loss has made work feel meaningless, {keyword} may seem empty. Do what's needed, and let the bigger questions wait.",
+					"{keyword} can feel irrelevant in grief. You don't need to fit any mould at work right now.",
+					"There's no need to follow the expected path while you're carrying loss. Let {keyword} rest until you're ready to look at it again."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to rules or hierarchies that may not be serving you. Which ones would you change, and why?",
+					"Use {keyword} as a check: are you staying on an established path because it fits, or because leaving feels risky?",
+					"No mysticism required: {card} reversed often describes outgrowing {keyword} or the institution behind it. Is that happening in your career?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to a path more your own. Nothing is guaranteed, but independent work can be deeply satisfying.",
+					"If you've felt boxed in, there's hope in innovation. Let your questioning of {keyword} lead to something fresh.",
+					"There's encouragement in finding your own way. As you rethink {keyword}, you may discover what truly motivates you."
+				],
+				"neutral": [
+					"In your career, {card} reversed shows {keyword} challenged, outgrown, or rigidly enforced.",
+					"{keyword} here may feel limiting, prompting unconventional choices or a quiet search for a different way to work.",
+					"Reversed, the card points to rethinking {keyword} and finding your own approach to work."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} may feel either confining or unreliable. Focus on one sound habit that works for you, regardless of what's conventional.",
+					"If you're worried about doing money differently from your family, {keyword} doesn't have to bind you. Choose one thing you'd like to handle your own way.",
+					"{keyword} can feel like pressure when finances are tight. Let go of what you 'should' do, and look at what you actually can."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} about money still makes sense for you. What would you do if you trusted your own judgement?",
+					"What unconventional approach to resources might suit you better? {keyword} may be worth questioning.",
+					"Get curious about how {keyword} has shaped the money advice you've received. Which parts fit your life, and which don't?"
+				],
+				"grieving": [
+					"When loss affects your finances, {keyword} may not offer the comfort it once did. Do what feels manageable, in your own way.",
+					"{keyword} can feel hollow in grief. Keep things simple and let the bigger decisions wait.",
+					"If the usual financial advice feels irrelevant right now, that's all right. Let {keyword} rest."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to financial rules that may not fit your situation. Which ones have you never questioned?",
+					"Use {keyword} as a check: are you avoiding sound advice because it feels old-fashioned, or following bad advice because it's familiar?",
+					"No magic here: {card} reversed invites you to examine {keyword}. Is it serving your security, or just your comfort?"
+				],
+				"hopeful": [
+					"{keyword} may be loosening, giving you room to build security your own way. That freedom can be empowering.",
+					"If conventional approaches haven't worked, there's hope in trying something new. Let {keyword} inform, not dictate.",
+					"There's encouragement in independent thinking. As you question {keyword}, you may find a better fit."
+				],
+				"neutral": [
+					"With money, {card} reversed shows {keyword} questioned, resisted, or outgrown, as inherited habits stop fitting your actual life.",
+					"{keyword} here may feel limiting, prompting a more personal approach to resources.",
+					"Reversed, the card points to rethinking {keyword} and weighing conventional money wisdom against your own circumstances."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If the usual advice about rest and energy doesn't fit you, {keyword} may feel like pressure rather than help. Notice one thing your own body seems to prefer, and honour that today.",
+					"{keyword} can make you feel you're doing self-care wrong. You aren't. Pick the single habit that actually leaves you calmer, whatever anyone else does.",
+					"When you're worried, it's easy to collect rules from everywhere. Set {keyword} aside for an evening and simply ask: what would feel kind right now?"
+				],
+				"curious": [
+					"Reversed, {card} asks whether {keyword} about looking after yourself still makes sense for the life you have now. What would you keep, and what would you drop?",
+					"What would happen if you experimented with your own rhythm instead of the standard one, a different hour for rest, a different kind of movement? {keyword} may have room to flex.",
+					"Get curious about the habits you keep because someone once told you to. Does {keyword} in your routine still earn its place?"
+				],
+				"grieving": [
+					"In grief, familiar routines may feel strange or empty. If {keyword} offers no comfort, it's all right to set it down for now.",
+					"{keyword} doesn't have to shape how you rest or eat or move while you're carrying loss. Do what feels bearable, in your own way.",
+					"If others' ideas of how you should be coping feel heavy, let them go. {keyword} can wait; your body knows something about what it needs."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here is a prompt to question advice that doesn't fit you. Which rule about rest or energy have you never tested for yourself?",
+					"Use {keyword} as a practical check: are you following a routine because it helps, or because it's what people like you are supposed to do?",
+					"No mystique needed: {card} reversed often points to outgrowing {keyword}. Try noting how you feel after one change this week."
+				],
+				"hopeful": [
+					"{keyword} may be loosening, leaving room for a routine that's genuinely yours. There's hope in finding what suits your own body.",
+					"If conventional approaches have left you tired, there's encouragement in experimenting gently. Let {keyword} be a starting point rather than a rule.",
+					"Listening to yourself is a skill that grows. As you rethink {keyword}, you may find habits that feel more natural to keep."
+				],
+				"neutral": [
+					"For your wellbeing, {card} reversed shows {keyword} questioned or outgrown, inviting a more personal rhythm of care.",
+					"{keyword} here may feel restrictive, so that standard routines no longer fit how your energy actually moves.",
+					"Reversed, the card points to rethinking {keyword} and trusting what your own experience tells you."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If you're questioning what you were taught to believe, {keyword} may feel unsteady ground. Doubt isn't failure; one quiet minute with your own thoughts is enough today.",
+					"{keyword} can stir anxiety when your inner life no longer matches your community's. You don't have to resolve that now; you can hold both for a while.",
+					"When old certainties wobble, ground yourself in something simple and personal, a walk, a breath, a few honest words written down. Let {keyword} wait."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} has become something you perform rather than live. What do you believe when you're alone?",
+					"What would your practice look like if you built it from your own experience? {keyword} may be ready for a personal reinterpretation.",
+					"Get curious about the teachings you've set aside, and the ones you've never questioned. What does {keyword} mean to you now?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel unable to hold what you're carrying. That's all right; your sorrow doesn't have to fit any doctrine.",
+					"{keyword} can feel distant or even hurtful after loss. You're allowed to find comfort elsewhere, or nowhere, for now.",
+					"If the words you were given don't reach your grief, let them rest. {keyword} may return, or something new may take its place."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here is a prompt to examine inherited beliefs. Which ones have you tested against your own experience?",
+					"Use {keyword} as a check: are you staying in a community or practice out of conviction, or out of fear of leaving?",
+					"No supernatural claims required: {card} reversed invites independent thinking about {keyword}. What would you conclude on your own?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to a more personal faith or practice. That kind of searching can be deeply rewarding.",
+					"If you've felt constrained, there's hope in exploring freely. Let {keyword} inform your path rather than fence it in.",
+					"There's encouragement in honest questioning. As you rethink {keyword}, your sense of meaning may grow more truly your own."
+				],
+				"neutral": [
+					"Spiritually, {card} reversed shows {keyword} questioned, outgrown, or held too rigidly.",
+					"{keyword} here may feel confining, inviting a more personal and less conventional path.",
+					"Reversed, the card points to rethinking {keyword} and seeking meaning through your own experience."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you feel you don't fit the expected mould, {keyword} may seem like a weight. You're allowed to take one small step in your own direction today.",
+					"{keyword} can stir worry when you're thinking of breaking from the usual path. You don't have to decide everything at once; just name what you'd like to change.",
+					"When expectations press in from every side, choose one thing that's truly yours to decide. Let {keyword} take a back seat for now."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} in your life still fits who you've become. What would you do differently if you trusted yourself?",
+					"What rule have you never questioned because everyone around you follows it? {keyword} may be ready for a closer look.",
+					"Get curious about where you're conforming and where you're rebelling. Which of those choices is truly about {keyword}, and which is about something else?"
+				],
+				"grieving": [
+					"In grief, familiar customs may not fit what you feel. If {keyword} offers no comfort, you can find your own way through.",
+					"{keyword} can feel hollow right now. You don't have to grieve the way anyone expects.",
+					"If others' advice feels heavy, set it down. Let {keyword} rest until you're ready to look at it again."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here is a prompt to examine the rules you live by. Which ones serve you, and which just persist?",
+					"Use {keyword} as a check: are you avoiding good advice because it's conventional, or following bad advice because it's familiar?",
+					"No mysticism needed: {card} reversed often describes questioning {keyword}. What would you choose if you started from scratch?"
+				],
+				"hopeful": [
+					"{keyword} may be loosening, giving you room to follow a path more your own. That freedom can open real possibilities.",
+					"If you've felt confined, there's hope in thinking independently. Let {keyword} guide without governing.",
+					"There's encouragement in honest questioning. As you rethink {keyword}, you may find what genuinely fits you."
+				],
+				"neutral": [
+					"Overall, {card} reversed shows {keyword} questioned, resisted, or held too rigidly.",
+					"{keyword} here may feel limiting, inviting a more independent approach to choices that others expect you to make their way.",
+					"Reversed, the card points to rethinking {keyword} and trusting your own judgement."
+				]
+			}
+		}
+	}
+}

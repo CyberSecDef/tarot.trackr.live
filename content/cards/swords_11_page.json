@@ -1,0 +1,412 @@
+{
+	"id": "swords_11_page",
+	"name": "Page of Swords",
+	"facets": [
+		{
+			"id": "curiosity",
+			"keywords": ["curiosity", "a curious mind", "a question worth asking"]
+		},
+		{
+			"id": "vigilance",
+			"keywords": ["vigilance", "a watchful eye", "alertness"]
+		},
+		{
+			"id": "new_ideas",
+			"keywords": ["a new idea", "eager learning", "a beginner's mind"]
+		},
+		{
+			"id": "candour",
+			"keywords": ["candour", "a candid word", "an honest voice"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are unsure where you stand with someone, {keyword} invites you to ask rather than guess. One small step: write down the question you most want answered, then decide whether to send it.",
+					"{keyword} can help when love feels uncertain, as long as it stays gentle. Notice what is actually being said to you this week, not only what you fear sits underneath it.",
+					"When worry fills in the gaps, {keyword} offers a steadier approach: gather a little information before drawing conclusions. You are allowed to wait until you know more."
+				],
+				"curious": [
+					"{keyword} brings a lively spark to how you connect. What would you ask the person you care about if you knew they would enjoy the question?",
+					"What if {keyword} were the most attractive thing about you right now? Real interest in how someone thinks can be its own kind of closeness.",
+					"{keyword} hints that conversation is where love is growing. Try a topic you have never discussed together and see where it wanders."
+				],
+				"grieving": [
+					"After a loss, {keyword} may simply look like wondering aloud about the person you miss. The questions that have no answers still deserve room.",
+					"{keyword} need not be sharp while your heart is tender. It may be enough to say one true sentence about how you feel to someone who will listen.",
+					"Grief can make the mind restless, and {keyword} may show up as replaying old conversations. Let them come and go without needing to solve them tonight."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is about communication. Are you asking your partner, friends or family real questions, or assuming you already know the answers?",
+					"Take {keyword} as a prompt to check your information. Is there something in a relationship you have heard secondhand that you could simply ask about directly?",
+					"No mysticism needed: {keyword} points to the habit of noticing. What have you observed in a close relationship lately that you have not yet put into words?"
+				],
+				"hopeful": [
+					"{keyword} suggests a fresh, open way of meeting love. If you are hoping for closeness, genuine interest in the other person tends to invite it more than performance does.",
+					"If you are hoping a relationship can grow, {keyword} encourages you to say what you think, kindly and early. Small honest words often open more doors than big declarations.",
+					"{keyword} brings youthful energy to the heart. Let yourself be interested again, without needing to know yet where it leads."
+				],
+				"neutral": [
+					"In love, {keyword} points to conversation, questions and an eagerness to understand another person. It asks how openly you talk with the people you care about.",
+					"{keyword} speaks to the early, exploratory side of connection: noticing, asking, learning who someone really is.",
+					"{keyword} brings attention to honest communication in your relationships, and to the small courage of saying what you see."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels uncertain, {keyword} suggests gathering facts before bracing for the worst. One thing in your control: ask your manager or a colleague one clear question this week.",
+					"{keyword} can turn worry into something useful. Make a short list of what you actually know about the situation and what you are only guessing.",
+					"When you feel out of your depth at work, {keyword} reminds you that being new to something is allowed. Pick one skill to learn a little more about, and let that be enough for now."
+				],
+				"curious": [
+					"{keyword} asks a playful question about work: what would you study if nobody needed it to be useful? The answer may point toward your next direction.",
+					"What could {keyword} change in your working day? Try asking why something is done the way it is, just once this week, and see what you learn.",
+					"{keyword} hints that a project, course or conversation could open something new. Which topic keeps catching your attention lately?"
+				],
+				"grieving": [
+					"If you are mourning a role or a working life that has ended, {keyword} may feel far away. There is no hurry to be eager about the next thing.",
+					"{keyword} can be quiet in grief: reading a little, asking a friend how they found their way. A small spark of interest counts, and so does none at all for a while.",
+					"When work carries on around a loss, {keyword} might mean telling a colleague plainly that you are not at full strength. That honesty is allowed."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about information and skills. Is there something at work you have avoided learning because it felt beneath you or beyond you?",
+					"Treat {keyword} as a plain prompt: which assumptions about your job have you not checked in a while? A quick conversation could confirm or correct them.",
+					"There is nothing mystical here: {keyword} points to paying attention. People who notice details and ask good questions tend to be trusted with more."
+				],
+				"hopeful": [
+					"{keyword} encourages you to bring fresh energy to your work. If you are hoping for a new opportunity, showing your interest openly is a sensible first move.",
+					"If you are hoping to grow, {keyword} suggests that being a beginner again could be the doorway. Sign up, ask, try; the outcome is not promised, but the learning is real.",
+					"{keyword} brings a bright, alert quality to your ambitions. Share one idea you have been holding back and see who responds."
+				],
+				"neutral": [
+					"At work, {keyword} points to learning, fresh thinking and a quick, attentive mind. It asks where you are still a student in your field.",
+					"{keyword} highlights the early stages of a project or skill, when good questions matter more than finished answers.",
+					"{keyword} suggests paying close attention to communication at work: what is said, what is left out, and what you might say yourself."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money feels worrying, {keyword} invites you to look at the numbers rather than around them. One small step: check a single balance or bill, just to know where it stands.",
+					"{keyword} suggests that information can calm a racing mind. Write down one money question you could get a clear answer to this week.",
+					"When finances feel shaky, {keyword} can help you spot small details, like a subscription you forgot about. Catching one thing is a real step."
+				],
+				"curious": [
+					"{keyword} asks an interesting question about money: what did you learn about it growing up, and do you still agree with it?",
+					"What might {keyword} reveal if you tracked your spending for a single week, just to see? Treat it as an experiment, not a test.",
+					"{keyword} hints that there is something about money you would enjoy understanding better. Which topic have you been meaning to read about?"
+				],
+				"grieving": [
+					"After a loss, money can feel confusing, and {keyword} may only stretch as far as one question at a time. That is plenty.",
+					"{keyword} may look like asking someone you trust to explain an account or paper you have been left to manage. Not knowing yet is understandable.",
+					"If grief has made numbers blur, {keyword} does not ask you to be sharp. It may mean writing down what needs doing and leaving the rest for another day."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is about doing your homework. Before any purchase or agreement, what would you want to know that you have not yet asked?",
+					"{keyword} is a prompt to read the small print. It is unglamorous, but it is often where the real cost hides.",
+					"No mystical reading needed: {keyword} points to learning the basics. Which money term or tool do you use without fully understanding it?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to approach money with interest rather than dread. If you are hoping for more security, learning one new thing about your finances is a good start.",
+					"If you are hoping to improve things, {keyword} suggests fresh information may open options you did not know you had. Ask around; people often share what worked for them.",
+					"{keyword} brings an alert, open mind to your resources. Keep asking; good choices tend to follow good questions, even if the outcome is never certain."
+				],
+				"neutral": [
+					"Around money, {keyword} points to research, learning and keeping track of the details.",
+					"{keyword} speaks to the early stages of understanding your resources: asking, comparing options, noticing patterns.",
+					"{keyword} suggests staying attentive in money matters and saying so when something does not add up."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} invites gentle attention rather than alarm. Notice one thing that helps you feel steadier today, like water, fresh air or a short rest.",
+					"{keyword} can tip into overthinking when you are stressed. One thing in your control: write the worry down, then step away from it for ten minutes.",
+					"When you feel on edge, {keyword} works best in daylight. Questions that loom large at night often look more manageable in the morning."
+				],
+				"curious": [
+					"{keyword} poses a question: what does your energy do across a day? Notice when you feel sharpest and when you fade, without trying to fix anything yet.",
+					"What might {keyword} teach you about rest? Try one new way of winding down this week and see how your body responds.",
+					"{keyword} hints that your mind and body are in conversation. When your thoughts race, where in your body do you feel it?"
+				],
+				"grieving": [
+					"Grief can make the mind restless and the body tired. {keyword} does not have to be busy; it can simply be noticing when you need to sit down.",
+					"{keyword} may feel like too much effort right now. It is fine to let your thoughts slow and your questions wait.",
+					"When you are carrying loss, {keyword} can be very gentle: asking yourself each morning what you need today, and accepting the answer."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to paying attention to habits. Which routine do you run on autopilot that might be worth a second look?",
+					"{keyword} is a plain prompt about mental load. How much information are you taking in each day, and does it leave you alert or frazzled?",
+					"No mysticism here: {keyword} is about observation. Keeping a simple note of sleep and energy for a week often tells you more than guessing."
+				],
+				"hopeful": [
+					"{keyword} encourages a fresh start in how you care for yourself. Trying one new habit with a learner's patience can feel lighter than a big overhaul.",
+					"If you are hoping to feel better, {keyword} suggests staying interested in what helps. Small experiments tend to teach more than strict rules.",
+					"{keyword} brings bright, alert energy. Use it kindly: notice what lifts you and do a little more of it."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to an active mind, attention to detail and a willingness to learn what your body needs.",
+					"{keyword} highlights the link between mental energy and physical energy. It asks whether your mind is getting enough rest.",
+					"{keyword} suggests approaching your habits with fresh attention and honest observation rather than judgement."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsettled, {keyword} invites you to ask your questions out loud rather than carrying them silently. One trusted conversation can ease a lot.",
+					"{keyword} suggests that doubt is not failure; it can be the start of understanding. One small thing: write down the question that troubles you and let it rest on the page.",
+					"When your mind will not settle, {keyword} can be turned toward something simple. Watch your breath for a minute and notice what you find."
+				],
+				"curious": [
+					"{keyword} asks a lovely question: what do you wonder about that you have never said aloud? Inner growth often begins right there.",
+					"What could {keyword} open if you explored a tradition or practice you know little about? Approach it as a guest, eager to learn.",
+					"{keyword} hints that intuition and intellect can work together. Which idea keeps tugging at your sleeve lately?"
+				],
+				"grieving": [
+					"{keyword} may show up in grief as the big questions: where, why, what now. You do not have to answer them to be allowed to ask.",
+					"When loss shakes what you believe, {keyword} can be very honest. It is all right to say that you do not know.",
+					"{keyword} might be as small as reading one passage that once meant something to you, and noticing whether it still does."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about inquiry. Whatever you believe, holding your views up to honest questions keeps them alive rather than rigid.",
+					"{keyword} needn't be mystical. It is a prompt to ask where your beliefs came from, and which ones you have actually examined.",
+					"Treat {keyword} as a thinking tool: what would change your mind about something you care about? Knowing that is its own kind of clarity."
+				],
+				"hopeful": [
+					"{keyword} encourages you to approach your inner life as a learner. If you are hoping for meaning, honest questions are a good way to make room for it.",
+					"If you are hoping to grow, {keyword} suggests a new practice, book or conversation could spark something. Follow the one that interests you most.",
+					"{keyword} brings fresh air to your spiritual life. Let yourself not know yet; beginnings often feel exactly like that."
+				],
+				"neutral": [
+					"In spiritual matters, {keyword} points to questions, study and a mind that wants to understand rather than simply accept.",
+					"{keyword} speaks to the beginning of an inner search, when everything is new and worth looking at closely.",
+					"{keyword} highlights honest inquiry: noticing what you truly believe and saying it, even if only to yourself."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels uncertain, {keyword} invites you to gather information before deciding how worried to be. One small step: name one thing you know for sure today.",
+					"{keyword} can steady you when you aim it at what is right in front of you. Choose one question you can actually answer this week and start there.",
+					"When your mind races ahead, {keyword} suggests slowing down to look at the facts. You do not need to have everything figured out yet."
+				],
+				"curious": [
+					"{keyword} brings a quick, lively energy. What question have you been itching to ask, of yourself or someone else?",
+					"What if {keyword} were your guide this week? Say yes to learning something new, even something small and unexpected.",
+					"{keyword} hints that something is forming in your thinking. Jot it down before it slips away and see what it becomes."
+				],
+				"grieving": [
+					"{keyword} may feel distant while you are grieving. Your mind may need quiet more than questions right now, and that is all right.",
+					"When loss has changed things, {keyword} can be gentle: noticing small details of the day, a bird, a cup of tea, without needing them to mean anything.",
+					"{keyword} might mean saying, simply and honestly, that you are not all right. That is a true thing, and worth speaking."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to check your facts. Is there something you have been assuming that a little research could settle?",
+					"Treat {keyword} as a thinking exercise: what would a newcomer notice about your situation that you have stopped seeing?",
+					"No mysticism needed: {keyword} is about attention. The details you notice now could save you trouble later."
+				],
+				"hopeful": [
+					"{keyword} encourages you to meet what is ahead with an open, alert mind. If you are hoping for something new, staying interested keeps the door open.",
+					"If you are hoping for change, {keyword} suggests the first small step is learning about it. Knowledge never guarantees an outcome, but it widens your choices.",
+					"{keyword} brings bright, youthful energy to your life. Let it lead you toward one fresh experience this month."
+				],
+				"neutral": [
+					"{keyword} points to fresh ideas, quick thinking and a readiness to learn.",
+					"{keyword} highlights communication, observation and the courage to ask questions.",
+					"{keyword} suggests an early stage, where listening and wondering matter more than acting."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} has turned into checking and rechecking someone's messages, it may be feeding the worry rather than easing it. One thing in your control: put the phone away for an hour.",
+					"{keyword} may be stuck behind fear of what you might hear. You can ask one calm question and let the answer be what it is.",
+					"When {keyword} slides into overthinking, love can start to feel like a puzzle you must solve alone. Try saying one feeling aloud instead of analysing it."
+				],
+				"curious": [
+					"{keyword} might be pointing somewhere unhelpful, toward gossip or guessing about someone's private life. What would you learn if you asked them directly instead?",
+					"What if {keyword} has gone quiet in your relationship? It could be worth wondering when you last asked a question you did not already know the answer to.",
+					"{keyword} seems scattered here, darting between possibilities. Which question about love do you actually want answered?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may turn inward as endless replaying of what was said and unsaid. Be gentle with that loop; it is part of missing someone.",
+					"{keyword} may feel blocked right now, as if the words will not come. You can sit in silence with someone and still be in connection.",
+					"If {keyword} has come out as sharp words with people you love while you grieve, that is human. A short, honest apology can be enough when you are ready."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be misfiring. Are you gathering information about a partner or friend from others rather than talking with them?",
+					"{keyword} is a prompt to notice defensiveness. When a hard topic comes up, do you ask questions or start building your case?",
+					"No mysticism needed: {keyword} without follow-through becomes mere talk. Is there a conversation in a relationship that keeps being planned and never happens?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than gone. If you are hoping to reconnect, one sincere question could help it find its feet again.",
+					"If you are hoping for more honesty in love, {keyword} encourages you to go first, gently. Others often follow when someone shows it is safe.",
+					"{keyword} might just need slowing down. Hope fits well here if you choose listening over quick replies."
+				],
+				"neutral": [
+					"In love, {keyword} can point to gossip, hasty words, mixed messages or communication that has gone quiet.",
+					"{keyword} appears blocked or overdone: questions that turn into suspicion, or honesty that lands too sharply.",
+					"{keyword} may be turned inward, asking you to notice whether you say what you think to the people closest to you."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} feels stalled at work, that does not mean you have nothing to offer. One step in your control: prepare one point to raise at your next meeting.",
+					"{keyword} may be tipping into worry about office talk or rumours. Stick to what you know firsthand and let the rest wait.",
+					"When {keyword} turns into overpreparing, it can keep you from acting. Pick one task and finish it before researching anything else."
+				],
+				"curious": [
+					"{keyword} might be scattered across too many interests at once. Which one would you follow if you could only choose one this month?",
+					"What if {keyword} has been held back by fear of looking inexperienced? It could be fun to ask the obvious question and see who is quietly relieved.",
+					"{keyword} seems to be more talk than action at the moment. What small piece of the plan could you actually try this week?"
+				],
+				"grieving": [
+					"{keyword} may feel out of reach while you are grieving, and focus may come and go. Lowering your expectations of yourself for a while is reasonable.",
+					"If work has lost its spark since your loss, {keyword} can wait. Doing the basics is enough for now.",
+					"{keyword} may have turned inward, into thoughts you cannot share at work. Finding one person outside work to talk with may ease that."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be undercut by gossip or unverified information. Before acting on what you have heard, check the source.",
+					"{keyword} is a prompt about follow-through. How many suggestions have you raised at work and never developed further?",
+					"Read plainly, {keyword} may be coming across as defensiveness. When feedback arrives, do you ask questions or argue the point?"
+				],
+				"hopeful": [
+					"{keyword} may be in an early, unsteady stage. If you are hoping to make your mark, give your thinking a little more preparation before you share it.",
+					"If you are hoping for progress, {keyword} encourages you to turn talk into one concrete step. Momentum often starts small.",
+					"{keyword} could be waiting for the right moment rather than lost. Keep learning quietly; it may serve you well when a chance comes, though nothing is guaranteed."
+				],
+				"neutral": [
+					"At work, {keyword} can point to scattered focus, unverified information, or plans that never get past the talking stage.",
+					"{keyword} appears delayed or overdone: questions that stall progress, or words spoken before they were thought through.",
+					"{keyword} may be held inward, suggesting concerns or suggestions you have not yet voiced at work."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} has turned into constant checking of balances, it may be adding stress rather than clarity. Choose one set time this week to look, and rest outside it.",
+					"{keyword} may be blocked by avoidance, the envelope left unopened. One small step: open just one and read it through.",
+					"When {keyword} gets lost in conflicting advice, it helps to narrow things down. Pick one trustworthy source and set the rest aside."
+				],
+				"curious": [
+					"{keyword} might be chasing too many tips and trends at once. Which single approach to money actually fits your life?",
+					"What if {keyword} has been quietly switched off around money? It could be interesting to ask why that subject feels harder than others.",
+					"{keyword} seems to be more talk than plan. What would one small, real change look like?"
+				],
+				"grieving": [
+					"{keyword} may be hard to find while you are grieving, and paperwork can feel impossible. Asking for help with one task is a reasonable choice.",
+					"If {keyword} keeps slipping away when you look at numbers, be patient with yourself. Grief takes up a lot of room in the mind.",
+					"{keyword} can wait for a while. Mark what is urgent, and let the rest sit until you have more energy."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be undermined by rumour or hype. Before acting on a money tip, ask who benefits from you believing it.",
+					"{keyword} is a prompt about avoidance. Is there a financial question you keep not asking because you suspect the answer may be unwelcome?",
+					"No mysticism needed: {keyword} that never turns into a plan stays a wish. Which money intention needs a date attached to it?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than missing. If you are hoping for stability, a little steady learning could rebuild your confidence.",
+					"If you are hoping to feel more in control, {keyword} encourages you to ask the question you have been putting off. Answers are often easier to face than doubt.",
+					"{keyword} could come back sharper once the noise settles. Hope is reasonable if you keep to sources you trust."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to avoidance, unreliable advice, or plans that stay as talk.",
+					"{keyword} appears scattered or stalled, asking whether you are well informed or simply overloaded.",
+					"{keyword} may be turned inward, suggesting money questions you have not yet put into words."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} has turned into searching online late at night, it may be feeding worry. One thing in your control: close the screen and do something calming with your hands.",
+					"{keyword} may be stuck on a loop of what-ifs. Name one thing that feels fine in your body right now, even something small.",
+					"When {keyword} runs too fast, rest can feel impossible. Try a few slow breaths before deciding what, if anything, needs attention."
+				],
+				"curious": [
+					"{keyword} might be jumping from one new habit to the next. Which one actually left you feeling good?",
+					"What if {keyword} has been switched off where your body is concerned? It might be interesting to notice how you feel after an ordinary day, without judging.",
+					"{keyword} seems restless here. How does a racing mind show up in your shoulders, your sleep or your appetite?"
+				],
+				"grieving": [
+					"{keyword} may feel foggy while you are grieving. Forgetting things and losing focus can be part of carrying a loss; be patient with yourself.",
+					"If {keyword} has gone quiet, that may be your mind asking for rest. You do not need to be sharp to be doing well enough.",
+					"{keyword} can wait. For now, simple care, like water, food and a little air, can be enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be overloaded. Constant news and notifications tend to scatter attention and tire you out; how much do you take in each day?",
+					"{keyword} is a prompt about information overload. Too many conflicting wellbeing tips can stall you more than they help.",
+					"No mysticism here: {keyword} that never settles can affect sleep. What do you usually do in the hour before bed?"
+				],
+				"hopeful": [
+					"{keyword} may be gathering itself rather than gone. If you are hoping for more energy, a calmer mind is a good place to start.",
+					"If you are hoping to feel steadier, {keyword} encourages fewer inputs and more rest. A quieter week might help.",
+					"{keyword} could return clearer once you slow down. Hope is reasonable if you give yourself time."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to a scattered or restless mind, overthinking, or too much information to process.",
+					"{keyword} appears overactive or stalled, asking whether your mental energy is being spent where you want it.",
+					"{keyword} may be turned inward, suggesting thoughts about your body you have not yet shared with anyone."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} has turned into restless doubt, it may help to pause the search for a while. One small step: sit quietly for a few minutes without trying to figure anything out.",
+					"{keyword} may be caught between too many voices and teachings. Return to one simple practice that has felt steady before.",
+					"When {keyword} feels blocked, it is not a sign that something is wrong with you. Questions sometimes need to rest before they open."
+				],
+				"curious": [
+					"{keyword} might be skimming the surface of many paths. Which one would you like to stay with long enough to go deeper?",
+					"What if {keyword} has been held back by worry about what others might think? It could be freeing to explore in private for a while.",
+					"{keyword} seems more about collecting teachings than living them. What would it be like to practise just one?"
+				],
+				"grieving": [
+					"{keyword} may have gone silent since your loss. You do not need to find meaning yet; it is all right simply to be sad.",
+					"If {keyword} keeps circling the same unanswerable question, let it circle. Grief has its own pace.",
+					"{keyword} may feel closed off right now. A familiar ritual, done without expectation, can be enough company."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be turning into argument for its own sake. Are you questioning to understand, or to win?",
+					"{keyword} is a prompt about sources. Where do your ideas about meaning come from, and have you checked them recently?",
+					"Read plainly, {keyword} may be stalled by too much reading and too little reflection. What do you think, apart from what you have read?"
+				],
+				"hopeful": [
+					"{keyword} may be in a quiet phase rather than lost. If you are hoping for renewal, patience with your own pace could help.",
+					"If you are hoping to feel connected again, {keyword} encourages one honest question to yourself each day. Small attention can rebuild trust.",
+					"{keyword} could return when the noise settles. Hope fits here, alongside a little stillness."
+				],
+				"neutral": [
+					"In spiritual matters, {keyword} can point to scattered seeking, doubt without direction, or teachings collected but not practised.",
+					"{keyword} appears blocked or overdone: questioning that hardens into cynicism, or a search that never pauses.",
+					"{keyword} may be turned inward, asking you to sit with questions rather than chase answers."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} has become overthinking, it may be time to step back from the facts for a moment. One thing in your control: take a short walk and let your thoughts settle.",
+					"{keyword} may be stuck on worst cases. Name one thing that is going fine, then one thing you can do today.",
+					"When {keyword} feels blocked, you are not failing. Sometimes the answer comes once the mind has rested."
+				],
+				"curious": [
+					"{keyword} might be spread too thin across many interests. Which one actually lights you up?",
+					"What if {keyword} has been muted by fear of looking foolish? It might be playful to ask one silly question this week.",
+					"{keyword} seems stuck at the talking stage. What would happen if you tried the plan instead of describing it?"
+				],
+				"grieving": [
+					"{keyword} may have gone quiet since your loss. It is all right if your mind is slower and words come less easily.",
+					"If {keyword} keeps replaying old conversations, let it be. Those words mattered, and missing them makes sense.",
+					"{keyword} can wait. For now, you are allowed simply to get through the day."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be undermined by rumour or half-information. What do you actually know firsthand?",
+					"{keyword} is a prompt about follow-through. Is there a plan you keep talking about but never testing?",
+					"Read plainly, {keyword} may be coming out as defensiveness. When challenged, do you listen or argue?"
+				],
+				"hopeful": [
+					"{keyword} may be on hold rather than gone. If you are hoping for a fresh start, rest and patience can prepare the ground.",
+					"If you are hoping for change, {keyword} encourages you to turn one plan into one small action. That is how talk becomes something more.",
+					"{keyword} could return clearer once the noise quiets down. Hope is reasonable here, without needing a date."
+				],
+				"neutral": [
+					"{keyword} can point to scattered thinking, gossip, hasty words or thoughts that stay unspoken.",
+					"{keyword} appears delayed or overdone, asking whether your mind is restless or simply in need of rest.",
+					"{keyword} may be turned inward, suggesting thoughts you have not yet found the words for."
+				]
+			}
+		}
+	}
+}

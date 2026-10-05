@@ -1,0 +1,412 @@
+{
+	"id": "wands_11_page",
+	"name": "Page of Wands",
+	"facets": [
+		{
+			"id": "enthusiasm",
+			"keywords": ["enthusiasm", "a fresh spark of excitement", "eager energy"]
+		},
+		{
+			"id": "exploration",
+			"keywords": ["exploration", "a curious first step", "the urge to explore"]
+		},
+		{
+			"id": "creative_spark",
+			"keywords": ["a creative spark", "a new idea", "an idea worth trying"]
+		},
+		{
+			"id": "free_spirit",
+			"keywords": ["a free-spirited streak", "playful boldness", "a beginner's daring"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"Even with worry in the room, {keyword} is still yours to bring to love. You don't have to know where it leads; send one light, friendly message and let that be enough for today.",
+					"{keyword} suggests you can meet someone with curiosity instead of a plan for every outcome. Notice one thing about them you genuinely want to know more about.",
+					"If you are bracing for rejection, {keyword} invites a smaller step: say the warm thing you were holding back, then let it be what it is."
+				],
+				"curious": [
+					"{keyword} is the part of you that flirts with life itself. What would happen if you treated the next conversation with someone you like as an experiment rather than a test?",
+					"What does {keyword} want from love right now? Maybe a new kind of date, a new kind of person, or simply a new way of saying what you feel.",
+					"{keyword} hints that attraction may be most alive where things are still unknown. Which connection makes you feel like a beginner in the best sense?"
+				],
+				"grieving": [
+					"{keyword} may feel very far from where your heart is today, and that is all right. It can stay quietly in the background until you have room for it.",
+					"After a loss in love, {keyword} might arrive in small, unexpected moments, like laughing at something before you remember. You don't need to feel guilty about those flickers.",
+					"There is no hurry to rediscover {keyword}. For now, letting someone kind keep you company is its own gentle beginning."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about approach: are you coming to relationships with interest, or mostly with a list of things to avoid? That difference often shapes how they go.",
+					"Take {keyword} as a prompt to try one new thing together, or alone. Novelty is a well-known way to keep connection from going stale.",
+					"No signs required: {keyword} asks whether you have let caution do all the talking in love lately. What would a slightly bolder version of you say?"
+				],
+				"hopeful": [
+					"{keyword} is a lovely thing to carry into your hopes for love. Let it show; openness tends to be attractive, even if it doesn't decide how things turn out.",
+					"If you are hoping for something new, {keyword} encourages you to say yes to the invitation that feels a little outside your usual pattern.",
+					"{keyword} suggests a fresh chapter could start with play rather than pressure. Keep it light, keep it honest, and see what grows."
+				],
+				"neutral": [
+					"In love, {keyword} points to the early, bright stage of interest: flirtation, discovery, and the pleasure of not yet knowing.",
+					"{keyword} speaks of bringing curiosity and warmth to the people you care about, as if meeting them a little anew.",
+					"{keyword} highlights a youthful, open-hearted approach to connection, one that values excitement and honesty over certainty."
+				]
+			},
+			"career": {
+				"anxious": [
+					"When work feels uncertain, {keyword} can be a quiet resource. Pick one task that genuinely interests you and give it twenty undistracted minutes.",
+					"{keyword} suggests you don't need the whole career mapped out to take a step. Write down one skill you would enjoy learning, just to see it on paper.",
+					"If you feel behind, {keyword} reminds you that being new at something is a normal stage, not a failure. Ask one question you have been too embarrassed to ask."
+				],
+				"curious": [
+					"{keyword} asks what at work makes you lose track of time. That pull may point toward a project, a skill or a role worth looking into.",
+					"What could {keyword} turn into if you gave it a small budget of time each week? A side project often starts as nothing more than a playful afternoon.",
+					"{keyword} hints at a fresh direction. Who could you talk to this month who does the thing you keep wondering about?"
+				],
+				"grieving": [
+					"If you have lost a job or a working world you loved, {keyword} may feel out of reach. It doesn't have to return on any schedule.",
+					"{keyword} can be very small right now: a moment of interest in an article, a half-formed thought about later. Those are enough to notice.",
+					"When work has carried grief, {keyword} need not mean starting over yet. It may simply mean letting yourself remember what once excited you, without pressure."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a nudge toward learning. Is there a course, a skill or a stretch assignment you keep putting off because it feels too beginner?",
+					"Treat {keyword} as a question about motivation: which parts of your work do you still find interesting? That answer is useful data for your next move.",
+					"Nothing mystical here: {keyword} points to trying something early and cheaply before committing. What is the smallest test you could run on that idea?"
+				],
+				"hopeful": [
+					"{keyword} is a good energy to bring into a new role or project. Let people see your interest; it often opens doors that skill alone does not.",
+					"If you are hoping to grow at work, {keyword} encourages you to volunteer for the thing nobody has tried yet. Being early can be its own advantage.",
+					"{keyword} suggests the start of something with promise. Keep feeding it with small actions, and stay honest about what it still needs."
+				],
+				"neutral": [
+					"At work, {keyword} points to new beginnings, learning, and an eagerness to try things before you are an expert.",
+					"{keyword} speaks of an apprentice's energy: curious, willing, and open to feedback as you find your way.",
+					"{keyword} highlights a fresh idea or direction at work that is still in its early, exploratory stage."
+				]
+			},
+			"money": {
+				"anxious": [
+					"When money feels tight, {keyword} can still have a place. Choose one small, low-cost way to learn something about your finances this week, like checking a single statement.",
+					"{keyword} suggests curiosity can replace dread for a moment. Look at one number you have been avoiding, simply to know it.",
+					"If money worries are loud, {keyword} invites a modest experiment rather than a big leap. What is one small idea you could try without risking much?"
+				],
+				"curious": [
+					"{keyword} asks what you could create, sell or share that you have never thought of as valuable. Make a quick list just for fun.",
+					"What would {keyword} look like with money? Perhaps a new way to track spending, a skill that pays, or a question you finally ask someone who knows.",
+					"{keyword} hints at fresh possibilities around income. Which idea makes you a little excited when you imagine it working?"
+				],
+				"grieving": [
+					"Money matters after a loss can feel heavy and unfamiliar. {keyword} need not show up yet; it is enough to handle one piece of paperwork at a time.",
+					"{keyword} may feel inappropriate while you are grieving, and you don't have to force it. The practical tasks can be done slowly, with help.",
+					"If there is a small part of you curious about what comes next, {keyword} lets that be okay. It does not take anything away from what you have lost."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is about learning before spending. What could you find out about an opportunity before you put real money into it?",
+					"Take {keyword} as a prompt: is there an income idea you have dismissed too quickly? Testing it small costs little and teaches a lot.",
+					"No mystery needed: {keyword} with money works best paired with a limit. Decide in advance how much time or cash you are willing to experiment with."
+				],
+				"hopeful": [
+					"{keyword} is a hopeful sign for new ventures. Let it fuel research and small trials, so your excitement and your budget can grow together.",
+					"If you are hoping for more financial room, {keyword} encourages you to explore a skill or idea that others might pay for.",
+					"{keyword} suggests a promising start. Keep it grounded with a simple plan, and enjoy the early momentum without betting everything on it."
+				],
+				"neutral": [
+					"With money, {keyword} points to new ideas for earning, early-stage plans, and a willingness to learn as you go.",
+					"{keyword} speaks of exploring options and opportunities, ideally in small, testable steps.",
+					"{keyword} highlights enthusiasm around resources, which can be an asset when balanced with patience."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a source of worry, {keyword} invites one small, pleasant movement today, like a short walk somewhere you enjoy.",
+					"{keyword} suggests curiosity can soften worry. Notice one thing your body feels good doing, however small, and do a little of it.",
+					"When stress is high, {keyword} might look like trying one new calming habit for a single evening, just to see how it feels."
+				],
+				"curious": [
+					"{keyword} asks what kind of movement or rest feels like play to you. Dancing in the kitchen counts.",
+					"What could {keyword} add to your routine? A new walking route, a new recipe, or a new bedtime ritual might all be worth exploring.",
+					"{keyword} hints that your energy responds to novelty. Which small change would you be excited to try this week?"
+				],
+				"grieving": [
+					"Grief can drain energy, and {keyword} may feel far off. Let rest come first; interest can return in its own time.",
+					"{keyword} might be as simple as stepping outside and noticing the air. You don't need to do more than that today.",
+					"If {keyword} flickers briefly, like wanting to try a new tea or a different walk, let yourself follow it gently, without expectations."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about habits that stick. People often keep routines they enjoy, so what version of movement or rest do you actually like?",
+					"Treat {keyword} as a prompt to experiment. Try one small change for a week and notice, honestly, how your energy responds.",
+					"No mysticism needed: {keyword} works best in small doses. Starting tiny is usually more sustainable than an ambitious overhaul."
+				],
+				"hopeful": [
+					"{keyword} encourages you to approach your wellbeing with fresh interest. Small, enjoyable changes tend to build on themselves.",
+					"If you are hoping to feel more energised, {keyword} suggests beginning with something fun rather than something strict.",
+					"{keyword} is a bright energy to bring to self-care. Let it lead you to one new habit you would genuinely look forward to."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to renewed energy, playful movement, and curiosity about what helps you feel good.",
+					"{keyword} speaks of approaching your body with interest rather than pressure, trying things out and paying attention.",
+					"{keyword} highlights the early stage of a new habit, when enthusiasm is high and patience will help it last."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsettled, {keyword} invites a simple practice: one minute of noticing your breath, or one page of writing, just to begin.",
+					"{keyword} suggests you don't need to have the answers to start exploring. One small question, held gently, is enough.",
+					"When doubt feels heavy, {keyword} reminds you that being a beginner is a respected place to stand. You can start where you are."
+				],
+				"curious": [
+					"{keyword} asks what you are drawn to lately: a book, a place, a practice, a question. Following that pull could be its own kind of devotion.",
+					"What would {keyword} look like as a spiritual practice? Perhaps visiting somewhere new, or trying a tradition you know little about.",
+					"{keyword} hints that meaning may be found through play and wonder. When did something last make you say, quietly, wow?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel distant, and you may not want to explore anything at all. It is okay to simply be where you are.",
+					"{keyword} might return as a small moment of wonder, a sunrise or a song, that sits alongside the sorrow without replacing it.",
+					"If questions about meaning are stirring, {keyword} allows you to sit with them slowly. You don't have to reach answers now."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about curiosity rather than belief. What are you genuinely interested in exploring, regardless of what you conclude?",
+					"Treat {keyword} as a prompt to try a reflective practice for a week, like journaling or quiet walks, and see what you notice.",
+					"No faith required: {keyword} simply asks whether you still make room for wonder. That question can be answered practically."
+				],
+				"hopeful": [
+					"{keyword} is a fresh, open energy for inner growth. Let yourself explore without needing to arrive anywhere in particular.",
+					"If you are hoping for a deeper sense of meaning, {keyword} encourages you to start small and stay curious.",
+					"{keyword} suggests your spirit may be ready for something new. Say yes to the question that keeps returning."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to discovery, beginner's mind, and an openness to new ideas or practices.",
+					"{keyword} speaks of exploring meaning with enthusiasm and humility, trying things without needing certainty.",
+					"{keyword} highlights the start of an inner journey, when questions feel lively and possibilities are wide."
+				]
+			},
+			"general": {
+				"anxious": [
+					"When life feels uncertain, {keyword} can offer a small foothold. Choose one thing you are curious about today and give it ten minutes.",
+					"{keyword} suggests you don't have to see the whole path to take a step. What is one tiny experiment you could try this week?",
+					"If you are bracing for bad news, {keyword} invites you to notice what still interests you. That interest is a part of you worry hasn't touched."
+				],
+				"curious": [
+					"{keyword} opens a playful question: what would you try if you didn't need to be good at it yet?",
+					"What if {keyword} is asking you to follow a hunch, just to see where it goes? Small detours can be surprisingly rich.",
+					"{keyword} hints at something new trying to begin. Which idea keeps returning to you, however unlikely it seems?"
+				],
+				"grieving": [
+					"{keyword} may feel far from where you are right now, and that is fine. Grief has its own pace, and curiosity can wait.",
+					"If {keyword} appears in a small way, like interest in a new route home, let it be what it is without guilt.",
+					"{keyword} does not ask you to move on. It may simply mean noticing, someday, that something still catches your eye."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about trying things before you feel ready. What are you waiting to be sure of before you begin?",
+					"Treat {keyword} as a prompt to run a small, low-risk experiment in some area of your life. The results are information, nothing more.",
+					"No mysticism needed: {keyword} points to the value of beginner's energy. Where have you stopped learning because you think you already know?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging energy for whatever you are hoping for. Let it propel a first step, and stay open to how things unfold.",
+					"If you are hoping for change, {keyword} suggests starting with what genuinely excites you, rather than what you think you should do.",
+					"{keyword} invites a fresh beginning. Keep it light and curious, and see what it grows into."
+				],
+				"neutral": [
+					"In general, {keyword} points to fresh starts, exploration, and the eagerness of someone trying something for the first time.",
+					"{keyword} speaks of curiosity, play, and the courage to begin before you have it all worked out.",
+					"{keyword} highlights a spark that could become something more, if you give it attention and time."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} has gone quiet in your love life, it doesn't mean something is broken. One small thing you can do: share one honest, simple feeling with someone close.",
+					"{keyword} may be getting tangled up with nerves, so you start things and then pull back. Notice that pattern kindly; you can slow down without stopping.",
+					"When excitement turns into worry, {keyword} can feel stuck. Try naming one thing you appreciate about a person, out loud, to bring some warmth back in."
+				],
+				"curious": [
+					"{keyword} might be burning bright and then fading fast. What would it be like to stay with one connection a little longer than you usually do?",
+					"What is holding back {keyword} in love right now? Perhaps fear of looking foolish, or a habit of waiting for the other person to go first.",
+					"{keyword} could be pointing inward. Before chasing something new, what do you actually find exciting about intimacy?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may feel completely absent, or it may feel strange when it flickers. Both are part of grieving.",
+					"If {keyword} has gone dim since someone left your life, there is no need to rekindle it now. You are allowed to rest.",
+					"{keyword} might feel almost disloyal to the person you are missing. It isn't, but you can also wait until it feels right."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be showing up as starts without follow-through. Is there a pattern of enthusiasm early on that fades once things get real?",
+					"Take {keyword} as a prompt: have you been holding back because of past disappointment? That is understandable, and worth looking at directly.",
+					"No mystery here: {keyword} without patience can lead to rushed decisions in love. Where might slowing down serve you better?"
+				],
+				"hopeful": [
+					"{keyword} may be on pause rather than gone. If you are hoping for spark, a low-pressure plan with someone you like could gently wake it.",
+					"If you are hoping to feel excited again, {keyword} encourages you to protect the small moments of interest that do appear.",
+					"{keyword} might simply need time to mature. Hope is reasonable, especially if you stay patient with yourself and others."
+				],
+				"neutral": [
+					"In love, {keyword} reversed can point to hesitation, mixed signals, or excitement that fizzles before it deepens.",
+					"{keyword} appears blocked or scattered here: interest without commitment, or eagerness held back by doubt.",
+					"{keyword} may be turning inward, asking you to understand what truly excites you before reaching outward."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} at work has stalled, try not to read that as a verdict. Choose one small, finishable task and complete it to feel some momentum.",
+					"{keyword} may be scattered across too many directions. One thing in your control: pick a single idea to focus on this week and set the rest aside.",
+					"When fear of failing makes {keyword} freeze, remember that early attempts are allowed to be messy. Draft something rough and imperfect today."
+				],
+				"curious": [
+					"Perhaps {keyword} has you jumping from plan to plan at work without landing. If you could only keep one, which would you choose, and why that one?",
+					"What is muffling {keyword} at work? Perhaps a culture that doesn't reward experiments, or your own inner critic.",
+					"{keyword} could be turning inward. Is there a private project you could explore without needing anyone's approval?"
+				],
+				"grieving": [
+					"If work has lost its spark since a loss, {keyword} may feel unreachable. It is okay to do only what is needed for now.",
+					"{keyword} can be postponed. Grief takes energy, and interest in new projects may return gradually, or in different forms.",
+					"When a working chapter has ended painfully, {keyword} might feel risky to trust again. There is no rush to find it."
+				],
+				"skeptical": [
+					"Plainly, {keyword} without follow-through can stall a career. Is there an unfinished project that deserves either completion or a clear decision to drop it?",
+					"Treat {keyword} as a prompt to check for overcommitment. Too many new starts can dilute progress on any of them.",
+					"No mysticism here: {keyword} held back by fear of feedback keeps ideas untested. What is one thing you could show someone early?"
+				],
+				"hopeful": [
+					"{keyword} may be gathering strength rather than vanishing. If you are hoping for a new direction, keep a notebook of the ideas that persist.",
+					"If you are hoping to feel inspired at work again, {keyword} encourages small experiments that don't need permission.",
+					"{keyword} might just need structure to flourish. Pair your excitement with a simple plan and see what holds."
+				],
+				"neutral": [
+					"At work, {keyword} reversed can point to delays, scattered energy, or ideas that struggle to get off the ground.",
+					"{keyword} appears hesitant or impatient: wanting results quickly, or holding back for fear of looking inexperienced.",
+					"{keyword} suggests looking at what blocks your enthusiasm, whether it is external pressure or inner doubt."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} has led to impulsive spending, that is something you can address gently. Look at one recent purchase and simply notice what prompted it.",
+					"{keyword} may feel blocked by money worries. One thing in your control: write down a single, small step toward a goal, and do just that.",
+					"When anxiety stops you from exploring options, {keyword} can wait. Start by organising one piece of paperwork, which can make the next step feel easier."
+				],
+				"curious": [
+					"{keyword} might be leading to lots of plans and few results. Which money idea is worth giving more focus?",
+					"What would happen if you paused {keyword} long enough to research? Excitement and homework make a good pair.",
+					"Imagine {keyword} six months from now, once the novelty has worn off. Which money idea would you still want to be working on?"
+				],
+				"grieving": [
+					"Money decisions after a loss can feel overwhelming, and {keyword} may be absent. Let others help with the practical parts if you can.",
+					"{keyword} may show up as a sudden urge to change everything at once. Grief can make bold moves feel urgent; it is kind to give yourself time before deciding.",
+					"If {keyword} feels hollow right now, there is no need to chase it. Slow, steady handling of basics is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often looks like impulse purchases or half-finished ventures. Is there a pattern worth naming?",
+					"Treat {keyword} as a prompt to check whether excitement is outrunning research on any financial plan.",
+					"No mystery here: {keyword} without follow-through can waste resources. Decide what to finish and what to let go."
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping for a new income stream, a bit more planning could help it launch.",
+					"If you are hoping for financial growth, {keyword} encourages patience. Let one idea mature before starting the next.",
+					"{keyword} might simply need grounding. Hope is fair, especially paired with a clear, modest budget."
+				],
+				"neutral": [
+					"With money, {keyword} reversed can point to impulsive choices, stalled ventures, or hesitation to explore new options.",
+					"{keyword} appears scattered or blocked here, asking for focus and follow-through.",
+					"{keyword} suggests examining whether excitement is helping or hindering your financial decisions."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} has turned into restlessness, try one calming activity tonight, like dimming the lights early or stretching gently.",
+					"{keyword} may feel stuck under stress. One small thing you can do: step outside for five minutes, without any goal.",
+					"When energy is low or jittery, {keyword} can wait. You are allowed to rest rather than push for a fresh start."
+				],
+				"curious": [
+					"Maybe {keyword} has you starting five new habits at once and keeping none. Which single one do you actually enjoy enough to keep?",
+					"What is dampening {keyword} lately? Perhaps sleep, stress, or simply routine. It might be worth exploring gently.",
+					"{keyword} could be turning inward. What does your body seem to want: stillness, movement, or something else?"
+				],
+				"grieving": [
+					"{keyword} may feel completely absent in grief, and that is natural. Rest and gentle care come first.",
+					"If {keyword} shows up as restlessness, a slow walk might help more than a new routine.",
+					"Your body may be asking for stillness more than {keyword} right now. Lying down, eating something warm, letting the day be small: these count as care."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can look like starting new routines and dropping them quickly. What makes a habit stick for you?",
+					"Treat {keyword} as a prompt to notice whether you are overdoing new activities and tiring yourself out.",
+					"No mysticism needed: {keyword} that won't take hold may just need a simpler, smaller version."
+				],
+				"hopeful": [
+					"{keyword} may be paused while you build steadier energy. That pause can make room for something more lasting.",
+					"If you are hoping to feel better, {keyword} encourages small, consistent steps rather than bursts.",
+					"{keyword} could return in a more sustainable form. Hope is reasonable, especially if you listen to your energy levels."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} reversed can point to restlessness, scattered efforts, or low motivation.",
+					"{keyword} appears blocked or overdone, asking you to balance eagerness with rest.",
+					"{keyword} suggests looking at whether new habits are serving you or simply adding pressure."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} in your inner life feels stuck, that is all right. One small thing: sit quietly for a minute and notice what you feel, without judging it.",
+					"{keyword} may feel blocked by doubt or fear of doing it wrong. Remember there is no exam; you can explore at your own pace.",
+					"When questions feel overwhelming, {keyword} can rest. Choose one simple practice and let that be enough for now."
+				],
+				"curious": [
+					"Perhaps {keyword} has you sampling one practice after another. What might you notice if you stayed with a single one for a whole month?",
+					"What is holding back {keyword} on your inner journey? Perhaps old beliefs, or a fear of what you might find.",
+					"{keyword} could be turning inward. Is there a quiet question you have been avoiding?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel unreachable, and spiritual practices may feel empty. It is okay to set them aside for a while.",
+					"If {keyword} returns as a restless search for answers, be gentle with yourself. Not every question needs resolving now.",
+					"Sometimes simply sitting with sorrow is a practice of its own, and {keyword} can be set gently on a shelf until you want to reach for it."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can mean collecting ideas without testing them in your own life. What would trying one look like?",
+					"Treat {keyword} as a prompt to check whether novelty is replacing depth in your practice.",
+					"No mystical claim here: {keyword} stalled may simply reflect a busy season. What could you realistically make room for?"
+				],
+				"hopeful": [
+					"{keyword} may be gathering beneath the surface. If you are hoping for renewal, keep a small practice going.",
+					"If you are hoping to feel connected again, {keyword} encourages patience and gentle curiosity.",
+					"{keyword} may return through something ordinary, a conversation or a walk, rather than a dramatic awakening. Hope is fair; keep your eyes open for small things."
+				],
+				"neutral": [
+					"Spiritually, {keyword} reversed can point to scattered seeking, hesitation, or a dimmed sense of wonder.",
+					"{keyword} appears restless or muted, as though the search itself has become tiring. It asks for patience more than new answers.",
+					"{keyword} suggests exploring what is muting your curiosity, and whether it needs rest or encouragement."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} has dimmed, that does not mean it is gone. One small step in your control: do one thing today purely because you enjoy it.",
+					"{keyword} may feel tangled with worry, making it hard to start. Choose the smallest possible version of the thing and do only that.",
+					"When restlessness or doubt takes over, {keyword} can pause. Ground yourself with a simple routine before you try anything new."
+				],
+				"curious": [
+					"{keyword} might be scattered across many directions. Which one actually lights you up?",
+					"What is holding back {keyword} right now? It could be fear, fatigue, or simply too many options.",
+					"{keyword} could be turning inward, quietly waiting for permission. What would genuinely excite you if nobody were watching or judging?"
+				],
+				"grieving": [
+					"In grief, {keyword} may be absent for a long while, and that is natural. You don't need to go looking for it.",
+					"If {keyword} flickers and fades, let it. Grief can make interest come and go like weather.",
+					"Others may encourage you toward {keyword} before you are ready. You can thank them and still keep your own pace."
+				],
+				"skeptical": [
+					"Plainly, {keyword} reversed often looks like starting and not finishing. Is there something worth either completing or letting go?",
+					"Treat {keyword} as a prompt to check whether impatience or fear is stalling a plan.",
+					"No mystery here: {keyword} without direction can drain energy. What would focus look like this week?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping for a fresh start, keep feeding the ideas that persist.",
+					"If you are hoping to feel inspired again, {keyword} encourages small, low-pressure experiments.",
+					"{keyword} might just need time to grow. Hope is reasonable, paired with patience."
+				],
+				"neutral": [
+					"In general, {keyword} reversed points to delays, scattered energy, or hesitation to begin.",
+					"{keyword} appears blocked or impatient, asking you to balance excitement with steadiness.",
+					"{keyword} suggests examining what is muffling your enthusiasm, and what might help it find direction."
+				]
+			}
+		}
+	}
+}

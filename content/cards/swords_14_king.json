@@ -1,0 +1,412 @@
+{
+	"id": "swords_14_king",
+	"name": "King of Swords",
+	"facets": [
+		{
+			"id": "authority",
+			"keywords": ["steady leadership", "intellectual authority", "a calm command of the facts"]
+		},
+		{
+			"id": "reason",
+			"keywords": ["clear reasoning", "logic", "a reasoned decision"]
+		},
+		{
+			"id": "integrity",
+			"keywords": ["integrity", "fairness", "an ethical standard"]
+		},
+		{
+			"id": "truth",
+			"keywords": ["truth spoken plainly", "an honest assessment", "intellectual honesty"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If love feels shaky, {keyword} can give you somewhere firm to stand. One thing in your control: decide what you consider fair treatment, and measure what is happening against that rather than against fear.",
+					"{keyword} suggests that a calm head can sit beside a full heart. Before the next difficult talk, jot down the two points you most want understood.",
+					"When worry runs ahead, {keyword} invites you to wait for evidence. A single quiet evening is not a verdict on a relationship."
+				],
+				"curious": [
+					"{keyword} asks an interesting question about love: what principles do you bring to your relationships, and where did you learn them?",
+					"What if {keyword} turned out to be romantic? Being reliably fair and honest can be deeply attractive, even if it is rarely celebrated.",
+					"{keyword} hints that a relationship might benefit from a frank, thoughtful talk about expectations. What would you put on the table first?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may feel distant from the rawness of what you feel. You do not have to think your way through grief; feeling it is allowed.",
+					"{keyword} can be a quiet support in mourning, helping with the decisions that still need making while your heart catches up.",
+					"When love has ended, {keyword} might mean telling the story of the relationship truthfully, to yourself first, with neither blame nor polish."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is about fairness between people. Is the give and take in your closest relationships roughly balanced?",
+					"Take {keyword} as a prompt: is there a disagreement with a partner, friend or relative you could settle by listing the facts together?",
+					"No mysticism needed: {keyword} points to keeping your word. Small promises kept tend to build more trust than grand ones."
+				],
+				"hopeful": [
+					"{keyword} encourages you to build love on solid ground. If you are hoping for something lasting, shared values are a good foundation to look for.",
+					"If you are hoping to resolve a tension, {keyword} suggests that a calm, fair conversation could do more than a passionate one.",
+					"{keyword} brings steadiness and trustworthiness to the heart. Those qualities tend to invite the same in return, though nothing is promised."
+				],
+				"neutral": [
+					"In love, {keyword} points to fairness, honest communication and a steady, thoughtful presence.",
+					"{keyword} speaks to relationships guided by principles as well as feelings.",
+					"{keyword} brings attention to clear agreements and the trust that comes from keeping them."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels uncertain, {keyword} can help you take stock calmly. One thing in your control: write a short, factual summary of where things stand, as if briefing someone else.",
+					"{keyword} suggests you are more equipped for this than worry admits. Lean on what you know and ask about what you don't.",
+					"When pressure mounts, {keyword} invites you to make one decision rather than many. Choose the one that unblocks the most, and make it today."
+				],
+				"curious": [
+					"{keyword} asks a stimulating question: in which area of your work are you the person others come to for a straight answer?",
+					"What could {keyword} change in your role? Perhaps setting a clearer standard for your team, or writing down the reasoning behind a decision so others can follow it.",
+					"{keyword} hints that your expertise could carry more weight. Where might you step forward as the one who explains, guides or decides?"
+				],
+				"grieving": [
+					"If you are grieving, {keyword} at work may feel heavy to carry. It is all right to hand some decisions to others for a while.",
+					"{keyword} can be a steady place to rest when emotions are high: routine tasks, clear procedures, things that do not ask much of the heart.",
+					"When something at work has ended, {keyword} might mean being honest with yourself about what it meant, and what you want to keep from it."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about sound decision-making. Are your choices at work based on evidence, or on what was done last time?",
+					"Treat {keyword} as a plain prompt: is there a policy or process at work that no longer makes sense? Raising it with reasons is often welcome.",
+					"There is nothing mystical here: {keyword} points to professional credibility. People tend to trust those who are consistent and transparent."
+				],
+				"hopeful": [
+					"{keyword} encourages you to step into a role that suits your judgement. If you are hoping to lead, showing your reasoning openly is a good place to start.",
+					"If you are hoping for advancement, {keyword} suggests your reliability may be your strongest card. Keep being the steady one.",
+					"{keyword} brings clear thinking and fair dealing to your working life. Let them guide one decision that others are watching."
+				],
+				"neutral": [
+					"At work, {keyword} points to sound judgement, steady authority and decisions made on clear principles.",
+					"{keyword} highlights expertise, fairness and the respect that comes from being consistent.",
+					"{keyword} suggests that measured, well-reasoned action is what your work calls for now."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money worries are loud, {keyword} invites you to replace guesses with figures. One small step: write your income and fixed costs on a single page.",
+					"{keyword} suggests that a plan, however simple, can quiet a lot of fear. Decide one rule for spending this month and keep to it.",
+					"When finances feel tense, {keyword} reminds you that you can seek reliable information before deciding anything. Slow is safe here."
+				],
+				"curious": [
+					"{keyword} asks an interesting question: what principles guide your money choices, and are they really yours?",
+					"What might {keyword} reveal if you reviewed one regular expense as an impartial adviser would? Treat it like a puzzle.",
+					"{keyword} hints that you might enjoy taking a more structured approach to resources. Which part of your finances would benefit from a little system?"
+				],
+				"grieving": [
+					"After a loss, money matters can feel cold and intrusive. {keyword} may simply help you handle one thing at a time with a steady hand.",
+					"{keyword} may look like asking a trusted, level-headed person to sit with you while you deal with paperwork. You do not have to do it alone.",
+					"If grief has changed your circumstances, {keyword} does not ask you to decide everything now. It may only help you sort what is urgent from what can wait."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is about rational money decisions. Which recent purchase would hold up if you had to justify it on paper?",
+					"{keyword} is a prompt to check terms and agreements carefully. Plain reading tends to prevent expensive surprises.",
+					"No mystical reading needed: {keyword} points to fair exchange. Are you being paid, and paying, what things are actually worth?"
+				],
+				"hopeful": [
+					"{keyword} encourages a calm, principled approach to money. If you are hoping for more security, a clear plan gives hope something to stand on.",
+					"If you are hoping to improve things, {keyword} suggests that honest numbers, reviewed regularly, can steady your course.",
+					"{keyword} brings discipline and clarity to your resources. Use them on one decision you have been postponing."
+				],
+				"neutral": [
+					"Around money, {keyword} points to rational planning, fair dealing and decisions made on evidence.",
+					"{keyword} speaks to a structured, principled approach to resources.",
+					"{keyword} suggests that careful thought should lead the way in financial matters."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} invites you to look at what you know rather than what you fear. Write down plainly how you feel today, nothing more.",
+					"{keyword} suggests a calm routine can steady you. One thing in your control: set a regular time for bed this week and keep to it.",
+					"When stress is high, {keyword} can help you separate real signals from anxious noise. Give yourself a day before reading too much into any one feeling."
+				],
+				"curious": [
+					"{keyword} poses a question: what does the evidence of your own days say about what helps you feel well?",
+					"What might {keyword} add to your routines? A simple structure for rest and movement can free up energy for everything else.",
+					"{keyword} hints that your mind may lead your body more than you realise. Notice how a clear decision affects your tension levels."
+				],
+				"grieving": [
+					"Grief can unsettle every routine. {keyword} need not be strict right now; it might simply mean keeping one small habit steady.",
+					"{keyword} may feel far from the tiredness and heaviness of grief. It is all right to let your thinking mind rest.",
+					"When you are carrying loss, {keyword} can be gentle: noticing what your body needs today and answering it honestly."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to habits based on what actually works for you. Which routine do you keep despite no clear benefit?",
+					"{keyword} is a plain prompt about consistency. Small habits done regularly tend to matter more than big efforts done occasionally.",
+					"No mysticism here: {keyword} is about weighing information sensibly. Not every wellbeing trend deserves your time or money."
+				],
+				"hopeful": [
+					"{keyword} encourages a steady, sensible approach to caring for yourself. If you are hoping to feel better, structure can be a kindness.",
+					"If you are hoping for more energy, {keyword} suggests deciding on one routine and giving it a fair trial.",
+					"{keyword} brings calm discipline. Let it support a habit you want to keep, without becoming harsh about it."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to steady routines, sensible choices and a calm relationship with your body.",
+					"{keyword} highlights the role of a clear mind in how energy and rest feel.",
+					"{keyword} suggests caring for yourself through structure, consistency and honest attention."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsteady, {keyword} invites you to return to the values you trust most. Name one and let it hold you today.",
+					"{keyword} suggests that thinking and believing can work together. One small step: write down what you are sure of, however little it is.",
+					"When doubts multiply, {keyword} can help you sort them. Which ones are real questions, and which are just worry wearing a philosophical coat?"
+				],
+				"curious": [
+					"{keyword} asks a stimulating question: which of your beliefs could you explain clearly to someone who disagrees?",
+					"What could {keyword} open if you studied a spiritual idea rigorously, as you would any other subject?",
+					"{keyword} hints that meaning and reason need not compete. Where have you found the two meeting in your own life?"
+				],
+				"grieving": [
+					"{keyword} may feel cool beside the heat of grief. It is fine if belief and logic both feel far away right now.",
+					"When loss shakes what you believe, {keyword} can mean admitting, honestly, that you are not sure. That is a truthful place to stand.",
+					"{keyword} might be a steady thread through mourning: the values the person you lost lived by, and how you might carry some of them forward."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about thinking for yourself. Which beliefs have you tested, and which have you simply inherited?",
+					"{keyword} needn't be mystical. It is a prompt to live in line with your stated values and notice where the gaps are.",
+					"Treat {keyword} as a thinking tool: what would it take for you to change your mind on a deeply held view?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to build your inner life on solid ground. If you are hoping for meaning, living by your values is a strong place to begin.",
+					"If you are hoping to grow, {keyword} suggests that clarity about what you stand for can be a spiritual practice in itself.",
+					"{keyword} brings steadiness to your search for meaning. Let it help you choose a path and stay with it."
+				],
+				"neutral": [
+					"In spiritual matters, {keyword} points to principled belief, reasoned inquiry and living by your values.",
+					"{keyword} speaks to an inner life shaped by thought as well as feeling.",
+					"{keyword} highlights the meeting place of truth, ethics and meaning."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels uncertain, {keyword} invites you to take stock calmly. One small step: list what you know, what you don't, and what you can find out.",
+					"{keyword} suggests you have the judgement to handle this, even if fear says otherwise. Make one considered decision today.",
+					"When worry clouds things, {keyword} can help you slow down. Ask yourself what a fair-minded friend would advise."
+				],
+				"curious": [
+					"{keyword} brings a clear, measured energy. What principle would you most like to live by more fully?",
+					"What if {keyword} were the key to a knot you have been trying to untangle? Lay out the facts and see what pattern appears.",
+					"{keyword} hints that you might be ready to take more authority in your own life. Where could you decide rather than wait?"
+				],
+				"grieving": [
+					"{keyword} may feel far from what your heart is carrying. You do not need to reason your way through loss.",
+					"When loss has changed things, {keyword} can help with the practical decisions while you grieve. Let it carry the logistics, not your feelings.",
+					"{keyword} might simply be telling the truth about how you are, to someone who asks. That honesty is a form of care."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to decide based on evidence. What do you actually know about your situation?",
+					"Treat {keyword} as a thinking exercise: if you had to explain your current choices to an impartial judge, which would hold up?",
+					"No mysticism needed: {keyword} is about consistency between what you say and what you do. Where is the gap widest?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to move toward what you want with a clear plan. Hope tends to go further with structure behind it.",
+					"If you are hoping for change, {keyword} suggests making one well-reasoned decision and following it through. The outcome isn't promised, but the step is yours.",
+					"{keyword} brings a steady, even-handed energy. Let it guide your next choice, especially one where other people are counting on you to be just."
+				],
+				"neutral": [
+					"{keyword} points to sound judgement, principled action and a calm, clear mind.",
+					"{keyword} highlights fairness, honesty and the authority that comes from consistency.",
+					"{keyword} suggests that careful reasoning should lead the way now."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} has turned into analysing every word a partner or friend says, it may be fuelling worry rather than settling it. One thing in your control: let one conversation simply be a conversation.",
+					"{keyword} may feel out of reach while emotions run high. You can postpone a decision about a relationship until you feel calmer.",
+					"When {keyword} hardens into rigid rules, love can start to feel like a test. Is there one expectation you could loosen this week?"
+				],
+				"curious": [
+					"{keyword} might be overriding your feelings. What would your heart say if logic stepped aside for a moment?",
+					"What if {keyword} has been used to win arguments rather than understand each other? It could be interesting to listen without preparing a reply.",
+					"{keyword} seems turned cold here. Where in a relationship are you being correct at the cost of being close?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may have become a way to keep feelings at bay. That is understandable, and you can let the feelings in slowly when you are ready.",
+					"{keyword} might feel shaky now, and decisions about shared things may seem impossible. You are allowed to wait.",
+					"If {keyword} has made you hard on yourself about what you did or did not say, try to be as fair to yourself as you would be to anyone else."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be overdone. Are you treating relationship disagreements like debates to be won?",
+					"{keyword} is a prompt to check for control. Is anyone, you or another, using reasons and rules to dominate rather than share decisions?",
+					"No mysticism needed: {keyword} without warmth can feel cold to the people closest to you. What would happen if you led with feeling once?"
+				],
+				"hopeful": [
+					"{keyword} may be on hold rather than gone. If you are hoping for closeness, softening your stance a little might help.",
+					"If you are hoping to resolve a conflict, {keyword} encourages you to look for the fair middle rather than proving your point.",
+					"{keyword} might just need warmth added. Hope is reasonable when you allow both sense and feeling a voice."
+				],
+				"neutral": [
+					"In love, {keyword} can point to coldness, rigidity, using reason to control, or decisions avoided.",
+					"{keyword} appears blocked or overdone: logic that drowns out feeling, or fairness that has slipped.",
+					"{keyword} may be turned inward, asking whether you hold yourself or others to impossible standards."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} feels missing at work, perhaps in a leader or in yourself, it is unsettling. One thing in your control: keep clear notes of decisions and agreements.",
+					"{keyword} may be stalled by indecision. Pick one choice you can make with what you know, and make it.",
+					"When {keyword} turns rigid, small problems can feel like crises. Ask whether a rule is serving the work or just being followed."
+				],
+				"curious": [
+					"{keyword} might be hiding behind jargon or procedure. What would the plain version of the problem look like?",
+					"What if {keyword} has been bent to suit someone's interests at work? It could be interesting to ask who benefits from the current way.",
+					"{keyword} seems stuck in overthinking. What is the smallest decision that would move things along?"
+				],
+				"grieving": [
+					"{keyword} may be hard to summon while you are grieving. It is fine to defer big work decisions for now.",
+					"If work feels cold since your loss, {keyword} may be part of what feels harsh. Find one colleague who can be human with you.",
+					"{keyword} might show up as being very hard on yourself for slipping. Grief affects focus; allow for that."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be misused. Is authority at work being exercised fairly, or to protect someone's position?",
+					"{keyword} is a prompt about rigidity. Are you holding to a decision because it is right, or because changing it feels like losing face?",
+					"Read plainly, {keyword} may be lacking in a process or agreement. What would a fair version look like, and who could you raise it with?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping for a fair outcome, documenting the facts can help your case.",
+					"If you are hoping to move forward, {keyword} encourages you to loosen one rigid rule you hold yourself to.",
+					"{keyword} could return clearer once the pressure eases. Hope is reasonable if you are willing to revisit old decisions."
+				],
+				"neutral": [
+					"At work, {keyword} can point to rigid thinking, misused authority, indecision or unfairness.",
+					"{keyword} appears blocked or overdone, asking whether power and reason are being used well.",
+					"{keyword} may be turned inward, suggesting judgements you are holding but not sharing."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} has been swamped by worry, money decisions may feel paralysing. One thing in your control: postpone any big choice until you have a calmer day.",
+					"{keyword} may feel stalled. Write down the one money decision you are avoiding, and one thing you would need to know to make it.",
+					"When {keyword} tips into rigid restriction, it can add stress. Is your money plan realistic for your life?"
+				],
+				"curious": [
+					"{keyword} might be justifying a choice after the fact. Which recent purchase did you reason your way into?",
+					"What if {keyword} has been bent by someone else's interests, like a salesperson's? It could be useful to ask who wrote the advice you follow.",
+					"{keyword} seems caught in overanalysis, comparing every option to the penny. What would good enough look like, and could you settle for it?"
+				],
+				"grieving": [
+					"{keyword} may be hard to reach while you are grieving, and others may press you for decisions. You can ask for time.",
+					"If {keyword} feels shaky, let someone trustworthy help you check paperwork before you sign anything.",
+					"{keyword} can wait. For now, deal with what is truly due, and let the larger questions sit until you feel more yourself; good choices rarely need to be rushed."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be missing from an agreement. Are the terms you have accepted actually fair?",
+					"{keyword} is a prompt about rigid thinking. Is a money rule you follow still serving you?",
+					"No mysticism needed: {keyword} that never reaches a decision costs time and sometimes money. Which choice needs a deadline?"
+				],
+				"hopeful": [
+					"{keyword} may be returning slowly. If you are hoping for stability, a calm review once emotions settle is a good step.",
+					"If you are hoping for a fairer arrangement, {keyword} encourages you to ask clearly for what is reasonable.",
+					"{keyword} could sharpen again with time. Hope is reasonable if you let a cooler week pass before signing anything important."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to rigid rules, unfair terms, decisions avoided or reasoning bent by self-interest.",
+					"{keyword} appears blocked or overdone, asking whether your money choices are truly sensible.",
+					"{keyword} may be turned inward, suggesting financial judgements you have not shared."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} has turned into over-analysing every feeling in your body, try stepping back. One thing in your control: one calm activity tonight that does not involve thinking.",
+					"{keyword} may be clouded by worry. Write down what you actually know about how you feel, and leave the guessing aside for the morning.",
+					"When {keyword} turns into strict rules, care can feel like pressure. Is there one rule you could relax?"
+				],
+				"curious": [
+					"{keyword} might be overriding what your body is telling you. What would you notice if you listened before deciding?",
+					"What if {keyword} has been bent to justify a habit you know does not suit you? It could be interesting to look again.",
+					"{keyword} seems rigid here. Which routine have you kept out of stubbornness rather than benefit?"
+				],
+				"grieving": [
+					"{keyword} may be hard to hold while you are grieving. Rest is reasonable; your mind needs it too.",
+					"If {keyword} has turned into criticism of how you are coping, be fairer to yourself. There is no right way to grieve.",
+					"{keyword} can wait. For now, gentle care and quiet routines are enough: a warm drink, an early night, a walk you do not have to justify."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be overdone. Are you so focused on doing it right that you have stopped enjoying it?",
+					"{keyword} is a prompt about rigidity. Strict routines can be useful, but only if they leave room for rest.",
+					"No mysticism here: {keyword} that ignores how you feel misses half the information. What is your body actually saying?"
+				],
+				"hopeful": [
+					"{keyword} may be returning. If you are hoping to feel steadier, a flexible routine might serve you better than a strict one.",
+					"If you are hoping for balance, {keyword} encourages you to let feeling inform your choices alongside reason.",
+					"{keyword} could become clearer once you rest. Hope is reasonable if you are patient, and if you count how you feel as evidence too."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to rigid routines, over-analysis or ignoring the body's signals.",
+					"{keyword} appears blocked or overdone, asking whether head and body are working together.",
+					"{keyword} may be turned inward, suggesting harsh self-judgement about how you care for yourself."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} has turned into endless arguing with yourself, it may help to pause the debate. One small step: sit quietly without trying to reason anything out.",
+					"{keyword} may feel shaky right now, as if the old arguments no longer hold. Return to one value you trust and let it be enough for today.",
+					"When {keyword} hardens into dogma, belief can feel like a cage. You are allowed to question, and the questioning itself can be a form of faithfulness."
+				],
+				"curious": [
+					"{keyword} might be crowding out intuition. What do you sense, apart from what you think?",
+					"What if {keyword} has been used to dismiss experiences that matter to you? It could be interesting to reconsider them.",
+					"{keyword} seems rigid here, more fortress than path. Which belief could you hold a little more loosely, just to see what it feels like?"
+				],
+				"grieving": [
+					"{keyword} may have failed to explain your loss, and that can be its own grief. It is all right not to understand.",
+					"If {keyword} feels cold beside your sorrow, you can set it down for now. Feeling comes first.",
+					"{keyword} might show up as anger at beliefs that once comforted you. That is part of grief for many people."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be tipping into rigidity. Are you open to being wrong about anything important?",
+					"{keyword} is a prompt about hypocrisy. Where do your actions and stated beliefs diverge?",
+					"Read plainly, {keyword} may be used to win arguments about meaning rather than explore it. What are you actually seeking?"
+				],
+				"hopeful": [
+					"{keyword} may be in a quiet phase. If you are hoping for renewal, letting intuition speak alongside reason might help.",
+					"If you are hoping to grow, {keyword} encourages you to loosen one rigid belief and see what opens.",
+					"{keyword} could return wiser for having been questioned. Hope is reasonable here; beliefs that survive honest doubt tend to hold more weight than those never tested."
+				],
+				"neutral": [
+					"In spiritual matters, {keyword} can point to dogma, rigidity, cold detachment or belief out of step with action.",
+					"{keyword} appears blocked or overdone, asking whether reason has crowded out wonder.",
+					"{keyword} may be turned inward, inviting honest reflection on what you hold too tightly."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} has turned into overthinking, you can step back. One thing in your control: make one small decision and let it stand.",
+					"{keyword} may feel out of reach. You do not need perfect logic to take one sensible step today.",
+					"When {keyword} tips into rigid rules, life can feel tight and joyless. Which one could you relax this week without anything bad happening?"
+				],
+				"curious": [
+					"{keyword} might be overriding your instincts. What would you do if you trusted your gut for a day?",
+					"What if {keyword} has been bent to justify something you already wanted? It could be interesting to look again.",
+					"{keyword} seems stuck in analysis, weighing the same options again and again. What would a decision look like if you gave yourself until Friday to make it?"
+				],
+				"grieving": [
+					"{keyword} may feel useless against what you are carrying, and that is all right. Grief does not follow logic.",
+					"If {keyword} has made you hard on yourself, try to be as fair to yourself as you would be to a friend.",
+					"{keyword} can wait. For now, getting through each day is enough, and nobody needs a well-argued account of how you are feeling."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be tipping into rigidity. Which view have you not reconsidered in years?",
+					"{keyword} is a prompt about fairness. Is someone using authority or clever argument to get their way, and could it be you?",
+					"Read plainly, {keyword} may be stalled by indecision. What information would actually change your choice?"
+				],
+				"hopeful": [
+					"{keyword} may be on hold rather than gone. If you are hoping for clarity, rest and a little distance can help.",
+					"If you are hoping for change, {keyword} encourages you to soften one rigid stance and see what shifts.",
+					"{keyword} could return clearer once the pressure lifts. Hope is reasonable here, especially if you are willing to hear a view that differs from your own."
+				],
+				"neutral": [
+					"{keyword} can point to rigidity, cold detachment, indecision or authority used unfairly.",
+					"{keyword} appears blocked or overdone, asking whether reason is serving you or ruling you.",
+					"{keyword} may be turned inward, suggesting judgements about yourself that need softening."
+				]
+			}
+		}
+	}
+}

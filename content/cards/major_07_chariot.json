@@ -1,0 +1,412 @@
+{
+	"id": "major_07_chariot",
+	"name": "The Chariot",
+	"facets": [
+		{
+			"id": "willpower",
+			"keywords": ["determination", "a focused will", "steady resolve"]
+		},
+		{
+			"id": "momentum",
+			"keywords": ["forward momentum", "a hard-won victory", "progress on your own terms"]
+		},
+		{
+			"id": "direction",
+			"keywords": ["a clear direction", "self-discipline", "a firm hand on the reins"]
+		},
+		{
+			"id": "harnessed_opposites",
+			"keywords": ["control over competing pulls", "a balance of opposing drives"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"In love, {keyword} doesn't mean steering the other person. It means knowing where you're headed yourself; one clear sentence about what you want is a steady place to start.",
+					"If a relationship feels like it's moving fast, {keyword} reminds you that you hold your own reins. You can slow your side of things down without losing anything that matters.",
+					"{keyword} can quiet the spinning thoughts. Pick one small, concrete thing you'll do for this relationship this week, then let the rest wait."
+				],
+				"curious": [
+					"{keyword} in love asks what you're actually driving toward. Is it closeness, adventure, stability, or something you haven't named yet?",
+					"With {card} in your love life, you might wonder how {keyword} works when two people travel at different speeds. Who usually sets the pace between you, and is that working?",
+					"Think of {keyword} as an invitation to pursue someone or something with intention rather than drift. What would going after it wholeheartedly look like?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible when your heart is heavy, and that's all right. Some days, getting through is all the forward motion there is.",
+					"After a loss, {keyword} can be as small as choosing to call a friend instead of waiting for them to call. Small steering counts.",
+					"You don't have to move on to honour {keyword}. Sometimes it means holding steady, keeping going quietly, while the grief travels with you."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about effort and direction in a relationship. Are you both steering toward the same place, or quietly pulling in different directions?",
+					"No fate here: {keyword} describes what happens when you decide what you want and act on it. What have you been waiting for permission to pursue in love?",
+					"Treat {keyword} as a practical question: in your closest relationships, do you set boundaries clearly, or hope people will guess them?"
+				],
+				"hopeful": [
+					"{keyword} suggests real progress is possible when you show up with intent. It doesn't guarantee how someone else responds, but it puts you in the driver's seat of your own part.",
+					"If you're hoping a relationship moves forward, {keyword} encourages a clear, confident step. Saying what you want is often what gets things moving.",
+					"There's encouragement in {keyword}: two people with different strengths can make strong progress when they agree on the destination. Where do you both want to go?"
+				],
+				"neutral": [
+					"In love, {keyword} points to commitment and purposeful effort. It asks whether you're steering your relationships or letting them steer you.",
+					"{keyword} here suggests moving forward with intention, and with a clear sense of your own boundaries.",
+					"With {keyword} in the picture, the focus is on balancing your own aims with a partner's, so you can move in the same direction."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can steady you when everything feels urgent. Choose the single task that matters most today and give it your full attention; the rest can queue.",
+					"If a work challenge feels too big, {keyword} reminds you that it can be broken down. Name the very next step, not the whole route.",
+					"{keyword} in your career doesn't require feeling confident. You can act steadily while nervous; ask what you'd do today if the worry were only background noise."
+				],
+				"curious": [
+					"{keyword} at work invites you to ask what you'd chase if nothing were holding you back. Which goal makes you lean forward?",
+					"{keyword} in your working life might mean harnessing skills that seem to pull in different directions. What could you build if you stopped choosing between them?",
+					"Think of {keyword} as a test drive. Where could you take the lead on something this month, just to see how it feels?"
+				],
+				"grieving": [
+					"{keyword} may feel far off while you're carrying a loss. It's okay if work goes on autopilot for a while; you don't have to excel right now.",
+					"If you've lost a role or a team that mattered, {keyword} can wait until you know where you want to go next. Not knowing yet is fine.",
+					"Sometimes {keyword} is just turning up and doing the next small thing. On heavy days, that is enough."
+				],
+				"skeptical": [
+					"Read practically, {keyword} at work is about focus and follow-through. Which goal are you spreading yourself too thin to reach?",
+					"No mystery: {keyword} is what happens when effort, direction and discipline line up. Which of those three is weakest for you at the moment?",
+					"Treat {keyword} as a prompt to check your priorities. If you could only push one project forward this quarter, which would it be?"
+				],
+				"hopeful": [
+					"{keyword} suggests your effort can carry you somewhere real. Success isn't guaranteed, but steady, focused work tends to gather speed.",
+					"If you're hoping for a breakthrough, {keyword} encourages you to commit fully to the next step. Momentum often follows commitment.",
+					"There's real promise in {keyword}: when you combine ambition with self-discipline, obstacles can start to look like terrain rather than walls."
+				],
+				"neutral": [
+					"In career matters, {keyword} points to ambition, discipline and progress through effort. It asks where you are steering your working life.",
+					"{keyword} here suggests success that comes from focus and control. The emphasis is on direction more than speed.",
+					"Professionally, {keyword} highlights the ability to hold competing demands together and still move forward."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} can be quietly practical. Choose one figure to look at today, a balance, a bill, a budget line, and let that be your small act of steering.",
+					"If finances feel unsteady, {keyword} reminds you that a plan can hold you even when feelings won't. Write down the next step, just one.",
+					"{keyword} in money matters doesn't need to be dramatic. Keeping one small promise to yourself about spending this week is real control."
+				],
+				"curious": [
+					"{keyword} invites you to ask what your money is moving you toward. If your spending had a destination, where would it be?",
+					"With {keyword} touching your resources, you might explore the tug between enjoying now and building for later. What would honouring both look like?",
+					"Think of {keyword} as a game: set one financial goal small enough to reach this month, and see how it feels to arrive."
+				],
+				"grieving": [
+					"{keyword} with money can feel beside the point when you're grieving. Keeping the basics covered is plenty for now.",
+					"If financial decisions have landed on you after a loss, {keyword} can be slow and careful. Ask for help where it's offered.",
+					"Sometimes {keyword} just means one practical task a day, and rest for the remainder. That is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} in money is about discipline and a clear goal. Do you know what you're saving or spending toward?",
+					"No magic needed: {keyword} describes steady habits beating bursts of effort. Which money habit could you make automatic?",
+					"Treat {keyword} as a prompt: where are your financial priorities pulling against each other, and which one should lead?"
+				],
+				"hopeful": [
+					"{keyword} suggests your effort with money can add up. It doesn't promise a windfall, but steady direction tends to show results over time.",
+					"If you're hoping for more security, {keyword} encourages a clear plan and the discipline to follow it. You can start small.",
+					"There's encouragement in {keyword}: when spending and saving pull together, progress can feel lighter than you'd expect."
+				],
+				"neutral": [
+					"In money matters, {keyword} points to discipline, focus and progress through steady effort.",
+					"{keyword} here suggests taking charge of your resources with a clear aim. It asks where you are headed.",
+					"Financially, {keyword} highlights balancing short-term wants with longer-term goals."
+				]
+			},
+			"health": {
+				"anxious": [
+					"When stress runs high, {keyword} can be as simple as one routine you keep no matter what: a regular bedtime, a short walk, a meal at the table.",
+					"If your body feels like it's racing, {keyword} might mean choosing a slower pace on purpose. Breathe out for longer than you breathe in, a few times.",
+					"{keyword} in caring for yourself doesn't require a big plan. Pick one small habit and keep it for a week; that is enough steering."
+				],
+				"curious": [
+					"{keyword} invites you to notice where your energy goes. What lifts you, and what quietly drains you?",
+					"With {keyword} in mind, you might explore how drive and rest share your days. Which one has been holding the reins lately?",
+					"Think of {keyword} as an experiment: try one change for two weeks and see what you notice in your body."
+				],
+				"grieving": [
+					"Grief takes energy, and {keyword} may feel far away. Let rest be enough; there is nowhere you need to get to.",
+					"If you're carrying a loss, {keyword} can be the smallest thing: getting outside for a few minutes, drinking water, going to bed.",
+					"Sometimes {keyword} means letting someone else drive for a while. Accepting care is part of caring for yourself."
+				],
+				"skeptical": [
+					"Practically, {keyword} in health is about consistency. Which habit would you keep if you could only keep one?",
+					"No magic needed: {keyword} describes what happens when routine replaces willpower. What could you make easier to repeat?",
+					"Treat {keyword} as a prompt to check your balance between effort and rest. Which have you been neglecting?"
+				],
+				"hopeful": [
+					"{keyword} suggests steady care can build real energy over time. Nothing is promised, but consistency tends to show up in how you feel.",
+					"If you're hoping to feel stronger, {keyword} encourages a clear, gentle routine. Start where you are.",
+					"There's encouragement in {keyword}: small, repeated choices often take you further than one big push."
+				],
+				"neutral": [
+					"In health, {keyword} points to discipline, steady routine and balancing effort with rest.",
+					"{keyword} here suggests taking charge of your habits with a clear aim.",
+					"With {keyword} present, the focus is on consistency and keeping competing needs in balance."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"Spiritually, {keyword} can be a steadying practice rather than a grand quest. Choose one small ritual, a minute of quiet, a short walk, and return to it each day.",
+					"If your inner life feels chaotic, {keyword} reminds you that you can hold different feelings at once without being thrown by them. Breathe, and let them ride side by side.",
+					"{keyword} doesn't need certainty. You can keep walking your path gently while the big questions stay open."
+				],
+				"curious": [
+					"{keyword} invites you to ask what you're really seeking. If your spiritual life had a compass, which way would the needle point today?",
+					"With {keyword} on your path, you might explore how opposites live in you: doubt and faith, stillness and drive. What happens when you let both steer instead of choosing one?",
+					"Think of {keyword} as an experiment in commitment. What practice would you keep for a month, just to see where it takes you?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel distant, and that's all right. Your practice can be very simple for now, or set aside entirely.",
+					"{keyword} can be as quiet as keeping one small ritual that links you to the one you've lost: a candle, a song, a place you visit.",
+					"Sometimes {keyword} simply means continuing, one day after another, with the loss walking beside you. That carries its own quiet dignity."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about focus and commitment in your inner life. Is there a practice you keep starting and dropping? What usually stops you?",
+					"No supernatural reading needed: {keyword} points to directing your attention on purpose. Where does your attention drift when you aren't choosing?",
+					"Treat {keyword} as a question about follow-through: which of your values are you actively living, and which are still mostly ideas?"
+				],
+				"hopeful": [
+					"{keyword} suggests your inner work can carry you somewhere meaningful. Growth isn't promised, but steady practice tends to deepen with time.",
+					"If you're seeking direction, {keyword} encourages you to stay with one path long enough to learn what it has to teach.",
+					"There's encouragement in {keyword}: the parts of you that seem to pull apart can become a source of strength once they travel together."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to focused intention and to bringing the conflicting parts of yourself into one direction.",
+					"{keyword} here suggests moving forward on your path with discipline and a clear sense of purpose.",
+					"With {keyword} present, the focus is on commitment and self-command in your inner life, more than on outward signs."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} can feel steadying when life is noisy. Choose one direction for today, even a small one, and let that be enough steering for now.",
+					"If you're worried about losing control, {keyword} reminds you that you still steer your own responses. Start with how you'll spend the next hour.",
+					"{keyword} doesn't require feeling sure. You can move forward carefully while still nervous, the way most people do."
+				],
+				"curious": [
+					"{keyword} invites a question: what are you driving toward right now, and is it something you chose or something you inherited?",
+					"With {keyword} in view, you might notice which parts of your life pull against each other. What would it look like to harness both instead of picking a side?",
+					"Think of {keyword} as an invitation to take the reins for a while. If you were fully in charge of the next month, where would you head?"
+				],
+				"grieving": [
+					"{keyword} may feel far away while you're grieving. Getting through the day is forward motion too, even when it doesn't feel like it.",
+					"If you're carrying a loss, {keyword} can mean small, steady acts of continuing: a meal, a message, a short walk. That is enough.",
+					"Sometimes {keyword} looks like simply holding on. You don't need to win anything right now; staying upright is its own quiet strength."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about focus, effort and direction. Where are you spreading yourself too thin to make real progress?",
+					"No mystery involved: {keyword} describes what happens when you decide and then follow through. What have you decided but not yet acted on?",
+					"Treat {keyword} as a prompt for priorities. If only one goal could get your full energy this month, which would earn it?"
+				],
+				"hopeful": [
+					"{keyword} suggests real progress is possible through steady effort. Nothing is guaranteed, but a clear direction gives effort somewhere to go.",
+					"If you're hoping for movement, {keyword} encourages a confident first step. Things often start moving once you do.",
+					"There's encouragement in {keyword}: drive paired with discipline tends to carry people further than talent alone."
+				],
+				"neutral": [
+					"{keyword} points to willpower, direction and success earned through effort. It asks where you are steering your life.",
+					"In general, {keyword} suggests moving forward with focus, holding competing demands together rather than letting them scatter you.",
+					"With {keyword} present, the emphasis is on self-command: deciding where to go, and keeping your course."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} may feel out of reach, as if a relationship is pulling you along without your say. You can take back one small decision today, even if it's only about your own time.",
+					"If you've been pushing hard to make something work, {keyword} may be tipping into strain. It's okay to ease off and let things settle for a few days.",
+					"When {keyword} seems to have stalled, notice that stillness isn't failure. Breathe, and ask what you'd want if you weren't afraid of losing ground."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. Before steering a relationship anywhere, what do you actually want from it?",
+					"If {keyword} keeps veering off course in love, you might get curious about where the pull comes from. Is it your wishes, or someone else's expectations?",
+					"{keyword} may be scattered right now. What if you chose just one thing to move toward between you and someone close, and let the rest wait?"
+				],
+				"grieving": [
+					"{keyword} may simply not be available right now, and you don't have to force it. Grief has its own pace, and you can let it lead for a while.",
+					"If you feel stuck since a loss, {keyword} can wait. Standing still with what you're carrying is its own kind of strength.",
+					"Sometimes {keyword} gets lost when someone who steered alongside you is gone. Missing them in the ordinary decisions is part of the grief."
+				],
+				"skeptical": [
+					"Practically, reversed, {card} points to {keyword} being blocked or overdone. Are you trying to control how someone else feels, or failing to say what you need?",
+					"Use {keyword} as a check: when a relationship gets hard, do you push harder, or stop steering altogether? Neither tends to work for long.",
+					"No mysticism needed: {keyword} stalls when two people want different things and neither says so. What's the unspoken difference here?"
+				],
+				"hopeful": [
+					"{keyword} may be slower to return than you'd like, but a pause can show you which way you really want to go. Use it.",
+					"If a relationship has lost its way, {keyword} can be found again through small, shared choices. Nothing is promised, but you can begin your side.",
+					"There's hope in easing your grip. {keyword} sometimes comes back once you stop forcing the pace and start listening."
+				],
+				"neutral": [
+					"Reversed, {keyword} in love suggests a loss of direction, pushing too hard, or two people pulling different ways.",
+					"{keyword} here may be blocked or turned inward. It asks what you want before deciding how to get there.",
+					"In love, {keyword} reversed can point to control used in the wrong place. The invitation is to steer yourself, not the other person."
+				]
+			},
+			"career": {
+				"anxious": [
+					"{keyword} at work may feel stalled or scattered. Rather than pushing on every front, choose one thing you can finish this week; finishing is steadying.",
+					"If you've been driving yourself too hard, {keyword} may be tipping into strain. Easing off for a day is a choice, not a defeat.",
+					"When {keyword} seems lost, write down the three things that actually depend on you. Most of the noise belongs to someone else."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. Where do you want your work to take you, apart from what others expect?",
+					"{keyword} may be pulling you several ways at once. What would happen if you dropped the goal you care least about?",
+					"If {keyword} keeps stalling, you might ask what you're avoiding. Is it the work, or what success would demand of you?"
+				],
+				"grieving": [
+					"{keyword} may be the last thing you have room for right now. Let work be simpler for a while; there's no race to win.",
+					"If a loss has knocked your career off course, {keyword} can return in its own time. You're allowed to idle.",
+					"Sometimes {keyword} goes quiet after grief, and pushing only tires you more. Rest is part of the road."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests effort without direction, or control turning into rigidity. Which describes your work right now?",
+					"Use {keyword} as a question: are you competing with someone in a way that costs more than it earns? Where is the energy going?",
+					"No mystery: {keyword} falters when too many goals compete. Which commitment could you renegotiate or drop?"
+				],
+				"hopeful": [
+					"{keyword} at work may be delayed rather than gone. A pause can be the moment you choose a better route.",
+					"If you've lost momentum, {keyword} can build again from small wins. Nothing is guaranteed, but finishing one thing helps.",
+					"There's hope in loosening your grip. {keyword} often returns once you stop forcing every outcome and pick a single direction."
+				],
+				"neutral": [
+					"Reversed, {keyword} at work suggests scattered effort, lost direction, or ambition pushed too far.",
+					"{keyword} here may be blocked or turned inward. It asks what you want from your work, plainly.",
+					"Professionally, {keyword} reversed can point to friction between control and flexibility. Both have their place."
+				]
+			},
+			"money": {
+				"anxious": [
+					"{keyword} with money may feel out of reach, as if things are moving without you. Choose one small decision you can make today; control returns in small pieces.",
+					"If you've been pushing hard to catch up, {keyword} may be tipping into stress. A short pause to review where things stand can steady you.",
+					"When {keyword} feels scattered, simplify. Focus on the essentials this week and let the rest wait."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. What do you want from money, apart from what you think you should want?",
+					"{keyword} may be pulled in too many directions. Which financial goal could you set down for now to give another room?",
+					"If {keyword} keeps faltering, you might ask whether your plan still fits your life. When did you last update it?"
+				],
+				"grieving": [
+					"{keyword} with finances may feel impossible right now. That's understandable; let others help where they can.",
+					"If a loss has upended your resources, {keyword} can return gradually. There's no deadline on getting things in order.",
+					"Sometimes {keyword} slips when your heart is elsewhere. Covering the basics is enough for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to spending without a plan, or a plan held too rigidly. Which is closer to the truth?",
+					"Use {keyword} as a check: are you chasing a financial goal that no longer matters to you? It may be time to redirect.",
+					"No mystery: {keyword} breaks down when impulse and intention pull apart. Where is that happening with your money?"
+				],
+				"hopeful": [
+					"{keyword} in money may be delayed rather than lost. A pause can help you choose a better course.",
+					"If your finances have drifted, {keyword} can be rebuilt one habit at a time. Nothing is promised, but small steps add up.",
+					"There's hope in redirecting. {keyword} often returns once you pick one goal and let go of the others for now."
+				],
+				"neutral": [
+					"Reversed, {keyword} in money suggests scattered effort, a lack of plan, or control taken too far.",
+					"{keyword} here may be blocked or inward. It asks what you truly want your money to do.",
+					"In money matters, {keyword} reversed can point to impulse winning over intention."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} may be tipping into pushing too hard. Your body might be asking for a pause, and one quiet evening with nothing scheduled is a reasonable thing to give it.",
+					"If routines have slipped and {keyword} feels out of reach, don't try to rebuild them all at once. Pick the simplest one, perhaps a regular bedtime, and begin there.",
+					"When {keyword} feels scattered, come back to your breath. Slowing it a little, right now, is one thing fully within your control."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. What does your body seem to want, as opposed to what you've decided it should want?",
+					"{keyword} may be pulling you two ways at once, toward rest and toward achievement. Which habit are you holding onto out of duty rather than care?",
+					"If {keyword} keeps stalling, get curious about the friction. Is it time, energy, company, or a plan that was never really built for your life?"
+				],
+				"grieving": [
+					"{keyword} may simply not be available right now, and that's fine. Grief is tiring in ways that are hard to explain; let care be small and plain.",
+					"If your routines fell away after a loss, {keyword} can return slowly, or in a different shape. There's no schedule you need to meet.",
+					"Sometimes {keyword} gives way to stillness because your whole self is busy carrying something heavy. Being slow with yourself is not falling behind."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests effort without rest, or a routine with no clear purpose. Which description fits your week more closely?",
+					"Use {keyword} as a check: are you forcing a habit that clearly isn't suiting your body, just because you said you would? Adjusting it isn't quitting.",
+					"No mystery here: {keyword} tends to falter when stress pulls your attention elsewhere. What one thing could you simplify so care fits back in?"
+				],
+				"hopeful": [
+					"{keyword} may come back once you've rested. Momentum often rebuilds after a pause, sometimes more steadily than before.",
+					"If your habits have drifted, {keyword} can be rebuilt gently, one small routine at a time. Nothing is promised, but each kept promise to yourself adds up.",
+					"Easing off can be the turn that helps. When you stop driving yourself so hard, {keyword} may find a pace you can actually sustain."
+				],
+				"neutral": [
+					"Reversed, {keyword} in health suggests overexertion, scattered routines, or effort that hasn't made room for rest.",
+					"{keyword} here may be blocked or turned inward. It asks what your body actually needs, rather than what your plans demand of it.",
+					"In health, {keyword} reversed can point to pushing past your limits, or to losing the thread of your own routines."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{keyword} may feel lost in your inner life right now. That happens on almost every path; one small, steady practice can help you find your footing again.",
+					"If you feel pulled in many spiritual directions at once, {keyword} can wait. Choose the one thing that reliably brings you calm, and stay with it for now.",
+					"When {keyword} seems absent, try not to treat that as a warning. Directionless stretches are an ordinary part of inner life, and they pass at their own pace."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. What would you seek if nobody else's idea of a spiritual life counted?",
+					"{keyword} may feel scattered because something is shifting. Which practice have you quietly outgrown, and what is starting to call to you instead?",
+					"If {keyword} keeps slipping, you might wonder whether you're forcing a path that was never quite yours. What would you try if you stopped forcing?"
+				],
+				"grieving": [
+					"{keyword} may have gone quiet in your grief. Let your inner life rest; meaning doesn't have to be chased to come back.",
+					"If a loss has shaken your path, {keyword} doesn't need to be rebuilt right away. You're allowed to simply not know for a while.",
+					"Sometimes {keyword} gives way to plain being: sitting, breathing, missing someone. That is enough of a practice for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests practice without purpose, or purpose without practice. Which is truer for you at the moment?",
+					"Use {keyword} as a check: are you pursuing inner growth because it interests you, or because you feel you ought to? The answer changes what to do next.",
+					"No mystery here: {keyword} falters when we chase too many ideas at once. If you kept only one practice, which would it be?"
+				],
+				"hopeful": [
+					"{keyword} may be paused rather than gone. Stepping off the path for a while can make it clearer which way you want to go.",
+					"If you've drifted, {keyword} can return through one small practice kept faithfully. Nothing is promised, but returning is always possible.",
+					"Letting go of the need to control your growth can be its own turning point. {keyword} sometimes deepens precisely when you stop pushing for it."
+				],
+				"neutral": [
+					"Reversed, {keyword} on a spiritual level suggests lost direction, scattered practice, or striving pushed past its usefulness.",
+					"{keyword} here may be blocked or turned inward. It asks what you are truly seeking, underneath the effort.",
+					"Spiritually, {keyword} reversed can point to an inner tug-of-war between beliefs that haven't yet found a way to coexist."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} may feel out of reach, as if life is moving without your hands on it. Choose one small thing to steer today, even just the order of your tasks.",
+					"If you've been pushing on every front, {keyword} may be asking for a pause. Rest is a decision you're allowed to make, not a sign you've lost.",
+					"When {keyword} feels scattered, simplify until it feels manageable: one task, one step, one slow breath before the next."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. Before choosing a direction, where do you actually want to end up?",
+					"{keyword} may be pulled in many directions at once. Which goal could you set down, at least for now, to free up the others?",
+					"If {keyword} keeps stalling, you might get curious about the brakes. What are you protecting yourself from by not moving?"
+				],
+				"grieving": [
+					"{keyword} may not be available right now, and you don't have to summon it. Grief has its own pace, and it's fine to let it lead.",
+					"If you feel stuck since your loss, {keyword} can wait. Standing still with what you're carrying is not the same as giving up.",
+					"Sometimes {keyword} fades because someone who shared the road is no longer there. Missing them in the everyday choices is part of grieving them."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests effort without direction, or control held so tightly it becomes rigid. Which sounds more like you lately?",
+					"Use {keyword} as a check: which of your goals are quietly working against each other? Naming the conflict is half of resolving it.",
+					"No mystery here: {keyword} falters when too much is attempted at once. What could you take off the list without real loss?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. A pause can reveal a better route than the one you were forcing.",
+					"If you've lost momentum, {keyword} can build again from small, finished things. Nothing is promised, but one completed task often leads to another.",
+					"Loosening your grip can be what gets things moving. {keyword} sometimes returns once you stop trying to control every part of the journey."
+				],
+				"neutral": [
+					"Reversed, {keyword} suggests scattered effort, lost direction, or force applied without focus.",
+					"{keyword} here may be blocked or turned inward. It asks where you truly want to go before deciding how hard to push.",
+					"In general, {keyword} reversed can point to a struggle for control, either with circumstances or with yourself."
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,412 @@
+{
+	"id": "swords_09_nine",
+	"name": "Nine of Swords",
+	"facets": [
+		{
+			"id": "worry",
+			"keywords": ["worry", "a racing mind", "a fear that grows at night"]
+		},
+		{
+			"id": "sleeplessness",
+			"keywords": ["a sleepless night", "worry in the small hours", "a restless night"]
+		},
+		{
+			"id": "guilt",
+			"keywords": ["regret", "a heavy conscience", "self-blame"]
+		},
+		{
+			"id": "catastrophising",
+			"keywords": ["a worst-case story", "a fear bigger than the facts", "a mind running ahead"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you lie awake turning a relationship over, {keyword} may be louder than the facts. Right now, put one hand on your chest, breathe out slowly, and remind yourself that nothing has to be decided tonight.",
+					"{keyword} about someone you love can feel very real in the dark. One thing in your control: write the fear down, close the notebook, and look at it again in daylight.",
+					"When love keeps you up, {keyword} tends to fill every silence with the worst meaning. Choose one kind, ordinary thing to do for yourself before bed, and let that be enough."
+				],
+				"curious": [
+					"{keyword} raises a gentle question: which of your relationship worries began with something that happened, and which began with something you imagined?",
+					"What if {keyword} is trying to protect something you value? Ask what it's guarding, rather than only what it's afraid of.",
+					"{keyword} hints at a conversation happening only inside your head. What might change if part of it were spoken aloud, kindly, to the person involved?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may arrive in the quiet hours, full of things you wish you had said or done. Those thoughts are a sign of love, not proof that you failed.",
+					"{keyword} can be part of missing someone. If the night is hard, it is all right to get up, make something warm, and simply sit with them in your mind.",
+					"If grief and {keyword} are keeping you company, you don't need to argue with them. Let them be there, and let someone know that the nights are long."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about how worry grows when it's left alone with no new information. What could you actually find out, rather than guess?",
+					"{keyword} is a useful prompt: separate what you know about the relationship from what you fear. The two lists are usually very different lengths.",
+					"No hidden meaning needed: {keyword} describes a familiar pattern of overthinking at night. Most people find these fears shrink when shared with someone level-headed."
+				],
+				"hopeful": [
+					"{keyword} may feel heavy, but it doesn't decide how things go between you and anyone else. Hope can sit alongside it, quietly.",
+					"If you are hoping for things to improve in love, {keyword} suggests easing your mind first. A calmer conversation often goes further than a worried one.",
+					"{keyword} invites you to notice the good moments as carefully as the fears. Both are real, and both deserve a place in the picture."
+				],
+				"neutral": [
+					"In love, {keyword} points to worry, overthinking or guilt that may be larger in the mind than in the relationship itself.",
+					"{keyword} speaks to night-time fears about the people you care for, and how isolation can make them grow.",
+					"{keyword} suggests checking your worries against what has actually happened, ideally with someone you trust."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work follows you to bed, {keyword} may be making things look bleaker than they are. Before you sleep, jot down tomorrow's first task so your mind can put it down for the night.",
+					"{keyword} about your job can loop for hours. One small step: choose the single thing you'd most like to know, and plan to ask about it during working hours.",
+					"When work worry spikes, {keyword} can drown out what you've done well. Name one piece of work you're quietly proud of, and hold on to that tonight."
+				],
+				"curious": [
+					"{keyword} opens a question: is this worry about the work itself, or about what someone might think of you?",
+					"What if {keyword} is pointing at something you actually want to change at work? Fear can sometimes be a clumsy messenger for a real wish.",
+					"{keyword} hints that the hardest critic in your career may be your own voice at 3am. What would a fair colleague say instead?"
+				],
+				"grieving": [
+					"If you've lost a job, a project or a working relationship, {keyword} may keep replaying it. You don't need to solve it at night; you only need to rest when you can.",
+					"{keyword} can make it hard to work while grieving. Let your expectations be smaller for a while, and say so to someone you trust.",
+					"At work, {keyword} may sit just under the surface during a hard season. It is all right to take things one hour at a time."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to separate real work risks from imagined ones. Write each worry down with one fact for and one fact against.",
+					"{keyword} describes how pressure grows when problems go unspoken. Which issue could you raise in a meeting rather than carry home?",
+					"Read plainly, {keyword} usually means you need more information or more rest, often both. Which one is easier to get this week?"
+				],
+				"hopeful": [
+					"{keyword} may be loud, but it isn't a forecast. Hope can live in the small steps you take to address what's worrying you.",
+					"If you are hoping for things to settle at work, {keyword} suggests talking to someone who can help you see the situation more clearly.",
+					"{keyword} invites you to give your effort the same attention you give your fears. What has gone better than expected lately?"
+				],
+				"neutral": [
+					"In career matters, {keyword} points to stress, overthinking or self-criticism about work that may be worse in the mind than in reality.",
+					"{keyword} speaks to work worries that intensify at night or in isolation.",
+					"{keyword} suggests testing your fears against facts, and sharing them with someone you trust."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money keeps you awake, {keyword} may be making the numbers seem bigger in the dark. Tonight, write down one thing you'll check tomorrow, then let the rest wait until morning.",
+					"{keyword} about finances can feel endless. One thing in your control: look at a single account in daylight, with a cup of tea, and note the real figure.",
+					"When money fear grows, {keyword} can hide the options you still have. Name one small resource or source of help, however modest."
+				],
+				"curious": [
+					"{keyword} raises a question: when did this money worry start, and has the situation changed as much as the fear has?",
+					"What if {keyword} is showing you what security means to you? Look at what you fear losing, and what that says about what you value.",
+					"{keyword} hints that some money worries are about the future rather than the present. Which one is about today?"
+				],
+				"grieving": [
+					"After a loss, {keyword} about money can feel overwhelming. You don't have to sort it out at night; let someone help with the practical parts in daylight.",
+					"{keyword} may mix with grief in ways that feel hard to untangle. Be gentle with yourself; the paperwork can wait a day.",
+					"If finances have changed because of a loss, {keyword} is understandable. Do only what is urgent, and rest where you can."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to get the actual figures. Fear thrives on vague numbers and tends to shrink in the face of precise ones.",
+					"{keyword} describes a common loop: worrying about money instead of planning for it. What's the first line of a plan?",
+					"Read plainly, {keyword} suggests talking through the situation with someone, whether a friend or a free advice service, rather than carrying it alone."
+				],
+				"hopeful": [
+					"{keyword} may be heavy, but it isn't the whole story. Look for one sign that things are holding steadier than you feared.",
+					"If you are hoping for financial relief, {keyword} suggests that easing the worry may help you think more clearly about solutions.",
+					"{keyword} invites you to notice what you have managed so far. You've likely handled more than you give yourself credit for."
+				],
+				"neutral": [
+					"Around money, {keyword} points to financial worry, guilt about spending, or fears that feel larger at night.",
+					"{keyword} speaks to money stress that may be partly fact and partly the mind running ahead.",
+					"{keyword} suggests checking your money fears against the real numbers."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you're lying awake with {keyword}, try placing your attention on something simple: the weight of the blanket, the sound of your breath. You don't have to solve anything right now.",
+					"{keyword} can make the body feel tense and wired. One small thing: breathe out a little longer than you breathe in, a few times, and let your shoulders drop.",
+					"When worry fills the night, {keyword} isn't something you have to fight alone. Tell one person tomorrow how you've been sleeping and feeling."
+				],
+				"curious": [
+					"{keyword} raises a question: what helps you wind down, and what winds you up just before bed?",
+					"What if {keyword} is your body asking for a gentler evening? Notice what you do in the hour before sleep this week.",
+					"{keyword} hints that rest and worry are linked. Which comes first for you, the tiredness or the racing thoughts?"
+				],
+				"grieving": [
+					"Grief often shows up at night, and {keyword} may be part of that. It is all right to sleep at odd times, or not well, for a while.",
+					"{keyword} may make your body feel heavy and restless at once. Small comforts like warmth, a soft light and a familiar sound can help.",
+					"If grief and {keyword} keep you awake, you are not doing anything wrong. Let rest come in whatever pieces it arrives."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to look at your evening routine. Screens, caffeine and late work all tend to keep the mind busy.",
+					"{keyword} describes how stress and poor rest feed each other. Which link in that chain is easiest to change?",
+					"Read plainly, {keyword} suggests that sharing your worries with someone, rather than carrying them to bed, may help you rest."
+				],
+				"hopeful": [
+					"{keyword} may be hard, but small changes to your evenings can make a real difference. Pick one to try this week.",
+					"If you are hoping for better rest, {keyword} suggests being patient with yourself while you find what helps.",
+					"{keyword} invites you to treat yourself with the kindness you'd offer a friend who couldn't sleep."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to worry, restlessness or tension that may feel worse at night.",
+					"{keyword} speaks to the link between a busy mind and a tired body.",
+					"{keyword} suggests paying gentle attention to how worry affects your rest."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your mind won't quiet, {keyword} may be asking for gentleness rather than answers. Try a simple practice: name five things you can hear, slowly.",
+					"{keyword} can make inner life feel dark. One thing in your control: return to a phrase, prayer or image that has steadied you before.",
+					"When fear crowds in, {keyword} invites you to remember that thoughts pass, even the loud ones. Watch one come and go."
+				],
+				"curious": [
+					"{keyword} raises a question: what is this worry trying to tell you about what matters most?",
+					"What if {keyword} is an invitation to look at a fear you've been avoiding, with curiosity rather than dread?",
+					"{keyword} hints that the night mind and the day mind see things differently. Which one do you trust more, and why?"
+				],
+				"grieving": [
+					"{keyword} may bring hard questions about meaning after a loss. You don't need answers; you only need to let yourself feel.",
+					"If grief keeps you up, {keyword} is part of how love moves through you. Be gentle with yourself in those hours.",
+					"{keyword} can feel very lonely in the dark. If it helps, imagine someone who loved you sitting quietly nearby."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is a prompt to notice how thoughts can feel like truths at night. What do they look like in daylight?",
+					"{keyword} describes a familiar inner pattern: guilt or fear that grows in isolation. Sharing it often shrinks it.",
+					"Read practically, {keyword} suggests reflective practices like journaling, walking or talking might help untangle your thoughts."
+				],
+				"hopeful": [
+					"{keyword} may feel dark, but it isn't the whole of you. There is still a quiet, steady part underneath.",
+					"If you are hoping for peace, {keyword} suggests that facing a fear gently can loosen its grip.",
+					"{keyword} invites you to trust that difficult nights are part of the journey, not the end of it."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to inner fears, guilt or doubts that may be amplified in solitude.",
+					"{keyword} speaks to the dark night of worry, and the way it can distort perspective.",
+					"{keyword} suggests bringing your fears into the light, gently."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you're carrying {keyword}, start with your breath and your feet on the floor. Right now you are here, and that is enough to start from.",
+					"{keyword} can make everything feel bigger than it is. Choose one small thing you can do today to ease your mind, and do only that.",
+					"When fear runs ahead, {keyword} isn't a forecast. Tell someone you trust what's worrying you; saying it out loud often makes it smaller."
+				],
+				"curious": [
+					"{keyword} raises a question: which of your worries are about what's happening, and which are about what might?",
+					"What if {keyword} is pointing to something you care about deeply? Look at the value underneath the fear.",
+					"{keyword} hints that the mind can tell convincing stories at night. Which one would you like to fact-check?"
+				],
+				"grieving": [
+					"{keyword} may be part of how grief feels right now. You don't need to make sense of it; just let it be there.",
+					"If nights are hard, {keyword} is understandable. Let someone know, and let comfort come in small ways.",
+					"{keyword} can be heavy alongside loss. Be gentle with yourself, and rest whenever you can."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to separate facts from fears. Write both lists, and compare.",
+					"{keyword} describes how worry grows in isolation. Talking it through usually helps.",
+					"Read plainly, {keyword} suggests you need more rest or more information, perhaps both."
+				],
+				"hopeful": [
+					"{keyword} may be heavy, but it doesn't decide how things go. Hope can live alongside it.",
+					"If you are hoping for relief, {keyword} suggests easing your mind first. Clearer thinking often follows.",
+					"{keyword} invites you to notice what's going well, not just what you fear."
+				],
+				"neutral": [
+					"{keyword} points to worry, guilt or fear that may be larger in the mind than in reality.",
+					"In general, {keyword} speaks to distress that grows at night or in isolation.",
+					"{keyword} suggests checking fears against facts, ideally with someone you trust."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} about love may be starting to ease, even if it doesn't feel that way every night. One thing you can do: notice the first evening you fall asleep without replaying a conversation.",
+					"If you've been holding {keyword} in, it may be ready to come out. Telling one trusted person what you've been afraid of can take a surprising amount of weight off.",
+					"Sometimes {keyword} turns inward and goes quiet rather than away. Be patient with yourself, and keep naming the fear in daylight, where it's smaller."
+				],
+				"curious": [
+					"{keyword} may be loosening its hold on your heart. What feels possible in your relationships now that the worry is quieter?",
+					"What if {keyword} has been easing because you finally said something out loud? It may be worth noticing what helped.",
+					"{keyword} might be hidden rather than gone. Is there a fear about love you've stopped mentioning but still carry?"
+				],
+				"grieving": [
+					"{keyword} may soften slowly as grief changes shape. Some nights may be easier than others, and that's all right.",
+					"If you've been carrying {keyword} about someone you lost, it may begin to loosen. You can keep the love and let some of the blame go.",
+					"{keyword} may still come in waves. Each wave can be met with a little more gentleness than the last."
+				],
+				"skeptical": [
+					"Practically, {keyword} easing often means you've checked a fear against reality and found it wanting. Notice that, and keep doing it.",
+					"Read plainly, {keyword} lifting suggests talking things through has helped. What conversation might help further?",
+					"{keyword} is a prompt to notice whether worry is truly gone or just pushed down. Both are common; only one is restful."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to clearer, calmer feelings in love. That doesn't guarantee an outcome, but it helps you see straight.",
+					"If you are hoping to trust again, {keyword} easing suggests you're moving in that direction.",
+					"{keyword} could continue to lift as you share it with people who care. Let them help."
+				],
+				"neutral": [
+					"In love, {keyword} easing can point to worry lifting, guilt being released, or fear hidden away rather than faced.",
+					"{keyword} appears to be shifting: the night-time weight may be lighter, or simply quieter.",
+					"{keyword} suggests checking whether a worry has truly eased or just gone underground."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work worry has been relentless, {keyword} may be easing. One thing you can do: notice one task that feels less daunting than it did last week.",
+					"{keyword} may be ready to be spoken. A short, honest conversation with a manager or colleague could lighten more than you expect.",
+					"When stress turns inward, {keyword} can hide behind busyness. Take a short break today and notice how you actually feel."
+				],
+				"curious": [
+					"{keyword} may be loosening. What would you try at work if the fear were a little quieter?",
+					"What if {keyword} has eased because something changed? Notice what helped, so you can return to it.",
+					"{keyword} might be hidden behind long hours. Are you working harder to avoid feeling worried?"
+				],
+				"grieving": [
+					"If grief has made work hard, {keyword} may slowly ease. Let it take its time.",
+					"{keyword} may lift a little as you let others know what you're carrying. You don't have to manage alone.",
+					"{keyword} can soften gradually. Some days may still be heavy, and that's understandable."
+				],
+				"skeptical": [
+					"Plainly, {keyword} easing often means you've addressed a real issue or realised a fear was overblown. Which was it?",
+					"{keyword} is a prompt to check whether stress is lifting or just being ignored.",
+					"Read practically, {keyword} loosening is a good moment to make a plan, while your mind is clearer."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to calmer thinking at work. Use it to take a step you've been putting off.",
+					"If you are hoping for less pressure, {keyword} easing suggests some has already lifted.",
+					"{keyword} could continue to ease as you share the load. Let colleagues help."
+				],
+				"neutral": [
+					"In career matters, {keyword} easing can point to stress lifting, worries addressed, or fears pushed beneath the surface.",
+					"{keyword} appears to be shifting, though it may simply be quieter rather than resolved.",
+					"{keyword} suggests checking whether work worries have truly eased."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money fear has kept you up, {keyword} may be starting to ease. Notice one night this week when it felt a little lighter, and what you had done that day.",
+					"{keyword} may be ready to be shared. Talking to one person about money, even briefly, can loosen a worry that has grown big in private.",
+					"When worry hides, {keyword} can still show up as avoiding statements and letters. One small step: open one, in daylight, with something warm to drink."
+				],
+				"curious": [
+					"{keyword} may be loosening its grip on your finances. What would you choose with money if worry weren't the one steering?",
+					"What if {keyword} has eased because you finally looked at the real numbers? It might be worth remembering how that felt, for next time.",
+					"{keyword} might be tucked away rather than gone. Is there a money fear you've stopped mentioning but still quietly plan around?"
+				],
+				"grieving": [
+					"{keyword} may ease slowly as things settle after a loss. Let others take on the paperwork where they can, and let yourself rest.",
+					"If money and grief have been knotted together, {keyword} may begin to loosen over time. There's no deadline for feeling on top of it.",
+					"{keyword} can soften gradually, one sorted task at a time. Doing only what is urgent is a perfectly reasonable plan for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} easing often means you've got a clearer picture of where you stand. Keep that picture updated so the fear doesn't refill the gaps.",
+					"{keyword} is a prompt to check whether money stress has been resolved or just avoided. The difference usually shows in what you still won't open.",
+					"Read plainly, {keyword} lifting is a good moment to make a calm plan, while your thinking isn't clouded by the small hours."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to clearer thinking about money. That clarity is a good foundation, whatever the numbers say.",
+					"If you are hoping for financial relief, {keyword} easing suggests some has already arrived, even if only in your head. That counts.",
+					"{keyword} could keep lifting as you face things step by step. Each honest look at the figures tends to shrink the dread a little."
+				],
+				"neutral": [
+					"Around money, {keyword} easing can point to worry lifting, clearer figures, or fears pushed out of sight rather than faced.",
+					"{keyword} appears to be shifting with your finances, though quieter does not always mean resolved.",
+					"{keyword} suggests checking whether money worries have truly eased, or simply moved to the back of the drawer."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If nights have been hard, {keyword} may be starting to ease. Notice one evening when you felt a little calmer, and what you did in the hour before bed.",
+					"{keyword} may be ready to be spoken. Telling someone how you've really been sleeping and feeling can be a relief in itself.",
+					"When worry turns inward, {keyword} can still sit in the body as a tight jaw or busy hands. Try a slow breath and a gentle stretch before bed tonight."
+				],
+				"curious": [
+					"{keyword} may be loosening. What has helped you rest even a little better lately, and could you make more room for it?",
+					"What if {keyword} has eased because you changed something small, like a quieter evening or an earlier night? It might be worth noticing.",
+					"{keyword} might be hidden rather than gone. Where in your body do you still feel it, and what does that place seem to want?"
+				],
+				"grieving": [
+					"{keyword} may ease slowly as grief changes shape. Rest whenever it comes, even at odd hours, without judging it.",
+					"If nights have been long since your loss, {keyword} may soften a little at a time. Be patient with yourself; there is no right pace.",
+					"{keyword} can lift gradually. Small comforts like a warm drink, a familiar blanket or a voice on the phone still count as care."
+				],
+				"skeptical": [
+					"Practically, {keyword} easing may mean a change in routine is helping. Name it, and protect it from busier weeks.",
+					"{keyword} is a prompt to check whether stress has truly lifted or just moved somewhere else, like your shoulders or your appetite.",
+					"Read plainly, {keyword} lifting suggests your rest may be improving. Keep doing the boring things that seem to work."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to better rest. Let yourself enjoy a calmer night without bracing for the next hard one.",
+					"If you are hoping to feel calmer in yourself, {keyword} easing suggests you're already some way along.",
+					"{keyword} could keep lifting with patience and steady habits. Your body tends to respond to kindness, even slowly."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} easing can point to calmer nights, lifting tension, or worry held quietly in the body.",
+					"{keyword} appears to be shifting, though the body sometimes lets go more slowly than the mind.",
+					"{keyword} suggests noticing what helps you rest now, so you can come back to it on harder nights."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner world has felt dark, {keyword} may be easing. Notice one moment of quiet this week, however brief, and let it count.",
+					"{keyword} may be ready to be spoken, whether to a person, in prayer or on paper. Naming a fear often loosens its hold.",
+					"When fear turns inward, {keyword} can feel hidden but heavy. Return to one simple practice that has steadied you before, even for a few breaths."
+				],
+				"curious": [
+					"{keyword} may be loosening. What understanding is surfacing now that the noise is a little quieter?",
+					"What if {keyword} has eased because you turned toward it instead of away? Notice what you learned by looking.",
+					"{keyword} might be hiding in a corner of your inner life. Is there a fear you haven't been willing to examine yet?"
+				],
+				"grieving": [
+					"{keyword} may soften slowly in grief. Let it take its time, and let your practice be simple or even silent.",
+					"If guilt has weighed on you since a loss, {keyword} may begin to lift. You can keep the love and set down some of the blame.",
+					"{keyword} can ease gradually. For now, being gentle with yourself is enough of a practice."
+				],
+				"skeptical": [
+					"Plainly, {keyword} easing suggests a fear has been examined and found smaller than it seemed in the dark.",
+					"{keyword} is a prompt to check whether worry has lifted or gone underground, where it may still shape your choices.",
+					"Read practically, {keyword} lifting is a normal part of working through hard thoughts. Notice which tools helped you do it."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to a quieter kind of peace. Trust the small signs, even when they come and go.",
+					"If you are hoping for light, {keyword} easing suggests it may already be coming in at the edges.",
+					"{keyword} could keep lifting as you stay open and honest with yourself. That honesty is its own kind of faith."
+				],
+				"neutral": [
+					"Spiritually, {keyword} easing can point to fear released, guilt forgiven, or worry hidden from view.",
+					"{keyword} appears to be shifting, though it may linger quietly before it truly lets go.",
+					"{keyword} suggests bringing any remaining fears gently into the light, at your own pace."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If worry has been heavy, {keyword} may be starting to ease. Notice one moment today when it felt lighter, and let that moment be real.",
+					"{keyword} may be ready to be shared. Telling one trusted person what you've been afraid of often makes it smaller and less lonely.",
+					"When fear turns inward, {keyword} can weigh on you quietly. Be gentle with yourself, and take one small step that is fully in your hands."
+				],
+				"curious": [
+					"{keyword} may be loosening. What becomes possible when your mind isn't spending the night on guard?",
+					"What if {keyword} has eased because you faced it rather than fled it? Notice what helped, so you can find it again.",
+					"{keyword} might be hiding rather than gone. Is there a worry you've stopped mentioning but still arrange your days around?"
+				],
+				"grieving": [
+					"{keyword} may soften slowly. Let it take its time, and let the nights be whatever they are.",
+					"If guilt has weighed on you, {keyword} may begin to lift. You are allowed to let some of it go without letting go of the love.",
+					"{keyword} can ease gradually. Rest when you can, and accept comfort when it's offered."
+				],
+				"skeptical": [
+					"Practically, {keyword} easing often means a fear has been tested and found smaller than it felt.",
+					"{keyword} is a prompt to check whether worry has lifted or just gone quiet. Quiet worry can still steer decisions.",
+					"Read plainly, {keyword} lifting is a good moment to plan calmly, before the next busy stretch arrives."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to calmer days. Let yourself notice them without waiting for the other shoe to drop.",
+					"If you are hoping for relief, {keyword} easing suggests some of it may already be here.",
+					"{keyword} could keep lifting with patience and the support of people who care about you."
+				],
+				"neutral": [
+					"{keyword} easing can point to worry lifting, guilt released, or fear pushed out of sight rather than resolved.",
+					"In general, {keyword} appears to be shifting, though it may be quieter rather than gone.",
+					"{keyword} suggests checking whether worries have truly eased, ideally with someone who knows you well."
+				]
+			}
+		}
+	}
+}

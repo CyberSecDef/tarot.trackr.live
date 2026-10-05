@@ -1,0 +1,412 @@
+{
+	"id": "cups_12_knight",
+	"name": "Knight of Cups",
+	"facets": [
+		{
+			"id": "romance",
+			"keywords": ["romance", "a romantic gesture", "courtship"]
+		},
+		{
+			"id": "invitation",
+			"keywords": ["a heartfelt invitation", "an offer from the heart", "an open-handed approach"]
+		},
+		{
+			"id": "idealism",
+			"keywords": ["idealism", "a heart-led pursuit", "following your heart"]
+		},
+		{
+			"id": "imagination",
+			"keywords": ["imagination", "a creative vision", "an artistic impulse"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are nervous about opening your heart, {keyword} suggests a gentle first step rather than a grand leap. One thing in your hands today: say one kind, true thing to someone you care about.",
+					"{keyword} can stir hope and worry in the same breath. You don't have to know how it ends; you only have to notice what you genuinely feel and let that be enough for now.",
+					"When love feels like a risk, {keyword} invites you to move at a pace that feels safe. Offering warmth slowly is still offering it."
+				],
+				"curious": [
+					"{keyword} brings a question with a little sparkle in it: what would you do for love if you trusted your feelings a bit more than your caution?",
+					"What if {keyword} is less about being swept off your feet and more about doing the sweeping? Notice what kind of gesture comes naturally to you.",
+					"{keyword} invites you to play with how you express affection. A handwritten note, a song, an unexpected plan for the evening: which feels most like you?"
+				],
+				"grieving": [
+					"{keyword} may feel tender to even think about right now. It is all right to hold your heart close and let it be soft without asking anything of it.",
+					"When you are missing someone, {keyword} can look like the small loving acts you once shared. You might honour one of them quietly, just for yourself.",
+					"There is no hurry with {keyword}. Grief has its own tide, and your heart can float for a while before it chooses any direction."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to look at how you show interest in people. Are your intentions clear, or do you leave others guessing?",
+					"Read plainly, {keyword} raises a fair question: are you drawn to the person in front of you, or to the story you are telling yourself about them?",
+					"No mystery required: {keyword} simply asks whether you act on your feelings or only think about them. Which would you rather practise this month?"
+				],
+				"hopeful": [
+					"{keyword} is a warm thing to carry into love, open-hearted and moving forward. Let your hope show in what you offer, while leaving the other person free to answer.",
+					"If you are hoping for romance, {keyword} encourages you to make the first kind gesture. It may not land as you imagine, and it is still worth making.",
+					"{keyword} suggests your heart is ready to move toward something. Hope is honest here as long as you stay curious about who the other person really is."
+				],
+				"neutral": [
+					"In love, {keyword} speaks of approaching others with feeling first: invitations, gestures and a willingness to be moved.",
+					"{keyword} points to affection in motion, the stage where warmth is being offered and explored rather than settled.",
+					"{keyword} brings attention to how sincerely, and how gently, you reach toward the people you care for."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels uncertain, {keyword} reminds you that what you care about still matters there. Choose one task this week you can approach with real heart.",
+					"{keyword} at work may feel risky when you are braced for criticism. Start small: share one idea you believe in with the colleague you trust most.",
+					"When your job feels heavy, {keyword} invites you to remember why you started. You don't need a big change today; one meaningful moment may steady you."
+				],
+				"curious": [
+					"{keyword} asks a playful career question: what would your working life look like if it followed what moves you, not only what pays?",
+					"What if {keyword} is pointing toward the project you keep daydreaming about? Sketch it out once, just to see how it looks on paper.",
+					"{keyword} invites you to bring more feeling into your craft. Which part of your work makes time disappear, and how could you do more of it?"
+				],
+				"grieving": [
+					"If loss is weighing on you, {keyword} at work may feel distant. It is fine to do what is needed and let inspiration rest for a while.",
+					"{keyword} can sometimes appear as work that honours someone or something you miss. If that feels right, let it; if not, there is no rush.",
+					"When you are grieving, {keyword} may be as small as a kind word to a colleague. That counts, and it is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about motivation. Is your current role connected to anything you care about, or is it running on habit?",
+					"Read as a thinking tool, {keyword} asks whether an offer or idea at work is as good as it feels. Enthusiasm is useful; checking the details is too.",
+					"No mysticism needed: {keyword} points to bringing creativity and tact to your job. Where would a more personal approach actually help?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to pursue the work that feels meaningful. Hope is reasonable here, especially if you pair it with a concrete next step.",
+					"If you are hoping for a new opening, {keyword} suggests leading with what you love about the work. People often respond to sincere enthusiasm.",
+					"{keyword} supports bringing your heart into your career. It cannot promise the role, but it can help you recognise the one that fits."
+				],
+				"neutral": [
+					"At work, {keyword} points to creative ideas, heartfelt proposals, and following a sense of vocation rather than only a ladder.",
+					"{keyword} suggests that feeling and imagination have a place in your working life right now, alongside planning.",
+					"{keyword} highlights how you bring care and personality to your craft, and what you feel moved to pursue next."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money is a worry, {keyword} asks you to notice where your heart pulls your spending. One small step: look over last week's purchases without judging them.",
+					"{keyword} can make an offer feel exciting even when money is tight. You are allowed to pause, breathe and read the details before saying yes.",
+					"When finances feel shaky, {keyword} reminds you that generosity and caution can live together. Choose one thing you can keep steady this month."
+				],
+				"curious": [
+					"{keyword} poses a question about value: what do you spend on because it genuinely moves you, and what simply because it appeared in front of you?",
+					"What if {keyword} is a nudge to earn a little from something you love? Even a small experiment could tell you a lot.",
+					"{keyword} invites you to imagine your finances as a story. Who is the hero, and what are they quietly hoping to buy their way toward?"
+				],
+				"grieving": [
+					"Money may feel beside the point while you grieve, and {keyword} doesn't ask you to plan. Keep to the essentials and let the rest wait.",
+					"{keyword} can show up as wanting to spend on reminders of someone you miss. That impulse is human; give yourself time before larger choices.",
+					"When loss is near, {keyword} may simply mean being gentle with yourself about money. Ask someone you trust to help with one practical task."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a reminder that feelings often drive money decisions. Is there a purchase or offer you are romanticising a little?",
+					"Treat {keyword} as a prompt to check the numbers behind something that excites you. A good feeling and a good deal are not always the same thing.",
+					"No mystical reading needed: {keyword} asks whether your spending reflects what you actually value. A quick look at your accounts would answer it."
+				],
+				"hopeful": [
+					"{keyword} encourages money choices that line up with what matters to you. Hope is fair here, provided you keep an eye on the practical side.",
+					"If you are hoping for a better season financially, {keyword} suggests that work you care about could be part of it. Explore it with clear eyes.",
+					"{keyword} brings a generous spirit to money. Sharing a little where you can may feel good, as long as it leaves you secure."
+				],
+				"neutral": [
+					"Financially, {keyword} points to choices led by feeling: offers that appeal, purchases with meaning, or income tied to creative work.",
+					"{keyword} suggests weighing the heart's pull against practical sense when deciding what something is worth to you.",
+					"{keyword} highlights the emotional side of money, and how much your spending follows whatever moves you."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} invites a softer approach. One thing you can do today: something gentle you genuinely enjoy, like a bath or a slow walk.",
+					"{keyword} suggests your feelings and your energy are closely linked right now. Naming one emotion out loud can ease more tension than you might expect.",
+					"When stress is high, {keyword} asks you to treat yourself as kindly as you would someone you love. Start with a glass of water and an early night."
+				],
+				"curious": [
+					"{keyword} asks what your body enjoys, not just what it needs. Music, water, movement that feels like play: what lifts you?",
+					"What would {keyword} look like as a daily habit? Perhaps ten minutes of something creative that leaves you feeling lighter.",
+					"{keyword} invites you to notice how your mood shows up physically. Where do you feel joy, and where do you feel longing?"
+				],
+				"grieving": [
+					"Grief moves through the body, and {keyword} may feel far off. Let rest and comfort come first; nothing needs to be inspired today.",
+					"{keyword} can be as small as wrapping yourself in something warm and letting tears come if they want to. Care can be very simple.",
+					"When you are carrying loss, {keyword} may mean keeping familiar routines rather than starting new ones. A cup of tea and a quiet hour is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to the link between emotional life and energy. Are your feelings getting any outlet, or are they sitting in your shoulders?",
+					"Read plainly, {keyword} is a prompt to make self-care enjoyable enough to keep doing. Which habit would stick if it were more pleasant?",
+					"No mysticism needed: {keyword} asks whether you follow your mood or your plan when looking after yourself. Both have their uses."
+				],
+				"hopeful": [
+					"{keyword} encourages an approach to wellbeing that feels warm rather than strict. Hope tends to grow when care feels like kindness.",
+					"If you are hoping to feel better in yourself, {keyword} suggests moving toward what brings you calm and pleasure. Small, steady steps count.",
+					"{keyword} invites you to reconnect with what makes you feel alive in your body. Let that guide a gentle change or two."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to emotional ease, gentle pleasures, and listening to how your feelings affect your energy.",
+					"{keyword} suggests treating rest and care as something creative and personal rather than a set of rules.",
+					"{keyword} highlights how closely your mood and your physical sense of yourself are moving together right now."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsettled, {keyword} reminds you that following your feelings slowly is still following them. Spend five quiet minutes with one question.",
+					"{keyword} may bring stirrings you don't yet understand. You don't have to interpret them all; simply writing one down can steady you.",
+					"When meaning feels out of reach, {keyword} invites you back to something that has moved you before: a place, a song, a line of writing."
+				],
+				"curious": [
+					"{keyword} asks what is calling you, softly, beneath your everyday thoughts. What dream or image keeps returning?",
+					"What if {keyword} is your intuition dressed up as a daydream? Follow one thread of it and see where it leads.",
+					"{keyword} invites a practice with some beauty in it: poetry, water, music, art. Which would you enjoy exploring?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel like longing more than inspiration. That longing is part of love, and you can let it be.",
+					"{keyword} may appear as dreams or memories of someone you miss. You don't have to make sense of them; just receive them gently.",
+					"When the heart is heavy, {keyword} invites you to find comfort in whatever feels sacred to you, without asking it for answers."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is a prompt to notice what genuinely moves you. Meaning often starts with paying attention to that.",
+					"No mystical claims needed: {keyword} asks whether your sense of purpose lives in action or mostly in imagining. Both have a place.",
+					"Treat {keyword} as a question about values. What would you go out of your way for, even if no one noticed?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to trust the quieter pull of your heart. Hope is welcome here, along with patience while the path becomes clearer.",
+					"If you are hoping for a deeper sense of meaning, {keyword} suggests following what feels beautiful and true, one step at a time.",
+					"{keyword} brings a gentle invitation to grow through creativity and feeling. What could you make or offer as a kind of devotion?"
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to a heart-led search, guided by intuition, imagination and a longing for beauty.",
+					"{keyword} suggests that inner growth may come through feeling and creativity rather than strict discipline right now.",
+					"{keyword} highlights the dreamy, seeking part of you and asks where it wants to travel next."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels uncertain, {keyword} reminds you that your feelings are a guide, not an enemy. Choose one small thing to do today simply because you care about it.",
+					"{keyword} may stir a hope you are almost afraid to hold. You can carry it lightly and take one gentle step without staking everything on it.",
+					"When everything feels like a lot, {keyword} invites you to slow down and follow what feels kind. That is a steady place to start."
+				],
+				"curious": [
+					"{keyword} brings a question worth playing with: where would you go if you let your heart pick the direction for a day?",
+					"What if {keyword} is asking you to say yes to something a little beautiful and a little impractical? Notice what comes to mind first.",
+					"{keyword} invites you to treat life as a quest of sorts. What are you seeking right now, honestly?"
+				],
+				"grieving": [
+					"{keyword} may feel distant while you are grieving, and that is all right. Your heart can rest before it travels anywhere.",
+					"When loss is close, {keyword} might look like small acts of tenderness toward yourself. Let those be the whole of today if they need to be.",
+					"{keyword} doesn't ask you to move on. It may simply invite you to notice what still touches you, however quietly."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about how much your choices follow feeling. Where has that served you, and where has it cost you?",
+					"Read as a tool for thinking, {keyword} asks whether you are waiting for the perfect moment before acting on what you care about.",
+					"No mystery needed: {keyword} points to approaching life with sincerity and imagination. Which decision this week could use more of both?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging thing to carry, warm and forward-moving. Hope sits well here alongside a willingness to see things as they are.",
+					"If you are hoping for something good, {keyword} encourages you to make the first heartfelt move rather than waiting to be asked.",
+					"{keyword} suggests your heart knows something about what you want next. Listening to it is a fine beginning."
+				],
+				"neutral": [
+					"Overall, {keyword} speaks of moving through life with feeling, offering warmth and following what inspires you.",
+					"{keyword} points to a season of invitations, ideas and emotional openness, where the heart takes the lead.",
+					"{keyword} highlights a romantic, imaginative streak and asks how it might shape your next step."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} feels stalled or confusing, it is understandable to worry. One thing you can do: ask for clarity in plain words rather than decoding every signal.",
+					"{keyword} may be clouded by mixed messages right now. Your feelings are valid, and you can let actions, not promises, guide what you trust.",
+					"When {keyword} seems to have cooled, try not to fill the silence with the worst story. Focus on caring for yourself while things become clearer."
+				],
+				"curious": [
+					"{keyword} might be living more in your imagination than in daily life. What would it look like on an ordinary Wednesday?",
+					"What if {keyword} has been held back by a fear of disappointment? It could be worth wondering what one small, real gesture might change.",
+					"{keyword} feels a little moody here. Which expectations are you bringing that the other person may not even know about?"
+				],
+				"grieving": [
+					"If {keyword} has faded with your loss, it is natural to feel its absence keenly. You don't need to replace it or rush back toward it.",
+					"{keyword} may be turned inward for now, all longing and memory. That is a tender place to be, and it is all right to stay a while.",
+					"Grief can make {keyword} feel like a story from someone else's life. Be patient with yourself; feeling can return in its own time."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be running on fantasy. Compare what has actually been said and done with what you hope is true.",
+					"{keyword} is a prompt to check for promises that never quite arrive, yours or anyone's. Consistent small actions tell you more than big declarations.",
+					"No mysticism required: {keyword} blocked often means someone is avoiding commitment. Worth asking honestly whether that someone is you."
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than gone. If you are hoping for closeness, keep your expectations human-sized and your heart open.",
+					"If {keyword} has stalled, a simple, sincere message may do more than waiting for a perfect moment. Hope is reasonable when it is paired with honesty.",
+					"{keyword} could return in a steadier form once the dreaming meets reality. That is something you can look forward to without forcing it."
+				],
+				"neutral": [
+					"In love, {keyword} reversed can point to mixed signals, unrealistic expectations, or affection that hesitates to show itself.",
+					"{keyword} appears blocked or overdone here: moods that swing, promises that drift, or romance held more in the head than in life.",
+					"{keyword} may be turned inward, asking whether your hopes match what is actually happening between you and someone else."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If an offer at work seems too good to trust, {keyword} suggests checking the details calmly. One thing you can do: write down your questions and ask them.",
+					"{keyword} may feel stuck in your working life, as if inspiration has dried up. That happens; pick one routine task and let it be enough today.",
+					"When {keyword} has gone quiet at work, it can feel like you have lost your way. Notice one thing you still enjoy there, however small."
+				],
+				"curious": [
+					"{keyword} might be scattered across too many ideas. Which one would you keep if you could only follow a single thread?",
+					"What if {keyword} has stalled because the dream is more fun than the doing? It could be interesting to try the dull first step and see.",
+					"{keyword} feels a little moody here. What changes in your work when you feel inspired, compared with when you don't?"
+				],
+				"grieving": [
+					"If loss has drained {keyword} from your work, that is a natural response. You can work at a slower pace and still be doing enough.",
+					"{keyword} may be paused while your heart is elsewhere. Let colleagues know a little of what you are carrying, if it feels safe.",
+					"Grief can make {keyword} at work feel unreachable. You don't need to find inspiration today; showing up gently is plenty."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to plans that sound wonderful but lack follow-through. Which project needs a deadline more than a vision?",
+					"{keyword} is a prompt to examine an offer or idea for what is missing. Enthusiasm without detail tends to unravel.",
+					"No mysticism needed: {keyword} blocked often shows up as procrastination dressed as waiting for the right mood. What would happen if you started anyway?"
+				],
+				"hopeful": [
+					"{keyword} may be on hold rather than lost. If you are hoping to feel inspired at work again, small creative experiments can wake it up.",
+					"If {keyword} has stalled, hope is fine, as long as you give the idea a practical shape. One plan on paper could be the bridge.",
+					"{keyword} could come back stronger once expectations are grounded. What is one realistic step toward the work you dream about?"
+				],
+				"neutral": [
+					"At work, {keyword} reversed can suggest creative block, unrealistic offers, or ideas that stay ideas.",
+					"{keyword} appears delayed or overdone: too much daydreaming, too little delivery, or moods steering decisions.",
+					"{keyword} may be turned inward, asking whether your ambitions are grounded enough to act on."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money is tight, {keyword} may be pulling you toward purchases that promise more than they give. One small step: wait a day before any non-essential spend.",
+					"{keyword} might show up as an offer that feels exciting but vague. You are allowed to ask questions, and you are allowed to say no.",
+					"When {keyword} clouds money choices, it helps to name what you can control. Check one balance today, calmly, and leave it there."
+				],
+				"curious": [
+					"{keyword} poses a question: which purchase felt magical in the moment and ordinary a week later? What was it really for?",
+					"What if {keyword} has turned a financial plan into more dream than budget? It might be fun to put actual numbers to it.",
+					"{keyword} feels a little restless here. What is the feeling you are trying to buy, and is there a cheaper way to reach it?"
+				],
+				"grieving": [
+					"Grief can tangle {keyword} with money, so that spending soothes for a moment. Be gentle with yourself and keep big decisions for later.",
+					"{keyword} may be turned inward for now. It is fine to let money matters be simple and minimal while your heart is heavy.",
+					"If {keyword} feels out of reach, there is no need to chase it. Ask someone steady to help you with one practical money task."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to impulse and wishful thinking with money. Compare the promise with the fine print.",
+					"{keyword} is a prompt to notice where emotion is driving your spending. A simple record kept for a week would show the pattern.",
+					"No mysticism needed: {keyword} blocked can mean an exciting scheme that hasn't been tested. What evidence would you want before committing?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than gone. If you are hoping for financial ease, steady habits may serve you better than a big gamble.",
+					"If {keyword} has stalled, a grounded plan may revive it. Hope is reasonable when it rests on numbers you understand.",
+					"{keyword} could return in a healthier form once excitement is matched with care. What one change would make your money feel calmer?"
+				],
+				"neutral": [
+					"Financially, {keyword} reversed can point to impulse spending, vague offers, or dreams that outrun the budget.",
+					"{keyword} appears overdone or stalled here, asking whether feelings are steering money choices more than facts.",
+					"{keyword} may be turned inward, inviting a calm look at what you hope money will give you."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your energy feels up and down, {keyword} may be mirroring your moods. One thing you can do today: keep a simple rhythm, like regular meals and a set bedtime.",
+					"{keyword} may feel out of reach when you are tired and worried. Choose one comforting habit and let it hold you steady.",
+					"When {keyword} tips into overdoing things, your body may ask for a pause. Resting is a sensible, caring response."
+				],
+				"curious": [
+					"{keyword} asks a question: how do your moods shift your appetite, sleep or energy? Notice it for a week, without judging.",
+					"What if {keyword} has slid from caring into escaping? It could be interesting to look at what you reach for when you feel low.",
+					"{keyword} feels a little restless here. Which kind of rest actually restores you, and which only distracts you?"
+				],
+				"grieving": [
+					"{keyword} may feel far away in a grieving body. Let comfort be simple: warmth, water, a little sleep.",
+					"If {keyword} has gone quiet since your loss, there is nothing to fix. Being gentle with yourself is care enough.",
+					"Grief can make {keyword} feel like longing rather than ease. You can let it be heavy for now and rest when you need to."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to mood-led habits: comfort that becomes excess, or plans that never quite start. Which is closer to you?",
+					"{keyword} is a prompt to compare how you intend to look after yourself with what actually happens. The gap is useful information.",
+					"No mysticism required: {keyword} out of balance often looks like avoiding discomfort. Pick one small habit and track it honestly."
+				],
+				"hopeful": [
+					"{keyword} may be paused rather than gone. If you are hoping to feel better, small, enjoyable routines can help bring it back.",
+					"If {keyword} has stalled, hope is reasonable. Try one gentle change that feels kind rather than strict.",
+					"{keyword} could return as your moods settle. Treat yourself patiently, as you would a friend finding their feet."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} reversed can point to moodiness, escapism, or self-care that stays an intention.",
+					"{keyword} appears overdone or blocked, asking how your emotions are shaping your energy and habits.",
+					"{keyword} may be turned inward, inviting you to notice where comfort helps and where it simply numbs."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels foggy, {keyword} may be caught between longing and doubt. One small step: return to a simple practice you trust.",
+					"{keyword} may bring images that feel overwhelming or unclear. You don't have to act on them; writing them down is enough for now.",
+					"When {keyword} seems blocked, try not to read it as failure. Quiet attention, even for a few minutes, keeps the door open."
+				],
+				"curious": [
+					"{keyword} asks whether you are seeking meaning or seeking a feeling. What happens when the feeling fades?",
+					"What if {keyword} is waiting for you to come down from the clouds a little? A grounded practice might surprise you.",
+					"{keyword} feels a little hazy here. Which spiritual ideas truly move you, and which have you simply drifted toward?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel muffled or confused. You don't need to find meaning in this loss right now.",
+					"{keyword} might show up as longing for signs or reassurance. It is all right to want that, and all right if none come.",
+					"If {keyword} has turned inward since your loss, let it. Silence can be a kind of companion too."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to idealising a path or a teacher. What would you notice if you looked at it more plainly?",
+					"{keyword} is a prompt to separate inspiration from escape. Does your practice help you face life, or step away from it?",
+					"No mystical claims needed: {keyword} blocked can simply mean you haven't followed through on a practice you care about. What gets in the way?"
+				],
+				"hopeful": [
+					"{keyword} may be in an early or quiet stage. If you are hoping for direction, patient, grounded practice gives it room to grow.",
+					"If {keyword} has stalled, hope is reasonable. Try pairing your dreams with one simple, regular habit.",
+					"{keyword} could clear as your expectations soften. Meaning often arrives more quietly than we imagine."
+				],
+				"neutral": [
+					"Spiritually, {keyword} reversed can point to escapism, idealism that clouds judgement, or a search that has lost its thread.",
+					"{keyword} appears delayed or inward, asking whether your seeking is grounded in daily life.",
+					"{keyword} may be overdone, inviting you to notice where imagination helps and where it drifts."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels unclear, {keyword} may be tangled up with moods and what-ifs. One thing you can control: the next small step, taken calmly.",
+					"{keyword} may feel stuck right now, all longing and no movement. That is uncomfortable, not dangerous; rest, then come back to it.",
+					"When {keyword} seems to be letting you down, try not to judge yourself harshly. Choose one realistic thing you can do today."
+				],
+				"curious": [
+					"{keyword} asks a question: where in your life are you waiting for a perfect moment that may never come?",
+					"What if {keyword} has been more fantasy than plan lately? It could be revealing to write down what you actually want.",
+					"{keyword} feels moody here. What shifts when you act on a feeling rather than only imagining it?"
+				],
+				"grieving": [
+					"Grief can leave {keyword} feeling far away. There is no hurry to feel inspired or hopeful again.",
+					"{keyword} may be turned inward, quiet and wistful. You can let it be, and let yourself be, without needing a plan.",
+					"If {keyword} has slipped from view since your loss, be gentle with yourself. Feeling can come back slowly."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to good intentions without follow-through. Which promise to yourself is still waiting?",
+					"{keyword} is a prompt to look at where mood is making decisions for you. Is that arrangement working?",
+					"No mysticism needed: {keyword} blocked often means idealism meeting reality. The useful move is to adjust the plan, not abandon the hope."
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than gone. Hope is reasonable here, especially if you give it something practical to stand on.",
+					"If {keyword} feels stalled, a modest, sincere step may do more than waiting for a perfect one.",
+					"{keyword} could return in a more grounded form. That can be something to look forward to without rushing it."
+				],
+				"neutral": [
+					"Overall, {keyword} reversed can suggest moodiness, unrealistic expectations, or inspiration that stalls before it becomes action.",
+					"{keyword} appears blocked or overdone, asking you to balance dreaming with doing.",
+					"{keyword} may be turned inward, inviting a closer look at what you truly want and what you are only imagining."
+				]
+			}
+		}
+	}
+}

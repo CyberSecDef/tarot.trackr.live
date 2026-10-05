@@ -1,0 +1,412 @@
+{
+	"id": "cups_07_seven",
+	"name": "Seven of Cups",
+	"facets": [
+		{
+			"id": "options",
+			"keywords": ["a wealth of options", "a field of possibilities", "a choice among many"]
+		},
+		{
+			"id": "illusion",
+			"keywords": ["wishful thinking", "a tempting illusion", "a mirage"]
+		},
+		{
+			"id": "imagination",
+			"keywords": ["imagination", "a daydream", "a vision of what could be"]
+		},
+		{
+			"id": "temptation",
+			"keywords": ["temptation", "a shiny distraction"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If {keyword} has your heart spinning, you don't have to decide everything about a relationship tonight. Write down the one thing you know you want from closeness, and let that be enough for now.",
+					"{keyword} in love can make every possibility feel urgent. Slow it down by asking one plain question: how do you actually feel after time with this person, not before?",
+					"When {keyword} fills your thoughts about someone, it helps to come back to what has really happened between you. Name two facts you are sure of, and rest on those."
+				],
+				"curious": [
+					"{keyword} opens a playful question about love: which of the stories you tell yourself about romance have you actually tested? Pick one and look at it in daylight.",
+					"What if {keyword} is showing you the range of what you could want from a partner or friend? Try imagining three very different kinds of closeness and notice which one warms you.",
+					"{keyword} invites you to wander a little before choosing. Who do you picture when you daydream, and is it a person or a feeling you are really after?"
+				],
+				"grieving": [
+					"After a loss, {keyword} can feel like a room full of doors you are not ready to open. There is no need to walk through any of them yet; looking is enough.",
+					"{keyword} may bring old what-ifs about someone you have lost. Let them come and go without arguing with them; they are part of how love keeps talking to itself.",
+					"When you are grieving, {keyword} can blur the line between memory and wish. Be gentle with the pictures your heart paints right now. They are made of love, not mistakes."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to separate attraction from evidence. Are you drawn to who someone is, or to who you imagine they could become?",
+					"Take {keyword} as a simple check: when you weigh up a relationship, are you comparing it with a real alternative or with an idealised one? Only one of those is a fair contest.",
+					"No magic is needed to read {keyword}. Many people stall in love because every option looks good from a distance. What would you choose if you had to choose by Friday?"
+				],
+				"hopeful": [
+					"{keyword} suggests there is real room to imagine the love you want. Hold the picture lightly, and then look for one small, real step that moves toward it.",
+					"If you are hoping for closeness, {keyword} encourages you to dream, and then to check the dream against how people actually treat you. Hope grows strongest on solid ground.",
+					"{keyword} can be a good sign that your heart is open again. Let yourself enjoy the possibilities, while noticing which ones keep showing up in your actual days."
+				],
+				"neutral": [
+					"In love, {keyword} points to many possibilities at once, some real and some imagined. It asks you to notice which is which before choosing.",
+					"{keyword} speaks to the gap between fantasy and the person in front of you. Both can matter; the card simply asks you to tell them apart.",
+					"{keyword} suggests a season of options and daydreams in relationships, where clarity comes from slowing down rather than from picking quickly."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} at work leaves you frozen, narrow the field. Cross off one option you already know you don't want, and notice the relief that brings.",
+					"{keyword} can make a career feel like too many roads and no map. You don't need the whole map today; you only need the next sensible step.",
+					"When {keyword} has you second-guessing every move at work, pick one task that is clearly yours to do this week and finish it. Momentum quietens worry."
+				],
+				"curious": [
+					"{keyword} asks a curious question: if you could try three different working lives for a month each, which would you pick first, and why that one?",
+					"What might {keyword} reveal about your ambitions? Some of the options you daydream about may be clues to a skill you want to use more, not a job to chase.",
+					"{keyword} invites you to brainstorm without judging for a while. List every idea about your work, even the silly ones, then see which ones keep tugging at you."
+				],
+				"grieving": [
+					"If you are mourning a job or a path that closed, {keyword} may feel overwhelming or even a little hollow. You can let the options sit there until you have more energy.",
+					"{keyword} can bring back daydreams about the work you thought you would be doing by now. It is fine to grieve that picture before building a new one.",
+					"After a loss at work, {keyword} does not need an answer. Some days, simply getting through the list in front of you is the most honest choice available."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is about decision fatigue. When every project looks promising, the useful question is which one you can actually resource and finish.",
+					"{keyword} is a plain prompt to test ideas before committing. Pick the most appealing option and ask what would have to be true for it to work; then check.",
+					"Without any mysticism, {keyword} describes a common trap at work: chasing the next shiny plan instead of finishing the current one. Is that pattern showing up for you?"
+				],
+				"hopeful": [
+					"{keyword} suggests your working life has more possibilities than you may have been allowing. Let yourself want something, then find the first real conversation about it.",
+					"If you are hoping for a change at work, {keyword} encourages you to dream broadly and then choose narrowly. One focused step tends to beat five half-started ones.",
+					"{keyword} can be energising. Keep a page for ideas, and once a week pick the one that still excites you and give it an hour of honest effort."
+				],
+				"neutral": [
+					"At work, {keyword} points to many options, plans or ambitions competing for your attention, not all of them equally grounded.",
+					"{keyword} highlights the need to sort real opportunities from appealing ideas. It asks for discernment rather than speed.",
+					"{keyword} suggests a period of weighing paths in your working life, where imagination is useful as long as it is checked against what is practical."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} has you worried about money, start with what is certain. List your fixed costs for the month; facts tend to shrink the fog.",
+					"{keyword} can make spending decisions feel endless. One thing in your control: choose a single purchase to pause on for a week before deciding.",
+					"When {keyword} crowds your mind about finances, you don't have to sort every option at once. Settle the nearest bill or choice first and let the rest wait."
+				],
+				"curious": [
+					"{keyword} raises an interesting question about money: what do you imagine buying when you daydream, and what does that say about what you value?",
+					"What if {keyword} were a map of your wants rather than a to-do list? Notice which wishes are about comfort, which are about freedom, and which are about how you are seen.",
+					"{keyword} invites you to play with scenarios. What would you do with a little more, and what would you do with a little less? Both answers can be revealing."
+				],
+				"grieving": [
+					"After a loss, {keyword} around money may feel like more than you can sort through. It is okay to make only the decisions that cannot wait, and let the rest sit.",
+					"{keyword} may bring up plans that were made with someone, or for a future that changed. You can honour those plans without having to decide about them yet.",
+					"If a loss has changed your circumstances, {keyword} does not need resolving quickly. Ask someone you trust to help you list the choices, so you are not holding them alone."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a reminder that not every offer is what it seems. If something looks unusually good, read the small print twice.",
+					"Treat {keyword} as a budgeting prompt: how much of your spending goes toward the life you have, and how much toward a life you imagine having?",
+					"No mystery here: {keyword} describes choice overload, which tends to make people spend impulsively or not at all. Narrowing to two options can make decisions easier."
+				],
+				"hopeful": [
+					"{keyword} suggests there are more ways to build security than you might have considered. Pick one idea and spend an evening learning what it would really take.",
+					"If you are hoping for more breathing room, {keyword} encourages you to imagine it in detail, then to look for one modest, concrete step in that direction.",
+					"{keyword} can be a hopeful sign of options opening up. Keep your head clear by testing each one against the numbers before your heart decides."
+				],
+				"neutral": [
+					"In money matters, {keyword} points to many possible directions, some sound and some more appealing than real.",
+					"{keyword} asks you to look at offers, plans and wants with clear eyes, sorting what is solid from what is simply tempting.",
+					"{keyword} suggests a time of financial choices where patience and checking the details matter more than acting quickly."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} has you jumping between worries about your body, come back to the present for a moment. Notice your feet on the floor and three slow breaths.",
+					"{keyword} can show up as a dozen plans to feel better at once. Choose the smallest one, like a glass of water or an earlier night, and let that be today's step.",
+					"When {keyword} fills your head with what-ifs about your wellbeing, it may help to write them down. On paper they often look smaller and easier to sort."
+				],
+				"curious": [
+					"{keyword} asks a curious question about energy: which of your habits feel nourishing in real life, and which only sound nourishing in theory?",
+					"What could {keyword} show you about rest? Try imagining your ideal ordinary day, then notice one piece of it you could borrow this week.",
+					"{keyword} invites you to experiment gently. Pick one small change in routine, try it for a few days, and pay attention to how your body responds."
+				],
+				"grieving": [
+					"Grief can make {keyword} feel heavy, with every suggestion about self-care sounding like one more task. You are allowed to choose just one gentle thing, or none, today.",
+					"{keyword} may drift through your days as you grieve, with your mind wandering far from your body. Something warm to drink and a quiet seat can bring you back.",
+					"When loss is close, {keyword} can blur the hours together. Let rest be simple: lie down when you are tired, eat when you can, and let others help where they offer."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a nudge to be wary of quick fixes for how you feel. If a promise about wellbeing sounds too easy, it probably deserves a second look.",
+					"Read plainly, {keyword} points to too many wellness ideas and too little follow-through. Which single habit would make the most difference if you actually kept it?",
+					"{keyword} needs no mystical reading here. Scattered attention tends to drain energy; how much of your tiredness comes from juggling choices rather than from effort?"
+				],
+				"hopeful": [
+					"{keyword} suggests you can imagine feeling more rested and more at ease. Let that picture guide one small daily habit, without expecting overnight change.",
+					"If you are hoping to feel better, {keyword} encourages you to explore gently. Try what appeals, keep what helps, and let go of what doesn't without guilt.",
+					"{keyword} can be a sign of renewed interest in caring for yourself. Choose the option that feels kind rather than the one that looks most impressive."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to many options for care, and the need to choose a few that fit real life rather than trying all of them.",
+					"{keyword} asks you to notice where your energy goes when your mind is busy with possibilities, and whether your body is getting the rest it needs.",
+					"{keyword} suggests sorting realistic habits from idealised ones, so that care for yourself feels sustainable rather than imagined."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} has you lost among beliefs and practices, you don't have to find the right one today. Choose something simple, like a quiet minute each morning, and return to it.",
+					"{keyword} can make your inner life feel crowded with signs and meanings. Let some of them pass; the ones that matter tend to return on their own.",
+					"When {keyword} leaves you unsure what to trust within yourself, come back to your breath. It is one steady thing that needs no interpretation."
+				],
+				"curious": [
+					"{keyword} invites you to explore the images that surface when you are quiet. What keeps appearing in your dreams or daydreams, and what might it be pointing toward?",
+					"What if {keyword} is a doorway rather than a distraction? Try journalling one vivid picture from your inner life and following where it leads.",
+					"{keyword} asks a playful question: if your intuition had a favourite colour or symbol right now, what would it be, and why might that matter to you?"
+				],
+				"grieving": [
+					"In grief, {keyword} may bring visions or memories that feel almost real. Let them be what they are, without needing to decide what they mean.",
+					"{keyword} may carry longing for someone, with your inner world reaching for them in images and dreams. That reaching is part of love and needs no fixing.",
+					"When you are grieving, {keyword} can make the spiritual path feel foggy. You are allowed to rest in not knowing, for as long as you need."
+				],
+				"skeptical": [
+					"Treat {keyword} as a prompt about discernment. Not every inner impression is insight; some are just mood or tiredness. What helps you tell the difference?",
+					"Read practically, {keyword} is about how easily meaning can be projected onto events. It asks whether you are noticing patterns or creating them.",
+					"{keyword} needs no supernatural claim. Imagination is a real tool for reflection, as long as you test what it suggests against how you actually live."
+				],
+				"hopeful": [
+					"{keyword} suggests a rich inner life with plenty to explore. Pick one practice that genuinely draws you and give it a little steady time.",
+					"If you are hoping for deeper meaning, {keyword} encourages you to let your imagination guide you, while keeping one foot on the ground.",
+					"{keyword} can feel like inspiration flowing in. Write down what moves you, so you can return to it when the glow fades and choose what to build on."
+				],
+				"neutral": [
+					"In your inner life, {keyword} points to visions, ideas and paths that are worth exploring, and also worth examining before you commit.",
+					"{keyword} speaks to the power of imagination in growth, and to the need to separate real insight from appealing illusion.",
+					"{keyword} suggests many spiritual possibilities at once, and asks you to choose the ones that bring you closer to yourself."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} has your mind racing in many directions, choose just one thing to settle today. Small decisions made calmly can quieten the rest.",
+					"{keyword} can make life feel like a test with too many right answers. Remember you can change course later; most choices are less permanent than they feel.",
+					"When {keyword} crowds your thinking, step away for ten minutes and do something with your hands. Clarity often arrives once the mind stops chasing it."
+				],
+				"curious": [
+					"{keyword} opens a question: of all the possibilities in front of you, which one would you be sorry not to have tried? That one might deserve a closer look.",
+					"What if {keyword} is showing you how many lives you could live? Play with them in your mind, then notice which one feels most like you.",
+					"{keyword} invites you to explore before you decide. Talk your options through with a curious friend and listen to which ones make your voice brighten."
+				],
+				"grieving": [
+					"In grief, {keyword} may feel like too much to hold. You don't need to choose any new direction now; the choices will still be there when you are ready.",
+					"{keyword} can bring back daydreams of the life you expected. Let yourself miss that picture; it was real in its own way.",
+					"When you are carrying a loss, {keyword} may make everything look uncertain. Lean on routines that ask nothing of you while the rest settles."
+				],
+				"skeptical": [
+					"Practically, {keyword} describes having more options than clarity. Write down your top three and what each would actually cost in time, money and energy.",
+					"Read as a prompt, {keyword} asks whether you are avoiding a decision by keeping every door open. Sometimes closing one is the most useful thing you can do.",
+					"No mysticism needed: {keyword} is the familiar pull of what looks good from a distance. Ask what you know for sure, and decide from there."
+				],
+				"hopeful": [
+					"{keyword} suggests there is plenty of possibility around you. Enjoy it, and then pick one direction to give real attention for a while.",
+					"If you are hoping for something new, {keyword} encourages you to dream generously, while choosing with care. Both habits can serve you here.",
+					"{keyword} can be a sign that you are ready to imagine more for yourself. Keep the vision bright, and make it real one small step at a time."
+				],
+				"neutral": [
+					"Overall, {keyword} points to choices, dreams and possibilities that need sorting before any of them can be acted on.",
+					"{keyword} speaks to imagination and its limits, asking you to tell what is real from what is merely appealing.",
+					"{keyword} suggests a time of many options, where clarity comes from slowing down, checking the facts, and listening to what you truly want."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} in love may be starting to settle, even if it doesn't feel calm yet. One small thing you can do is say plainly what you need from someone, without waiting to be sure.",
+					"If {keyword} has kept you stuck between choices about a relationship, notice that you don't have to choose perfectly. A clear next step is enough.",
+					"When {keyword} turns inward, worry about love may run on a loop. Try telling one trusted friend what you are weighing, so it stops circling alone."
+				],
+				"curious": [
+					"Lately {keyword} may be fading into something clearer. What have you recently realised about the kind of love you actually want?",
+					"What if {keyword} is turning into decision? Notice which daydream about a partner or friend has quietly stopped appealing, and what replaced it.",
+					"{keyword} may be on pause while you sort what is real from what is hoped for. Which conversation would help you find out?"
+				],
+				"grieving": [
+					"When you are grieving someone, {keyword} may feel stuck, with the mind circling the same what-ifs. You don't have to resolve them; just notice when they come.",
+					"{keyword} may be giving way to a harder clarity about a loss. That can hurt in its own way, and you are allowed to feel it slowly.",
+					"If grief has made {keyword} seem pointless, there is no pressure to imagine anything new yet. Rest in what is, for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} thinning out suggests a decision in love that is overdue. Which option are you keeping open mainly to avoid saying no?",
+					"Read plainly, {keyword} here points to illusions falling away. Has someone shown you, through actions, something you have been reluctant to see?",
+					"{keyword} turned around is a prompt to stop comparing your relationship with an imagined one. What is good and what is lacking in the one you actually have?"
+				],
+				"hopeful": [
+					"{keyword} may be clearing, which can make room for something more honest between you and someone else. What would you choose with the fog gone?",
+					"If you are hoping for clarity in love, {keyword} held in check may mean it is closer than it feels. Act on the one thing you are now sure of.",
+					"{keyword} turned around can mean choosing at last. Hope is reasonable here, especially if you follow what has stayed true over time."
+				],
+				"neutral": [
+					"In love, {keyword} settling down points to illusions lifting, choices narrowing, or indecision that has gone on long enough.",
+					"{keyword} here suggests the fog of possibility may be thinning, making it easier to see a relationship as it really is.",
+					"With {keyword} turned inward, the work may be in knowing your own wants clearly before asking anything of anyone else."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} has left you paralysed at work, start smaller. Choose the option that is easiest to reverse and take that step today.",
+					"{keyword} may be turning into clarity, even though it feels like pressure. One thing in your control: write down the one goal you'd still choose if no one was watching.",
+					"When {keyword} has kept you stalled, remember that not deciding is also a choice. Picking something modest now can relieve more stress than waiting."
+				],
+				"curious": [
+					"{keyword} thinning out may mean the dreaming is giving way to focus. Which work idea has survived all your second thoughts, and what would it take to test it?",
+					"What happens when {keyword} narrows down? Notice which plans you've quietly let go of and what that tells you about where your energy wants to go.",
+					"{keyword} may be turning inward, from what others expect to what you actually want. Ask yourself what you would do with a free month."
+				],
+				"grieving": [
+					"If you are grieving a path at work that didn't happen, {keyword} may be fading into acceptance, slowly. There's no need to hurry that.",
+					"{keyword} turned around can feel like waking from a dream you loved. It's fine to mourn it before choosing what comes next.",
+					"When work loss is fresh, {keyword} may feel blocked, as though you can't picture any future at all. That's a normal pause; imagination usually returns in time."
+				],
+				"skeptical": [
+					"Practically, {keyword} held in check points to cutting down the options. Which projects could you drop to give the important ones a fair chance?",
+					"Read plainly, {keyword} here suggests reality checking a plan you've been excited about. What do the numbers or deadlines actually say?",
+					"{keyword} settling down is a prompt about focus. Many careers stall from too many half-pursued ideas; which one deserves your next three months?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to a clearer sense of direction at work. That clarity is worth trusting, even if the path is not fully mapped.",
+					"If you are hoping for progress, {keyword} thinning out encourages commitment. Choosing one thing and doing it well can open more doors than keeping all of them ajar.",
+					"{keyword} turned around suggests ideas becoming plans. Give yours a first deadline and see what it feels like to make it real."
+				],
+				"neutral": [
+					"At work, {keyword} turned around points to illusions fading, priorities sharpening, or indecision that has lasted too long.",
+					"{keyword} here suggests a shift from imagining to choosing, or a need to stop entertaining options that no longer fit.",
+					"With {keyword} turned inward, your working life may call for honest focus on what you can really commit to."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} has kept you from making a money decision, choose the smallest safe step and take it. Even a little clarity eases the strain.",
+					"{keyword} held in check may mean the fog around your finances is lifting. Look at one real number today, gently, and let that be your starting point.",
+					"When {keyword} turns into worry, remember that you only need to decide what is in front of you. The longer-term picture can wait a few days."
+				],
+				"curious": [
+					"{keyword} settling down raises a question: which of your money wishes has started to feel less important lately, and what does that free up?",
+					"What if {keyword} is shrinking to a sharper shape? Notice which purchase or plan you keep returning to; that may be a real priority.",
+					"{keyword} may be turning inward, from what you think you should want to what actually makes you feel secure. What is on that second list?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may feel stalled, with money decisions sitting unopened. That's understandable; deal with only what is urgent and let the rest rest.",
+					"{keyword} thinning out can mean letting go of financial plans that belonged to a life you've lost. You can do that slowly, one piece at a time.",
+					"If grief has made {keyword} feel pointless, there is no pressure to dream of anything bigger right now. Steady and small is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} turned around suggests a reality check on spending. Is there something you bought for an imagined future you don't use in this one?",
+					"Read plainly, {keyword} here points to seeing through an offer or plan that once looked appealing. What changed your mind, and what does that teach you?",
+					"{keyword} held in check is a prompt to stop deferring a money choice. Write down the decision, the deadline, and what you need to know before it."
+				],
+				"hopeful": [
+					"{keyword} may be clearing, which can make your finances easier to plan. Hope is fair here, especially if you write down the one goal that still matters.",
+					"If you are hoping for stability, {keyword} settling down encourages choosing one realistic plan and staying with it for a while.",
+					"{keyword} turned around can mean wanting less and enjoying more. That shift may bring a quiet sense of security that doesn't depend on more."
+				],
+				"neutral": [
+					"In money, {keyword} thinning out points to clarity arriving, plans being narrowed, or a decision that has been delayed.",
+					"{keyword} here suggests seeing through financial illusions and focusing on what is practical and real.",
+					"With {keyword} turned inward, the question may be what you truly value, rather than what you have been told to want."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} has you stuck between worries about your body, choose one simple act of care and do it now, like stretching for a minute or stepping outside.",
+					"{keyword} turned around may mean your mind is calming down, even if it doesn't feel that way yet. Notice one moment today when you feel at ease.",
+					"When {keyword} turns into inner noise, a steady routine can help. Pick a regular bedtime this week and let it hold you."
+				],
+				"curious": [
+					"{keyword} held in check asks which ideas about wellbeing you have let go of lately. What did you learn from trying them, and what stayed?",
+					"What if {keyword} is giving way to a simpler approach? Notice which plain, ordinary habits leave you feeling most like yourself.",
+					"{keyword} may be turning inward. What does your body seem to want when you stop listening to all the advice and just pay attention?"
+				],
+				"grieving": [
+					"Grief can make {keyword} feel stuck, with your energy hard to find. Small kindnesses, like a warm meal or a short walk, can be enough for now.",
+					"{keyword} settling down may mean the daydreams are quieter and the tiredness more real. Let your body rest without asking it to explain.",
+					"If you are grieving, {keyword} may not feel important at all. You can tend to the basics and leave the bigger plans for later."
+				],
+				"skeptical": [
+					"Practically, {keyword} thinning out points to choosing a realistic routine over an ideal one. Which habit would still work on your worst week?",
+					"Read plainly, {keyword} here suggests seeing past a promise about wellbeing that didn't deliver. What does your own experience say instead?",
+					"{keyword} turned around is a prompt about focus. Fewer, steadier habits tend to support energy better than many abandoned ones."
+				],
+				"hopeful": [
+					"{keyword} may be settling into a clearer picture of what helps you feel well. Trust what you have noticed and build on it gently.",
+					"If you are hoping to feel steadier, {keyword} held in check encourages choosing one practice and giving it time to become ordinary.",
+					"{keyword} turned around can mean less noise and more listening. That quieter attention may help you notice what your body enjoys."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} settling down points to cutting through options, letting go of unrealistic plans, or delayed decisions about care.",
+					"{keyword} here suggests that clarity about your habits may be growing, along with a simpler sense of what supports your energy.",
+					"With {keyword} turned inward, the focus may be on listening to your body directly rather than to outside promises."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} has left your inner life feeling cloudy, return to one familiar practice. Familiar ground can steady you while the rest sorts itself out.",
+					"{keyword} thinning out may mean you are seeing past ideas that once felt profound. That can be unsettling; take it slowly, one question at a time.",
+					"When {keyword} turns inward and noisy, you are allowed to pause your seeking. A quiet walk can be practice enough for today."
+				],
+				"curious": [
+					"{keyword} turned around raises an interesting question: which beliefs have you outgrown lately, and what have they made room for?",
+					"What if {keyword} is clearing to show something simpler underneath? Notice what still feels true when the grand ideas fall quiet.",
+					"{keyword} may be turning inward. What do you find when you stop looking for signs and simply sit with what you already know?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel blocked, as if the usual comforts have gone flat. That can happen; you don't need to force meaning to return.",
+					"{keyword} held in check can mean letting go of a hope you held about someone you've lost. That letting go is part of grief and deserves gentleness.",
+					"If {keyword} has gone quiet since your loss, let it be quiet. Sometimes the inner life rests too."
+				],
+				"skeptical": [
+					"Practically, {keyword} settling down points to testing beliefs against experience. Which practices have actually made a difference in how you live?",
+					"Read plainly, {keyword} here suggests dropping a story about meaning that no longer holds up. What would you keep if you started again?",
+					"{keyword} thinning out is a prompt to be honest about escapism. Is any practice helping you avoid life rather than meet it?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to clearer insight. Hope is reasonable here, especially if you follow what has stayed meaningful over time.",
+					"If you are hoping for depth, {keyword} turned around encourages choosing one path and walking it for a while rather than sampling them all.",
+					"{keyword} turned around can mean waking up from a pleasant illusion into something truer, and often steadier."
+				],
+				"neutral": [
+					"In your inner life, {keyword} held in check points to illusions fading, focus returning, or a stalled search for meaning.",
+					"{keyword} here suggests a move from many possibilities to a clearer, simpler path.",
+					"With {keyword} turned inward, the work may be in trusting what you already know rather than seeking new signs."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} has kept you stuck, choose something small and reversible to do today. Movement, even modest, often loosens worry.",
+					"{keyword} settling down may mean things are clearer than they feel. Write down what you know for certain and let that steady you.",
+					"When {keyword} turns into a loop of what-ifs, step outside and notice five ordinary things around you. The present is easier to hold."
+				],
+				"curious": [
+					"{keyword} thinning out opens a question: which daydream have you quietly let go of, and what has it left room for?",
+					"What if {keyword} is turning into a decision? Notice which option you keep defending to yourself; that may be the one you want.",
+					"{keyword} may be turning inward. What do you want when you set aside what looks impressive and listen to what feels right?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel blocked, with no future quite coming into view. That's all right. You don't have to picture anything yet.",
+					"{keyword} turned around can mean letting go of a hoped-for life. That is a loss too, and it deserves the same tenderness.",
+					"If {keyword} feels far away since your loss, rest in the plain shape of your days. They will hold you for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} held in check points to reality catching up with a plan. What does the evidence say, and are you ready to listen to it?",
+					"Read plainly, {keyword} here suggests ending a period of indecision. Which choice have you been avoiding, and what is avoiding it costing you?",
+					"{keyword} settling down is a prompt to trade possibility for commitment. Pick one thing to finish this month and see how that feels."
+				],
+				"hopeful": [
+					"{keyword} may be clearing to show a path you can actually walk. Hope is fair here; take the first step while it feels clear.",
+					"If you are hoping for direction, {keyword} thinning out encourages a firm choice. You can adjust later; starting matters more than certainty.",
+					"{keyword} turned around can mean dreams becoming plans. Choose the one that still matters when the excitement fades."
+				],
+				"neutral": [
+					"Overall, {keyword} turned around points to clarity arriving, illusions lifting, or a choice that has been postponed too long.",
+					"{keyword} here suggests narrowing options and focusing on what is real and achievable.",
+					"With {keyword} turned inward, the task may be knowing what you truly want before acting on any of it."
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,412 @@
+{
+	"id": "major_15_devil",
+	"name": "The Devil",
+	"facets": [
+		{
+			"id": "attachment",
+			"keywords": ["attachment", "a tight grip", "a bond that is hard to loosen"]
+		},
+		{
+			"id": "patterns",
+			"keywords": ["an old pattern", "a habit loop", "a familiar rut"]
+		},
+		{
+			"id": "temptation",
+			"keywords": ["temptation", "a strong pull", "desire"]
+		},
+		{
+			"id": "shadow",
+			"keywords": ["the shadow side", "an unacknowledged need", "a hidden appetite"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"{card} isn't a verdict on you or anyone you love. If {keyword} is showing up in a relationship, start with one small observation: when does it tighten, and when does it ease?",
+					"If {keyword} between you and someone close is worrying you, you don't need to untangle it tonight. Notice one moment today when you felt free to be yourself, and hold on to that.",
+					"{keyword} in love can feel bigger in the dark hours. Write down what you actually know, separate from what you fear, and let the page hold the rest until morning."
+				],
+				"curious": [
+					"{keyword} in a relationship invites an honest look at what keeps you coming back. Is it the person, the feeling they give you, or the comfort of the familiar?",
+					"What would {keyword} tell you if you listened rather than judged? Sometimes the pull we resist most has something to say about what we need.",
+					"Here {keyword} asks a playful but pointed question: which of your relationship habits would you keep if no one were watching, and which would you drop?"
+				],
+				"grieving": [
+					"{keyword} can be part of how love holds on after someone is gone. There's nothing wrong in it; holding close is a tender, human thing.",
+					"If you find yourself returning to old places, songs or routines, {keyword} isn't asking you to stop. Let them comfort you as long as they do.",
+					"{keyword} doesn't need to be examined right now. Be gentle with whatever you're clinging to; it is helping you carry something heavy."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} in love points to a repeating dynamic. Look at your last three significant relationships and see what they have in common.",
+					"Treat {keyword} as a prompt: is there something in a relationship you'd like to stop doing but keep doing anyway? What does it give you in the moment?",
+					"No dark forces here. {keyword} is simply a habit of attention. Notice what you reach for when you feel lonely or unsure, and whether it helps."
+				],
+				"hopeful": [
+					"{keyword} in love can be seen clearly, and seeing it is the first loosening. Hope sits well alongside honesty about what holds you.",
+					"If you're hoping for a freer kind of closeness, {keyword} invites you to name one pattern you'd like to change. Naming it is a real step.",
+					"{keyword} may show you exactly where more freedom is possible. What would a relationship look like where you didn't have to hold on so tightly?"
+				],
+				"neutral": [
+					"In relationships, {keyword} points to attachment, repeating dynamics, and the pull of what feels familiar.",
+					"{keyword} suggests looking honestly at what binds you in a connection, and whether that bond still serves both people.",
+					"Here {keyword} speaks to desire and dependence in love, and to the freedom that comes from seeing them clearly."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can feel like being stuck in a place you can't leave. You have more room than it seems; list two small choices you still control in your working week.",
+					"If {keyword} has you feeling trapped in a job, start with one breath and one fact. What is the next small step that would give you a little more freedom?",
+					"{keyword} in your career doesn't mean you're doomed to stay put. Today, it's enough to notice what keeps you there without needing to change it yet."
+				],
+				"curious": [
+					"{keyword} at work invites a look at what really keeps you in your role. Is it the money, the status, the comfort, or something you haven't named?",
+					"What might {keyword} reveal about your ambition? Sometimes what we chase at work is a stand-in for something we want elsewhere.",
+					"Here {keyword} asks which work habit you'd love to drop but keep repeating. What would happen if you tried a week without it?"
+				],
+				"grieving": [
+					"If work has become a refuge from a loss, {keyword} may be how you're getting through. That's understandable, and you don't need to change it yet.",
+					"{keyword} at work might look like holding on to tasks or routines that remind you of steadier times. Let them help for now.",
+					"When everything feels heavy, {keyword} doesn't ask you to break free of anything. Rest where you can, and let the rest wait."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work often shows up as golden handcuffs: pay or perks that keep you somewhere you'd otherwise leave. Do the honest sums.",
+					"Read as a prompt, {keyword} asks which work habit costs you the most energy for the least return. Overworking? Checking messages at night?",
+					"No mystery here: {keyword} in a career is a loop. Identify the trigger, the routine, and the reward, and you can begin to change one of them."
+				],
+				"hopeful": [
+					"{keyword} in your working life can be seen and loosened. Hope doesn't need a dramatic exit; small changes in how you work can make a real difference.",
+					"If you're hoping for more freedom at work, {keyword} invites you to imagine one boundary you could set this month. What would it be?",
+					"{keyword} may show you what you actually want from work, underneath the habits. That's useful information for your next step."
+				],
+				"neutral": [
+					"At work, {keyword} points to feeling bound to a role, a habit, or a reward that may no longer serve you.",
+					"{keyword} suggests examining what keeps you in place professionally and whether you still choose it.",
+					"Here {keyword} speaks to ambition, dependence, and patterns that repeat in your working life."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} can feel heavy and hard to escape. You don't need to fix it all at once. Look at one regular expense and ask whether it truly helps you.",
+					"If {keyword} around finances is weighing on you, steady yourself with one fact you're sure of. Facts are smaller and steadier than fears.",
+					"{keyword} with money doesn't define you. One small, deliberate step, like pausing before one purchase this week, is a real move toward freedom."
+				],
+				"curious": [
+					"{keyword} invites you to look at what money means to you beyond the numbers. Safety? Status? Freedom? Which one drives your choices most?",
+					"What might {keyword} reveal about your spending? Notice what you reach for when you're bored, tired, or low, and whether it actually lifts you.",
+					"Here {keyword} asks which of your possessions own you a little. What would it feel like to need less of it?"
+				],
+				"grieving": [
+					"If money has become tangled with a loss, {keyword} may show up as holding on to things that belonged to a time or a person. Keep them as long as you need.",
+					"{keyword} with spending can be a way of soothing yourself in grief. There's no judgement in that; just a gentle awareness when you're ready.",
+					"When everything feels heavy, {keyword} doesn't ask you to change your money habits now. Covering what's needed is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} with money often looks like recurring spending you've stopped noticing. Look through one month's statement and circle what surprises you.",
+					"Read plainly, {keyword} asks whether a financial obligation is genuinely necessary or just familiar. Which ones could you renegotiate?",
+					"No dark forces needed: {keyword} is a behavioural loop. Notice the trigger for your least helpful spending and plan one alternative."
+				],
+				"hopeful": [
+					"{keyword} with money can be loosened with awareness. Seeing the pattern clearly is often the first step toward a freer relationship with resources.",
+					"If you're hoping for financial freedom, {keyword} invites you to cut one tie that costs more than it gives.",
+					"{keyword} may show you what you truly value. What would your spending look like if it followed that instead?"
+				],
+				"neutral": [
+					"With money, {keyword} points to material attachment, compulsive spending patterns, or feeling bound by obligations.",
+					"{keyword} suggests examining what you hold on to financially, and why.",
+					"Here {keyword} speaks to the pull of possessions and the habits that shape your spending."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} in your daily habits can feel hard to shift, and that's very human. Choose one small thing to notice today, without needing to change it yet.",
+					"If {keyword} is making you uneasy about how you care for yourself, start with your breath. A slow, steady exhale is fully in your control.",
+					"{keyword} doesn't make you weak. Pick one gentle swap, a glass of water instead of another coffee, a short walk instead of another scroll, and leave the rest."
+				],
+				"curious": [
+					"{keyword} invites you to get curious about what your habits are doing for you. What need is each one meeting, even imperfectly?",
+					"What would {keyword} reveal if you tracked it for a week without judging? Patterns become more interesting when you're not fighting them.",
+					"Here {keyword} asks what your body reaches for when it's tired or stressed. Is there another way to meet that same need?"
+				],
+				"grieving": [
+					"Grief can bring {keyword} to the surface: sweet things, late nights, whatever soothes. Be gentle; you're getting through.",
+					"{keyword} in your habits is understandable when you're carrying a loss. You don't need to change anything right now.",
+					"When everything feels heavy, {keyword} is not a failing. Let small comforts help, and be kind to yourself about them."
+				],
+				"skeptical": [
+					"Practically, {keyword} in your routines is about cue, behaviour, and reward. Pick one habit and identify all three.",
+					"Read as a prompt, {keyword} asks which of your daily habits costs you the most energy over time. Start there.",
+					"No moral judgement needed: {keyword} is simply something your brain has practised. Practising a different response is how it changes."
+				],
+				"hopeful": [
+					"{keyword} in your habits can be loosened bit by bit. Small, steady changes often stick better than dramatic ones.",
+					"If you're hoping to feel freer in your body, {keyword} invites one kind experiment: change one small habit for a week.",
+					"{keyword} may show you where your energy is going. That awareness alone can make room for a gentler routine."
+				],
+				"neutral": [
+					"In health, {keyword} points to habits that feel hard to break and the needs that drive them.",
+					"{keyword} suggests looking at what you reach for when you're stressed or tired.",
+					"Here {keyword} speaks to patterns of comfort and dependence in daily life."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{card} isn't about evil or punishment. If {keyword} is stirring in your inner life, return to one practice that steadies you, and let that be enough.",
+					"If {keyword} makes you uneasy about yourself, remember that everyone has parts they'd rather not look at. You can look gently, a little at a time.",
+					"{keyword} doesn't make you bad. One quiet breath, noticing without judging, is a full practice today."
+				],
+				"curious": [
+					"{keyword} invites you to explore the parts of yourself you usually hide. What might they have been protecting?",
+					"What would {keyword} show you if you treated it as a teacher rather than an enemy? Sit with that question for a few minutes.",
+					"Here {keyword} asks what you believe you can't live without. Is that truly so, or is it a story you've practised?"
+				],
+				"grieving": [
+					"In grief, {keyword} may show up as holding on to beliefs, rituals or memories. Let them hold you; they're doing important work.",
+					"{keyword} doesn't ask you to let go of anything right now. Clinging to what comforts you is part of grieving.",
+					"If darker feelings surface in your loss, {keyword} is simply a name for them. They're human, and they don't need to be fixed today."
+				],
+				"skeptical": [
+					"Read without mysticism, {keyword} is about the parts of yourself you avoid. Which trait do you most dislike in others? It may be worth a closer look in yourself.",
+					"Treat {keyword} as a prompt to examine a belief that limits you. Where did it come from, and does it still hold?",
+					"{keyword} needs no special framing to be useful. Simply ask what you're most attached to, and what it would mean to hold it more loosely."
+				],
+				"hopeful": [
+					"{keyword} on your inner path can be a doorway to self-acceptance. Seeing your shadow clearly often makes it less powerful.",
+					"If you hope to grow, {keyword} invites you to make peace with a part of yourself you've been resisting.",
+					"{keyword} may show you where freedom is possible. Often the hold is looser than it looks."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to attachment, the shadow self, and the beliefs that keep you bound.",
+					"{keyword} suggests that inner growth may come from facing what you usually avoid.",
+					"Here {keyword} speaks to the difference between what you want and what you need."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{card} is about patterns and attachments, not doom. If {keyword} is in your life right now, notice one small way you're still free to choose, and use it today.",
+					"If {keyword} is weighing on you, steady yourself with what you know. One small step toward more freedom is enough.",
+					"{keyword} can feel heavy, but it doesn't define you. Take a breath, and let today's task be simply noticing it."
+				],
+				"curious": [
+					"{keyword} invites you to look honestly at what holds you. What do you keep returning to, even when you'd rather not?",
+					"What would {keyword} reveal if you approached it with curiosity rather than shame? Patterns often make sense once you see what they're for.",
+					"Here {keyword} asks what you'd do with your time and energy if one habit simply disappeared."
+				],
+				"grieving": [
+					"In a heavy season, {keyword} may be part of how you're holding on. That's understandable; there's no need to let go yet.",
+					"{keyword} doesn't ask anything of you right now. Let whatever comforts you, comfort you.",
+					"If you're clinging to routines or memories, {keyword} isn't a criticism. It's a sign of how much you're carrying."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about repeated behaviour. What do you do over and over that you wish you didn't?",
+					"Treat {keyword} as a prompt to identify one thing you feel you can't live without, and test whether that's true.",
+					"No dark forces here: {keyword} is simply a habit with a reward. Find the reward, and you'll understand the habit."
+				],
+				"hopeful": [
+					"{keyword} can be loosened once it's seen. Awareness is often the first and most important step.",
+					"If you're hoping for more freedom, {keyword} invites you to name one thing that holds you. Naming it begins to change it.",
+					"{keyword} may show you where change is possible. Often the hold is less tight than it feels."
+				],
+				"neutral": [
+					"{keyword} points to attachment, repeating patterns, and the pull of what feels familiar.",
+					"In general, {keyword} suggests examining what holds you and whether you still choose it.",
+					"Here {keyword} speaks to desire, habit, and the freedom that comes from seeing them clearly."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} in a relationship may be starting to loosen, and change can feel unsteady even when it's good. Take it slowly; one honest conversation at a time is enough.",
+					"If {keyword} has gone quiet but not away, you don't have to solve it now. Notice one moment today when you chose freely, and let that reassure you.",
+					"{keyword} may be easing, which can leave you unsure what comes next. Ground yourself in what you want from the people you love, written in a sentence or two."
+				],
+				"curious": [
+					"{keyword} reversed in love might show up as suddenly seeing a dynamic clearly. What do you notice now that you couldn't see before?",
+					"What if {keyword} has gone underground, less obvious but still steering things? Explore where it shows up in small, quiet ways.",
+					"Here {keyword} may be overcorrected, so wary of dependence that you keep people at arm's length. What would healthy closeness feel like to you?"
+				],
+				"grieving": [
+					"{keyword} may be loosening in its own time after a loss. There's no need to hurry it; holding on is part of how love grieves.",
+					"If you've started to let go of something and it hurts, that's understandable. {keyword} can ease at whatever pace you need.",
+					"{keyword} may feel both lighter and sadder at once. Let both feelings be true; neither needs to win."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means awareness has arrived but action hasn't. What's the first concrete change you could make?",
+					"Read plainly, {keyword} loosening may mean you're less willing to tolerate something. What has shifted in your limits lately?",
+					"Treat {keyword} as a prompt to check for overcorrection. Have you swung from too dependent to too guarded?"
+				],
+				"hopeful": [
+					"{keyword} in love may be losing its grip. That can make room for a connection built on choice rather than need.",
+					"If you're hoping for a freer relationship, {keyword} easing is a good sign to build on. What boundary could you set kindly this week?",
+					"{keyword} may be giving way to something more honest. Notice where you feel lighter with the people close to you."
+				],
+				"neutral": [
+					"Reversed in love, {keyword} may be loosening, becoming conscious, or going underground.",
+					"{keyword} suggests release from a binding dynamic, or a pattern that has turned inward.",
+					"Here {keyword} points to breaking free in relationships, or to overcorrecting into distance."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} may be easing, which can feel uncertain even when it's welcome. Focus on one small, practical step toward the freedom you want.",
+					"If {keyword} at work has gone quieter but still lingers, you don't need to resolve it today. Write down one thing you'd like to be different by next month.",
+					"{keyword} may be loosening, and you can take your time with what comes next. Steady yourself with the skills you already have."
+				],
+				"curious": [
+					"{keyword} reversed at work might show up as suddenly seeing the golden handcuffs for what they are. What becomes possible once you see them?",
+					"What if {keyword} has gone hidden, a quiet overwork no one notices? Explore where it still shapes your days.",
+					"Here {keyword} may be overcorrected, so determined not to be ambitious that you hold yourself back. What would healthy ambition look like?"
+				],
+				"grieving": [
+					"If work has been a refuge, {keyword} loosening may feel unsettling. You can keep leaning on routine as long as it helps.",
+					"{keyword} may be easing at work while you're grieving. There's no need to make changes yet.",
+					"When everything feels heavy, {keyword} lifting can be quiet and slow. Let it be."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means you've noticed the trap but haven't moved yet. What's the first realistic step?",
+					"Read plainly, {keyword} loosening may mean you're less willing to trade your time for things you don't value. What changed?",
+					"Treat {keyword} as a prompt to check whether you've swung from overwork to disengagement. Where's the middle?"
+				],
+				"hopeful": [
+					"{keyword} at work may be losing its hold. That can make room for a role you choose rather than one you're stuck in.",
+					"If you're hoping for more freedom in your career, {keyword} easing gives you a chance to plan. What would you aim for?",
+					"{keyword} may be giving way. Notice where work feels a little less binding than it did."
+				],
+				"neutral": [
+					"Reversed at work, {keyword} may be loosening, becoming visible, or going quietly underground.",
+					"{keyword} suggests release from a binding job situation, or overcorrecting into disengagement.",
+					"Here {keyword} points to growing awareness of what keeps you in place professionally."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} may be starting to ease. That can feel unfamiliar; take one small step, like pausing before a single purchase, and let it be enough.",
+					"If {keyword} around your finances has gone quiet but not away, steady yourself with one clear fact about your situation.",
+					"{keyword} may be loosening. You don't have to change everything at once; one deliberate choice this week is a real step."
+				],
+				"curious": [
+					"{keyword} reversed with money might show up as suddenly seeing a spending habit for what it is. What do you notice?",
+					"What if {keyword} has gone hidden, quieter spending that still adds up? Explore where it might be showing up.",
+					"Here {keyword} may be overcorrected, so strict with money that you never enjoy anything. What would balance look like?"
+				],
+				"grieving": [
+					"If money is tangled with a loss, {keyword} may be loosening in its own time. No need to rush.",
+					"{keyword} may be easing, and letting go of things can be painful. Take your time with it.",
+					"When everything feels heavy, {keyword} can wait. Cover what's needed today."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means you've spotted a costly habit but haven't changed it yet. What's step one?",
+					"Read plainly, {keyword} loosening may mean your priorities are shifting. Does your budget reflect that?",
+					"Treat {keyword} as a prompt to check for overcorrection: are you depriving yourself to compensate for past spending?"
+				],
+				"hopeful": [
+					"{keyword} with money may be losing its grip. That can make room for choices that reflect what you truly value.",
+					"If you're hoping for financial freedom, {keyword} easing is a good moment to set one new habit.",
+					"{keyword} may be giving way. Notice where money feels a little less heavy than it did."
+				],
+				"neutral": [
+					"Reversed with money, {keyword} may be loosening, becoming conscious, or turning into over-restriction.",
+					"{keyword} suggests release from a binding financial pattern.",
+					"Here {keyword} points to growing awareness of what drives your spending."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} in your habits may be starting to loosen, and that can feel unsteady. Be gentle; one small, kind choice today is enough.",
+					"If {keyword} has gone quieter but still lingers, you don't have to fix it now. Notice it, breathe, and let that be the whole task.",
+					"{keyword} may be easing. Steady yourself with one simple routine that already helps, like a regular bedtime."
+				],
+				"curious": [
+					"{keyword} reversed might show up as suddenly seeing what a habit costs you. What did you notice?",
+					"What if {keyword} has gone hidden, swapped for a different habit that meets the same need? Explore what that need is.",
+					"Here {keyword} may be overcorrected, so strict with yourself that care has become punishment. What would kinder discipline look like?"
+				],
+				"grieving": [
+					"{keyword} may be loosening slowly. In grief, there's no need to rush any change to how you cope.",
+					"If {keyword} is easing and you miss the comfort it gave, be gentle with that. You can let go at your own pace, or not yet.",
+					"{keyword} may be easing, or not yet. Either way, you're doing your best with a heavy load."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means awareness without action. Pick one habit and one small change.",
+					"Read plainly, {keyword} loosening may mean the reward is no longer worth the cost. What tipped the balance?",
+					"Treat {keyword} as a prompt to check whether you've replaced one habit with a similar one."
+				],
+				"hopeful": [
+					"{keyword} may be losing its grip on your routines. Each small change makes the next one easier.",
+					"If you're hoping to feel freer in your body, {keyword} easing is something to build on gently.",
+					"{keyword} may be giving way. Notice a day when it felt less strong, and what helped."
+				],
+				"neutral": [
+					"Reversed in health, {keyword} may be loosening, becoming conscious, or shifting to a different habit.",
+					"{keyword} suggests release from a pattern that has been draining your energy.",
+					"Here {keyword} points to growing awareness of what your habits are doing for you."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{keyword} in your inner life may be loosening, and even welcome change can feel unsteady. Return to one simple practice that grounds you, and stay there for a while.",
+					"If {keyword} has gone quiet but still surfaces now and then, you don't have to resolve it. One moment of noticing it without judgement is enough for today.",
+					"{keyword} may be easing its hold. You can rest in that without needing to understand it fully or explain it to anyone."
+				],
+				"curious": [
+					"{keyword} reversed might show up as suddenly seeing a belief that has been steering you. What does it look like now that it's in plain view?",
+					"What if {keyword} has been buried rather than faced, pushed down so it only shows up sideways? You might explore it gently, as you would a stranger you're curious about.",
+					"Here {keyword} may be overcorrected, so intent on being good that you've denied a natural part of yourself. Which part has been waiting to be let back in?"
+				],
+				"grieving": [
+					"{keyword} may be loosening in your inner life after a loss. Let it happen slowly, or not at all for now; nothing needs to change today.",
+					"If beliefs that once held you are shifting, that is tender ground. {keyword} can ease at your pace, and you can keep whatever still comforts you.",
+					"{keyword} may lift, or it may stay a while. Either is alright; your practice for now can simply be kindness toward yourself."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means seeing a limiting belief clearly for the first time. What would you do differently if you stopped acting on it?",
+					"Read plainly, {keyword} loosening may mean you've outgrown a way of thinking. Name it, and notice whether you still defend it out of habit.",
+					"Treat {keyword} as a prompt to ask whether you've resolved something or simply stopped looking at it. The two can feel similar."
+				],
+				"hopeful": [
+					"{keyword} may be losing its hold on your inner life, and that can open room for real growth. What would you like to explore with the freed-up space?",
+					"If you hope to feel freer, {keyword} easing is worth trusting a little. Small moments of choice are where inner freedom shows itself.",
+					"{keyword} may be giving way to something lighter. Notice when you surprise yourself by not reacting the old way."
+				],
+				"neutral": [
+					"Reversed spiritually, {keyword} may be loosening, coming into awareness, or being pushed further down.",
+					"{keyword} suggests release from a limiting belief or attachment, or a shadow suppressed rather than faced.",
+					"Here {keyword} points to the work of facing what binds you, and the freedom that can follow."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} may be starting to loosen. Change can feel unsteady even when it's good, so take one small step at a time and let that be enough.",
+					"If {keyword} has gone quieter but not away, you don't need to resolve it today. Notice one free choice you made, however small, and give yourself credit for it.",
+					"{keyword} may be easing its grip. Steady yourself with what you know for certain, and let the rest unfold in its own time."
+				],
+				"curious": [
+					"{keyword} reversed might show up as suddenly seeing a pattern you've lived inside for years. What does it look like from the outside?",
+					"What if {keyword} has gone hidden, quieter but still shaping your choices? It could be worth tracing where it turns up when you're tired or stressed.",
+					"Here {keyword} may be overcorrected, so determined never to want too much that you've stopped wanting at all. Where have you swung too far the other way?"
+				],
+				"grieving": [
+					"{keyword} may be loosening slowly, or not yet. In a heavy time, there's no need to hurry anything.",
+					"If letting go of something hurts, be gentle with yourself. {keyword} can ease at your pace, and you can hold on as long as you need.",
+					"{keyword} may lift a little some days and not others. Either way, you're carrying a lot, and that deserves care."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means awareness without action yet. What is the smallest concrete change you could make this week?",
+					"Read plainly, {keyword} loosening may mean your priorities have quietly shifted. Does the way you spend your time reflect that yet?",
+					"Treat {keyword} as a prompt to check for overcorrection. Breaking a habit by swinging to its opposite is still being run by it."
+				],
+				"hopeful": [
+					"{keyword} may be losing its grip, and that can make room for choices made freely rather than out of habit.",
+					"If you're hoping for more freedom, {keyword} easing is something real to build on. What would you choose if the old pull were gone?",
+					"{keyword} may be giving way. Notice where you already feel lighter, and let that encourage you."
+				],
+				"neutral": [
+					"Reversed, {keyword} may be loosening, surfacing into awareness, or going underground.",
+					"{keyword} suggests release from a binding pattern, or a swing into its opposite.",
+					"Here {keyword} points to growing awareness of what holds you, and the choice to loosen it."
+				]
+			}
+		}
+	}
+}

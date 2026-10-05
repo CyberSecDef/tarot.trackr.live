@@ -1,0 +1,32 @@
+{
+	"single": {
+		"name": "Single Card",
+		"description": "One card to focus a question.",
+		"positions": [{ "id": "focus", "label": "Focus", "emphasis": "present" }]
+	},
+	"three": {
+		"name": "Past, Present, Future",
+		"description": "Three cards that trace a question through time.",
+		"positions": [
+			{ "id": "past", "label": "Past", "emphasis": "past" },
+			{ "id": "present", "label": "Present", "emphasis": "present" },
+			{ "id": "future", "label": "Future", "emphasis": "future" }
+		]
+	},
+	"celtic_cross": {
+		"name": "Celtic Cross",
+		"description": "Ten cards for a full, layered reading.",
+		"positions": [
+			{ "id": "present", "label": "The Present", "emphasis": "present" },
+			{ "id": "challenge", "label": "The Challenge", "emphasis": "obstacle" },
+			{ "id": "foundation", "label": "The Foundation", "emphasis": "past" },
+			{ "id": "recent_past", "label": "The Recent Past", "emphasis": "past" },
+			{ "id": "crown", "label": "What Could Be", "emphasis": "outcome" },
+			{ "id": "near_future", "label": "The Near Future", "emphasis": "future" },
+			{ "id": "self", "label": "Yourself", "emphasis": "self" },
+			{ "id": "environment", "label": "Your Surroundings", "emphasis": "self" },
+			{ "id": "hopes_fears", "label": "Hopes and Fears", "emphasis": "advice" },
+			{ "id": "outcome", "label": "The Outcome", "emphasis": "outcome" }
+		]
+	}
+}

@@ -1,0 +1,412 @@
+{
+	"id": "swords_03_three",
+	"name": "Three of Swords",
+	"facets": [
+		{
+			"id": "heartbreak",
+			"keywords": ["heartbreak", "a broken heart", "an aching heart"]
+		},
+		{
+			"id": "sorrow",
+			"keywords": ["sorrow", "grief", "a sense of loss"]
+		},
+		{
+			"id": "painful_truth",
+			"keywords": ["a painful truth", "a hurtful word", "a hard realisation"]
+		},
+		{
+			"id": "release",
+			"keywords": ["a release of sorrow", "a good cry", "letting the hurt be felt"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are afraid of being hurt in love, {keyword} is not a sentence passed on you. It names a feeling that deserves care. One small thing you can do: let one kind person know how you are.",
+					"{keyword} can feel very big in the moment. You don't have to work out what it means for the future tonight; you only have to get through this evening gently.",
+					"When love hurts, {keyword} asks for comfort rather than answers. Wrap up warm, drink something soothing and let the questions rest until morning."
+				],
+				"curious": [
+					"{keyword} invites a tender question: what did this hurt show you about what you need from love? There is no rush to answer it.",
+					"What if {keyword} is pointing to a feeling you have been talking yourself out of? It might be worth letting it be as large as it really is.",
+					"{keyword} hints that something in a relationship has been said or seen that can't be unsaid. What do you want to do with what you now know?"
+				],
+				"grieving": [
+					"{keyword} is real, and it is allowed to hurt for as long as it hurts. Nothing here asks you to be over it.",
+					"When love has been lost, {keyword} may come in waves. Let each one pass at its own pace, and rest in between.",
+					"{keyword} does not need a reason or a lesson attached. You loved, and missing that is its own honest weight to carry."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to a hurt in a relationship that may need naming. Ignoring painful feelings rarely makes them smaller.",
+					"Treat {keyword} as a prompt: is there a conversation in your love life that keeps getting avoided because it is likely to hurt? It may still be worth having.",
+					"No mysticism needed: {keyword} describes an ordinary, human experience of disappointment. What support would help you through it?"
+				],
+				"hopeful": [
+					"{keyword} can sit alongside hope; the two are not opposites. You can feel this fully and still keep a door open for love.",
+					"If you are hoping to love again or to mend things, {keyword} asks you first to be honest about what hurt. That honesty is a sturdier start than pretending.",
+					"{keyword} reminds you that a tender heart is also an open one. Let the hurt be felt, and trust that you can take care of it."
+				],
+				"neutral": [
+					"In love, {keyword} speaks of disappointment, separation or something said that has left a mark.",
+					"{keyword} points to emotional pain in relationships, and to the need to acknowledge it rather than hurry past.",
+					"{keyword} brings attention to sorrow in matters of the heart, asking for honesty and gentleness in equal measure."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If something at work has hurt you, {keyword} deserves to be taken seriously. One thing in your control: tell someone you trust exactly what happened.",
+					"{keyword} at work can sting in a way that follows you home. Try writing it down so it has somewhere to stay other than your thoughts.",
+					"When a disappointment at work feels heavy, {keyword} doesn't need to be solved today. Do what is in front of you, then rest."
+				],
+				"curious": [
+					"{keyword} raises a question about your work: what did this disappointment reveal about what you care about most?",
+					"What if {keyword} at work is telling you something about a place or role you have outgrown? Be curious about it, without rushing.",
+					"{keyword} hints that something said at work landed hard. Is it a truth worth hearing, or simply unkind? Both are worth knowing."
+				],
+				"grieving": [
+					"If loss has touched your working life, {keyword} may make every task feel heavy. It is fine to do less and ask for understanding.",
+					"{keyword} can sit with you at your desk. You don't need to hide it completely; let one person know you are carrying something.",
+					"When grief meets work, {keyword} needs room. Small, ordinary tasks are enough on the harder days."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work may be a real setback: a rejection, criticism or a plan that didn't work. What did it actually cost you?",
+					"Treat {keyword} as a prompt to separate the hurt from the facts. What part of the feedback is useful, and what part can you set down?",
+					"No mystery required: {keyword} is a normal response when work matters to you. Caring is not the problem; how you care for yourself afterwards is the question."
+				],
+				"hopeful": [
+					"{keyword} at work is real, but it is not the whole of your career. Let yourself feel it, then look at what is still within reach.",
+					"If you are hoping to move forward, {keyword} asks for honesty about what went wrong. That clarity can help you choose your next step.",
+					"{keyword} may make room for a truer sense of what you want from your work, in time and at your own pace."
+				],
+				"neutral": [
+					"In work, {keyword} points to disappointment, rejection or harsh words that have left a mark.",
+					"{keyword} speaks of emotional pain in your working life, and of the need to acknowledge it honestly.",
+					"{keyword} brings attention to a professional setback and to how it has affected you."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money troubles have brought you hurt, {keyword} is understandable. One step you can take: write down the single most pressing figure and nothing more for today.",
+					"{keyword} around money can feel overwhelming. Let someone you trust sit with you while you look at it.",
+					"When a financial loss hurts, {keyword} deserves gentleness. You can take care of yourself first and the numbers second."
+				],
+				"curious": [
+					"{keyword} invites a question about money: what did this loss teach you about what you truly value?",
+					"What if {keyword} around money is tied to a person or a promise, not just a sum? It might be worth untangling the two.",
+					"{keyword} hints at a money disappointment. Which part stings most: the loss itself, or what it seemed to mean?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may make money matters feel unbearable. Let whatever can wait, wait.",
+					"{keyword} can come with practical burdens. Ask for help with forms and figures; you don't have to carry them alone.",
+					"When grief and money meet, {keyword} needs space. Only the most urgent things need your attention right now."
+				],
+				"skeptical": [
+					"Practically, {keyword} around money may be a real setback. Look at what was lost, and what remains, in plain numbers.",
+					"Treat {keyword} as a prompt: is a money disagreement causing hurt in a relationship? Separating the money from the feeling can help.",
+					"No mysticism needed: {keyword} is a common response to financial disappointment. What support would help you through it?"
+				],
+				"hopeful": [
+					"{keyword} over money is real, but it does not define your future security. Be gentle with yourself as you look at next steps.",
+					"If you are hoping to rebuild, {keyword} asks you to acknowledge the loss honestly first. That honesty is solid ground.",
+					"{keyword} may sit alongside a quiet resolve to take care of your resources more closely. Both can be true at once."
+				],
+				"neutral": [
+					"Around money, {keyword} points to financial disappointment, a loss that hurts or tension over resources with someone close.",
+					"{keyword} speaks of the emotional side of money, where loss and hurt are tangled together.",
+					"{keyword} brings attention to a setback in your resources, and to how you feel about it."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your heart feels heavy, {keyword} may be sitting in your body as well. One small thing in your control: place a hand on your chest and take three slow breaths.",
+					"{keyword} can make you tired in ways that are hard to explain. Rest without needing to justify it.",
+					"When emotions are running high, {keyword} asks for comfort. Something warm to drink and an early night may help more than you expect."
+				],
+				"curious": [
+					"{keyword} raises a gentle question: where do you feel sadness in your body? Noticing it can be a way of honouring it.",
+					"What if {keyword} needs some movement to pass through? A slow walk can sometimes loosen what words can't.",
+					"{keyword} hints at feelings held in. What helps you let them out: music, writing, talking or quiet?"
+				],
+				"grieving": [
+					"In grief, {keyword} is felt in the whole body. Tiredness, heaviness and tears are all allowed. Rest when you can.",
+					"{keyword} may make ordinary things feel hard. Eat something simple, drink water and let that be enough for today.",
+					"When you are carrying loss, {keyword} needs gentleness. Let others take care of you in small ways if they offer."
+				],
+				"skeptical": [
+					"Practically, {keyword} often affects sleep, appetite and energy. Which of those has shifted for you lately?",
+					"Treat {keyword} as a prompt to look after the basics. Emotional strain tends to wear on the body when routines slip.",
+					"No mystery needed: {keyword} is stressful, and stress shows up physically. What is one thing that reliably helps you unwind?"
+				],
+				"hopeful": [
+					"{keyword} is real, and feeling it fully may help your body settle in time. Let yourself rest without rushing.",
+					"If you are hoping to feel lighter, {keyword} asks for patience and care. Small comforts can carry you a long way.",
+					"{keyword} may ease as it is expressed. Crying, talking and resting all count as care."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to emotional pain felt in the body, and to the need for rest and comfort.",
+					"{keyword} speaks of heaviness and sorrow, asking you to be gentle with your energy.",
+					"{keyword} brings attention to how feelings affect sleep, energy and daily care."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner world feels shaken, {keyword} does not mean you are lost. Hold onto one simple thing that comforts you, and rest there.",
+					"{keyword} can make meaning feel far away. You don't have to find it today; you only have to keep breathing.",
+					"When sorrow feels too big, {keyword} invites you to sit quietly. Let stillness hold you for a few minutes."
+				],
+				"curious": [
+					"{keyword} opens a quiet question: how has pain changed what you believe about yourself or the world?",
+					"What if {keyword} is part of your inner life rather than a break from it? Let yourself wonder, without forcing an answer.",
+					"{keyword} hints at a truth that hurt to see. What do you understand now that you didn't before?"
+				],
+				"grieving": [
+					"In grief, {keyword} does not need to mean anything or lead anywhere. It only needs room to be felt, for as long as it takes.",
+					"{keyword} may make prayer, meditation or quiet feel different. Let your practice change shape as you need.",
+					"When loss is fresh, {keyword} does not need explaining. Being present with your sorrow is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} in your inner life may mean a belief has been challenged by experience. What still holds true for you?",
+					"Treat {keyword} as a prompt for honest reflection. What would you say about this pain if you didn't have to make it sound wise?",
+					"No supernatural claim needed: {keyword} is a universal human experience. Others have written about it; their words might keep you company."
+				],
+				"hopeful": [
+					"{keyword} can deepen compassion over time, but there is no hurry. Let yourself feel it fully first.",
+					"If you are hoping for peace, {keyword} asks for honesty about what hurts. Peace often grows from that honesty, slowly.",
+					"{keyword} may sit alongside a quiet faith that you can carry this. Both feelings can be true together."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to pain that touches the deepest parts of you, and to honesty about it.",
+					"{keyword} speaks of sorrow felt in the spirit, and of the need to acknowledge rather than transcend it.",
+					"{keyword} brings attention to how hurt shapes your inner life."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you are bracing for hurt, {keyword} names a feeling, not an outcome. One thing in your control: be kind to yourself today in one specific way.",
+					"{keyword} can feel heavy, but you don't have to carry it all at once. Take the next hour, then the one after.",
+					"When pain is near, {keyword} asks for gentleness. Reach out to one person who makes you feel safe."
+				],
+				"curious": [
+					"{keyword} raises a tender question: what has this hurt shown you about what matters to you?",
+					"What if {keyword} is asking to be felt rather than fixed? Let yourself wonder what that might be like.",
+					"{keyword} hints that something has been seen or said that can't be taken back. What would you like to do with it?"
+				],
+				"grieving": [
+					"{keyword} is real, and it deserves all the time it needs. There is nothing to rush here.",
+					"In loss, {keyword} may come in waves. Rest between them, and let others hold you up when they can.",
+					"{keyword} doesn't need a lesson attached. It is simply the weight of caring, and you are allowed to feel it."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to a hurt that may need acknowledging. Pushing past it tends to make it last longer.",
+					"Treat {keyword} as a prompt: what happened, and how do you honestly feel about it? Writing both down can help.",
+					"No mystery needed: {keyword} is part of ordinary life. What support do you need right now?"
+				],
+				"hopeful": [
+					"{keyword} can sit alongside hope. Feel what you feel, and keep a small space open for better days.",
+					"If you are hoping for relief, {keyword} asks first for honesty. Naming the hurt is a steady place to begin.",
+					"{keyword} may ease as you let it be seen. Trust yourself to carry it, one day at a time."
+				],
+				"neutral": [
+					"In general, {keyword} points to pain, disappointment or a truth that is hard to hear.",
+					"{keyword} speaks of emotional hurt, asking you to acknowledge it rather than hurry past.",
+					"{keyword} brings attention to sorrow and to the honesty it asks of you."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} still lingers in love, that is not a sign something is wrong with you. One step in your control: let yourself talk about it with someone who listens well.",
+					"{keyword} may be slowly loosening, even if it doesn't feel that way yet. Be patient with yourself; there is no deadline.",
+					"When {keyword} has been held in for a long time, letting it out can feel scary. Start small, perhaps by writing a few lines no one else will read."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. What feels different now than it did a few weeks ago?",
+					"What if {keyword} has been kept quiet for too long? It might be worth wondering what would happen if you let it be heard.",
+					"{keyword} might be easing as you begin to understand what happened. Which part of it makes more sense to you now?"
+				],
+				"grieving": [
+					"In grief, {keyword} may be held inside, waiting for a safe moment. That moment can come whenever you are ready, and not before.",
+					"{keyword} may be softening in small ways, or not at all yet. Either is all right; grief keeps its own time.",
+					"If you have been holding {keyword} in to protect others, you are allowed to set it down with someone who can bear it."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can mean pain that has been suppressed rather than dealt with. Is there a hurt you keep pushing aside?",
+					"Treat {keyword} as a prompt: is an old hurt still shaping how you approach love? Naming it can loosen its influence.",
+					"No mysticism needed: {keyword} that isn't expressed tends to linger. What would honest expression look like for you?"
+				],
+				"hopeful": [
+					"{keyword} may be starting to ease. If you are hoping to open your heart again, take it gently and at your own pace.",
+					"If you are hoping to mend, {keyword} easing could make room for forgiveness, of yourself or someone else, when you are ready.",
+					"{keyword} might be loosening its hold. Let yourself notice small moments of lightness without judging them."
+				],
+				"neutral": [
+					"In love, {keyword} may be held in, slowly easing or lingering longer than expected.",
+					"{keyword} appears turned inward, pointing to unexpressed hurt or the first quiet steps toward letting it go.",
+					"{keyword} may be softening, asking you to notice how much you are still carrying."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} from work still lingers, you can take one small step today: name what happened to someone you trust.",
+					"{keyword} may be easing at work, even slowly. Focus on what you can do this week, and let the past rest a little.",
+					"When {keyword} has been bottled up, it can make work feel heavier. Find one outlet, like a walk or a talk, to let some of it out."
+				],
+				"curious": [
+					"{keyword} seems to be lifting. What do you see about your work now that you couldn't when it first happened?",
+					"What if {keyword} has been quietly shaping your choices at work? It might be worth noticing where.",
+					"{keyword} might be easing as you make sense of it. What would you do differently, and what would you keep the same?"
+				],
+				"grieving": [
+					"If grief is with you at work, {keyword} may be held in to get through the day. Find a safe place to let it out when you can.",
+					"{keyword} may soften slowly. Let work be simple for as long as you need.",
+					"When loss and work meet, {keyword} doesn't need to be hidden entirely. One person knowing can make the day lighter."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed at work may mean an old setback still affecting your confidence. Is that fair to you now?",
+					"Treat {keyword} as a prompt: is there unspoken tension at work that keeps resurfacing? A calm conversation may help.",
+					"No mystery needed: {keyword} that isn't processed tends to make you cautious. Where is that caution helping, and where is it holding you back?"
+				],
+				"hopeful": [
+					"{keyword} may be easing at work. If you are hoping to move on, let yourself take one step that feels hopeful.",
+					"If you are hoping for a fresh start, {keyword} loosening could make room for new confidence.",
+					"{keyword} might be lifting. Notice the moments when work feels lighter and let them count."
+				],
+				"neutral": [
+					"In work, {keyword} may be lingering, suppressed or slowly easing.",
+					"{keyword} appears turned inward, pointing to a past setback still shaping your working life.",
+					"{keyword} may be softening, asking you to notice what you have learned and what you are ready to release."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} around money still lingers, take one small step in your control: look at where things stand today, not where they stood then.",
+					"{keyword} may be easing slowly. Let yourself acknowledge the progress you have made, however small.",
+					"When {keyword} about money is held in, it can make every decision feel heavy. Talk it through with someone you trust."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. What do you now understand about the loss that you didn't at first?",
+					"What if {keyword} has been shaping how you spend or save? It might be worth looking at closely.",
+					"{keyword} might be easing. What feels possible now that didn't before?"
+				],
+				"grieving": [
+					"After a loss, {keyword} around money may be held in while you handle practical things. Let it out when you have space.",
+					"{keyword} may linger as you sort through what remains. Ask for help, and go slowly.",
+					"If {keyword} has been bottled up, you don't have to manage it alone. A trusted friend can share the weight."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed may mean a past financial loss still affecting your choices. Is that caution still useful?",
+					"Treat {keyword} as a prompt: is there unresolved tension over money with someone close? Clearing it could help both of you.",
+					"No mysticism needed: {keyword} that lingers can make you overly careful or careless. Which way do you lean?"
+				],
+				"hopeful": [
+					"{keyword} may be easing. If you are hoping to rebuild, small steady steps can carry you a long way.",
+					"If you are hoping for stability, {keyword} loosening may help you plan with a clearer head.",
+					"{keyword} might be lifting. Let yourself notice what is working, alongside what still hurts."
+				],
+				"neutral": [
+					"Around money, {keyword} may be lingering, held in or slowly easing.",
+					"{keyword} appears turned inward, pointing to a past loss that still shapes your financial choices.",
+					"{keyword} may be softening, asking you to look at your resources with fresh eyes."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} is still sitting heavily in your body, choose one gentle thing for yourself today: a short walk, a warm bath or an early night. That much is in your hands.",
+					"{keyword} may be loosening, even if slowly and unevenly. Notice any small moment of ease, like a deeper breath or a better night, and let it count.",
+					"When {keyword} has been held in for a long time, it can show up as tiredness or tightness. Rest is a sensible response, not a sign that anything is wrong with you."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. How does your body feel now compared with a few weeks ago, when things were at their hardest?",
+					"What if {keyword} is asking for some kind of outlet? Music, movement or a few tears might reach it in ways words can't.",
+					"{keyword} might be easing. What has helped, even a little, and could you give yourself a bit more of it?"
+				],
+				"grieving": [
+					"In grief, {keyword} may be held deep in your body, waiting for a safe moment. Let yourself rest, and cry when you need to.",
+					"{keyword} may soften slowly, or not yet. Simple care, like food, water and sleep, can hold you steady while you wait.",
+					"If {keyword} has been bottled up, a quiet, private space to let some of it out may help. There is no right way to do this."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed may mean emotional strain that hasn't been expressed. How has it been affecting your sleep or your energy?",
+					"Treat {keyword} as a prompt to check in with yourself honestly. What does your body need that you have been putting off?",
+					"No mystery needed: {keyword} that lingers tends to wear on energy over time. What reliably helps you let off some pressure?"
+				],
+				"hopeful": [
+					"{keyword} may be easing, and your energy could begin to come back in its own time. Be patient and kind with yourself along the way.",
+					"If you are hoping to feel lighter, {keyword} loosening its hold may help. Let yourself enjoy small comforts without guilt.",
+					"{keyword} might be lifting a little. Notice it when it does, and let your body rest into the relief."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} may be lingering, held in or slowly easing, and the body may be carrying some of it.",
+					"{keyword} appears turned inward, pointing to emotional strain that still affects energy and rest.",
+					"{keyword} may be softening, asking you to notice how your body has been carrying it all this time."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} still weighs on your inner life, hold onto one practice that steadies you, however small: a candle, a breath, a familiar phrase.",
+					"{keyword} may be easing, slowly. Let yourself rest in quiet moments without needing them to mean anything more.",
+					"When {keyword} has been held in, sitting still can feel hard. Try a slow walk instead, and let your thoughts drift where they want."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. What do you believe now that you didn't before this hurt came into your life?",
+					"What if {keyword} is still asking to be felt rather than understood? It might be worth sitting with it a little longer before looking for meaning.",
+					"{keyword} might be easing as you make sense of it. What has it shown you about the way you care for others, and for yourself?"
+				],
+				"grieving": [
+					"In grief, {keyword} may be held deep inside. Let your practice, whatever it is, be a place where it can be felt gently.",
+					"{keyword} may soften in its own time. Meaning can wait; simply being present is enough.",
+					"If {keyword} has gone unspoken, you might find comfort in a small ritual, a lit candle or a quiet moment of remembering."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed may mean an old hurt still quietly shaping what you believe. Is that worth examining?",
+					"Treat {keyword} as a prompt for honest reflection. What would you need to forgive, or to set down, to feel more at peace?",
+					"No supernatural claim needed: {keyword} that lingers often reflects feeling that hasn't had anywhere to go. Where could it go?"
+				],
+				"hopeful": [
+					"{keyword} may be easing, making room for peace in time. Let it come slowly, without forcing it.",
+					"If you are hoping for inner calm, {keyword} loosening could open the way to forgiveness, whenever you are ready for that.",
+					"{keyword} might be lifting. Notice the small moments of lightness, and let them be enough for now."
+				],
+				"neutral": [
+					"Spiritually, {keyword} may be lingering, held down or slowly easing.",
+					"{keyword} appears turned inward, pointing to inner pain that is ready to be acknowledged.",
+					"{keyword} may be softening, asking you to make peace with what happened at your own pace."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} still lingers, that is understandable and not a failure. One step in your control: let one person know how you are really doing.",
+					"{keyword} may be easing, even if you can't feel it yet. Be patient with yourself; it does not have to move faster than it can.",
+					"When {keyword} has been held in, it can make everything feel heavier. Find one gentle outlet today, like a walk, a call or a page of writing."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. What feels different now, even slightly, from when it first began?",
+					"What if {keyword} is ready to be let out a little more? It might be worth wondering what that would look like for you.",
+					"{keyword} might be easing as you understand it better. What have you learned about yourself along the way?"
+				],
+				"grieving": [
+					"In grief, {keyword} may be held inside, waiting for the right moment. That moment can come whenever you are ready, and not before.",
+					"{keyword} may soften slowly, or not yet. Either way, you are allowed to take all the time you need.",
+					"If {keyword} has been bottled up, a trusted person or a quiet place can help you let some of it go, a little at a time."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed may mean pain that hasn't been dealt with. Is something old still affecting your choices today?",
+					"Treat {keyword} as a prompt: what hurt are you carrying that you haven't named, even to yourself?",
+					"No mystery needed: {keyword} that isn't expressed tends to linger. What would help you express it, safely and in your own way?"
+				],
+				"hopeful": [
+					"{keyword} may be easing. If you are hoping for brighter days, let yourself notice small signs of them without dismissing them.",
+					"If you are hoping to move forward, {keyword} loosening its hold can make room for that, at your own pace.",
+					"{keyword} might be lifting. Trust yourself to keep going gently, one ordinary day at a time."
+				],
+				"neutral": [
+					"In general, {keyword} may be lingering, held in or slowly easing.",
+					"{keyword} appears turned inward, pointing to unexpressed hurt or the beginnings of release.",
+					"{keyword} may be softening, asking you to notice what you still carry and what you might be ready to set down."
+				]
+			}
+		}
+	}
+}

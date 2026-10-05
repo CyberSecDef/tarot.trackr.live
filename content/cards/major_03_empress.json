@@ -1,0 +1,412 @@
+{
+	"id": "major_03_empress",
+	"name": "The Empress",
+	"facets": [
+		{
+			"id": "abundance",
+			"keywords": ["abundance", "a season of plenty", "steady growth"]
+		},
+		{
+			"id": "nurturing",
+			"keywords": ["nurturing care", "a nurturing presence", "tenderness"]
+		},
+		{
+			"id": "creativity",
+			"keywords": ["creative flow", "a project in bloom", "something you are growing"]
+		},
+		{
+			"id": "sensuality",
+			"keywords": ["the pleasure of the senses", "a connection to nature", "comfort in the body"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If love feels uncertain, {keyword} can start with how you treat yourself tonight: a proper meal, a warm room, a kind word in your own head. Steadiness tends to begin there.",
+					"{keyword} doesn't need you to win anyone over. Notice the people around you who already make you feel looked after, and let yourself lean on one of them this week.",
+					"When you're braced for rejection, it helps to remember what you bring. {keyword} is something you offer, not something you must earn; you're allowed to receive it too."
+				],
+				"curious": [
+					"{keyword} in love asks what a relationship looks like when it's tended like a garden instead of managed like a project. What would you water first?",
+					"What does closeness feel like to you through the senses: a voice, a meal shared, a hand on your back? {keyword} invites you to notice what truly nourishes you.",
+					"{card} sits at ease among growing things. Where could {keyword} bring a little more softness or play into how you and someone else spend your time?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may feel like something that belongs to other people. Let it come to you in small ways: a friend's soup, a blanket, a quiet hour.",
+					"{keyword} doesn't rush grief. It sits beside it. Let yourself be cared for, even clumsily, by whoever is near.",
+					"If you were the one who always looked after others, being without them can feel strange. {keyword} can turn toward you now, gently, for as long as you need."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is a question about care: who in your life gives it, who receives it, and is the balance roughly fair?",
+					"No magic required: {keyword} points to the everyday things that keep relationships alive, attention, warmth, time. Which one has been in short supply?",
+					"Treat {keyword} as a practical check. When did you last do something for someone you love simply because it would please them?"
+				],
+				"hopeful": [
+					"{keyword} in love suggests that warmth given freely may come back in kind, though no one can promise how. Keep offering what feels true to you.",
+					"If you're hoping for a deeper bond, {keyword} invites patience and tending. Relationships often grow the way plants do, slowly, and then all at once.",
+					"There's encouragement in {keyword}: affection tends to thrive where people feel safe. What could you do to make your company a softer place to land?"
+				],
+				"neutral": [
+					"In love, {keyword} points to warmth, affection and care that help a bond grow. It invites generosity and comfort between people.",
+					"{keyword} here suggests that a relationship may be in a fertile, growing phase, responsive to attention and kindness.",
+					"With {keyword} present, the emphasis falls on nurturing connection: shared pleasures, steady care and emotional generosity."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can look like something small and kind: a proper lunch break, a plant on your desk, a single task done carefully. Begin with that.",
+					"If your job feels precarious, remember that {keyword} grows from tending, not from panic. Choose one piece of work you can nurture today, and give it your full attention.",
+					"{keyword} doesn't ask you to produce more when you're stressed. It asks you to look after the conditions you work in, so effort has somewhere good to land."
+				],
+				"curious": [
+					"{keyword} at work invites you to ask what you're growing, not just what you're finishing. Which project would you like to see in full bloom a year from now?",
+					"What would your working life look like if creativity had as much room as efficiency? {keyword} suggests you try one hour of it this week.",
+					"{card} invites a sensory question: what helps you do your best work? Light, music, a certain chair? Let {keyword} shape your workspace a little."
+				],
+				"grieving": [
+					"If grief has followed you to work, {keyword} may simply mean being gentle with your own pace. Let colleagues help where they can.",
+					"{keyword} can be quiet right now. Doing your work slowly, without pressure to be inspired, is enough while you carry loss.",
+					"There's no need to create anything in particular. Let {keyword} wait until the ground feels softer under you."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about conditions for good work. Do you have the time, tools and support for what you're being asked to grow?",
+					"No mysticism: {keyword} points to the long game. Which part of your career would benefit from steady care rather than a sprint?",
+					"Use {keyword} as a check: are you mentoring, developing or tending anything at work, or only maintaining what's already there?"
+				],
+				"hopeful": [
+					"{keyword} suggests your efforts may be ready to grow into something fuller. Keep tending what matters, and let it develop at its own pace.",
+					"If you're hoping for creative or professional growth, {keyword} invites patience and generosity, with your work and with yourself.",
+					"There's encouragement here: {keyword} often follows consistent care. What could you nourish this month that might flourish later?"
+				],
+				"neutral": [
+					"In your career, {keyword} points to growth, creativity and work that develops through steady care.",
+					"{keyword} here suggests a fertile period for projects and ideas, especially those given patient attention.",
+					"With {keyword} present, nurturing your work, and the people you work with, may matter as much as pushing forward."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money feels tight, {keyword} may seem far away. Start by noticing one thing you have enough of today, food, warmth, a friend to call, and let that steady you.",
+					"{keyword} with money doesn't mean overnight change. It means tending what you have. Choose one small saving habit you could begin gently this week.",
+					"When finances feel frightening, care for the basics first. {keyword} grows best from a calm, regular look at what's coming in and going out."
+				],
+				"curious": [
+					"{keyword} invites you to wonder what genuine comfort costs. Which purchases have truly enriched your life, and which only filled a moment?",
+					"What would your finances look like if you treated them like a garden: planting, pruning, waiting? {keyword} suggests trying one small experiment.",
+					"{card} delights in the good things of life. Where could {keyword} mean spending a little on pleasure without guilt, and where might it mean letting something grow?"
+				],
+				"grieving": [
+					"When loss touches money matters, {keyword} can mean simply keeping things steady. Let others help with paperwork if you can.",
+					"{keyword} doesn't ask for big financial decisions now. Small comforts and basic security are enough while you grieve.",
+					"If spending feels confusing after a loss, be kind to yourself. {keyword} can return when you're ready to look ahead."
+				],
+				"skeptical": [
+					"Plainly, {keyword} with money is about steady accumulation rather than windfalls. What is the slow habit that could make a difference over a year?",
+					"No guarantees here: {keyword} is a prompt to notice where your resources are actually growing and where they're leaking.",
+					"Use {keyword} as a question: are you investing time and money in things that compound, or only in things that comfort?"
+				],
+				"hopeful": [
+					"{keyword} suggests that patient care could help your finances grow. Nothing is promised, but tended resources often go further.",
+					"If you're hoping for more security, {keyword} invites you to nurture small habits that build over time.",
+					"There's encouragement in {keyword}: abundance is partly about noticing what you already have, and partly about tending it well."
+				],
+				"neutral": [
+					"With money, {keyword} points to growth, comfort and resources that increase through steady care.",
+					"{keyword} here suggests a period where financial efforts may bear fruit, especially with patience.",
+					"With {keyword} present, the emphasis is on stability, nourishment and the long-term growth of what you have."
+				]
+			},
+			"health": {
+				"anxious": [
+					"When you feel tense, {keyword} can be simple: warm water on your hands, a slow meal, a few minutes in fresh air. Pick one and let it be enough.",
+					"{keyword} reminds you that your body deserves gentleness, especially on worried days. What's one comfort you could offer it right now?",
+					"If stress has you running ahead, let {keyword} bring you back: notice the textures, smells and sounds around you for one quiet minute."
+				],
+				"curious": [
+					"{keyword} invites you to explore what genuinely restores you. A walk among trees? Cooking something slowly? Notice what your body enjoys.",
+					"What happens to your energy when you treat rest as a pleasure rather than a reward? {keyword} suggests it's worth finding out.",
+					"Get curious about {keyword} in your daily rhythm. Which small sensory joys have you been too busy to notice?"
+				],
+				"grieving": [
+					"Grief can make the body feel heavy and far away. {keyword} invites small comforts: warmth, softness, a little nourishing food.",
+					"{keyword} doesn't ask you to feel better. It simply offers care: rest when you can, and gentleness toward yourself always.",
+					"If you're carrying loss, let {keyword} be quiet and steady. A blanket, a cup of tea, a walk outside can all count."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about basic care: sleep, food, movement, time outside. Which of these has been neglected lately?",
+					"No mystique needed: {keyword} points to the body's need for comfort and rhythm. What small habit would make your days feel kinder?",
+					"Use {keyword} as a check: are you looking after yourself as well as you look after others?"
+				],
+				"hopeful": [
+					"{keyword} suggests that gentle, regular care may help you feel more at home in your body. Begin with something that feels good.",
+					"There's encouragement in {keyword}: wellbeing often grows from simple pleasures done often. What could you enjoy more of this week?",
+					"If you're hoping to feel more nourished, {keyword} invites you to slow down and savour. Your body may respond to the kindness."
+				],
+				"neutral": [
+					"For your wellbeing, {keyword} points to nourishment, rest and comfort in the body.",
+					"{keyword} here suggests that gentle care and time in nature may support your energy.",
+					"With {keyword} present, the invitation is to treat yourself with warmth and attention."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsteady, {keyword} can begin outside: stand on the grass, feel the sun or rain, notice that the earth is holding you.",
+					"{keyword} doesn't need a perfect practice. Tending something living, a plant, a pet, a friendship, can be a spiritual act in itself.",
+					"When worry crowds your mind, let {keyword} ground you in the body. A slow walk, paying attention to each step, may be enough."
+				],
+				"curious": [
+					"{keyword} invites you to find the sacred in ordinary things: bread rising, seasons turning, a friend's laugh. Where have you felt it lately?",
+					"What might your practice look like if it included more pleasure and less discipline? {keyword} suggests trying something that delights you.",
+					"{card} is at home in nature. Where could {keyword} draw you outdoors, or toward creative expression, as a way of connecting?"
+				],
+				"grieving": [
+					"Grief can make meaning feel distant. {keyword} may offer something simple instead: the comfort of nature, the warmth of being held.",
+					"{keyword} doesn't ask you to understand loss. It can simply hold you, the way the earth holds a seed through winter.",
+					"If you're carrying sorrow, let {keyword} be quiet and patient. Growth isn't required right now; rest is enough."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about being present in the physical world. When did you last pay full attention to something beautiful?",
+					"No supernatural claims: {keyword} points to the meaning people find in creating, caring and connecting with nature. Which of those feeds you?",
+					"Use {keyword} as a prompt. Does your idea of a meaningful life include enough room for pleasure and rest?"
+				],
+				"hopeful": [
+					"{keyword} suggests your inner life may be ready to flourish. Tend it gently, and see what grows.",
+					"There's encouragement here: {keyword} often grows through creativity, care and time in the natural world.",
+					"If you're seeking connection, {keyword} invites you to find it in the abundance around you, not only in effort."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to growth, creativity and a connection to nature and the body.",
+					"{keyword} here suggests that meaning may be found through care, pleasure and creative expression.",
+					"With {keyword} present, the invitation is to tend your inner life as you would a garden."
+				]
+			},
+			"general": {
+				"anxious": [
+					"When life feels uncertain, {keyword} invites you to care for the basics first. Eat something nourishing, rest when you can, and let that be today's task.",
+					"{keyword} reminds you that growth doesn't happen in a hurry. Choose one thing to tend gently today, and let the rest wait.",
+					"If worry is loud, notice something comforting around you, a soft fabric, a warm drink, a familiar voice. {keyword} often begins with small things."
+				],
+				"curious": [
+					"{keyword} invites you to ask what you're growing in your life right now. What would you like to see flourish?",
+					"What does abundance mean to you, beyond money? {keyword} suggests exploring the things that genuinely nourish you.",
+					"{card} sits surrounded by growing things. Where might {keyword} be ready to bloom, if you gave it a little more care?"
+				],
+				"grieving": [
+					"In a season of loss, {keyword} may feel far away. Let small comforts come to you, without needing to feel better.",
+					"{keyword} can be gentle and slow. There's nothing to grow right now; rest and warmth are enough.",
+					"If you're carrying grief, let {keyword} show up as kindness, from others and toward yourself."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about the conditions for growth: time, care, resources. Which of these is missing in your situation?",
+					"No mysticism needed: {keyword} points to tending what matters. Where would steady attention make the biggest difference?",
+					"Use {keyword} as a check: are you nourishing yourself and your projects, or running on empty?"
+				],
+				"hopeful": [
+					"{keyword} suggests that patient care could help something good to flourish. Nothing is guaranteed, but tended things tend to grow.",
+					"There's encouragement in {keyword}: what you nurture now may bear fruit later. Keep going gently.",
+					"If you're hoping for growth, {keyword} invites you to be generous with your time and attention, and see what responds."
+				],
+				"neutral": [
+					"Overall, {keyword} points to growth, comfort and nurturing care, a time when what you tend is likely to respond.",
+					"{keyword} here suggests a fertile time, when tending your life and relationships may bear fruit.",
+					"With {keyword} present, the emphasis is on abundance, creativity and taking pleasure in what you have."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you've been pouring care into someone and feel empty, {keyword} may need to turn toward you. One small act of self-kindness today is enough.",
+					"{keyword} can feel blocked when you're worried about being too much or not enough. Notice one way you're already lovable, just as you are.",
+					"When love feels scarce, it's easy to cling. Let {keyword} slow down; you don't have to hold on so tightly to be cared for."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} in your relationships has tipped into smothering, or dried up into distance. Which feels closer?",
+					"What happens when you stop caring for others long enough to ask what you need? {keyword} may be waiting on the other side of that question.",
+					"Get curious about who looks after whom. Is {keyword} flowing both ways, or has one of you become the caretaker?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may feel impossible to give or receive. That's all right; nothing needs to grow right now.",
+					"{keyword} can go quiet in grief, like a garden in winter. Let it rest without judgement.",
+					"If you feel unable to care for anyone, including yourself, be gentle with that. {keyword} may return slowly, in small ways."
+				],
+				"skeptical": [
+					"Plainly, {card} reversed suggests {keyword} may be out of balance. Are you giving so much that resentment is creeping in?",
+					"Use {keyword} as a question: are you neglecting yourself to keep a relationship comfortable for someone else?",
+					"Practically, {keyword} here points to care that's either withheld or overdone. Which one fits your relationships lately?"
+				],
+				"hopeful": [
+					"{keyword} may be returning slowly. As you care for yourself, it may become easier to care for others without strain.",
+					"If love has felt dry, {keyword} could begin to flow again through small, mutual gestures.",
+					"There's hope in rebalancing. Let {keyword} include you as well as the people you love."
+				],
+				"neutral": [
+					"In love, {card} reversed shows {keyword} blocked or out of balance, either smothering or withheld.",
+					"{keyword} here may be turned inward, asking you to care for yourself before others.",
+					"With {keyword} stalled, a relationship may need renewed attention, or healthier boundaries."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} may feel blocked by pressure. Choose one small thing you enjoy about your job and give it a few minutes today.",
+					"If you're burnt out, {keyword} may need to be directed at yourself first. What's one thing you could take off your plate?",
+					"{keyword} can stall when you're worried about results. Let today's goal be simply to show up and do one thing well."
+				],
+				"curious": [
+					"Reversed, {card} asks whether {keyword} at work has dried up. What used to excite you about this job, and where did it go?",
+					"What would happen if you gave yourself permission to create something just for the pleasure of it? {keyword} may be waiting there.",
+					"Get curious about whether you're over-nurturing others' projects at the cost of your own. Where does {keyword} need redirecting?"
+				],
+				"grieving": [
+					"If grief has dimmed your creativity, {keyword} can rest. Doing what's necessary is enough while you carry loss.",
+					"{keyword} may feel far away after a hard time. Be patient; it often returns when there's room to breathe.",
+					"There's no pressure to produce right now. Let {keyword} wait until you feel more yourself."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to a creative or professional block. What's the real obstacle: time, energy, or confidence?",
+					"Use {keyword} as a check: are you spending so much energy supporting others that your own work stalls?",
+					"Practically, {card} reversed suggests {keyword} may be neglected. What would it take to tend it again?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than gone. Small, regular effort could help your creativity return.",
+					"If work has felt barren, {keyword} may grow again through rest and fresh inspiration.",
+					"There's hope in tending your own projects. Let {keyword} find its way back gradually."
+				],
+				"neutral": [
+					"In your career, {card} reversed shows {keyword} blocked, neglected, or poured into others at your own expense.",
+					"{keyword} here may be dormant, waiting for better conditions: more rest, more room, or a project that feels like your own again.",
+					"With {keyword} stalled, creative or professional growth may need patience and renewed care."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money feels scarce, {keyword} may seem impossible. Start by noticing one thing you do have, and let that steady you.",
+					"{keyword} can feel blocked by worry. Choose one small, practical step, checking one bill, and let that be enough.",
+					"When finances feel tight, it's easy to overspend for comfort or underspend out of fear. Let {keyword} guide you toward balance."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} with money has turned into overindulgence or scarcity thinking. Which pattern feels familiar?",
+					"What would it look like to treat your finances with care rather than anxiety? {keyword} may be waiting for that shift.",
+					"Get curious about where you're giving too much financially, to others or to comfort spending. Where could {keyword} be rebalanced?"
+				],
+				"grieving": [
+					"When loss affects money, {keyword} may feel far away. Keep the essentials steady and let the rest wait.",
+					"{keyword} doesn't need to grow right now. Getting through financial tasks gently is enough.",
+					"If spending or saving feels confused after loss, be kind to yourself. {keyword} may return in time."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to money habits out of balance. Are you overspending for comfort, or holding back from fear?",
+					"Use {keyword} as a check: is someone depending on you financially in a way that's unsustainable?",
+					"Practically, {card} reversed suggests {keyword} may be blocked by neglect. What part of your finances needs attention?"
+				],
+				"hopeful": [
+					"{keyword} may return as you rebalance. Small, steady habits could help your resources grow again.",
+					"If finances have felt barren, {keyword} may come back with patient care. Small amounts, set aside regularly, can make the ground feel less bare.",
+					"There's hope in tending your money gently. Let {keyword} grow from small, consistent steps."
+				],
+				"neutral": [
+					"With money, {card} reversed shows {keyword} blocked by scarcity, overindulgence, or neglect.",
+					"{keyword} here may be dormant, waiting for steadier conditions before resources can grow again.",
+					"Reversed, the card suggests that {keyword} with money has tipped toward scarcity or excess, and needs gentle rebalancing."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you've been looking after everyone and feel wrung out, {keyword} may need to come home to you. A glass of water and five minutes sitting down are a real start.",
+					"{keyword} can feel out of reach when you're tense. Pick one comfort you'd offer a tired friend, a warm drink, an early night, and offer it to yourself instead.",
+					"When worry makes your body feel like a stranger, try {keyword} in the smallest form: wrap your hands around something warm and notice the heat for a few breaths."
+				],
+				"curious": [
+					"Reversed, {card} asks whether {keyword} has tipped into too much or too little. When you're stressed, do you reach for excess comfort, or forget comfort altogether?",
+					"What would change if you cared for your body with the attention you give a loved one? {keyword} may be quietly waiting for that kind of attention.",
+					"Get curious about which comforts actually leave you restored the next morning. {keyword} might look different from the ones you reach for by habit."
+				],
+				"grieving": [
+					"Grief can make eating, sleeping and moving feel like chores. {keyword} doesn't need to be graceful right now; small, plain care is plenty.",
+					"{keyword} may feel far from you, as if comfort belongs to another season. Let someone else bring the soup or open the window, if they can.",
+					"If your body feels heavy and unfamiliar in loss, you aren't doing anything wrong. {keyword} can return slowly, one soft moment at a time."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to self-care that's lopsided. Are you skipping rest to tend others, or using comforts that cost you later?",
+					"Use {keyword} as a practical question: how much energy did you give away this week, and how much did you put back?",
+					"No mystique needed: {card} reversed often shows {keyword} pushed to the bottom of the list. What would move it up by one place?"
+				],
+				"hopeful": [
+					"{keyword} may grow back as you give yourself a little of what you give others. Begin with one evening that belongs only to you.",
+					"If you've felt depleted, there's hope in simple pleasures done regularly: sunlight, good food, unhurried sleep. Let {keyword} rebuild from there.",
+					"Turning care inward isn't selfish. As {keyword} finds its way back to you, you may have more warmth to share, not less."
+				],
+				"neutral": [
+					"For your wellbeing, {card} reversed shows {keyword} neglected, overdone, or spent on others while your own reserves run low.",
+					"{keyword} here may be blocked by busyness or guilt, leaving the body's need for comfort and rest unmet.",
+					"Reversed, the card points to {keyword} needing rebalancing, so that care flows toward you as well as away."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels barren, that doesn't mean it's gone. {keyword} may be dormant like a bulb underground; stepping outside for a few minutes is enough practice today.",
+					"{keyword} can feel blocked when your practice has become one more thing to get right. Put the rules down and just notice something growing.",
+					"When doubt crowds in, let {keyword} be bodily rather than mental: bare feet on the floor, a slow walk, the smell of rain or bread."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} has been squeezed out by duty. When did your practice last bring you any delight?",
+					"What if {keyword} returned through making rather than meditating: cooking, gardening, drawing, singing badly? Try one and see.",
+					"Get curious about where you've cut yourself off from {keyword}, perhaps without meaning to. What small door could you reopen?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel like a field in winter. Nothing seems to grow, and nothing has to; the ground is resting.",
+					"{keyword} can stay quiet while you carry sorrow. You don't need to feel connected to anything bigger right now.",
+					"If what once nourished you feels empty, be gentle with that. {keyword} may come back in its own season, or in a new shape."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to a practice that has lost its warmth. Is it missing pleasure, rest, or real contact with the world around you?",
+					"Use {keyword} as a question: are you approaching your inner life like a task list, measured and ticked off?",
+					"No claims about the unseen required: {card} reversed simply asks whether {keyword} has been neglected. What would make your practice feel nourishing again?"
+				],
+				"hopeful": [
+					"{keyword} may be gathering strength beneath the surface. Rest and fallow time often come before the next growth, though no one can say how long.",
+					"If you've felt spiritually dry, there's hope in small pleasures. Let {keyword} return through the senses, a garden, music, a shared meal.",
+					"Your wish to feel connected again matters. Tend it lightly and regularly, and give {keyword} room to grow back."
+				],
+				"neutral": [
+					"Spiritually, {card} reversed shows {keyword} dormant or overshadowed by duty, with little room left for joy or creativity.",
+					"{keyword} here may be in a fallow period, resting before it is ready to grow again.",
+					"Reversed, the card invites a return to {keyword} through nature, pleasure and creative expression rather than effort."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels thin right now, {keyword} may be dormant rather than gone. Care for one small thing today, a plant, a meal, yourself, and let that count.",
+					"{keyword} can feel blocked when you're stretched across too many people's needs. Which one request could you gently decline this week?",
+					"When worry makes everything feel scarce, notice one thing you have enough of right now. {keyword} often restarts from that kind of noticing."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} has dried up, or overflowed into too much. Which feels closer to your life at the moment?",
+					"What have you stopped tending because it seemed unproductive? {keyword} might be waiting there, quietly asking for water.",
+					"Get curious about the balance of giving and receiving in your days. Where does {keyword} need to flow the other way?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel like something from another life. Nothing needs to grow or bloom right now.",
+					"{keyword} can rest while you carry this loss. If someone offers you care, you're allowed to simply accept it.",
+					"If you feel empty, be gentle with that emptiness. {keyword} may return slowly, perhaps in ways you don't expect yet."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to something either neglected or overdone. Which area of your life is getting too little care, and which too much?",
+					"Use {keyword} as a check: are you nurturing other people's plans at the expense of your own?",
+					"No mysticism needed: {card} reversed is a prompt to notice where {keyword} has stalled, and what conditions it would need to grow again."
+				],
+				"hopeful": [
+					"{keyword} may be paused rather than lost. With patient care, things that look bare can come back, though in their own time.",
+					"If life has felt dry, there's hope in small, regular kindness, to yourself and to what you're building. Let {keyword} grow from that.",
+					"Turning some of your care inward may be the first step. As you do, {keyword} has more chance of flourishing around you too."
+				],
+				"neutral": [
+					"Overall, {card} reversed shows {keyword} blocked, neglected, or out of balance between giving and receiving.",
+					"{keyword} here may be dormant, waiting for better conditions, more rest, or more attention.",
+					"Reversed, the card suggests tending {keyword} again with patience rather than pressure."
+				]
+			}
+		}
+	}
+}

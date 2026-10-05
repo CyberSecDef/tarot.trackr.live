@@ -1,0 +1,412 @@
+{
+	"id": "swords_05_five",
+	"name": "Five of Swords",
+	"facets": [
+		{
+			"id": "conflict",
+			"keywords": ["conflict", "a heated disagreement", "a clash of wills"]
+		},
+		{
+			"id": "hollow_victory",
+			"keywords": ["a hollow victory", "winning at a cost", "a point scored"]
+		},
+		{
+			"id": "self_interest",
+			"keywords": ["self-interest", "an unfair advantage", "a game of one-upmanship"]
+		},
+		{
+			"id": "walking_away",
+			"keywords": ["walking away", "an argument not worth having", "a lesson in letting go"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If tension with someone close has you on edge, {keyword} doesn't have to be settled tonight. One thing in your control: lower your voice, and let the next sentence be a question rather than a point.",
+					"{keyword} can make a relationship feel like a contest no one asked to join. You are allowed to step out of the room, breathe, and come back when you are calmer.",
+					"When love feels tense, {keyword} asks what you actually need, not what would prove you right. Write that need down before you speak."
+				],
+				"curious": [
+					"{keyword} raises an interesting question in love: what would you gain by winning this disagreement, and what might it cost the two of you?",
+					"What if {keyword} is showing you an old pattern, the same argument in new clothes? Notice when it started and what it is really about.",
+					"{keyword} hints that someone may be keeping score. Is it you, them or both? It's worth getting curious about the scorecard itself."
+				],
+				"grieving": [
+					"In grief, {keyword} with family or friends can feel especially painful. You don't have to resolve old disagreements right now; you only have to look after yourself.",
+					"{keyword} may surface around a loss, over memories or belongings or how to say goodbye. It is all right to step back and let some things stay unsettled.",
+					"When you are grieving, {keyword} can feel like one weight too many. Choose peace for yourself where you can, even if others can't yet."
+				],
+				"skeptical": [
+					"Practically, {keyword} in a relationship often means two people defending positions rather than talking about needs. What is the need underneath?",
+					"Treat {keyword} as a prompt: is there a disagreement you keep revisiting that neither of you can actually win? Changing the question may help.",
+					"No mysticism needed: {keyword} usually leaves both people feeling worse. Is being right worth the distance it creates?"
+				],
+				"hopeful": [
+					"{keyword} doesn't have to be the end of the story. If you are hoping for peace, a sincere acknowledgement of the other side can open a door.",
+					"If you are hoping to repair things, {keyword} invites you to let go of needing the last word. Kindness often reaches further than argument.",
+					"{keyword} can be a turning point if both people are willing to listen. You can only offer your part, but that is a real start."
+				],
+				"neutral": [
+					"In love, {keyword} speaks of tension, a disagreement where someone wins and someone loses, and the distance that can follow.",
+					"{keyword} points to a contest of wills in a relationship and asks whether the outcome is worth what it costs.",
+					"{keyword} brings attention to how you and others handle disagreement, and to the choice to step back."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If tension at work has you braced, {keyword} doesn't have to define your position there. One step in your control: keep a calm record of what was said, just for yourself.",
+					"{keyword} may make the workplace feel unsafe or unfair. Choose one trusted person to talk it through with before you respond.",
+					"When workplace tension feels high, {keyword} asks you to protect your energy. You don't need to win every exchange."
+				],
+				"curious": [
+					"{keyword} raises a question about your work: who benefits from this rivalry, and is it worth your effort?",
+					"What if {keyword} at work is a sign that the rules of the game need changing? Notice what behaviour the environment rewards.",
+					"{keyword} hints at a competitive streak. Is it helping your craft, or simply making things harder?"
+				],
+				"grieving": [
+					"If grief is with you at work, {keyword} may feel unbearable. It is fine to step back from disputes that can wait.",
+					"{keyword} at work can feel especially sharp when you are carrying loss. Let others know you need some space from tension right now.",
+					"In grief, {keyword} matters less than your wellbeing. Let small disagreements go if you can."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work often reflects unclear roles or competing incentives. Which of those is at play here?",
+					"Treat {keyword} as a prompt: is winning this disagreement worth the damage to the working relationship?",
+					"No mystery needed: {keyword} is common in competitive environments. What would a fair outcome look like?"
+				],
+				"hopeful": [
+					"{keyword} at work can be resolved, though it may take humility on both sides. If you are hoping for peace, start with what you can concede.",
+					"If you are hoping to get ahead, {keyword} reminds you that how you win matters too. Reputation tends to outlast any single argument.",
+					"{keyword} could lead to clearer rules and better teamwork, if handled honestly."
+				],
+				"neutral": [
+					"In work, {keyword} points to competition, tension and outcomes that may not feel fair to everyone.",
+					"{keyword} speaks of workplace disagreement and the cost of winning at any price.",
+					"{keyword} brings attention to rivalry and to the choice between pressing on and letting go."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money is causing tension with someone, {keyword} can feel very stressful. One step in your control: write down the facts of what is owed or shared.",
+					"{keyword} over resources may feel unfair. You don't have to settle it today; just gather what you know.",
+					"When finances lead to disagreement, {keyword} asks you to stay calm and clear. Let someone neutral help if you can."
+				],
+				"curious": [
+					"{keyword} raises a question about money: what does this disagreement really protect, the sum itself or something else?",
+					"What if {keyword} is about fairness rather than amounts? It might be worth naming what fair would look like to you.",
+					"{keyword} hints at someone looking out only for themselves. Is it you, or someone near you?"
+				],
+				"grieving": [
+					"After a loss, {keyword} over money or belongings can be especially painful. It is all right to step back and let some things wait.",
+					"{keyword} may surface as people grieve differently. Choose calm where you can, and let others be responsible for themselves.",
+					"In grief, {keyword} matters less than your peace. Ask for help with anything that feels like too much."
+				],
+				"skeptical": [
+					"Practically, {keyword} over money often comes down to unclear agreements. Is there something that should be written down?",
+					"Treat {keyword} as a prompt: is the money gained worth the relationship lost?",
+					"No mysticism needed: {keyword} in finances often has a simple fix, like clearer terms. What would make things fairer?"
+				],
+				"hopeful": [
+					"{keyword} over money can be settled fairly. If you are hoping for a good outcome, start by proposing terms you would accept from the other side.",
+					"If you are hoping to get ahead, {keyword} reminds you that fair dealing tends to pay over time.",
+					"{keyword} could lead to clearer arrangements. Hope is reasonable, with honest communication."
+				],
+				"neutral": [
+					"Around money, {keyword} points to disputes over resources, unfair dealing or gains that come at a cost.",
+					"{keyword} speaks of financial tension and the question of what winning is really worth.",
+					"{keyword} brings attention to fairness in exchange and to the cost of conflict."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If tension with someone is weighing on you, {keyword} may be showing up in your body too. One small thing in your control: unclench your jaw and let a long breath out.",
+					"{keyword} can leave you feeling drained long after the words have stopped. If you can, take a short break from whatever keeps stirring it up.",
+					"When the atmosphere is tense, {keyword} asks you to protect your energy. You are allowed to rest even while things are unresolved."
+				],
+				"curious": [
+					"{keyword} raises a question: how does your body feel after a disagreement, and how long does that feeling stay? Notice it without judging it.",
+					"What if {keyword} is costing more energy than it could ever give back? Try stepping away for an evening and see what changes.",
+					"{keyword} hints at a pattern of pushing to come out on top, even against your own limits. Where else in your routines does that show up?"
+				],
+				"grieving": [
+					"In grief, {keyword} can be exhausting in a way that is hard to explain. Let yourself step back from tension and rest.",
+					"{keyword} may feel far too heavy right now. Protect what energy you have for the things and people that soothe you.",
+					"When you are carrying loss, {keyword} matters much less than caring for yourself. Rest, eat something simple and breathe."
+				],
+				"skeptical": [
+					"Practically, {keyword} tends to raise stress, and stress tends to show up in sleep and appetite. Have you noticed either shifting lately?",
+					"Treat {keyword} as a prompt to notice whether competitiveness is driving you to train, work or push harder than is good for you.",
+					"No mystery needed: {keyword} is draining. What practical outlet, like a walk or a conversation with a neutral friend, would let some of it go?"
+				],
+				"hopeful": [
+					"{keyword} can loosen its grip as you let go of needing to win. If you are hoping to feel calmer, that could be the place to start.",
+					"If you are hoping for balance, {keyword} encourages you to choose which disagreements deserve your energy. Many of them do not.",
+					"{keyword} could show you where your limits are. Respecting them may help you feel steadier in yourself."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to stress from conflict and to the energy spent trying to come out ahead.",
+					"{keyword} speaks of tension felt in the body, and of the option to step back before it builds.",
+					"{keyword} brings attention to how disagreement affects your energy, sleep and sense of ease."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If inner conflict is unsettling you, {keyword} doesn't have to be resolved today. Sit quietly for a few minutes and let both sides of you speak.",
+					"{keyword} may leave you doubting yourself. Hold onto one value you are sure of, such as fairness or kindness, and let it steady you.",
+					"When tension feels high, {keyword} asks you to step back. A short time in silence can take some of the heat out of it."
+				],
+				"curious": [
+					"{keyword} opens a searching question: which part of you needs to win, and what is it afraid will happen if it doesn't?",
+					"What if {keyword} is a lesson in ego? Notice what feels threatened when you lose an argument, and what feels hollow when you win one.",
+					"{keyword} hints at a habit of competing. What would it feel like to let someone else be right, just to see?"
+				],
+				"grieving": [
+					"In grief, {keyword} can feel especially hard to bear. Let your inner life be a place of peace, even if the world outside is not.",
+					"{keyword} may make meaning feel far away. Rest in quiet, and let any disputes wait until you have more to give.",
+					"When you are carrying loss, {keyword} matters far less than gentleness with yourself. You don't have to settle anything now."
+				],
+				"skeptical": [
+					"Practically, {keyword} in your inner life may mean two values pulling against each other. Which one matters more to you right now?",
+					"Treat {keyword} as a prompt to reflect on how you behave in disagreement. Does it match the person you want to be?",
+					"No supernatural claim needed: {keyword} often has pride at its centre. What would you learn by looking at that honestly?"
+				],
+				"hopeful": [
+					"{keyword} can lead to humility and growth, though it takes time. If you are hoping for peace, begin with your own part in it.",
+					"If you are hoping to grow, {keyword} invites you to loosen your hold on being right. Something gentler may take its place.",
+					"{keyword} could deepen your understanding of other people's needs. It's reasonable to hope for that, with an open mind."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to ego, pride and what conflict reveals about your values.",
+					"{keyword} speaks of inner tension and the choice between winning and peace.",
+					"{keyword} brings attention to how you hold yourself in disagreement and what that says about you."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If tension around you is rising, {keyword} doesn't have to be settled today. One step in your control: pause and breathe before you reply to anything.",
+					"{keyword} can feel unfair and unsettling. Talk it through with someone steady before you decide what, if anything, to do.",
+					"When conflict feels close, {keyword} asks you to protect your energy. You don't have to win every exchange to be all right."
+				],
+				"curious": [
+					"{keyword} raises a curious question: what might you lose by winning this one, and what might you gain by letting it go?",
+					"What if {keyword} is part of a pattern you could simply step out of? Notice where it started and who keeps it going.",
+					"{keyword} hints at a contest. Is it one you chose with open eyes, or one you drifted into without meaning to?"
+				],
+				"grieving": [
+					"In grief, {keyword} can feel especially heavy. Choose peace where you can, and leave the rest for another day.",
+					"{keyword} may surface around a loss, among people who are all hurting. It is all right to let some things stay unsettled for now.",
+					"When you are carrying loss, {keyword} matters far less than caring for yourself. Step back as much as you need."
+				],
+				"skeptical": [
+					"Practically, {keyword} often means two sides defending positions instead of discussing needs. What is the real need underneath?",
+					"Treat {keyword} as a prompt: is being right here worth what it costs in time, goodwill and sleep?",
+					"No mystery needed: {keyword} usually leaves everyone a little worse off. Is there a fairer way through that no one has suggested yet?"
+				],
+				"hopeful": [
+					"{keyword} doesn't have to be the last word. If you are hoping for peace, start with the part that is yours to offer.",
+					"If you are hoping for a good outcome, {keyword} invites you to let go of needing to win. That can open more doors than it closes.",
+					"{keyword} could lead to clearer, fairer ways of dealing with others. It's reasonable to hope, if everyone is willing to listen."
+				],
+				"neutral": [
+					"In general, {keyword} points to conflict, competition and outcomes that don't feel fair to everyone involved.",
+					"{keyword} speaks of the cost of winning and the choice to walk away instead.",
+					"{keyword} brings attention to how you handle disagreement and what it costs you."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} still lingers after a disagreement, you are allowed to want peace more than the last word. One step in your control: offer a simple, honest apology for your own part.",
+					"{keyword} may be easing, though a little resentment can hang on. Let yourself breathe before you decide what, if anything, needs saying.",
+					"When {keyword} keeps replaying in your mind, try writing it down once. It may feel smaller on paper, and easier to set aside."
+				],
+				"curious": [
+					"{keyword} seems to be running out of steam. What do you want the relationship to look like once the tension has fully gone?",
+					"What if {keyword} has turned inward, as regret or second-guessing? It might be worth naming, gently, what you wish you'd done differently.",
+					"{keyword} might be ready to be put down. What would making amends look like, in words the other person would actually hear?"
+				],
+				"grieving": [
+					"In grief, {keyword} with someone may be fading, or still lingering. Either way, you don't have to resolve it now.",
+					"{keyword} may leave you with regret after a loss, especially for words that can't be taken back. Be gentle with yourself; you were doing your best.",
+					"If {keyword} has softened with family or friends, you might find quiet comfort in simply being together again, when you are ready."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can mean a window to make peace. Is there a conversation that could clear the air without reopening the argument?",
+					"Treat {keyword} as a prompt: are you holding onto resentment that no longer serves you or the relationship?",
+					"No mysticism needed: {keyword} that lingers tends to sour closeness over time. What would letting it go look like in practice?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to reconciliation. If you are hoping for peace, a small step toward it, like a kind message, can be enough to begin.",
+					"If you are hoping to repair things, {keyword} easing could open a door. Approach it gently, without needing to be proven right.",
+					"{keyword} might be coming to an end. It's reasonable to hope for warmth again, with honesty on both sides."
+				],
+				"neutral": [
+					"In love, {keyword} may be easing toward reconciliation, or lingering as quiet resentment.",
+					"{keyword} appears turned inward, pointing to regret after a quarrel or a readiness to make amends.",
+					"{keyword} may be winding down, asking whether you are ready to let go of keeping score."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} at work still lingers, you can take one calm step: speak to the person involved, or to someone who can help you both reset.",
+					"{keyword} may be easing, though tension at work can take time to fade. Be patient with yourself and with the people around you.",
+					"When {keyword} keeps replaying, it can help to focus on the task in front of you. Let the old exchange rest a little while you do good work."
+				],
+				"curious": [
+					"{keyword} seems to be winding down at work. What would a genuine fresh start with that colleague or team look like?",
+					"What if {keyword} has turned inward, as regret over how you handled a disagreement? It might be worth addressing before it hardens.",
+					"{keyword} might be ready to end. What small act could start rebuilding trust: credit given, a question asked, a favour returned?"
+				],
+				"grieving": [
+					"If grief is with you at work, {keyword} may feel especially heavy. Let it rest; old disputes can wait until you have more to give.",
+					"{keyword} may be fading, and that can be a quiet relief. Take your working days slowly.",
+					"In grief, {keyword} matters far less than getting through each day kindly. You don't owe anyone a resolution right now."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed at work can mean a chance to reset a working relationship. Is there a conversation that would help?",
+					"Treat {keyword} as a prompt: is resentment from an old disagreement still shaping how you work with someone?",
+					"No mystery needed: {keyword} that lingers drains energy and focus. What would it take, concretely, to let it go?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to cooperation. If you are hoping for a better working relationship, you could take the first small step.",
+					"If you are hoping to move forward, {keyword} easing could free up energy for the work itself. Focus on what you can build together.",
+					"{keyword} might be coming to an end. It's reasonable to hope for better days at work, with good faith offered on your side."
+				],
+				"neutral": [
+					"In work, {keyword} may be easing toward resolution, or lingering as resentment between colleagues.",
+					"{keyword} appears turned inward, pointing to regret over a workplace dispute or a readiness to reset.",
+					"{keyword} may be winding down, asking whether you are ready to move on from an old contest."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} over money still hangs in the air, you can take one calm step today: write down the plain facts of what is owed or shared, without the story around them.",
+					"{keyword} may be quieting down, even if trust has not caught up yet. Let one small, fair gesture, like repaying a little or sending a clear message, be enough for this week.",
+					"When {keyword} keeps replaying at night, remind yourself that the sum is finite and so is the worry. Pick a time tomorrow to look at it, and let tonight be for rest."
+				],
+				"curious": [
+					"{keyword} seems to be running out of steam. What would a settlement look like that both sides could tell their friends about without wincing?",
+					"What if {keyword} has turned inward, into second-guessing a deal you pushed too hard on? It might be interesting to ask what you were really trying to protect.",
+					"{keyword} might be ready to be set down. Which matters more to you now: the last few pounds or dollars, or the ease of not thinking about them?"
+				],
+				"grieving": [
+					"After a loss, {keyword} over money or belongings may be fading, or still sharp. Either way, it can wait until you have more room to breathe.",
+					"{keyword} may leave regret behind, perhaps for words said while everyone was hurting. Be gentle with yourself; grief makes it hard to be at your best.",
+					"If {keyword} around an estate or shared costs is softening, let others handle the details where they can. Your peace matters more than being proven right."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can mark a chance to settle accounts and put it in writing. A clear agreement is usually cheaper than another round of tension.",
+					"Treat {keyword} as a prompt: is a small sum still souring a relationship that matters more than the money? Running the numbers on both may help.",
+					"No mysticism needed: {keyword} left unresolved tends to show up in every later deal with the same person. What would close it properly?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to fairer terms. If you are hoping for resolution, try proposing something you would genuinely accept if you were on the other side.",
+					"If you are hoping for calm around money, {keyword} easing could make space for a fresh, cleaner arrangement. Start with what both of you already agree on.",
+					"{keyword} might be ending, and good faith could return with it. It's reasonable to hope, as long as the terms are clear this time."
+				],
+				"neutral": [
+					"Around money, {keyword} may be easing toward a fair settlement, or lingering as quiet resentment over who got what.",
+					"{keyword} appears turned inward, pointing to regret over a hard bargain or a readiness to make things square.",
+					"{keyword} may be winding down, asking whether the gain is still worth the strain it put on the people involved."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} has stayed with you, it may be sitting in your shoulders or your sleep. One small thing in your control: do something calming in the hour before bed tonight.",
+					"{keyword} may be easing, and your body might notice before your mind does. Let yourself unclench a little as the tension fades.",
+					"When {keyword} keeps replaying, a short walk can help move it through. You don't have to think it out; you can let your feet do some of the work."
+				],
+				"curious": [
+					"{keyword} seems to be winding down. How does your body feel now compared with the height of it? The difference may be worth noticing.",
+					"What if {keyword} has turned inward, into self-criticism about how you behaved? It might be interesting to notice where you feel that, and what softens it.",
+					"{keyword} might be ready to be let go of. What kind of rest feels most like putting something heavy down?"
+				],
+				"grieving": [
+					"In grief, {keyword} may still be in the background, adding to your tiredness. Rest is the right response, whatever else is unsettled.",
+					"{keyword} may leave you more drained than you expect. Simple care, like water, food and sleep, comes first.",
+					"When you are carrying loss, {keyword} can be set aside for now. Your energy is needed for gentler things."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed may mean tension finally easing, or resentment held quietly in the body. Which feels closer to you this week?",
+					"Treat {keyword} as a prompt to notice whether stress from an old disagreement is still affecting your sleep or appetite.",
+					"No mystery needed: {keyword} that lingers keeps the body on alert. Talking it through or writing it out are practical ways to switch that off."
+				],
+				"hopeful": [
+					"{keyword} may be easing, and your energy could begin to lift with it. If you are hoping to feel lighter, let the last of it go when you can.",
+					"If you are hoping for calm, {keyword} winding down could leave room for steadier days. Rest into the quiet rather than filling it.",
+					"{keyword} might be ending. It's reasonable to hope you'll feel more like yourself, especially if you let your body set the pace."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} may be easing, or lingering as tension held in the body and the mind.",
+					"{keyword} appears turned inward, pointing to stress from regret or a readiness to release it.",
+					"{keyword} may be winding down, asking you to notice how your energy shifts once the strain is gone."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} still lingers inside you, sit quietly for a moment and let both sides of the story rest. You don't need to judge yourself today.",
+					"{keyword} may be easing. Let yourself breathe into the space it leaves, without rushing to fill it with anything else.",
+					"When {keyword} keeps replaying, try a simple practice: walk slowly and count your breaths. Peace often returns through the body first."
+				],
+				"curious": [
+					"{keyword} seems to be winding down. What have you learned about your own pride, or your own fairness, along the way?",
+					"What if {keyword} has turned inward, as regret that wants to be understood rather than punished? It might be worth listening to it.",
+					"{keyword} might be ready to be released. What would it feel like to wish the other person well, even a little?"
+				],
+				"grieving": [
+					"In grief, {keyword} may be fading or still there. Let your inner life be a gentle place, even if the outer world is still untidy.",
+					"{keyword} may leave regret, perhaps for things that can no longer be said. You can hold that softly; it does not have to be resolved.",
+					"When you are carrying loss, {keyword} matters far less than your peace. Let quiet, remembering and rest come first."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed may be a chance to look honestly at pride. What did winning, or losing, actually teach you?",
+					"Treat {keyword} as a prompt to reflect on forgiveness. Is there someone, perhaps including yourself, you are still holding to account?",
+					"No supernatural claim needed: {keyword} that lingers often points to an unfinished feeling. What would finishing it look like in practice?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to peace. If you are hoping for inner calm, let humility do some of the work.",
+					"If you are hoping to grow, {keyword} easing could leave you kinder and wiser about conflict. That can't be rushed, but it can be welcomed.",
+					"{keyword} might be ending. It's reasonable to hope for a lighter heart, especially if you are willing to forgive."
+				],
+				"neutral": [
+					"Spiritually, {keyword} may be easing toward peace, or lingering as regret and hurt pride.",
+					"{keyword} appears turned inward, pointing to self-reflection or a readiness to forgive.",
+					"{keyword} may be winding down, asking whether you are ready to let go of needing to be right."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} still lingers, take one calm step: offer peace where you can, and let yourself rest where you can't. Both are allowed.",
+					"{keyword} may be easing. Breathe, and let yourself notice the relief, even if it's only partial so far.",
+					"When {keyword} keeps replaying in your head, write it down once, fully. It often feels smaller on paper than at three in the morning."
+				],
+				"curious": [
+					"{keyword} seems to be winding down. What do you want to carry forward from it, and what would you happily leave behind?",
+					"What if {keyword} has turned inward, as regret or second-guessing? It might be worth naming exactly what you wish had gone differently.",
+					"{keyword} might be ready to be set down. What would making amends look like, if you decided it was worth it?"
+				],
+				"grieving": [
+					"In grief, {keyword} may be fading or still present. You don't have to resolve it now; old disagreements can wait.",
+					"{keyword} may leave regret behind. Be gentle with yourself; loss makes everyone a little less than their best.",
+					"When you are carrying loss, {keyword} matters far less than your peace. Let rest and kindness come first."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can mean a chance to clear the air. Is there one conversation that would settle it?",
+					"Treat {keyword} as a prompt: are you holding resentment that costs you more than the original disagreement did?",
+					"No mystery needed: {keyword} that lingers tends to colour other relationships too. What would letting it go look like this week?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to reconciliation. If you are hoping for peace, a small, sincere gesture could be a good beginning.",
+					"If you are hoping to move on, {keyword} easing could leave you freer. Notice what you'd do with the energy it used to take.",
+					"{keyword} might be ending. It's reasonable to hope for calmer days, especially if good faith is offered on both sides."
+				],
+				"neutral": [
+					"In general, {keyword} may be easing toward resolution, or lingering as quiet resentment.",
+					"{keyword} appears turned inward, pointing to regret, reflection or a readiness to make amends.",
+					"{keyword} may be winding down, asking whether you are ready to let go of the contest."
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,416 @@
+{
+	"id": "major_08_strength",
+	"name": "Strength",
+	"facets": [
+		{
+			"id": "inner_strength",
+			"keywords": ["quiet courage", "inner strength", "a steady heart"]
+		},
+		{
+			"id": "compassion",
+			"keywords": ["gentle patience", "compassion", "a soft touch"]
+		},
+		{
+			"id": "self_mastery",
+			"keywords": [
+				"mastery of instinct",
+				"a fear met with kindness",
+				"calm in the face of strong feeling"
+			]
+		},
+		{
+			"id": "resilience",
+			"keywords": ["resilience", "staying power", "endurance"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"In love, {keyword} doesn't have to look brave from the outside. It can be as simple as staying in the room for a hard conversation and speaking slowly.",
+					"If worry about a relationship is loud, {keyword} invites you to treat that worry like a nervous animal: no shouting, no chasing, just a calm hand until it settles.",
+					"{keyword} between people is often quieter than fear expects. Choose one moment today to respond gently instead of quickly, and notice what changes."
+				],
+				"curious": [
+					"{keyword} in love raises a lovely question: what does tenderness look like when it's also strong? Who in your life shows you both at once?",
+					"With {keyword} in your love life, you might explore how the two of you handle big feelings. Do you tame them, wrestle them, or let them run the show?",
+					"What if {keyword} were the most attractive thing about you? Where do you already show it without noticing, and where are you hiding it?"
+				],
+				"grieving": [
+					"{keyword} in grief isn't about holding it together. It may simply be letting yourself love someone who is gone, without needing the ache to stop.",
+					"If you've lost someone dear, {keyword} can look like getting through one evening at a time. You don't have to be strong for anyone else right now.",
+					"Missing someone takes more strength than most people see. Let {keyword} include being soft with yourself on the days when the loss is close."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about how you handle friction with people you care about. Do you meet strong emotions with control, or with force?",
+					"No fate involved: {keyword} describes a skill, not a gift. Next time a relationship gets tense, try pausing for three breaths before replying, and see what happens.",
+					"Treat {keyword} as a practical question: in your closest relationships, who usually calms things down, and is that load shared fairly?"
+				],
+				"hopeful": [
+					"{keyword} suggests patience and warmth can carry a relationship through rough ground. It isn't a guarantee, but gentleness tends to build trust that lasts.",
+					"If you're hoping for closeness, {keyword} encourages you to lead with kindness rather than proof. People often soften when they feel safe.",
+					"There's real hope in {keyword}: bonds that have weathered difficulty with care often grow steadier for it. What could you tend with patience this week?"
+				],
+				"neutral": [
+					"In love, {keyword} points to patience, warmth and calm courage. It asks whether you meet difficulty in relationships with gentleness or with force.",
+					"{keyword} here suggests that the steadiest relationships are held with a light, sure touch rather than a tight grip.",
+					"With {keyword} present, the focus is on emotional self-control and kindness, both toward others and toward yourself."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can be the decision to answer a difficult email calmly rather than immediately. One measured reply is something you can do today.",
+					"If a job feels overwhelming, {keyword} reminds you that you've handled hard things before. Name one of them, and let that memory steady your next step.",
+					"{keyword} in your career doesn't mean pushing through everything. Sometimes it means admitting what's too much and asking, plainly, for help."
+				],
+				"curious": [
+					"{keyword} at work invites a question: where do you lead through influence rather than authority? What makes people trust you?",
+					"{keyword} in your working life might help you notice the difference between being loud and being strong. Who do you admire for quietly holding their ground?",
+					"If {keyword} were your main professional skill, how would you describe it on a CV? What examples would you give?"
+				],
+				"grieving": [
+					"{keyword} at work may simply mean showing up on hard days. You don't have to perform; doing the essentials is enough while you carry a loss.",
+					"If you've lost something in your working life, a role, a mentor, a sense of purpose, {keyword} can be slow and private. There's no need to bounce back.",
+					"Grief and work can be a heavy mix. Let {keyword} include telling one colleague you trust that you're having a hard time."
+				],
+				"skeptical": [
+					"Read practically, {keyword} at work is about steadiness under pressure. When things go wrong, what do you do in the first ten minutes?",
+					"No mystery: {keyword} is often less about effort and more about patience. Which situation at work would improve if you stopped pushing and waited a little?",
+					"Treat {keyword} as a prompt to look at difficult colleagues differently. Is there someone who might respond better to calm than to confrontation?"
+				],
+				"hopeful": [
+					"{keyword} suggests you have more in reserve than you think. It isn't a promise of success, but steady effort and calm judgement tend to be noticed.",
+					"If you're hoping to prove yourself, {keyword} encourages a quieter route: consistent, patient work often outlasts dramatic gestures.",
+					"There's encouragement in {keyword}: the way you handle pressure can become one of your best strengths. Where could you show that this month?"
+				],
+				"neutral": [
+					"In career matters, {keyword} points to steady confidence, patience with others, and the ability to stay calm under pressure.",
+					"{keyword} here suggests that influence at work comes through composure and persistence more than force.",
+					"Professionally, {keyword} highlights grace under strain: keeping your temper, your standards and your nerve."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} can mean looking at the numbers calmly instead of avoiding them. Open one statement today, breathe, and simply read it.",
+					"If finances feel frightening, {keyword} invites you to treat the fear gently. You don't need a full plan tonight; one small, sensible choice is enough.",
+					"{keyword} in money matters often looks like patience: not reacting to every worry with a purchase or a panic. What could you leave alone for now?"
+				],
+				"curious": [
+					"{keyword} invites you to explore your relationship with wanting. When an impulse to spend arrives, what does it feel like, and what does it need?",
+					"With {keyword} touching your resources, you might wonder what financial strength means to you. Is it a number, a feeling, or a set of habits you trust?",
+					"What if {keyword} with money meant being as patient with your savings as you'd be with a young plant? How would you tend it?"
+				],
+				"grieving": [
+					"Money can be hard to think about while grieving. {keyword} might mean putting big decisions aside and letting someone help with the practical parts.",
+					"{keyword} can look like getting through the necessary paperwork slowly, one piece at a time. There's no prize for speed.",
+					"If loss has changed your finances, be gentle with yourself. {keyword} includes accepting that some things will feel hard for a while."
+				],
+				"skeptical": [
+					"Practically, {keyword} in money is about impulse control and patience. Which spending habit do you most want to tame?",
+					"No magic required: {keyword} shows up as waiting a day before buying, or sticking with a plan through a dull stretch. Which is harder for you?",
+					"Treat {keyword} as a prompt to check how you react to financial stress. Do you freeze, overspend, or face it? The pattern is useful information."
+				],
+				"hopeful": [
+					"{keyword} suggests steady, patient habits can strengthen your position over time. Nothing is guaranteed, but calm consistency tends to pay off.",
+					"If you're hoping for more security, {keyword} encourages small, repeatable choices rather than dramatic moves.",
+					"There's encouragement in {keyword}: getting through lean times calmly can build a confidence with money that lasts."
+				],
+				"neutral": [
+					"In money matters, {keyword} points to patience, self-control and calm under financial pressure.",
+					"{keyword} here suggests managing resources with a steady hand rather than reacting to every worry.",
+					"Financially, {keyword} highlights persistence and the quiet discipline of sticking to what you've decided."
+				]
+			},
+			"health": {
+				"anxious": [
+					"When your body feels tense, {keyword} can be the gentlest choice you make all day. Unclench your jaw, drop your shoulders, and take one slow breath.",
+					"If worry is running high, {keyword} invites you to meet it the way you'd calm a frightened animal: steadily, softly, without hurry.",
+					"{keyword} in caring for yourself doesn't mean pushing harder. It might mean resting before you're exhausted, which is a choice you can make tonight."
+				],
+				"curious": [
+					"{keyword} invites you to notice how you treat your body when it's tired. Do you coax it, or drive it?",
+					"With {keyword} in mind, you might explore which habits leave you feeling sturdier and which leave you depleted. What pattern do you notice?",
+					"What if {keyword} meant listening to your body the way you'd listen to a friend? What has it been saying lately?"
+				],
+				"grieving": [
+					"Grief is heavy in the body. {keyword} might simply mean letting yourself rest more than usual, and not apologising for it.",
+					"{keyword} can look like small, kind routines: warm food, an early night, a short walk. These are enough.",
+					"If you're carrying loss, {keyword} doesn't ask you to be strong. It may only ask you to be gentle with yourself for one more day."
+				],
+				"skeptical": [
+					"Practically, {keyword} in health is about consistency and self-control. Which habit would most improve your energy if you kept it steadily?",
+					"No mystery: {keyword} often looks like patience with slow change. What have you given up on too quickly before?",
+					"Treat {keyword} as a prompt to notice how stress shows up in your body. Where do you hold it, and what helps it loosen?"
+				],
+				"hopeful": [
+					"{keyword} suggests that steady, kind care can build real resilience over time. Nothing is guaranteed, but gentleness tends to last longer than force.",
+					"If you're hoping to feel stronger, {keyword} encourages patience. Small habits, kept kindly, often add up.",
+					"There's encouragement in {keyword}: your body has carried you through a lot. What would it mean to treat it as an ally?"
+				],
+				"neutral": [
+					"In health, {keyword} points to patience, self-compassion and steady, sustainable care.",
+					"{keyword} here suggests looking after yourself with a gentle hand rather than strict rules.",
+					"With {keyword} present, the focus is on calm self-control and building endurance gradually."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"Spiritually, {keyword} can be a quiet practice of meeting fear without fighting it. Sit for one minute and let whatever you feel be there, unhurried, without needing it to leave.",
+					"If your inner life feels stormy, {keyword} reminds you that calm is somewhere you can return to again and again, not a place you have to stay. One slow breath is a return.",
+					"{keyword} doesn't require certainty. It may simply be trusting that you can hold what you feel without being carried off by it."
+				],
+				"curious": [
+					"{keyword} invites you to approach the wilder parts of yourself with kindness. Which instinct have you been trying to silence rather than understand?",
+					"With {keyword} on your path, you might wonder what it means to be gentle and powerful at the same time. When have you felt both at once?",
+					"{card} pictures a hand resting calmly on something fierce. If {keyword} were your practice for a week, what would you lay that calm hand on?"
+				],
+				"grieving": [
+					"In grief, {keyword} may simply be staying with the ache. You don't need to transform it or learn from it; it is enough to let it be held.",
+					"{keyword} can look like allowing yourself to feel all of it without judging any of it. That takes more courage than it appears to.",
+					"Spiritually, {keyword} might be the steady sense that love doesn't simply stop. Hold that as lightly or as tightly as you need."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about how you relate to your own impulses. Do you tend to fight them, follow them, or try to understand them first?",
+					"No supernatural reading needed: {keyword} describes patience with yourself. Where in your inner life could you be noticeably less harsh?",
+					"Treat {keyword} as a thinking prompt: what would happen if you met your hardest feeling this week with curiosity instead of control?"
+				],
+				"hopeful": [
+					"{keyword} suggests your inner steadiness is real and can grow. Nothing is promised, but patient practice tends to deepen it over time.",
+					"If you're seeking more peace, {keyword} encourages gentleness with yourself first. That is very often where inner growth begins.",
+					"There's encouragement in {keyword}: the parts of you that feel untamed can become allies once they're met with patience rather than shame."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to inner calm, compassion and a gentle mastery of your own nature.",
+					"{keyword} here suggests that strength comes from befriending your instincts rather than suppressing them.",
+					"With {keyword} present, the focus is on patient courage in your inner life, and on softness that doesn't break."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} can be quieter than you think. Today it might mean taking one breath before you respond to whatever is worrying you, and that is enough.",
+					"If you're braced for something hard, {keyword} reminds you that you've come through difficult things before. Name one of them, and let it steady you.",
+					"{keyword} doesn't mean pushing through everything alone. Sometimes it looks like resting, asking for help, or saying a calm, clear no."
+				],
+				"curious": [
+					"{keyword} invites a question: where in your life are you already strong without needing to be forceful? What makes that possible there?",
+					"With {keyword} in view, you might notice which of your instincts serve you well and which could use gentler handling. Which is louder lately?",
+					"{card} suggests power can be soft. If {keyword} were your quiet talent, where might you use it this week, and who would notice?"
+				],
+				"grieving": [
+					"{keyword} in grief may simply mean getting through the day. You don't need to be brave for anyone, including yourself.",
+					"If you're carrying a loss, {keyword} can be very gentle: warmth, rest, someone's company. These small things count.",
+					"Sometimes {keyword} looks like letting yourself come undone a little, somewhere safe. That is not weakness; it takes real courage."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about patience and self-control. Which situation in your life right now would benefit most from more of either?",
+					"No mystery involved: {keyword} describes staying calm under pressure. When did you last manage that, and what helped?",
+					"Treat {keyword} as a prompt: what difficulty might improve if you met it with gentleness instead of trying to overpower it?"
+				],
+				"hopeful": [
+					"{keyword} suggests you have more resilience than you might give yourself credit for. Nothing is guaranteed, but steadiness tends to carry people through.",
+					"If you're hoping things will improve, {keyword} encourages patience and warmth, toward yourself as much as anyone.",
+					"There's encouragement in {keyword}: strength that comes with kindness tends to outlast strength that comes with force."
+				],
+				"neutral": [
+					"{keyword} points to courage, compassion and calm self-control. It asks how you meet difficulty: with force, or with steadiness.",
+					"In general, {keyword} suggests that the strongest response is often the gentlest one.",
+					"With {keyword} present, the focus is on patience, endurance and a steady inner hand."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} may feel in short supply right now, and doubt can creep in about whether you're enough. You are allowed to feel shaky; one honest sentence to someone you trust is plenty.",
+					"If old fears are running the show in a relationship, {keyword} may be hidden rather than gone. Put a hand on your chest and notice that you are still here, still able to choose.",
+					"When {keyword} seems out of reach, it can help to lower the stakes. Today you don't need to fix anything; just respond a little more slowly than your nerves want to."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. How do you speak to yourself after an argument, and would you let anyone else speak to you that way?",
+					"{keyword} may be getting overridden by reactions that move faster than you do. What is the feeling that usually arrives first when you're hurt?",
+					"If {keyword} feels hard to find in love, get curious about where you learned to be strong. Did it involve being gentle, or only being tough?"
+				],
+				"grieving": [
+					"{keyword} may feel worn thin after a loss, and that's no failing. Grief takes a great deal from you; let others carry some of it.",
+					"If you've had to be strong for everyone else, {keyword} may need to turn toward you now. Who could hold things for a while so you can rest?",
+					"Sometimes {keyword} disappears for a time when love has been lost. It hasn't left you for good; it's resting underneath the weight."
+				],
+				"skeptical": [
+					"Practically, reversed, {card} points to {keyword} being blocked by self-doubt or by temper. Which of those shows up more often in your relationships?",
+					"Use {keyword} as a check: are you staying in something out of patience, or out of fear of what leaving would mean? They can feel similar from the inside.",
+					"No mysticism needed: {keyword} slips when people are exhausted. Before judging how a relationship is going, ask how rested either of you really is."
+				],
+				"hopeful": [
+					"{keyword} may be quieter than usual, but it hasn't gone. Small acts of kindness toward yourself can coax it back, and that often softens things between you and others too.",
+					"If you've been harsh with yourself or someone close, {keyword} can be rebuilt. Nothing is promised, but one gentle repair attempt is worth making.",
+					"Doubting {keyword} is a sign you care about getting love right. Let that care become patience rather than pressure."
+				],
+				"neutral": [
+					"Reversed, {keyword} in love suggests self-doubt, raw reactions, or patience worn thin. It asks where you need more gentleness.",
+					"{keyword} here may be turned inward or temporarily depleted. The focus is on restoring your own steadiness before asking more of a relationship.",
+					"In love, {keyword} reversed can point to force replacing tenderness, or to confidence hiding behind old fears."
+				]
+			},
+			"career": {
+				"anxious": [
+					"{keyword} at work may feel thin right now, as if you're running on fumes. One small act of protection for yourself, a proper lunch break, an earlier finish, is a real step.",
+					"If self-doubt is loud about your job, {keyword} may be hidden rather than missing. List three things you've done well recently; they're evidence, not flattery.",
+					"When {keyword} seems absent, it can help to shrink the day. What is the one thing that must happen at work today? Do that, and let the rest wait."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. What would change at work if you trusted your own judgement a little more?",
+					"{keyword} may be overridden by frustration in your working life. What is the situation that most reliably gets under your skin, and why that one?",
+					"If {keyword} feels hard to reach, get curious: are you being strong, or just enduring? There's a difference worth noticing."
+				],
+				"grieving": [
+					"{keyword} may feel worn out by loss, and work can seem pointless for a while. Let the ordinary tasks be enough.",
+					"If grief has made your job feel heavy, {keyword} can wait. You don't need to be impressive right now; you only need to be kind to yourself.",
+					"Sometimes {keyword} fades when you've lost a colleague, a team, or a sense of where you belong. Missing that is real."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests either burnout or reactions running ahead of judgement at work. Which do you see more?",
+					"Use {keyword} as a check: are you staying in a role through patience, or through fear? Both feel like endurance from the inside.",
+					"No mystery: {keyword} drops when you've been overstretched for too long. What could you take off your plate this week?"
+				],
+				"hopeful": [
+					"{keyword} at work may be depleted, not gone. Rest and a few small wins can rebuild it more quickly than you'd expect.",
+					"If confidence has slipped, {keyword} can return as you notice what you've already handled. Nothing is promised, but your track record is real.",
+					"Feeling short of {keyword} can be the cue to set a boundary you've been putting off. That boundary may be the start of feeling stronger."
+				],
+				"neutral": [
+					"Reversed, {keyword} in career suggests self-doubt, depleted reserves, or frustration taking the lead.",
+					"{keyword} here may be blocked or held inward. It asks what would help you feel steady at work again.",
+					"Professionally, {keyword} reversed can point to force replacing patience, or to confidence that needs rebuilding."
+				]
+			},
+			"money": {
+				"anxious": [
+					"{keyword} with money may feel shaken, as if you can't trust yourself with decisions. Start small: one bill paid, one figure checked, is real progress.",
+					"If spending has become a way to soothe stress, {keyword} may be stretched thin. Notice the urge without judging it, and wait ten minutes before acting.",
+					"When {keyword} seems absent, avoidance can grow. Choose one small, manageable money task today and let finishing it steady you."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. What story do you tell yourself about being good or bad with money?",
+					"{keyword} may be overridden by impulse. What feeling tends to come right before a purchase you later regret?",
+					"If {keyword} feels hard to find, get curious about what's tiring you out. Money decisions get harder when you're depleted."
+				],
+				"grieving": [
+					"{keyword} with finances may feel impossible after a loss. Let practical help in, and leave big decisions for later.",
+					"If grief has made money feel overwhelming, {keyword} can wait. Covering the basics is enough.",
+					"Sometimes {keyword} gives way to comfort spending or to avoidance when you're hurting. Notice it kindly; you're doing what you can."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests impulse beating intention, or doubt freezing action. Which describes your money habits lately?",
+					"Use {keyword} as a check: are you being hard on yourself about money in a way that makes change less likely? Shame rarely helps.",
+					"No mystery: {keyword} with money falters when you're stressed or tired. What would make good choices easier on your worst days?"
+				],
+				"hopeful": [
+					"{keyword} in your finances may be rebuilding slowly. Each small, calm choice adds to it, even if it doesn't feel like much.",
+					"If you've lost confidence with money, {keyword} can return as you keep small promises to yourself. Nothing is promised, but practice helps.",
+					"Recognising that {keyword} has slipped is already a steadier place than not seeing it. What's one gentle adjustment you could make?"
+				],
+				"neutral": [
+					"Reversed, {keyword} in money suggests impulsive spending, self-doubt, or reserves running low.",
+					"{keyword} here may be depleted or turned inward. It asks what would help you feel steadier about resources.",
+					"In money matters, {keyword} reversed can point to fear or impulse taking the place of patience."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} may feel in short supply, as if your reserves are low. One small thing you can do: let yourself stop for ten minutes and simply breathe.",
+					"If stress has been running the show, {keyword} may be buried under it. Notice where your body is braced, and let that one place soften.",
+					"When {keyword} seems out of reach, it's okay to lower your expectations of yourself. Getting through today gently is enough."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. How do you speak to your body when it doesn't do what you want?",
+					"{keyword} may be overridden by habits that feel comforting in the moment. What are they protecting you from?",
+					"If {keyword} feels hard to find, get curious about what's draining you. Is it effort, worry, or not enough rest?"
+				],
+				"grieving": [
+					"{keyword} may feel worn thin by grief. That's natural; let rest and small comforts be enough.",
+					"If you've been holding everything together, {keyword} may need you to let go a little. Who could share the load?",
+					"Sometimes {keyword} disappears for a while after a loss. It hasn't gone for good; it's waiting until you have room."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests you're running low on reserves, or pushing too hard to make up for it. Which fits?",
+					"Use {keyword} as a check: are you being harsh with yourself about your habits? Harshness rarely makes change easier.",
+					"No mystery: {keyword} drops when stress is high for too long. What could you reduce, even slightly?"
+				],
+				"hopeful": [
+					"{keyword} may be rebuilding quietly. Rest and gentleness often restore more than effort does.",
+					"If you've felt depleted, {keyword} can return with time and care. Nothing is promised, but small kindnesses add up.",
+					"Being honest that {keyword} is low is a good starting point. What's one way you could replenish it this week?"
+				],
+				"neutral": [
+					"Reversed, {keyword} in health suggests depletion, self-criticism, or effort that's tipped into strain.",
+					"{keyword} here may be turned inward or worn thin. It asks what would help you feel steadier.",
+					"In health, {keyword} reversed can point to force replacing care, or reserves that need restoring."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{keyword} may feel far away, as if you've lost touch with your centre. That's a common stretch on any path; one pause, one breath, can begin to bring you back.",
+					"If doubt is loud in your inner life, {keyword} may be hidden rather than gone. You don't have to find it today; simply notice that you're looking.",
+					"When {keyword} feels absent, try loosening your practice rather than tightening it. Softness can be steadier footing than effort."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. Which part of yourself are you still quietly at war with, and what does it want?",
+					"{keyword} may be blocked by a strict inner critic. What might you notice if you stopped trying to improve yourself for a day and simply listened?",
+					"If {keyword} feels elusive, ask what kind of strength you've been reaching for. Is it the kind that comes from force, or the kind that comes from acceptance?"
+				],
+				"grieving": [
+					"{keyword} may feel lost under grief. Let your inner life lie fallow for a while; nothing is required of it now.",
+					"If loss has shaken your sense of meaning, {keyword} doesn't need to be restored on any schedule. You can simply be someone who is sad.",
+					"Sometimes {keyword} is buried under sorrow, and that isn't weakness. Grief is often love with nowhere left to go."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests self-criticism getting in the way of growth. Where are you hardest on yourself, and does it help?",
+					"Use {keyword} as a check: are you pushing feelings down in the name of discipline? That tends to make them louder later.",
+					"No mystery here: {keyword} falters when we're exhausted or ashamed. Which of those is closer to the surface for you right now?"
+				],
+				"hopeful": [
+					"{keyword} may be quietly rebuilding beneath the surface. Being patient with yourself is part of how that happens.",
+					"If you've felt disconnected from yourself, {keyword} can return through small, gentle practice. Nothing is promised, but softness tends to open doors force can't.",
+					"Noticing that {keyword} feels low is itself a kind of awareness. Let it point you toward kindness rather than more effort."
+				],
+				"neutral": [
+					"Reversed, {keyword} on a spiritual level suggests self-doubt, inner conflict, or strength turned against yourself.",
+					"{keyword} here may be blocked or depleted. It asks where your inner life needs more compassion and less pressure.",
+					"Spiritually, {keyword} reversed can point to suppressing parts of yourself instead of making peace with them."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} may feel in short supply right now. One small step: let yourself rest for a while without needing to earn it.",
+					"If self-doubt is loud, {keyword} may be hidden rather than gone. Write down one thing you've handled well recently, and keep it where you can see it.",
+					"When {keyword} seems absent, lower the stakes for today. You don't need to be impressive; you only need to be kind to yourself."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. How do you treat yourself on the days you struggle, and where did you learn that?",
+					"{keyword} may be blocked by old reactions that fire before you can think. What tends to set them off, and what usually happens next?",
+					"If {keyword} feels hard to reach, get curious about what's been draining you. Is it effort, worry, other people, or too little rest?"
+				],
+				"grieving": [
+					"{keyword} may be worn thin by grief, and that's understandable. Let rest come first; nothing else needs to be strong right now.",
+					"If you've been holding everyone else up, {keyword} may need to turn toward you for a while. Who could hold things so you can set them down?",
+					"Sometimes {keyword} hides beneath sorrow for a long stretch. It hasn't left you; it's waiting until there's room."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests self-doubt, or reactions moving faster than judgement. Which have you noticed more often lately?",
+					"Use {keyword} as a check: are you being so hard on yourself that change gets less likely? Harshness rarely helps anyone improve.",
+					"No mystery here: {keyword} falters under long stretches of stress. What is one source of strain you could reduce, even slightly?"
+				],
+				"hopeful": [
+					"{keyword} may be rebuilding quietly while you rest. Small kindnesses to yourself tend to restore more than big pushes.",
+					"If you've felt depleted, {keyword} can return with time, patience and support. Nothing is promised, but you don't have to rush it.",
+					"Being honest that {keyword} is low is a strong place to begin. What would help you refill it, even a little, this week?"
+				],
+				"neutral": [
+					"Reversed, {keyword} suggests self-doubt, depletion, or force taking the place of gentleness.",
+					"{keyword} here may be turned inward or temporarily worn down. It asks where you need more compassion.",
+					"In general, {keyword} reversed can point to inner steadiness that needs rest and tending before it returns."
+				]
+			}
+		}
+	}
+}

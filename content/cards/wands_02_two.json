@@ -1,0 +1,416 @@
+{
+	"id": "wands_02_two",
+	"name": "Two of Wands",
+	"facets": [
+		{
+			"id": "planning",
+			"keywords": ["planning", "a long-range plan", "a map of what comes next"]
+		},
+		{
+			"id": "decision",
+			"keywords": [
+				"a decision about direction",
+				"a choice between staying and going",
+				"a crossroads"
+			]
+		},
+		{
+			"id": "wider_horizon",
+			"keywords": ["a wider horizon", "a vision of what could be", "the pull of the unknown"]
+		},
+		{
+			"id": "personal_power",
+			"keywords": ["personal power", "a sense of agency", "confidence in your own course"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you're unsure where a relationship is heading, {keyword} suggests you can look ahead without rushing. Write down what you want a year from now, just for yourself.",
+					"{keyword} in love can make the ground feel less certain. One thing in your control: say aloud, to yourself first, what you'd need in order to feel settled.",
+					"When the future of a bond feels unclear, {keyword} doesn't ask you to decide tonight. Notice which option lets you breathe more easily, and stay with that feeling a while."
+				],
+				"curious": [
+					"{keyword} asks a roomy question about love: are you content within the walls you know, or is part of you looking over them?",
+					"What might {keyword} look like if you talked it through with a partner, or with yourself, as an adventure rather than a problem?",
+					"{keyword} hints that the life you share, or hope to share, could be bigger than its current shape. Where would you each like to go?"
+				],
+				"grieving": [
+					"{keyword} may feel too large while you are missing someone. You don't have to picture the future yet; standing still for a while is allowed.",
+					"When a loss has rearranged your life, {keyword} can feel like a question you didn't ask for. Let it wait until you can look at it gently.",
+					"{keyword} might simply mean noticing that you still have a say in tomorrow, even if today is heavy. That is enough to hold for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to talk about the future openly. Do you and the people closest to you actually want the same next chapter?",
+					"{keyword} needs no mysticism: relationships go better when plans are shared rather than assumed. What have you been assuming?",
+					"Read plainly, {keyword} asks whether comfort has become a reason to stay put. Is it still comfort, or just familiarity?"
+				],
+				"hopeful": [
+					"{keyword} is a good energy to bring into love. Share what you're dreaming of with someone who matters, and see whether they dream something similar.",
+					"If you're hoping for a future with someone, {keyword} encourages you to picture it in practical detail. Hope grows sturdier when it has a shape.",
+					"{keyword} invites you to step a little beyond the familiar in love, whether that means a new kind of conversation or a new place together."
+				],
+				"neutral": [
+					"In love, {keyword} points to looking ahead, weighing what you want, and deciding whether to stay with the familiar or explore further.",
+					"{keyword} speaks of choice and vision in relationships. It asks what kind of future you'd like to build with others.",
+					"{keyword} suggests a moment of reflection about where a relationship, or your heart, is heading next."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If your work future feels foggy, {keyword} invites you to sketch one possible path on paper. A rough map is steadier than none.",
+					"{keyword} at work may bring pressure to choose. You can gather information first; ask one person who has walked the road you're considering.",
+					"When change at work feels risky, {keyword} reminds you that planning is itself a kind of action. Pick the next small piece of research and do only that."
+				],
+				"curious": [
+					"{keyword} asks a big question about your working life: if you could be doing anything in three years, what would it be?",
+					"What if {keyword} meant looking past your current team or field? It could be fun to explore what's happening just over the border of what you know.",
+					"{keyword} hints that you've outgrown something, or soon might. Which part of your job feels too small for you now?"
+				],
+				"grieving": [
+					"If you're mourning a role or a colleague, {keyword} may feel premature. It's all right to keep your head down and simply get through the week.",
+					"{keyword} can wait while you grieve. When you do look ahead, you might find your priorities have quietly shifted, and that's worth honouring.",
+					"When a loss has touched your working life, {keyword} doesn't need a decision yet. Let the question sit; it will still be there later."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to put your ambitions on paper. What would the next two steps be, and what would they cost?",
+					"{keyword} isn't a sign; it's a planning exercise. List what you'd gain and lose by staying, then by moving. The lists may surprise you.",
+					"Read plainly, {keyword} asks whether you're steering your career or letting it drift. Which decisions have you been deferring?"
+				],
+				"hopeful": [
+					"{keyword} suggests your ambitions have room to grow. Make a plan with a first step you could take this month.",
+					"If you're hoping to move forward at work, {keyword} encourages you to think bigger than feels comfortable, then break it into parts.",
+					"{keyword} invites you to trust your own judgement about where you want to go. The path isn't promised, but you get to choose a direction."
+				],
+				"neutral": [
+					"At work, {keyword} points to long-term planning, weighing options, and deciding where to aim next.",
+					"{keyword} highlights ambition and foresight in your working life. It asks what you're building toward.",
+					"{keyword} suggests a time to look past the immediate task and think about the shape of your career."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money feels uncertain, {keyword} suggests looking a little further ahead than this month. Even a rough six-month sketch can quiet some of the noise.",
+					"{keyword} around money may bring a choice you'd rather avoid. One small step in your control: write down the options and what each would cost.",
+					"When finances feel shaky, {keyword} reminds you that you're allowed to plan slowly. Gather one more piece of information before deciding."
+				],
+				"curious": [
+					"{keyword} raises an interesting money question: what would you do with your resources if security weren't the only goal?",
+					"What might {keyword} look like as a savings goal? Picture something you'd love to do in a few years and see what it would take.",
+					"{keyword} hints at opportunities beyond your usual habits. Is there a way of earning or saving you've never considered?"
+				],
+				"grieving": [
+					"After a loss, {keyword} around money can feel overwhelming. You don't have to plan everything now; steady the essentials and leave the rest.",
+					"{keyword} may involve decisions you'd rather not make while grieving. It's reasonable to ask for time, or for help.",
+					"When your circumstances have changed, {keyword} can wait until your head is clearer. There's no prize for deciding quickly."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to make a real financial plan. Do you know your numbers well enough to choose between your options?",
+					"{keyword} needs no magic: good money decisions usually come from comparing a few paths honestly. Which paths are you comparing?",
+					"Read plainly, {keyword} asks whether you're holding resources too tightly out of habit or too loosely out of hope."
+				],
+				"hopeful": [
+					"{keyword} encourages you to think about money as a tool for the life you want. Let that picture guide the next decision.",
+					"If you're hoping for more security, {keyword} suggests building a plan you can actually follow, one step at a time.",
+					"{keyword} invites you to aim a little higher with your resources, while keeping enough steady ground beneath you."
+				],
+				"neutral": [
+					"Around money, {keyword} points to long-term planning, weighing investments, and deciding how far to reach.",
+					"{keyword} speaks of foresight with resources. It asks what you're saving or spending toward.",
+					"{keyword} suggests a moment to step back and think about where your money is taking you."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your wellbeing feels uncertain, {keyword} invites you to plan one small, caring change rather than overhaul everything. Pick the easiest one.",
+					"{keyword} can stir restlessness in the body. One thing you can do today: take a short walk somewhere with a wide view and let your breathing slow.",
+					"When you're worried about how you feel, {keyword} suggests thinking a week ahead, not a year. What would make next week a little gentler?"
+				],
+				"curious": [
+					"{keyword} asks a curious question about your habits: what would a routine look like if it were designed around how you actually want to feel?",
+					"What might {keyword} add to how you move? A new place to walk, a new activity, a change of scenery for your body.",
+					"{keyword} hints at restlessness. Where in your day do you feel boxed in, and what would loosen it?"
+				],
+				"grieving": [
+					"Grief can make the future feel far away, and {keyword} may be too much right now. Taking each day as it comes is a reasonable plan.",
+					"{keyword} might simply be choosing when to rest. Small decisions like that are care too.",
+					"When you're carrying a loss, {keyword} doesn't need to be ambitious. Planning a quiet afternoon is plenty."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to plan habits rather than hope for them. When exactly will you rest, move or eat well this week?",
+					"{keyword} needs no mystical reading: routines that are planned tend to last longer than ones that are improvised. Which one could you schedule?",
+					"Read plainly, {keyword} asks whether your daily rhythm still fits your life, or whether it's time to rethink it."
+				],
+				"hopeful": [
+					"{keyword} encourages you to picture how you'd like to feel a few months from now, then choose one habit that points that way.",
+					"If you're hoping for more energy, {keyword} suggests making a gentle plan and adjusting it as you go.",
+					"{keyword} invites you to expand your sense of what feels good, maybe by trying something you've only thought about."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to planning routines, considering changes, and looking beyond what's familiar.",
+					"{keyword} highlights the choice between keeping habits as they are and trying something new.",
+					"{keyword} suggests a time to think ahead about how you want to care for your energy."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your sense of meaning feels unsettled, {keyword} suggests you don't need certainty to take a step. Choose one small practice and try it for a week.",
+					"{keyword} on the inner path can feel like standing at an edge. Breathe; you can look over without jumping.",
+					"When questions crowd in, {keyword} invites you to write them down. Seeing them on paper often makes them feel less heavy."
+				],
+				"curious": [
+					"{keyword} asks an open question: what lies beyond the beliefs you grew up with, and do you want to look?",
+					"What could {keyword} reveal if you treated your inner life as a landscape to explore rather than a set of rules?",
+					"{keyword} hints at an inner restlessness. Which teachings, places or people have been calling to you lately?"
+				],
+				"grieving": [
+					"{keyword} may feel far off while you grieve. It's all right if meaning feels on pause; you don't have to search for it now.",
+					"When a loss has shaken what you believe, {keyword} doesn't ask you to decide anything. It may only offer a place to stand and look.",
+					"{keyword} can be very quiet: sitting by a window, wondering. Wondering is enough for now."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is a prompt to examine your beliefs. Which ones have you chosen, and which ones did you simply inherit?",
+					"{keyword} needs no faith to be useful. It asks what kind of person you're trying to become, and whether your habits point that way.",
+					"Treat {keyword} as a question about direction: if your inner life had a next step, what would it be?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to explore what draws you. Growth often begins with a willingness to look further.",
+					"If you're hoping for deeper meaning, {keyword} suggests making room for it on purpose, with time set aside.",
+					"{keyword} invites you to imagine your inner life a little larger. What would it feel like to give that a chance?"
+				],
+				"neutral": [
+					"On the inner path, {keyword} points to looking beyond the familiar and choosing where to grow.",
+					"{keyword} speaks of contemplation and choice. It asks what you are reaching toward.",
+					"{keyword} suggests a time of reflection before stepping into a new kind of practice or understanding."
+				]
+			},
+			"general": {
+				"anxious": [
+					"Whatever is worrying you, {keyword} suggests that looking ahead can be calming rather than frightening. Write down one thing you'd like next month to hold.",
+					"{keyword} may bring a choice that feels heavy. You don't have to make it today; gather what you need to know first.",
+					"When the future feels uncertain, {keyword} reminds you that you still have a say. Name one decision that's genuinely yours."
+				],
+				"curious": [
+					"{keyword} opens a big question: if your life were a map, which direction haven't you explored yet?",
+					"What might {keyword} look like if you allowed yourself to want more than you currently have?",
+					"{keyword} hints that you're standing between the known and the new. What's pulling at you from the other side?"
+				],
+				"grieving": [
+					"{keyword} may feel too far away while you grieve. Today can be about today, and that's enough.",
+					"When you're carrying a loss, {keyword} doesn't need to be faced yet. The future will still be there when you're ready to look.",
+					"{keyword} can be as small as choosing how to spend one quiet hour. Small choices still count."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to plan instead of drift. What's one decision you've been putting off?",
+					"{keyword} needs no magic: it's simply a moment to compare options. What are yours, written plainly?",
+					"Read plainly, {keyword} asks whether staying comfortable is a choice you're making or one you're defaulting to."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging thing to sit with. Let yourself picture something bigger, then look for the first step toward it.",
+					"If you're hoping for change, {keyword} suggests you may already be holding more of the plan than you realise.",
+					"{keyword} invites you to trust yourself with a bold idea. Nothing is certain, but direction is yours to choose."
+				],
+				"neutral": [
+					"{keyword} speaks of planning, vision and the choice between staying and going.",
+					"In life as a whole, {keyword} points to looking ahead and deciding how far to reach.",
+					"{keyword} brings attention to direction: where you are, where you could be, and what lies between."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you're afraid to look ahead in love, {keyword} may feel stuck. One small step: notice which fear is loudest, and name it without acting on it.",
+					"{keyword} may be blocked by worry about losing what you have. You're allowed to want both safety and growth; one honest conversation can start to balance them.",
+					"When {keyword} feels frozen, it's tempting to wait for certainty. Instead, decide one thing you're sure you want, and let that guide the next step."
+				],
+				"curious": [
+					"{keyword} might be turned inward in love. Have you been making plans in your head that you haven't shared with anyone?",
+					"What if {keyword} has stalled because you're trying to keep every door open? It might be interesting to imagine closing one.",
+					"{keyword} feels hesitant here. What would you do if you didn't need to know how it ends?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible right now, and that's understandable. Grief often narrows the view; it widens again in its own time.",
+					"If you've stopped imagining the future since your loss, {keyword} can wait. Staying close to what's familiar is a reasonable comfort.",
+					"{keyword} may be held back by love for what was. You don't need to let go of that to keep living."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be blocked by indecision. What would you need to know to make the choice?",
+					"{keyword} is a prompt to check whether comfort has become avoidance. Is staying put a choice, or just easier?",
+					"Read plainly, {keyword} stalled in love often means plans that one person is making alone. Are you both in the conversation?"
+				],
+				"hopeful": [
+					"{keyword} may simply be delayed. If you're hoping for a shared future, keep talking, and let clarity come in pieces.",
+					"If {keyword} feels stuck, hope is still reasonable. A small step outside your comfort zone could loosen things.",
+					"{keyword} could open up once fear quiets down. Be patient with yourself, and honest."
+				],
+				"neutral": [
+					"In love, {keyword} can point to indecision, fear of change, or plans kept private.",
+					"{keyword} appears blocked or held inward, asking whether comfort is keeping you from what you want.",
+					"{keyword} suggests a hesitation about the future of a relationship that may need gentle attention."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} at work feels frozen, it's natural to worry about falling behind. One thing you can do: choose the smallest next step and give it a date.",
+					"{keyword} may be blocked by fear of making the wrong move. Remember that most career decisions can be adjusted later.",
+					"When {keyword} seems out of reach, focus on what you can learn where you are. That's still progress."
+				],
+				"curious": [
+					"{keyword} at work might be stuck in planning mode. What would happen if you tested one idea instead of refining it again?",
+					"What if {keyword} has stalled because the plan isn't really yours? Ask whose expectations you're trying to meet.",
+					"{keyword} might be turned inward. Could this be a season to clarify what you want before moving?"
+				],
+				"grieving": [
+					"{keyword} may be on hold while you grieve, and that's all right. Work can tick along without big plans for a while.",
+					"If {keyword} feels pointless right now, let it rest. Ambition often returns once the heaviest days have passed.",
+					"{keyword} doesn't need to be decided now. Gentle routines are enough to carry you through."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be stuck because the plan is too vague. What specifically would you do next Monday?",
+					"{keyword} is a prompt about playing it safe. Is the security you're protecting worth what it costs you?",
+					"Read plainly, {keyword} blocked often means analysis without action. Set a deadline for deciding."
+				],
+				"hopeful": [
+					"{keyword} may be delayed, not lost. Use this time to prepare so you can move when the moment comes.",
+					"If {keyword} feels stalled, a small experiment could get things moving again. Hope plus action is a good combination.",
+					"{keyword} could become clearer as you go. Keep looking ahead, even if the steps are small."
+				],
+				"neutral": [
+					"At work, {keyword} can point to indecision, fear of risk, or plans that never leave the drawing board.",
+					"{keyword} appears blocked or overcautious, asking what's holding back your next move.",
+					"{keyword} suggests ambition that is waiting on a decision you haven't yet made."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money decisions feel frozen, {keyword} may be stalled by worry. One step in your control: write down the choice you're avoiding and one fact you need.",
+					"{keyword} may be blocked by fear of loss. Playing it safe is sensible sometimes; check whether this is one of those times.",
+					"When {keyword} feels stuck, focus on what's steady: what's coming in, what's going out, and what you can protect."
+				],
+				"curious": [
+					"{keyword} might be stuck in comparison. What would you choose if you stopped looking at what others are doing?",
+					"What if {keyword} stalled because you're waiting for the perfect option? Is good enough available now?",
+					"{keyword} hints at plans you haven't shared. Would talking them through help you see them more clearly?"
+				],
+				"grieving": [
+					"{keyword} may be paused by grief, and that's wise. Big money decisions can wait.",
+					"If {keyword} feels overwhelming, let someone you trust help with the practical side. You don't have to carry it alone.",
+					"{keyword} can stay on hold until you feel steadier. Keeping things simple is a good plan for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} stuck may mean poor information. What would you need to know to decide with confidence?",
+					"{keyword} is a prompt to check whether caution has become paralysis. What's the cost of not deciding?",
+					"Read plainly, {keyword} blocked can mean a plan that's too ambitious for current resources. Could you scale it down?"
+				],
+				"hopeful": [
+					"{keyword} may simply need more time. If you're hoping for growth, gather information and stay ready.",
+					"If {keyword} feels slow, that's not failure. Hope works well with patience and a clear budget.",
+					"{keyword} could open up once you've done a little more groundwork. Keep looking ahead."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to hesitation, overcaution, or plans that lack detail.",
+					"{keyword} appears blocked or delayed, asking whether fear is shaping your financial choices.",
+					"{keyword} suggests a decision about resources that is waiting for clarity."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your wellbeing feels stuck, {keyword} may be blocked by too many options. One thing you can do: pick a single habit and let the rest wait.",
+					"{keyword} may be frozen by worry about doing it wrong. There's no wrong way to rest or take a gentle walk.",
+					"When {keyword} feels out of reach, start with what's familiar and kind. Comfort is a fine foundation."
+				],
+				"curious": [
+					"{keyword} might be stuck in planning. What if you tried one new thing without needing a full routine?",
+					"What if {keyword} has stalled because your habits are built around someone else's idea of wellbeing?",
+					"{keyword} might be turned inward. What does your body seem to want that you haven't been listening to?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible while you grieve. Getting through the day is plan enough.",
+					"If {keyword} has gone quiet, let it. Rest and familiar comforts are care too.",
+					"{keyword} can wait until you have more energy. There's no schedule for feeling ready."
+				],
+				"skeptical": [
+					"Practically, {keyword} stalled often means habits that are too ambitious. Could you halve the goal and still feel good about it?",
+					"{keyword} is a prompt about comfort zones. Are your routines keeping you steady or keeping you stuck?",
+					"Read plainly, {keyword} blocked may mean you've been planning to start for a while. What's in the way?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. When you're ready, a small step can get things moving.",
+					"If {keyword} feels stuck, hope is still fair. Gentle experiments can help you find what works.",
+					"{keyword} could open up as your energy returns. Be patient with the pace."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to stalled plans, overcaution, or restlessness without direction.",
+					"{keyword} appears blocked or held inward, asking what change you're hesitating to make.",
+					"{keyword} suggests habits that are waiting on a decision."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels stuck, {keyword} may be blocked by fear of the unfamiliar. One steady step: stay with a practice you already trust.",
+					"{keyword} may feel frozen by doubt. You can hold questions without needing to answer them yet.",
+					"When {keyword} seems out of reach, remember that staying close to what's familiar can be its own kind of growth."
+				],
+				"curious": [
+					"{keyword} might be turned inward. What are you curious about that you haven't let yourself explore?",
+					"What if {keyword} has stalled because you're waiting for permission? Whose permission do you think you need?",
+					"{keyword} hints at plans for inner growth that have stayed in your head. What would a first small step look like?"
+				],
+				"grieving": [
+					"{keyword} may be on pause while you grieve. Meaning can wait; you don't have to search for it now.",
+					"If {keyword} feels distant, that's part of loss. Familiar rituals may comfort more than new ones right now.",
+					"{keyword} can stay quiet for a while. Being honest about what you feel is practice enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} stuck may mean comfort in old beliefs. Do they still fit, or are they just familiar?",
+					"{keyword} is a prompt about avoidance. Is there a question you've been reluctant to look at?",
+					"Read plainly, {keyword} blocked can mean you're thinking about growth more than practising it."
+				],
+				"hopeful": [
+					"{keyword} may be gathering quietly. If you're hoping for growth, keep a little space open for it.",
+					"If {keyword} feels stalled, patience can help. Inner paths often reveal themselves slowly.",
+					"{keyword} could open once fear softens. Be gentle with yourself in the meantime."
+				],
+				"neutral": [
+					"On the inner path, {keyword} can point to hesitation, comfort in the familiar, or plans for growth not yet acted on.",
+					"{keyword} appears held inward, asking what keeps you from exploring further.",
+					"{keyword} suggests spiritual direction that is waiting on courage or clarity."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you feel stuck, {keyword} may be blocked by fear. One thing in your control: name the decision you're avoiding, and give yourself a gentle deadline.",
+					"{keyword} may feel frozen right now. You don't have to leap; one small step is enough to loosen things.",
+					"When {keyword} seems out of reach, focus on what's in front of you. Steady ground is a fine place to plan from."
+				],
+				"curious": [
+					"{keyword} might be stuck in your head. What would happen if you said the plan out loud to someone?",
+					"What if {keyword} stalled because you're waiting for certainty? What could you try without it?",
+					"{keyword} hints at a comfort zone that's grown a little small. What's just beyond it?"
+				],
+				"grieving": [
+					"{keyword} may be on hold while you grieve. That's all right; there's no rush.",
+					"If {keyword} feels impossible, let today be enough. The future can wait.",
+					"{keyword} doesn't need to be decided now. Gentle routines will carry you."
+				],
+				"skeptical": [
+					"Practically, {keyword} stuck often means too much planning, not enough testing. What could you try this week?",
+					"{keyword} is a prompt about playing it safe. Is safety what you really want here?",
+					"Read plainly, {keyword} blocked may point to a decision you've outsourced to time. Take it back."
+				],
+				"hopeful": [
+					"{keyword} may be delayed, not denied. Stay ready, and let small steps keep you moving.",
+					"If {keyword} feels stuck, hope is still reasonable. Courage often comes after the first move, not before.",
+					"{keyword} could open up as you gain clarity. Keep looking ahead."
+				],
+				"neutral": [
+					"Overall, {keyword} can point to indecision, fear of the unknown, or plans kept too close.",
+					"{keyword} appears blocked or held inward, asking what keeps you from moving forward.",
+					"{keyword} suggests a choice that's waiting on courage or more information."
+				]
+			}
+		}
+	}
+}

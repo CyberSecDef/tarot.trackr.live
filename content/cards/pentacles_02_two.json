@@ -1,0 +1,412 @@
+{
+	"id": "pentacles_02_two",
+	"name": "Two of Pentacles",
+	"facets": [
+		{
+			"id": "balancing",
+			"keywords": ["a balancing act", "a juggle of competing demands", "a full plate"]
+		},
+		{
+			"id": "adaptability",
+			"keywords": ["adaptability", "a flexible rhythm", "going with the flow"]
+		},
+		{
+			"id": "priorities",
+			"keywords": [
+				"a question of priorities",
+				"time management",
+				"a choice about where energy goes"
+			]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you're worried you can't give love enough time, {keyword} suggests you are doing more than you think. One small thing in your control: protect one unhurried hour together this week.",
+					"{keyword} in love can feel like dropping something no matter what you choose. You don't have to be perfect at it; just tell the people close to you what you are holding.",
+					"When life is crowded, {keyword} may leave a relationship feeling squeezed. A two-line message in the middle of a busy day still counts as showing up."
+				],
+				"curious": [
+					"{keyword} asks a playful question: what does your relationship look like when it bends with your week instead of waiting for a quiet one?",
+					"What if {keyword} were something you did together rather than alone? Notice who in your life helps you carry things, and who you help in turn.",
+					"{keyword} hints at a rhythm in love that rises and falls. Which kinds of closeness fit easily into busy days, and which need setting aside time for?"
+				],
+				"grieving": [
+					"When you are grieving, {keyword} may feel like too much to hold, with love, duties and loss all in your hands at once. It is all right to set some of it down.",
+					"{keyword} might mean letting someone close take over a few things for a while. Being cared for is part of love too.",
+					"Grief changes how much you can carry. {keyword} need not be graceful right now; getting through the day with the people you love nearby is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} in love is about time and attention. Where do your evenings actually go, and does that match what you say matters?",
+					"Treat {keyword} as a prompt to look at the load in your household or friendships. Is it shared fairly, or does one person keep juggling for everyone?",
+					"No mystery needed: {keyword} is a normal part of any relationship with jobs, families and friends in it. The useful question is what to adjust first."
+				],
+				"hopeful": [
+					"{keyword} suggests love can thrive even in a busy season. Hope is well placed if you keep a little room for each other.",
+					"If you are hoping for more closeness, {keyword} invites you to fit it in where you can rather than waiting for a perfect, empty weekend.",
+					"{keyword} encourages lightness. Relationships that laugh at the chaos together often find it easier to carry."
+				],
+				"neutral": [
+					"In love, {keyword} points to keeping a relationship steady while life pulls in several directions at once.",
+					"{keyword} speaks of give and take: shifting attention between partner, family, friends and self as needs change.",
+					"{keyword} suggests that flexibility and good humour may matter more right now than grand gestures."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels like too many tasks at once, {keyword} reminds you that you only ever handle one at a time. Choose the next one and give it your full attention.",
+					"{keyword} at work can feel precarious. One thing in your control today: write everything on one list, so your head doesn't have to hold it.",
+					"When deadlines pile up, {keyword} invites you to ask which ones are truly fixed. Often one or two can move, and that creates breathing room."
+				],
+				"curious": [
+					"{keyword} poses a question: which parts of your working week give you energy, and which quietly drain it? The answer might reshape how you plan.",
+					"What if {keyword} were a skill rather than a burden? Notice how you already shift between tasks, people and moods, and what that says about your strengths.",
+					"{keyword} hints at two roles or projects pulling at you. What would it look like to give each one its own clearly marked time?"
+				],
+				"grieving": [
+					"When you are carrying loss, {keyword} at work may simply be too much. It is fine to do only the essentials and let others know why.",
+					"{keyword} might mean asking for a lighter load for a while. Saying so is not weakness; it is honest.",
+					"Grief takes energy, and {keyword} may feel impossible to keep up. Give yourself permission to drop the least important things first."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work is a workload question. If you listed everything you are responsible for, how much of it would you actually choose?",
+					"Treat {keyword} as a prompt to look at task switching. Grouping similar work together usually saves more time than working faster.",
+					"No mysticism required: {keyword} is about trade-offs. What would you stop doing if you added one more thing tomorrow?"
+				],
+				"hopeful": [
+					"{keyword} suggests you have more capacity to adapt than you may give yourself credit for. That is worth trusting, gently.",
+					"If you are hoping to manage it all, {keyword} encourages a realistic version of all. Decide what good enough looks like for each task.",
+					"{keyword} invites you to find a rhythm that works. Busy seasons pass, and the habits you build in them often outlast them."
+				],
+				"neutral": [
+					"In your working life, {keyword} points to managing several responsibilities at once, with flexibility and steady attention.",
+					"{keyword} speaks of shifting priorities at work, and the skill of adjusting without losing your footing.",
+					"{keyword} suggests keeping things moving by adapting, rather than trying to hold everything perfectly still."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money feels stretched, {keyword} reminds you that many people move funds between needs from month to month. One step in your control: list which bills are due first.",
+					"{keyword} with money can feel like keeping plates spinning. Choose one plate to look at today, and let the others wait their turn.",
+					"When finances feel tight, {keyword} invites you to notice what is coming in as well as what is going out. Both are part of the picture."
+				],
+				"curious": [
+					"{keyword} poses a question: what are you balancing your money between right now, and are those the things you would choose if you started fresh?",
+					"What if {keyword} were a chance to get creative? Trading, borrowing, sharing and swapping are all ways of keeping things in motion.",
+					"{keyword} hints at money flowing in and out like a tide. When during the month do you feel most at ease, and what makes the difference?"
+				],
+				"grieving": [
+					"After a loss, {keyword} with money can feel exhausting. It is all right to handle only what is due this week and leave the rest.",
+					"{keyword} may mean letting someone you trust help keep track of things for a while. You don't have to carry every number alone.",
+					"If grief has changed your finances, {keyword} can be slow and uneven. There is no need to have it all sorted yet."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about cash flow. Do you know when money arrives and when it leaves? Lining those dates up can remove a lot of stress.",
+					"Treat {keyword} as a prompt to see where small amounts are shifting between accounts, habits or people. Patterns show up quickly once you look.",
+					"No prediction here: {keyword} simply points to trade-offs. Every yes to one cost is a quiet no to another; which ones are worth it to you?"
+				],
+				"hopeful": [
+					"{keyword} suggests you can keep things steady even when resources move around. Hope is reasonable when you keep an eye on the flow.",
+					"If you are hoping for more ease, {keyword} encourages small adjustments rather than a dramatic overhaul.",
+					"{keyword} invites you to trust your ability to adapt. A flexible plan often holds up better than a rigid one."
+				],
+				"neutral": [
+					"Around money, {keyword} points to juggling resources, adapting to changing costs and keeping things in motion.",
+					"{keyword} speaks of the ebb and flow of finances, and the practical skill of shifting resources where they are needed.",
+					"{keyword} suggests that steady, flexible management may matter more right now than any single big decision."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel stretched thin, {keyword} reminds you that rest is part of the balance, not a reward for finishing. Find one ten-minute pause today.",
+					"{keyword} can leave the body feeling wired. One small thing in your control: put your phone down, roll your shoulders, and breathe out slowly.",
+					"When everything competes for your energy, {keyword} invites you to notice which demand can wait until tomorrow. Let it."
+				],
+				"curious": [
+					"{keyword} poses a question: how does your body tell you when you are carrying too many things at once?",
+					"What if {keyword} included movement that feels like play? Dancing in the kitchen, a bike ride, juggling actual oranges: balance can be fun.",
+					"{keyword} hints at rhythms. When in the day do you have the most energy, and are you spending it on what matters to you?"
+				],
+				"grieving": [
+					"Grief can make {keyword} feel impossible, and your body may be asking to slow right down. Listen to it if you can.",
+					"{keyword} may mean dropping some routines while you grieve. Sleep, food and quiet can take priority over everything else.",
+					"When you are carrying loss, {keyword} doesn't need to be graceful. Getting through the day is a full load."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about energy budgeting. Where does your energy go in a typical week, and where does it come back from?",
+					"Treat {keyword} as a prompt to check your routines. Is rest scheduled, or does it only happen when there is nothing left to do?",
+					"No mysticism needed: {keyword} simply points to the cost of constant switching. Fewer demands at once usually feels better in the body."
+				],
+				"hopeful": [
+					"{keyword} suggests you can find a sustainable rhythm, even in a busy season. Small adjustments add up.",
+					"If you are hoping for more energy, {keyword} invites you to build in rest the way you build in work.",
+					"{keyword} encourages flexibility. Some days will hold more movement and some more rest, and both count."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to balancing activity and rest, and adapting habits as life shifts around you.",
+					"{keyword} speaks of energy moving between many demands, and the care needed to keep it in balance.",
+					"{keyword} suggests paying attention to rhythm: when you push, when you pause, and how your body responds."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels crowded out, {keyword} invites you to find practice in small gaps. One breath before you open your inbox is enough to start.",
+					"{keyword} reminds you that a steady spirit doesn't require an empty diary. Choose one moment today to pause and notice where you are.",
+					"When you feel pulled in many directions, {keyword} suggests coming back to one simple anchor: a word, a breath, a feeling of your feet on the ground."
+				],
+				"curious": [
+					"{keyword} poses a question: can your practice move with you, rather than waiting for a quiet morning that never comes?",
+					"What if {keyword} were itself a teaching? Balance is never still; it is a constant small correction, like walking.",
+					"{keyword} hints at holding two truths at once. Which opposites are you learning to carry together at the moment?"
+				],
+				"grieving": [
+					"In grief, {keyword} may mean holding loss and daily life side by side. That is hard, and there is no wrong way to do it.",
+					"{keyword} might simply be letting practice shrink to fit what you can manage. A single candle, a single breath, is still practice.",
+					"When loss has shaken your inner life, {keyword} asks only that you keep one small thread going, if you can."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about where reflection fits in a busy life. Is there any time in your week for thinking that isn't about tasks?",
+					"Treat {keyword} as a prompt: are your values guiding how you spend your hours, or are your hours deciding your values for you?",
+					"No mystical claim here: {keyword} simply points to the value of a moment's pause between one demand and the next."
+				],
+				"hopeful": [
+					"{keyword} encourages a practice that bends with your life. Hope can live in small, portable rituals.",
+					"If you are hoping for more inner steadiness, {keyword} suggests finding it in motion rather than waiting for stillness.",
+					"{keyword} invites you to trust that balance is a practice, not a destination. Each small return counts."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to harmony found in motion, holding opposites and adapting with grace.",
+					"{keyword} speaks of integrating inner practice into a busy, changing life.",
+					"{keyword} suggests that flexibility of spirit may serve you better right now than rigid discipline."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If everything feels like it's in the air at once, {keyword} reminds you that you've kept it going so far. Choose one thing to put down safely today.",
+					"{keyword} can be tiring to hold. One step in your control: write down everything you are juggling, then circle the one that matters most this week.",
+					"When life feels unsteady, {keyword} invites you to focus on your next move rather than all of them. Small adjustments keep things upright."
+				],
+				"curious": [
+					"{keyword} asks a lively question: what are you keeping in motion right now, and what would happen if you let one thing pause?",
+					"What if {keyword} were something you were quietly good at? Notice how often you adapt without even thinking about it.",
+					"{keyword} hints at a dance between two parts of your life. Which one is leading at the moment, and does it need to?"
+				],
+				"grieving": [
+					"When you are carrying loss, {keyword} may feel impossible to keep up. It is all right to let things drop for a while.",
+					"{keyword} might mean holding grief and ordinary life at once, which is harder than it looks. Be gentle with how you manage.",
+					"{keyword} doesn't have to be graceful right now. Doing one thing, then the next, is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about load. If you added up your commitments honestly, which one would you drop first?",
+					"Treat {keyword} as a prompt to sort the urgent from the important. They are rarely the same list.",
+					"No forecasting here: {keyword} simply points to trade-offs that most busy lives involve. Naming them makes them easier to choose."
+				],
+				"hopeful": [
+					"{keyword} suggests you are more adaptable than you may feel. Hope is reasonable if you keep adjusting as you go.",
+					"If you are hoping to find balance, {keyword} encourages small corrections over big resolutions.",
+					"{keyword} invites a lighter touch. Life may not settle completely, but it can feel less like a struggle."
+				],
+				"neutral": [
+					"Overall, {keyword} points to managing several things at once, with flexibility, rhythm and good humour.",
+					"{keyword} speaks of change in motion, and the practical skill of adapting without losing your footing.",
+					"{keyword} suggests staying nimble and choosing carefully where to place your attention."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} has tipped over and love feels neglected, you can steady it with one small act. Send the message, keep the plan, show up for ten minutes.",
+					"{keyword} may have you dropping more than you'd like in relationships. Instead of blaming yourself, name one commitment you could hand back or postpone.",
+					"When {keyword} feels overwhelming, it helps to tell a partner or friend plainly that you are stretched. Saying it often eases more than you expect."
+				],
+				"curious": [
+					"{keyword} may have become too much. Which relationship keeps getting the leftover time, and is that really what you want?",
+					"What if {keyword} has turned into avoiding a decision? Sometimes keeping everyone happy means never choosing anyone fully.",
+					"{keyword} seems off balance here. Are you over-giving in one place and quietly absent in another?"
+				],
+				"grieving": [
+					"{keyword} may have fallen apart under the weight of loss. That is understandable; nobody can hold everything while grieving.",
+					"If you have let people slip away since your loss, {keyword} can wait until you have more to give. They may understand more than you think.",
+					"{keyword} doesn't need fixing right now. Let the people closest to you know you're doing what you can."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be failing because there is simply too much on. What could be dropped without harming anyone?",
+					"Treat {keyword} as a prompt to check for overcommitment. Saying yes to everything often means being present for no one.",
+					"Read plainly, {keyword} might be about unclear expectations. A frank talk about who does what at home can steady things quickly."
+				],
+				"hopeful": [
+					"{keyword} may be wobbling, but that can be corrected. Hope is reasonable if you are willing to let one thing go.",
+					"If {keyword} has slipped, a simpler week could help you find your feet again with the people you love.",
+					"{keyword} could settle once the pressure eases. In the meantime, small gestures keep connection alive."
+				],
+				"neutral": [
+					"In love, {keyword} may be off balance: overcommitment, neglected connection, or difficulty choosing where to put your heart.",
+					"{keyword} appears overloaded or stalled, with too many demands crowding out closeness.",
+					"{keyword} suggests looking at what has been dropped, and whether it matters more than what is still being held."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} at work has started to wobble, you don't have to catch everything. One step in your control: tell someone which deadline is at risk, early and plainly.",
+					"{keyword} may feel like it's slipping out of your hands. Pick one task to finish completely today; closure calms a crowded mind.",
+					"When {keyword} turns into overwhelm, it helps to remember that asking for help is a professional skill, not a failure."
+				],
+				"curious": [
+					"{keyword} may have become unmanageable. What is on your plate that was never really yours to carry?",
+					"What if {keyword} is hiding a choice you've been avoiding? Two paths at once can be a way of not committing to either.",
+					"{keyword} seems overstretched here. Which task would you most like to hand off, and what stops you?"
+				],
+				"grieving": [
+					"During grief, {keyword} at work may collapse, and that is understandable. Do only what is essential and let the rest wait.",
+					"If {keyword} has slipped since your loss, be kind to yourself. Work can be picked back up later; your energy is needed elsewhere.",
+					"{keyword} doesn't need to be restored yet. Let someone know you are carrying more than usual."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be failing because the workload is unrealistic. Count the hours honestly; the maths may settle the question.",
+					"Treat {keyword} as a prompt to check for disorganisation. A single list and a weekly review solve more than willpower does.",
+					"Read plainly, {keyword} might signal too many roles at once. Which one is costing the most for the least return?"
+				],
+				"hopeful": [
+					"{keyword} may be wobbling, but balance can be found again. Hope is reasonable if you are willing to simplify.",
+					"If {keyword} has slipped, a short reset, a cleared list, a postponed project, may be enough to steady you.",
+					"{keyword} could return once you let go of one thing. Better to drop it on purpose than by accident."
+				],
+				"neutral": [
+					"In your working life, {keyword} may be off balance: overcommitment, scattered focus or difficulty prioritising.",
+					"{keyword} appears overloaded, with too many demands and not enough structure to carry them.",
+					"{keyword} suggests simplifying, delegating or renegotiating before something gets dropped."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} with money has got away from you, start with one bill. Looking at a single number is easier than looking at all of them.",
+					"{keyword} may feel out of control right now. One thing in your control: write down the next three payments and their dates.",
+					"When {keyword} slips, it is easy to feel ashamed, but plenty of people lose track sometimes. Calmly catching up is what matters."
+				],
+				"curious": [
+					"{keyword} poses a question: are you moving money around to avoid seeing the whole picture?",
+					"What if {keyword} has become overcomplicated? Fewer accounts, fewer subscriptions, fewer moving parts might feel lighter.",
+					"{keyword} seems off balance. Which expense keeps surprising you, and why does it keep slipping past your plans?"
+				],
+				"grieving": [
+					"After a loss, {keyword} with money may simply fall apart for a while. Handle what is urgent and let the rest wait.",
+					"If {keyword} has slipped since your loss, let someone you trust help sort the essentials. You don't have to manage it alone.",
+					"{keyword} doesn't need to be perfect during grief. Getting the basics paid is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be failing for lack of a simple system. One list of income and costs, updated weekly, goes a long way.",
+					"Treat {keyword} as a prompt to check for overextension. Are there commitments that no longer fit what comes in?",
+					"Read plainly, {keyword} might be about timing rather than amount. Mismatched due dates cause a lot of needless stress."
+				],
+				"hopeful": [
+					"{keyword} may be wobbling, but it can be steadied. Hope is reasonable if you simplify the moving parts.",
+					"If {keyword} has slipped, a short review could help you catch it before it grows.",
+					"{keyword} could settle with a little structure. A clearer view usually brings a calmer mind."
+				],
+				"neutral": [
+					"Around money, {keyword} may be off balance: overextension, disorganisation or juggling that has become unsustainable.",
+					"{keyword} appears overloaded or neglected, with resources moving faster than you can track.",
+					"{keyword} suggests slowing down, simplifying and seeing the whole picture."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} has tipped into exhaustion, your body may be asking for a pause. One small thing in your control: an earlier night tonight.",
+					"{keyword} may feel impossible to keep up. Drop one non-essential task today, and use that time to rest.",
+					"When {keyword} overwhelms you, try not to push harder. Notice where you feel tension, and give that spot a moment of care."
+				],
+				"curious": [
+					"{keyword} poses a question: what are you doing out of habit that no longer serves your energy?",
+					"What if {keyword} has become all doing and no resting? Try noticing how your body feels after a truly unscheduled hour.",
+					"{keyword} seems off balance. Which part of your routine is quietly costing the most?"
+				],
+				"grieving": [
+					"Grief can make {keyword} fall apart, and that is all right. Rest is the priority now.",
+					"If routines have slipped since your loss, {keyword} can wait. Your body is doing a lot just to carry you through.",
+					"{keyword} doesn't need managing right now. Let others help with what they can."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be failing because rest isn't in the plan. Schedule it the way you'd schedule anything else.",
+					"Treat {keyword} as a prompt to check for overcommitment. Energy is finite; what is taking more than its share?",
+					"Read plainly, {keyword} might be about switching too often. Fewer things at once usually feels steadier."
+				],
+				"hopeful": [
+					"{keyword} may be wobbling, but it can be steadied. Hope is reasonable if you make room for rest.",
+					"If {keyword} has slipped, small resets, a walk, a quiet evening, can help you find your rhythm again.",
+					"{keyword} could return once you drop one demand. Choose which one, rather than waiting for it to fall."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} may be off balance: overextension, fatigue or routines scattered by too many demands.",
+					"{keyword} appears overloaded, with care for yourself pushed to the bottom of the list.",
+					"{keyword} suggests reducing the load and paying closer attention to rest."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} has crowded out your inner life, start with one breath. That is a practice, and it is enough for today.",
+					"{keyword} may have you feeling scattered. One thing in your control: a quiet moment before bed, with nothing to do.",
+					"When {keyword} feels overwhelming, it helps to remember that stillness can be found in a few seconds, not only in long retreats."
+				],
+				"curious": [
+					"{keyword} poses a question: what have you been too busy to feel lately?",
+					"What if {keyword} has become a way of staying distracted? Sometimes constant motion keeps a deeper question at bay.",
+					"{keyword} seems turned inward here. Are there two beliefs or desires pulling against each other inside you?"
+				],
+				"grieving": [
+					"In grief, {keyword} may fall away entirely, and that is understandable. Your inner life is carrying enough.",
+					"If practice has slipped since your loss, {keyword} can wait. Small comforts are still meaningful.",
+					"{keyword} doesn't need restoring yet. Let yourself be held by simple things."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be failing because reflection has no place in your schedule. Ten quiet minutes a week is a start.",
+					"Treat {keyword} as a prompt to check whether busyness has become a habit rather than a necessity.",
+					"Read plainly, {keyword} might be about conflicting values. Naming them can make choices easier."
+				],
+				"hopeful": [
+					"{keyword} may be wobbling, but it can be steadied. Hope is reasonable if you make a little space.",
+					"If {keyword} has slipped, a single small ritual could help you find your centre again.",
+					"{keyword} could return once the pace eases. Meanwhile, brief pauses count."
+				],
+				"neutral": [
+					"Spiritually, {keyword} may be off balance: inner life crowded out, scattered attention or conflicting values.",
+					"{keyword} appears overloaded, leaving little room for reflection or stillness.",
+					"{keyword} suggests slowing down and making space for what matters beneath the busyness."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} has started to wobble, you don't have to catch everything. Choose one thing to put down on purpose today.",
+					"{keyword} may feel out of control. One step in your control: write down everything you are holding, so your mind doesn't have to.",
+					"When {keyword} overwhelms you, it helps to ask for help with one specific thing. People often say yes."
+				],
+				"curious": [
+					"{keyword} poses a question: what are you holding onto that you could simply let go of?",
+					"What if {keyword} has become a way of avoiding a bigger choice? Keeping every option open can be its own trap.",
+					"{keyword} seems off balance here. Which part of your life is getting more than its share, and which less?"
+				],
+				"grieving": [
+					"When you are grieving, {keyword} may fall apart, and that is understandable. Do only what is needed.",
+					"If things have slipped since your loss, {keyword} can wait. You are carrying a lot already.",
+					"{keyword} doesn't need to be graceful right now. Getting through each day is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be failing because there is too much on. What could go without real harm?",
+					"Treat {keyword} as a prompt to check for disorganisation. A single list and a weekly look at it can steady a lot.",
+					"Read plainly, {keyword} might be about overcommitment. Saying no to one thing frees up room for others."
+				],
+				"hopeful": [
+					"{keyword} may be wobbling, but it can be steadied. Hope is reasonable if you simplify.",
+					"If {keyword} has slipped, a short reset could help you find your feet again.",
+					"{keyword} could return once the pressure eases. Small steps help in the meantime."
+				],
+				"neutral": [
+					"Overall, {keyword} may be off balance: overcommitment, scattered energy or trouble choosing what matters most.",
+					"{keyword} appears overloaded or stalled, with too many demands and too little structure.",
+					"{keyword} suggests simplifying before something important gets dropped."
+				]
+			}
+		}
+	}
+}

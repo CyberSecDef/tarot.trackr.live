@@ -1,0 +1,412 @@
+{
+	"id": "pentacles_11_page",
+	"name": "Page of Pentacles",
+	"facets": [
+		{
+			"id": "apprenticeship",
+			"keywords": ["learning by doing", "a beginner's patience", "a student's curiosity"]
+		},
+		{
+			"id": "opportunity",
+			"keywords": ["a promising opportunity", "a seed worth planting", "a modest new start"]
+		},
+		{
+			"id": "study",
+			"keywords": ["careful study", "a practical plan", "focused attention"]
+		},
+		{
+			"id": "manifestation",
+			"keywords": ["a first practical step", "an idea made real", "grounded ambition"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If love feels uncertain, {keyword} suggests going slowly and learning as you go. You don't need to know how this ends; you only need to notice one thing that felt good this week.",
+					"{keyword} brings a steadier pace to matters of the heart. One small thing in your control: show care in a practical way, like keeping a plan you made.",
+					"When you are worried about where you stand, {keyword} invites you to treat closeness as something learned, not something you either have or lack. What is one thing you could ask rather than assume?"
+				],
+				"curious": [
+					"{keyword} asks a playful question about love: what are you still learning about how you like to be cared for? There may be more to discover than you think.",
+					"What if {keyword} described your relationships right now? Being a beginner in love, even with someone familiar, can make an ordinary evening feel new.",
+					"{keyword} hints that affection often shows up in small, practical gestures. Which ones do you notice from others, and which do you tend to offer?"
+				],
+				"grieving": [
+					"{keyword} may feel too hopeful to hold when you are missing someone. It is all right to learn slowly, a day at a time, what life looks like now.",
+					"After a loss, {keyword} need not mean starting anything new. It might be as small as learning a recipe or a routine they once handled, and letting that be enough.",
+					"Grief keeps its own pace, and {keyword} does not ask you to hurry it. Let the people around you show their love in practical ways; you do not have to return the favour yet."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to effort and attention in relationships. Love tends to grow where someone keeps showing up; where are you doing that, and where not?",
+					"Read {keyword} as a simple prompt: what would it look like to learn what the people you love actually need, instead of guessing? Asking costs nothing.",
+					"No mystery is needed for {keyword}. Small, steady acts often build trust more reliably than big gestures. Which small act could you turn into a habit?"
+				],
+				"hopeful": [
+					"{keyword} is a good sign to carry into love, as long as you let things grow at their own pace. Seeds do not open faster for being watched.",
+					"If you are hoping for something lasting, {keyword} encourages patient beginnings. A modest first step, made sincerely, is a fine place to start.",
+					"{keyword} suggests hope works best when it has something to do. Tend one connection this week with care and see how it responds."
+				],
+				"neutral": [
+					"In matters of the heart, {keyword} speaks of a sincere, unhurried start, with real curiosity about the other person and a willingness to learn.",
+					"{keyword} points to love expressed through steadiness and practical care rather than grand declarations.",
+					"{keyword} brings attention to how relationships are built: slowly, attentively, and through what people actually do for each other."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels uncertain, {keyword} reminds you that being new at something is not a failing. Pick one skill you want to strengthen and give it twenty minutes this week.",
+					"{keyword} suggests steadying yourself with the task right in front of you. You don't have to master the whole job; finish one piece well and let it count.",
+					"When you are worried about your place at work, {keyword} invites you to ask the question you've been too nervous to ask. Learning out loud is often welcomed more than you fear."
+				],
+				"curious": [
+					"{keyword} opens a lively question: what would you study if nobody were grading you? The answer may point toward work that suits you.",
+					"What if {keyword} is the real opportunity at work right now? A course, a mentor or a side project could teach you more than a new title.",
+					"{keyword} hints at craft. Which part of your work do you enjoy getting better at, purely for the satisfaction of it?"
+				],
+				"grieving": [
+					"Work may feel hollow after a loss, and {keyword} does not ask you to be ambitious. Small, familiar tasks can be a place to rest your attention.",
+					"{keyword} might simply mean learning how to work while carrying grief. That is a real skill, and you are allowed to be a beginner at it.",
+					"If your working life has shifted because of a loss, {keyword} can wait until you are ready. For now, doing the next small thing is plenty."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to skills and preparation. Which gap in your knowledge is actually holding you back, and what is the simplest way to close it?",
+					"Treat {keyword} as a prompt to plan rather than wish. Write down one concrete step toward the work you want, with a date beside it.",
+					"No mysticism required: {keyword} is about the slow, compounding effect of learning. An hour a week on one skill adds up faster than most people expect."
+				],
+				"hopeful": [
+					"{keyword} encourages you to treat your career as something still growing. Hope is reasonable here, especially when you keep feeding it with effort.",
+					"If you are hoping for a new direction, {keyword} suggests starting small and real: a conversation, a class, a sample of the work.",
+					"{keyword} invites you to be proud of progress that others may not see yet. Early work is still work, and it is yours."
+				],
+				"neutral": [
+					"At work, {keyword} speaks of study, apprenticeship and the early stages of building a skill or a venture.",
+					"{keyword} points to a practical, patient approach to ambition: learning the craft before expecting the reward.",
+					"{keyword} brings attention to openings that begin modestly and grow through diligence and care."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money worries are loud, {keyword} suggests learning one thing about your situation rather than trying to fix everything. Even looking clearly at one number is a step.",
+					"{keyword} reminds you that small, steady attention matters with money. One thing in your control today: note what you spent and how you felt about it.",
+					"When finances feel shaky, {keyword} invites curiosity in place of dread. What is one question about your money you could find an answer to this week?"
+				],
+				"curious": [
+					"{keyword} asks what you would like to understand better about money. Curiosity can make a dull subject surprisingly interesting.",
+					"What if {keyword} meant treating your resources as something to learn about rather than something to fear? Notice where your knowledge feels thin.",
+					"{keyword} hints at small beginnings. What modest thing could you build or grow simply to see how it develops?"
+				],
+				"grieving": [
+					"After a loss, money can become one more unfamiliar task, and {keyword} acknowledges that. You can learn it slowly, with help, one paper at a time.",
+					"{keyword} may feel out of place while you are grieving. It is all right to let practical matters wait a little, or to ask someone you trust to sit with you through them.",
+					"If a loss has left you handling things you never handled before, {keyword} honours how hard that is. Being new at it is not a failure."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to knowledge and habits around money. Which choice are you making on instinct that might benefit from a little reading or a second opinion?",
+					"Treat {keyword} as a prompt to look at small, repeated choices. The patterns you keep tend to matter more than any single decision.",
+					"No magic involved: {keyword} is about learning how your own money actually moves. A plain list of what comes in and what goes out is a good teacher."
+				],
+				"hopeful": [
+					"{keyword} suggests that security can be built from modest beginnings. Hope is reasonable here, as long as you are willing to be patient with it.",
+					"If you are hoping for more stability, {keyword} encourages you to value small steps. They are less exciting than windfalls but far more within reach.",
+					"{keyword} invites you to notice what you have already learned about looking after what you have. That knowledge is a resource too."
+				],
+				"neutral": [
+					"Around money, {keyword} speaks of learning, planning and small beginnings that could grow with care.",
+					"{keyword} points to a practical, studious approach to resources, value and exchange.",
+					"{keyword} brings attention to the early stage of building security: attention, curiosity and patience."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} suggests paying attention without alarm. Notice one thing that helps you feel steadier, like a glass of water or a short walk.",
+					"{keyword} invites a beginner's gentleness toward yourself. One small habit, kept for a week, is more than enough to start with.",
+					"When stress is high, {keyword} reminds you that you can learn what your body needs by listening. What is one thing it asked for today?"
+				],
+				"curious": [
+					"{keyword} poses a question: what would you like to learn about how your body feels at its best? Sleep, food, movement and rest each have something to teach.",
+					"What if {keyword} meant trying a new kind of movement just to see how it feels? Curiosity can make care feel less like a chore.",
+					"{keyword} hints at an experiment. Change one small routine for a week and notice, without judging, what shifts in your energy."
+				],
+				"grieving": [
+					"Grief lives in the body, and {keyword} may simply mean learning what comfort looks like now. Warm food and early nights count.",
+					"{keyword} does not ask for new goals while you are grieving. Being gentle with yourself is something you can practise slowly.",
+					"When loss has emptied you out, {keyword} might be as small as noticing when you are tired and letting yourself rest."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to the basics: sleep, movement, food and rest. Which one would be easiest to improve slightly this week?",
+					"Treat {keyword} as a prompt to observe rather than guess. A few days of noting how you feel can tell you more than any card.",
+					"No mysticism needed: {keyword} is about habits built slowly. Pick one, make it small enough to keep, and see what happens."
+				],
+				"hopeful": [
+					"{keyword} encourages you to treat self-care as a skill that grows. Small, steady attention to your body is a reasonable thing to put hope in.",
+					"If you are hoping to feel stronger, {keyword} suggests starting exactly where you are. A modest, regular habit often outlasts an ambitious one.",
+					"{keyword} invites you to notice the early signs that your efforts are helping. Seeing them makes the effort easier to keep."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} speaks of attentive, patient care and learning what your body responds to.",
+					"{keyword} points to healthy habits begun modestly and kept with care.",
+					"{keyword} highlights a grounded, curious relationship with your own energy and rest."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsettled, {keyword} suggests a grounded practice: something you can do with your hands, like tending a plant or cooking slowly.",
+					"{keyword} reminds you that meaning can live in ordinary things. Choose one small daily task and do it with full attention today.",
+					"When doubts crowd in, {keyword} invites you to be a student rather than an expert. You don't need answers yet, only one question you are willing to stay with."
+				],
+				"curious": [
+					"{keyword} asks what you would like to learn about your own beliefs. A book, a long walk or a good conversation could be the start.",
+					"What if {keyword} meant finding the sacred in the practical? Notice where you feel most present: at a desk, in a garden, at the stove.",
+					"{keyword} hints at a new practice taking root. What would you try if you gave yourself permission to be a beginner?"
+				],
+				"grieving": [
+					"{keyword} may feel distant when grief has shaken what you believe. It is all right to hold no answers and simply keep one small ritual.",
+					"After a loss, {keyword} might mean tending something living, a plant or a patch of earth, as a quiet way of staying connected.",
+					"Grief can make every belief feel unfamiliar, and {keyword} does not ask you to rebuild them quickly. Let yourself learn again slowly."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to everyday practice over big revelations. What habit actually helps you feel centred?",
+					"Treat {keyword} as a prompt: which of your beliefs have you tested in daily life, and which are you holding on trust alone?",
+					"No mystical claims needed: {keyword} is about attention and steady practice. Even ten quiet minutes a day is a form of study."
+				],
+				"hopeful": [
+					"{keyword} encourages a patient kind of inner growth. Hope can live in the small practice you return to each morning.",
+					"If you are hoping for deeper meaning, {keyword} suggests it may grow from what you already do, done with a little more care.",
+					"{keyword} invites you to trust slow growth. A seed underground is still growing, even when nothing shows yet."
+				],
+				"neutral": [
+					"In inner life, {keyword} speaks of grounded study, steady practice and the meaning found in everyday tasks.",
+					"{keyword} points to a beginner's openness paired with patient, practical devotion.",
+					"{keyword} brings attention to a spirituality rooted in the body, the earth and daily habit."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels uncertain, {keyword} suggests a manageable focus: one practical thing you can learn or do this week.",
+					"{keyword} reminds you that beginnings are allowed to be small. Make one plan concrete enough to start tomorrow morning.",
+					"When everything feels like too much, {keyword} invites you to narrow your attention to what is right in front of you. That is enough for today."
+				],
+				"curious": [
+					"{keyword} asks a question worth playing with: what are you a beginner at right now, and do you enjoy it?",
+					"What if {keyword} were the theme of this season? Learning something new could open doors you haven't noticed yet.",
+					"{keyword} hints at an idea ready to become real. What would its very first, very small version look like?"
+				],
+				"grieving": [
+					"{keyword} may feel far away while you are carrying a loss. Starting nothing new is a reasonable choice for now.",
+					"After a loss, {keyword} might mean learning, gently, how to arrange days that look different. There is no schedule for this.",
+					"{keyword} does not ask you to move forward. It only notes that small, practical tasks can offer a little steadiness while you grieve."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to study, planning and patient effort. Which of your goals has a plan, and which is still a wish?",
+					"Treat {keyword} as a prompt to turn one idea into a first step. What would that step cost you in time or money?",
+					"No mystery needed: {keyword} is about the gap between thinking and doing. Narrowing it by a single action is usually enough to notice a change."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign for something you are just beginning. Hope is honest here, as long as you keep tending it.",
+					"If you are hoping for change, {keyword} suggests it often starts as a modest, practical step rather than a leap.",
+					"{keyword} invites you to trust that learning builds on itself. What you begin now could grow in ways that are not visible yet."
+				],
+				"neutral": [
+					"{keyword} speaks of practical beginnings: study, opportunity and the first steps toward a tangible goal.",
+					"{keyword} points to a curious, diligent approach to building something real.",
+					"{keyword} brings attention to grounded potential that grows through patience and attention."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} seems stalled in love, it may be that plans keep being made and not kept. One thing in your control: follow through on one small promise yourself.",
+					"{keyword} may feel out of reach right now, perhaps because things are moving slowly. Slow is not the same as stopped; ask one clear question about where you stand.",
+					"When you worry that you are not enough, it may help to see {keyword} as something you are still growing into. You are allowed to be learning how to love well without being perfect at it."
+				],
+				"curious": [
+					"{keyword} might be stuck in daydream mode. What is one idea about love you keep imagining but never quite test?",
+					"What if {keyword} is being held back by a fear of looking inexperienced? Being openly new at something can be surprisingly attractive.",
+					"{keyword} feels unfocused here. Are you attending to the relationship you have, or to the one you think you ought to have?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible after a loss, and that is understandable. There is no need to begin again before you are ready.",
+					"If you have lost interest in {keyword}, be gentle with that. Grief uses up the energy that plans usually run on.",
+					"{keyword} can stay on the shelf for now. The things you were learning together are still part of you."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be stuck in talk. Is there a plan with someone that keeps being postponed? Naming it plainly may help.",
+					"{keyword} is a prompt about follow-through. Interest without effort tends to fade; where is that happening in your relationships?",
+					"Read plainly, {keyword} held back often comes down to distraction. How much of your attention goes to the person in front of you?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. Hope is reasonable if you're willing to take one concrete step instead of waiting.",
+					"If you are hoping for a fresh start in love, {keyword} encourages you to drop the idea that you must get it right the first time.",
+					"{keyword} might simply need more focus. A little consistent attention can revive something that seemed to stall."
+				],
+				"neutral": [
+					"In love, {keyword} can point to slow beginnings, unkept plans, or distraction getting in the way of closeness.",
+					"{keyword} appears blocked or delayed: interest that hasn't turned into effort, or effort that lacks direction.",
+					"{keyword} may be turned inward, asking whether insecurity about being inexperienced is holding you back."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} feels stalled at work, start with what you can manage: one small task finished today, then another tomorrow.",
+					"{keyword} may be blocked by a fear of not knowing enough. You don't have to learn everything before you begin; ask for one piece of guidance.",
+					"When progress feels slow, {keyword} can seem far off. Notice one skill you have improved this year, even a little, and give yourself credit for it."
+				],
+				"curious": [
+					"{keyword} might be scattered across too many interests. Which one would you choose if you could only follow one for a month?",
+					"What if {keyword} is waiting on a decision you keep postponing? Wonder what would happen if you made it small and made it soon.",
+					"{keyword} hints at learning that has stalled. What made you stop, and is that reason still true?"
+				],
+				"grieving": [
+					"{keyword} may be on pause because grief has taken your focus. That is not laziness; it is a heavy load to carry to work.",
+					"If a loss has stalled your plans at work, {keyword} can wait. Doing the minimum, kindly, is enough for now.",
+					"{keyword} might feel meaningless beside what you've lost. You can return to it later, or not, with no shame either way."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be stuck in planning without doing. What's one action that would move it forward this week?",
+					"{keyword} is a prompt about procrastination. Which task keeps slipping, and what exactly makes it hard to start?",
+					"Read plainly, {keyword} delayed often means the goal is fuzzy. Write down what you want from work in one sentence and see if it holds."
+				],
+				"hopeful": [
+					"{keyword} may be slower than you hoped, but slow progress is still progress. Keep one small habit going and let it accumulate.",
+					"If you are hoping for a new opening, {keyword} encourages you to prepare quietly so you are ready when one appears.",
+					"{keyword} might return once you narrow your focus. Choose the goal that matters most and give it your best hours."
+				],
+				"neutral": [
+					"At work, {keyword} can point to procrastination, a missed opening, or study that lacks follow-through.",
+					"{keyword} appears delayed or scattered: ambition without a plan, or a plan without action.",
+					"{keyword} may still be in an early stage, asking for patience and focus rather than leaps."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} feels out of reach with money, start very small: look at one figure honestly today, without judging yourself for it.",
+					"{keyword} may be blocked by avoidance. You could open the letter or check the balance with someone you trust sitting beside you.",
+					"When money feels like a test you are failing, {keyword} reminds you that nobody starts out knowing this. Learning now still counts."
+				],
+				"curious": [
+					"{keyword} raises a question: which money plan have you meant to start but haven't? What is the real obstacle?",
+					"What if {keyword} is stuck because the goal feels too far away? Try imagining a much smaller version of it.",
+					"{keyword} hints at a gap between interest and action. Where are you reading about money but not yet changing anything?"
+				],
+				"grieving": [
+					"{keyword} may feel beyond you while you grieve. It's all right if practical matters move slowly for a while.",
+					"If money tasks have piled up since your loss, {keyword} doesn't ask you to clear them all. One paper at a time is plenty.",
+					"{keyword} can be postponed. Ask for help with anything that truly can't wait, and let the rest be."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to unrealistic expectations or quick-win thinking. What would a slower, plainer approach look like?",
+					"{keyword} is a prompt about follow-through. Plans on paper rarely change much until they become a habit.",
+					"Read plainly, {keyword} held back can show up as spending on impulse while meaning to plan. Notice when that happens, and what you were feeling."
+				],
+				"hopeful": [
+					"{keyword} may be delayed, not denied. A modest, consistent step can restart momentum.",
+					"If you are hoping for more security, {keyword} encourages patience. Small beginnings are easier to keep than big promises.",
+					"{keyword} might return as you learn more. Every bit of understanding makes the next choice a little easier."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to procrastination, impulsive spending, or a plan that hasn't been acted on.",
+					"{keyword} appears stalled or unfocused: good intentions without the habits to support them.",
+					"{keyword} suggests looking at where learning about money has stopped short of action."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} feels stalled, you don't need a whole new routine. One small, kind act for your body today is enough.",
+					"{keyword} may be blocked by all-or-nothing thinking. A five-minute walk counts; so does an early night.",
+					"When you feel you've fallen behind on caring for yourself, {keyword} reminds you that starting again is always allowed."
+				],
+				"curious": [
+					"{keyword} poses a question: which healthy habit did you start with enthusiasm and then drop? What made it hard to keep?",
+					"What if {keyword} were simpler than you're making it? Try the smallest version you can imagine and see whether it sticks.",
+					"{keyword} might be scattered across too many plans. Which single change would you most like to feel the effects of?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible while you are grieving. Your body is carrying a lot; resting is a reasonable response.",
+					"If routines have slipped since your loss, {keyword} does not ask you to rebuild them now. Eat something warm and let that count.",
+					"{keyword} can wait. When you are ready, one gentle habit may be easier to hold than many."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to good intentions without follow-through. What makes your steadiest habit easy, and could you copy that?",
+					"{keyword} is a prompt about planning versus doing. Fewer plans and more small actions often work better.",
+					"Read plainly, {keyword} delayed usually means competing priorities. Which one is taking your energy at the moment?"
+				],
+				"hopeful": [
+					"{keyword} may simply need a smaller starting point. Hope is reasonable when the step is one you can actually take.",
+					"If you are hoping to feel better, {keyword} encourages patience with yourself while new habits settle in.",
+					"{keyword} might return as your energy does. Notice the days when it feels easier, and build from those."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to habits that haven't stuck, scattered effort, or a reluctance to begin.",
+					"{keyword} appears delayed or unfocused: care planned more than practised.",
+					"{keyword} suggests checking whether your expectations for yourself are realistic and kind."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} feels stuck in your inner life, choose one simple practice and do it for two minutes. That is a real start.",
+					"{keyword} may be blocked by worry about doing it wrong. There is no exam here; showing up is the whole lesson.",
+					"When you feel spiritually adrift, {keyword} reminds you to come back to something tangible: breath, ground, a cup of tea."
+				],
+				"curious": [
+					"{keyword} asks why a practice you were curious about never quite began. What would make it easier to try?",
+					"What if {keyword} is spread across too many paths? Following one for a while could teach you more.",
+					"{keyword} hints at reading and thinking without practising. What would happen if you did one thing instead of learning another?"
+				],
+				"grieving": [
+					"{keyword} may feel empty after a loss. You don't have to believe anything in particular right now.",
+					"If practices have lapsed since your grief began, {keyword} holds no judgement about that. They can be picked up again later.",
+					"{keyword} can wait while you mourn. Simply sitting outside for a while can be enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to collecting ideas without testing them. Which belief could you put to work this week?",
+					"{keyword} is a prompt about consistency. Inner habits, like any others, tend to fade without a regular time and place.",
+					"No mysticism required: {keyword} stalled usually reflects distraction. Where does your attention drift when you try to be still?"
+				],
+				"hopeful": [
+					"{keyword} may be in a quiet, early stage. Hope can live in returning to your practice even after missing days.",
+					"If you are hoping for growth, {keyword} encourages you to choose one path and walk it a little further.",
+					"{keyword} might return as your focus does. Let it be modest and real rather than impressive."
+				],
+				"neutral": [
+					"In inner life, {keyword} can point to lapsed practice, scattered seeking, or study without application.",
+					"{keyword} appears delayed or inward, asking for focus and grounded commitment.",
+					"{keyword} suggests looking at the gap between spiritual curiosity and daily practice."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} seems stuck, start with one small task you can finish today. Momentum can begin very quietly.",
+					"{keyword} may be blocked by a fear of beginning badly. Beginning badly is how almost everything begins.",
+					"When life feels stalled, {keyword} reminds you to look at what is within reach rather than what is far away."
+				],
+				"curious": [
+					"{keyword} asks which idea you keep circling without starting. What is the smallest experiment you could run?",
+					"What if {keyword} is waiting on a little more focus? Notice what pulls your attention away, and when.",
+					"{keyword} hints at plans that have outgrown your resources. Which one could you shrink to something doable?"
+				],
+				"grieving": [
+					"{keyword} may be on hold while you grieve. Not starting anything new is a valid choice.",
+					"If plans have stalled since your loss, {keyword} doesn't ask you to revive them. Let them rest.",
+					"{keyword} can return later, in whatever form makes sense then. For now, getting through the day is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to procrastination or unclear goals. Pick one goal and write down the very next step.",
+					"{keyword} is a prompt about follow-through. Where do your plans tend to stall, and why?",
+					"Read plainly, {keyword} held back often means too many ideas and too little time. Choosing one is the practical move."
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. A small, concrete action can get things moving again.",
+					"If you are hoping for a fresh start, {keyword} encourages patience with the early, clumsy stage.",
+					"{keyword} might simply need focus. Give one goal your steady attention and see what happens."
+				],
+				"neutral": [
+					"{keyword} can point to delays, procrastination, or openings that need more preparation.",
+					"{keyword} appears scattered or stalled: interest without action, or action without a plan.",
+					"{keyword} suggests checking whether your goals are realistic and whether you are giving them steady attention."
+				]
+			}
+		}
+	}
+}

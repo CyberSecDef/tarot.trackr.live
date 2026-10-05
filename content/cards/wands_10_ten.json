@@ -1,0 +1,412 @@
+{
+	"id": "wands_10_ten",
+	"name": "Ten of Wands",
+	"facets": [
+		{
+			"id": "burden",
+			"keywords": ["a heavy load", "a burden carried alone", "the weight of too much"]
+		},
+		{
+			"id": "responsibility",
+			"keywords": ["responsibility", "a duty taken on", "obligation"]
+		},
+		{
+			"id": "overcommitment",
+			"keywords": ["overcommitment", "a full plate", "a yes said too often"]
+		},
+		{
+			"id": "hard_work",
+			"keywords": ["hard work", "the effort of carrying on", "a task nearly done"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you feel you are holding a relationship together alone, {keyword} is worth naming. One thing in your control: ask for one specific kind of help this week.",
+					"{keyword} in love can make every small thing feel like too much. Put down one chore or worry tonight and let it wait until tomorrow.",
+					"When you are worried about letting someone down, {keyword} invites you to remember that love is meant to be shared work. Saying you're tired is not failing."
+				],
+				"curious": [
+					"{keyword} asks a curious question about love: which of your responsibilities to others did you choose, and which did you simply inherit?",
+					"What would happen if you set {keyword} down for a day and let someone close carry it instead? You might learn something about them, and about you.",
+					"{keyword} hints that care has tipped into carrying. What would a fairer share look like in your closest relationships?"
+				],
+				"grieving": [
+					"{keyword} may be heavier than ever while you grieve, especially if others are leaning on you. You are allowed to let some things drop.",
+					"When love has been lost, {keyword} can include everything they used to do. It is fine to ask others to pick up some of it.",
+					"{keyword} does not ask you to keep going for everyone. It may only mean noticing how much you are carrying, and being gentle about it."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about fairness. If you listed the household and emotional tasks in your relationship, who would have more?",
+					"Read plainly, {keyword} points to over-giving. Do the people you love know how much you are doing, or have you made it look easy?",
+					"No mystery needed: {keyword} describes the common pattern of one person absorbing everyone's needs. The useful question is what you could hand back."
+				],
+				"hopeful": [
+					"{keyword} may be nearly through its heaviest stretch. If you are hoping for relief in love, say plainly what would help.",
+					"If you are hoping a relationship can feel lighter, {keyword} suggests that sharing the load is the first step. Ask, and see who answers.",
+					"{keyword} invites you to trust that you can be loved without carrying everything. That is a reasonable thing to hope for."
+				],
+				"neutral": [
+					"In love, {keyword} points to responsibility, over-giving and the strain of carrying too much for others.",
+					"{keyword} highlights a relationship or family role that has grown heavy.",
+					"{keyword} asks how the weight in your closest bonds is shared, and whether that feels fair."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels like too much, {keyword} is a signal to pause, not a judgement on you. One thing in your control: list your tasks and mark one you could hand off or delay.",
+					"{keyword} at work can make it hard to see past the next deadline. Pick the single most important task and do only that for the next hour.",
+					"When you fear dropping something, {keyword} invites you to talk honestly with your manager or a colleague. Asking for help early is easier than late."
+				],
+				"curious": [
+					"{keyword} asks an interesting question: which of your work commitments still excite you, and which do you keep only out of habit?",
+					"What might {keyword} reveal about how you say yes? Notice the moment just before you agree to something new.",
+					"{keyword} hints that the end of a demanding stretch may be in sight. What would you most like to do once it is behind you?"
+				],
+				"grieving": [
+					"If you are grieving, {keyword} at work may feel unbearable. It is fine to ask for lighter duties or more time.",
+					"{keyword} can pile up while your mind is elsewhere. Let one trusted colleague know what you are carrying.",
+					"When a loss touches your working life, {keyword} may simply need to wait. Getting through the day is enough."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about capacity. If you added up the hours your commitments actually require, would they fit in your week?",
+					"{keyword} is a prompt to look at delegation. Which tasks are you doing because nobody else can, and which because nobody else has been asked?",
+					"Read practically, {keyword} asks whether your workload matches your role and pay. If not, that is a conversation worth having."
+				],
+				"hopeful": [
+					"{keyword} may be close to paying off. If you are hoping your effort will be worth it, keep going while protecting your energy.",
+					"If you are hoping for relief, {keyword} suggests the hardest part may be near its end. A little planning now can make the finish smoother.",
+					"{keyword} invites you to finish strong, then rest properly. Both parts matter."
+				],
+				"neutral": [
+					"At work, {keyword} points to heavy responsibility, long hours and the effort of carrying a big project.",
+					"{keyword} highlights a time when commitments may have outgrown your capacity.",
+					"{keyword} suggests weighing what you can realistically carry and what could be shared."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money responsibilities feel crushing, {keyword} is a reminder to take them one at a time. One thing in your control: list your obligations in order of due date.",
+					"{keyword} around money can feel endless. Choose one bill or task to handle today, and let that be enough.",
+					"When financial pressure is heavy, {keyword} invites you to ask for advice or support. Carrying it in silence makes it heavier."
+				],
+				"curious": [
+					"{keyword} poses an interesting question: which financial commitments are truly yours, and which have you taken on for others?",
+					"What might {keyword} look like if you simplified? Fewer accounts, fewer subscriptions, fewer moving parts.",
+					"{keyword} hints that a big financial effort may be nearing its end. What would you do with the breathing room?"
+				],
+				"grieving": [
+					"{keyword} may grow heavier after a loss, especially with new paperwork or costs. It is all right to ask for help.",
+					"If a loss has added to your financial burden, {keyword} can be met slowly. Most things can wait a little.",
+					"{keyword} does not ask you to handle everything right now. Protect the essentials and let the rest sit."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to review your obligations. Are you paying for things, or supporting people, beyond what you can sustain?",
+					"{keyword} raises a plain question: if you stopped one financial commitment tomorrow, which would you choose?",
+					"Read plainly, {keyword} points to over-extension. Write down every regular outgoing; the total is often a surprise."
+				],
+				"hopeful": [
+					"{keyword} may be nearly behind you. If you are hoping for more breathing room, keep going and plan for what comes after.",
+					"If you are hoping for relief, {keyword} suggests that shedding one commitment could make a real difference.",
+					"{keyword} invites you to see the finish line, even if you are not there yet."
+				],
+				"neutral": [
+					"Around money, {keyword} points to financial responsibility, obligations to others and the strain of over-extension.",
+					"{keyword} highlights how much you are carrying and whether it is sustainable.",
+					"{keyword} suggests reviewing your commitments and setting down what you can."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel weighed down, {keyword} is a reminder that you are only one person. One thing in your control: drop one task today and rest instead.",
+					"{keyword} can show up in tight shoulders and short sleep. Notice where you carry it, and let that part of you soften for a moment.",
+					"When you are worried about keeping everything going, {keyword} invites you to put your own care on the list. It belongs there."
+				],
+				"curious": [
+					"{keyword} asks an inviting question: where in your body do you feel your responsibilities most?",
+					"What would {keyword} look like if you treated rest as one of your duties? Try scheduling it like anything else.",
+					"{keyword} hints that you may be running on effort rather than energy. What would refuel you?"
+				],
+				"grieving": [
+					"Grief can make {keyword} feel twice as heavy. Resting, eating and accepting help are enough for now.",
+					"{keyword} may simply mean getting through the day while carrying a loss. Be gentle with yourself.",
+					"When you are grieving, {keyword} doesn't need to be carried perfectly. Let some of it wait."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about stress. How many hours this week did you spend on others' needs, and how many on your own?",
+					"{keyword} raises a plain question: are you getting enough rest to carry what you are carrying?",
+					"No mysticism needed: {keyword} points to the physical cost of overload. Which commitment, if dropped, would give you the most energy back?"
+				],
+				"hopeful": [
+					"{keyword} may be easing soon. If you are hoping to feel lighter, start by setting down one small thing.",
+					"If you are hoping for more energy, {keyword} suggests making rest a priority rather than a reward.",
+					"{keyword} invites you to notice how much you have been doing, and to be proud of it while you ease off."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to stress, fatigue and the strain of carrying too much for too long.",
+					"{keyword} highlights the toll responsibility can take on your energy.",
+					"{keyword} suggests checking whether your load leaves enough room for rest."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels heavy, {keyword} reminds you that you don't have to carry every question at once. Set one down for today.",
+					"{keyword} may come from a sense of duty that has stopped nourishing you. One small step: do one practice purely for its own sake.",
+					"When everything feels like an obligation, {keyword} invites you to rest in something simple, like a few slow breaths."
+				],
+				"curious": [
+					"{keyword} opens a question: which of your beliefs or practices feel like gifts, and which feel like weights?",
+					"What if {keyword} is asking you to let go of a responsibility that isn't truly yours?",
+					"{keyword} hints that you may be near the end of a long effort. What do you want to carry into the next part, and what can stay behind?"
+				],
+				"grieving": [
+					"{keyword} may feel especially heavy while you grieve. You don't have to make sense of it yet.",
+					"When loss has added to what you carry, {keyword} does not ask you to be strong. Leaning on others is a kind of practice too.",
+					"{keyword} can be very simple here: noticing the weight, and allowing yourself to rest beside it."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about obligation. Which commitments do you keep because they matter, and which out of guilt?",
+					"{keyword} needn't be mystical. It simply asks whether you are carrying other people's expectations of how you should believe.",
+					"Treat {keyword} as a prompt: if you could put down one duty without consequence, which would it be?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to trust that the heaviest part may be passing. Lighter days are a reasonable hope.",
+					"If you are hoping for peace, {keyword} suggests that letting go of one burden could make room for it.",
+					"{keyword} invites you to honour how much you have carried, and to imagine carrying less."
+				],
+				"neutral": [
+					"On the inner path, {keyword} points to duty, burden and the question of what is truly yours to carry.",
+					"{keyword} highlights a spirit weighed down by obligation.",
+					"{keyword} suggests examining which responsibilities nourish you and which drain you."
+				]
+			},
+			"general": {
+				"anxious": [
+					"Whatever you are facing, {keyword} is a sign you are doing a lot. One thing in your control: choose one thing to set down today.",
+					"{keyword} can make everything feel urgent. Take a breath and ask which task truly needs you right now.",
+					"When you feel you can't drop anything, {keyword} invites you to ask for help with one thing. You don't have to carry it all."
+				],
+				"curious": [
+					"{keyword} asks a playful question: if you could hand off one responsibility tomorrow, which would you choose, and to whom?",
+					"What might change if you treated {keyword} as information rather than a test of strength?",
+					"{keyword} hints that you may be closer to the end than you think. What would you do with your hands free?"
+				],
+				"grieving": [
+					"{keyword} may feel heavier than ever while you grieve. You are allowed to let things slide.",
+					"When you are carrying a loss, {keyword} can be too much on top of it. Ask someone to take one thing off your plate.",
+					"{keyword} doesn't ask you to keep going for everyone. It only notes, gently, that you are carrying a lot."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to audit your commitments. Write them all down and see what the list tells you.",
+					"{keyword} raises a useful question: which responsibilities have you taken on simply because no one else stepped forward?",
+					"There is nothing magic in {keyword}, only the ordinary strain of doing too much. What is one thing you could stop?"
+				],
+				"hopeful": [
+					"{keyword} is a sign that you may be close to finishing something hard. Hope is fair, as long as you look after yourself on the way.",
+					"If you are hoping for relief, {keyword} suggests it may come from sharing the load rather than pushing harder.",
+					"{keyword} invites you to see the end in sight and plan how you might rest once you get there."
+				],
+				"neutral": [
+					"{keyword} speaks of heavy responsibility, overcommitment and the strain of carrying too much.",
+					"In life as a whole, {keyword} points to a demanding stretch that may be nearing its end.",
+					"{keyword} brings attention to what you are carrying and whether it all needs to be yours."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you have started letting go of {keyword} in a relationship, that may feel strange or even guilty. One thing in your control: let one task go undone and see what happens.",
+					"{keyword} may be close to tipping over, and that is frightening. Tell someone close, simply and plainly, that you need help.",
+					"When you fear collapsing under it all, {keyword} can be shared. Pick one person and ask for one thing."
+				],
+				"curious": [
+					"{keyword} may be lifting. What would you like to do with the space it leaves in your relationships?",
+					"What if {keyword} has been something you held on to so you could feel needed? It could be worth wondering.",
+					"{keyword} hints at a question: who would step up if you stepped back?"
+				],
+				"grieving": [
+					"{keyword} may finally feel too heavy while you grieve. It is all right to put it down.",
+					"If {keyword} has been set aside since your loss, be gentle with yourself. Others can carry some of it now.",
+					"{keyword} can wait. When you are ready, you can choose what to pick back up."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be shifting. Is someone finally sharing the work, or are you starting to drop things without saying so?",
+					"{keyword} is a prompt about refusing help. If people offer and you always say no, they may stop offering.",
+					"Read plainly, {keyword} can point to resentment building from carrying too much. Naming it early is kinder than letting it leak out."
+				],
+				"hopeful": [
+					"{keyword} may be easing. If you are hoping for a lighter relationship, keep letting others in to help.",
+					"If you have been carrying too much, {keyword} could be shared more fairly now. Hope is reasonable when you ask clearly.",
+					"{keyword} might lift slowly. Each thing you set down makes the next one easier."
+				],
+				"neutral": [
+					"In love, {keyword} can point to releasing burdens, finally asking for help, or reaching a breaking point.",
+					"{keyword} appears lightened or overdone, asking whether you are sharing the load or still holding it all.",
+					"{keyword} may be shifting, inviting a fairer balance between you and the people you love."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If you feel close to burnout, {keyword} may be at its limit. One step in your control: tell your manager, today, which task needs to move.",
+					"{keyword} may finally be easing, and that can feel unsettling. You are allowed to enjoy having less to do.",
+					"When you fear dropping the ball, {keyword} can be handed over in pieces. Start with the smallest one."
+				],
+				"curious": [
+					"{keyword} may be lifting. What would you work on if you had more room?",
+					"What if letting go of {keyword} opens space for work you actually enjoy?",
+					"{keyword} hints at a question: why have you been holding on to tasks others could do?"
+				],
+				"grieving": [
+					"If you are grieving, {keyword} at work may simply need to be put down for now. That is allowed.",
+					"{keyword} may have become impossible since your loss. Colleagues can help more than you might expect.",
+					"When a loss touches your working life, {keyword} can wait. There is no project more important than taking care of yourself."
+				],
+				"skeptical": [
+					"Plainly, {keyword} may have reached a breaking point. What would it take to redistribute the work fairly?",
+					"{keyword} is a prompt about delegation. Are you refusing to hand things off out of perfectionism?",
+					"Treat {keyword} as a question about limits. Saying no now is cheaper than collapsing later."
+				],
+				"hopeful": [
+					"{keyword} may be easing. If you are hoping for a lighter workload, keep handing things off.",
+					"If you have been overloaded, {keyword} could lift with honest conversations. Hope is fair.",
+					"{keyword} might shift soon. Use any space it leaves to rest, not to take on more."
+				],
+				"neutral": [
+					"At work, {keyword} can point to delegating, letting go of tasks, or reaching burnout.",
+					"{keyword} appears released or overdone: either you are setting things down, or you have carried too much for too long.",
+					"{keyword} suggests reassessing your workload and what you can share."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If financial obligations have become too much, {keyword} may be at a turning point. One thing in your control: talk to someone you trust about one debt or bill.",
+					"{keyword} may be lightening, even if slowly. Notice one commitment that has ended or shrunk.",
+					"When you are close to your limit, {keyword} can be shared or restructured. You don't have to work it all out alone."
+				],
+				"curious": [
+					"{keyword} may be lifting. What would you do with a little more breathing room each month?",
+					"What if {keyword} includes things you could simply stop paying for?",
+					"{keyword} hints at a question: whose financial burdens are you carrying that aren't yours?"
+				],
+				"grieving": [
+					"{keyword} may feel overwhelming after a loss. It is all right to ask for help and to set some things aside.",
+					"If {keyword} has grown since your loss, let someone else help carry it.",
+					"{keyword} can be set down for now. Look after the essentials and let the rest wait."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be shifting. Which financial obligation could you end or reduce this month?",
+					"{keyword} is a prompt about refusing help. If support is offered, could you accept part of it?",
+					"Read plainly, {keyword} can point to over-extension reaching its limit. A clear list of outgoings is the first step."
+				],
+				"hopeful": [
+					"{keyword} may be easing. If you are hoping for financial relief, keep simplifying.",
+					"If you have been carrying too much, {keyword} could lighten as commitments end. Hope is reasonable.",
+					"{keyword} might shift as you let go of what isn't yours."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to releasing obligations, financial strain at its limit, or help finally accepted.",
+					"{keyword} appears lightened or overdone, asking what you can set down.",
+					"{keyword} suggests reviewing your commitments and letting go of some."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel close to your limit, {keyword} may be asking you to stop. One thing in your control: cancel one thing and rest.",
+					"{keyword} may be lifting, and your body might feel the difference. Let yourself notice it.",
+					"When you are worn out, {keyword} can be shared. Ask someone to take one task off your hands today."
+				],
+				"curious": [
+					"{keyword} may be easing. What does your body feel like with a little less on it?",
+					"What if letting go of {keyword} is the most caring thing you could do this week?",
+					"{keyword} hints at a question: what have you been carrying in your body that you could put down?"
+				],
+				"grieving": [
+					"Grief can make {keyword} unbearable. Rest is not giving up; it is care.",
+					"If {keyword} has been set aside since your loss, be gentle with yourself. Your energy is going where it is needed.",
+					"{keyword} can wait. When you are ready, small steps will be enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} can point to running past your limits. What would change if you dropped one commitment?",
+					"{keyword} is a prompt about rest. Are you treating it as optional while everything else is mandatory?",
+					"No mysticism here: {keyword} out of balance often means overload. Which part could you hand to someone else?"
+				],
+				"hopeful": [
+					"{keyword} may be lifting. Hope is reasonable, especially if you let yourself rest.",
+					"If you are hoping to feel lighter, {keyword} encourages setting things down one by one.",
+					"{keyword} could ease once you stop carrying it alone."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to releasing stress, reaching your limit, or learning to rest.",
+					"{keyword} appears lightened or overdone, asking where you need relief.",
+					"{keyword} suggests noticing what you can set down for your own sake."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels crushed, {keyword} may be ready to be released. One steady step: name one thing you no longer need to carry.",
+					"{keyword} may feel too heavy to keep holding. You can put it down for a while.",
+					"When duty has worn you thin, {keyword} invites you to lean on something larger than yourself."
+				],
+				"curious": [
+					"{keyword} may be lifting. What might grow in the space it leaves?",
+					"What if letting go of {keyword} is part of your path right now?",
+					"{keyword} hints at a question: what have you been carrying out of guilt rather than love?"
+				],
+				"grieving": [
+					"{keyword} may feel overwhelming while you grieve. That is not a failing; it is the weight of loss.",
+					"If grief has made {keyword} too much, be gentle with yourself. You can set it down.",
+					"{keyword} may simply need to rest. For now, honesty about how you feel is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to martyrdom, carrying weight because it feels virtuous. It is worth noticing.",
+					"{keyword} is a prompt to look at obligation. Which spiritual duties still mean something to you?",
+					"Read plainly, {keyword} can mean finally letting go of an inherited expectation. That can be freeing."
+				],
+				"hopeful": [
+					"{keyword} may be easing. The hope here is that you find more space for what nourishes you.",
+					"If you have been weighed down, {keyword} could lift as you let go. That is worth trusting.",
+					"{keyword} might lighten once you stop holding on so tightly."
+				],
+				"neutral": [
+					"On the inner path, {keyword} can point to release, spiritual exhaustion, or letting go of inherited duty.",
+					"{keyword} appears lightened or overdone, asking what you truly need to carry.",
+					"{keyword} suggests examining which burdens are yours and which you can release."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you feel at your limit, {keyword} may be asking to be set down. One thing in your control: let go of one task today.",
+					"{keyword} may be lifting, even if it doesn't feel like it yet. Notice one thing that has become lighter.",
+					"When you fear everything will fall apart, {keyword} can be shared. Ask one person for one thing."
+				],
+				"curious": [
+					"{keyword} feels a little off-kilter. What would you do with your hands free?",
+					"What if {keyword} has been a way to feel needed? It could be interesting to notice.",
+					"{keyword} hints at something to explore: what would happen if you said no?"
+				],
+				"grieving": [
+					"{keyword} may feel unbearable while you are grieving, and that is all right. You can set things down.",
+					"If loss has made {keyword} too heavy, let others help.",
+					"{keyword} may be set aside for a while. Some seasons are for resting."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be at a turning point: either finally shared or about to topple. Which is it?",
+					"{keyword} is a prompt about refusing help. What would it cost you to accept some?",
+					"Read plainly, {keyword} can point to burnout, letting go or delegating. None needs a mystical explanation, only attention."
+				],
+				"hopeful": [
+					"{keyword} may be easing. Hope is fair here, especially if you keep setting things down.",
+					"If you have been carrying too much, {keyword} encourages you to share it.",
+					"{keyword} might lift slowly. Each thing you let go makes room."
+				],
+				"neutral": [
+					"Overall, {keyword} can point to releasing burdens, delegating, or reaching a breaking point.",
+					"{keyword} appears lightened or overdone, asking you to notice what you can let go.",
+					"{keyword} suggests a chance to put down what isn't yours."
+				]
+			}
+		}
+	}
+}

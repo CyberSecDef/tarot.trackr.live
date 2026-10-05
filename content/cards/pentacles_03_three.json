@@ -1,0 +1,412 @@
+{
+	"id": "pentacles_03_three",
+	"name": "Three of Pentacles",
+	"facets": [
+		{
+			"id": "collaboration",
+			"keywords": ["collaboration", "a shared project", "teamwork"]
+		},
+		{
+			"id": "craftsmanship",
+			"keywords": ["craftsmanship", "skilled work", "attention to detail"]
+		},
+		{
+			"id": "learning",
+			"keywords": ["an apprenticeship", "a skill being learned", "growing expertise"]
+		},
+		{
+			"id": "recognition",
+			"keywords": ["recognition for good work", "a job well done"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If a relationship feels uncertain, {keyword} reminds you that love is built by two people, brick by brick. One thing you can do: ask what the other person needs from you this week.",
+					"{keyword} in love doesn't require getting everything right. Choose one small, practical thing to do together, like cooking a meal, and let that be the work for now.",
+					"When you worry about where things stand, {keyword} invites you to focus on what you are building rather than what might go wrong. Name one thing that is already working."
+				],
+				"curious": [
+					"{keyword} asks a playful question: what are you and the people you love building together, whether a home, a tradition or a running joke?",
+					"What if {keyword} were the most romantic thing in your week? Assembling furniture, planning a trip, fixing something side by side can say a great deal.",
+					"{keyword} hints that love can be a craft. Which skills of closeness, listening, apologising, making up, are you still learning?"
+				],
+				"grieving": [
+					"When you are missing someone, {keyword} may bring back what you once made together. It is all right to let those memories be tender.",
+					"{keyword} might simply mean letting others help you with practical things. Grief is not something you have to build your way through alone.",
+					"{keyword} can hold a kind of love too: finishing something someone started, or keeping a shared project going in their memory, only if and when you want to."
+				],
+				"skeptical": [
+					"Practically, {keyword} in love is about cooperation. Do you divide the work of the relationship in a way that feels fair to both of you?",
+					"Treat {keyword} as a prompt to look at how you solve problems together. Do you plan as a team, or does one person usually decide?",
+					"No mystery needed: {keyword} points to effort and skill in relationships. Good partnerships tend to be practised, not just felt."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign for love that grows through shared effort. Hope is well placed when both people are willing to work on it.",
+					"If you are hoping to grow closer, {keyword} suggests starting something together, however small. Shared goals often build shared trust.",
+					"{keyword} invites you to notice the care that has already gone into your relationships. Honouring that work can make room for more."
+				],
+				"neutral": [
+					"In love, {keyword} points to partnership built through effort, mutual respect and each person bringing their own skills.",
+					"{keyword} speaks of relationships as something made together, step by step, with attention and care.",
+					"{keyword} suggests that cooperation and appreciation may matter as much as passion right now."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels uncertain, {keyword} reminds you that you don't have to carry a project alone. One step in your control: ask a colleague for a quick second opinion.",
+					"{keyword} at work can feel like pressure to be excellent. Choose one piece of the task and do it carefully; that is how good work is usually made.",
+					"When you doubt your place on a team, {keyword} invites you to recall one thing you contributed recently. Write it down, so you have it to hand."
+				],
+				"curious": [
+					"{keyword} poses a question: who at work would you like to learn from, and what would it take to ask them?",
+					"What if {keyword} were your next step? Notice which projects make you feel most like part of something larger than your own desk.",
+					"{keyword} hints at the pleasure of doing something well. Which part of your job would you happily spend an afternoon perfecting?"
+				],
+				"grieving": [
+					"When you are carrying a loss, {keyword} at work may feel distant. Leaning on your team for a while is not a failure; it is what teams are for.",
+					"{keyword} might offer a little steadiness: a task you know how to do, done carefully, can give the day some shape.",
+					"If grief has touched your working life, {keyword} does not need to be your best right now. Doing what you can is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about roles and skills. Does everyone on your team know what they are responsible for, and do they have what they need?",
+					"Treat {keyword} as a prompt to check how feedback works where you are. Good work tends to improve fastest when it is reviewed early.",
+					"No mysticism required: {keyword} simply points to the value of planning with others before building. A short meeting now can save weeks later."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign at work. Hope is reasonable if you keep offering your skills and stay open to what others bring.",
+					"If you are hoping to be noticed, {keyword} suggests letting your work speak and also mentioning it. Quiet excellence still benefits from a word.",
+					"{keyword} invites you to trust the process of getting better at something. Mastery is built in ordinary days."
+				],
+				"neutral": [
+					"In your working life, {keyword} points to cooperation, competence and work shaped by several skilled hands.",
+					"{keyword} speaks of skill put to use, learning from others and contributing to something lasting.",
+					"{keyword} suggests that planning, feedback and steady effort may matter most right now."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money is a worry, {keyword} reminds you that skills have value. One step in your control: write down what you can do that others might pay for or trade for.",
+					"{keyword} doesn't have to happen overnight. Choose one practical task, like comparing a single bill, and do it carefully.",
+					"When finances feel shaky, {keyword} invites you to ask for advice from someone who knows. A short conversation can make a number less frightening."
+				],
+				"curious": [
+					"{keyword} poses a question: where does your income really come from, your hours, your skill, or the people you work with?",
+					"What if {keyword} were a new way of thinking about value? Notice what you are paid for versus what you are genuinely good at.",
+					"{keyword} hints at money earned through craft. Is there a skill you've let lie unused that could be part of your picture again?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may feel very far away, and money matters can be hard to face. Let someone with practical know-how help you with one task.",
+					"{keyword} might simply mean leaning on people who understand the paperwork. You don't have to work it all out yourself.",
+					"If a loss has changed your circumstances, {keyword} can wait. Doing only what is essential is a reasonable plan."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about the link between skill and income. Are you paid fairly for what you actually do?",
+					"Treat {keyword} as a prompt to check shared financial arrangements. Are responsibilities in a household or partnership clear and fair?",
+					"No prediction here: {keyword} simply points to careful planning. Sketching out costs before starting something usually saves money."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign if you are building something step by step. Hope is reasonable when it rests on real effort.",
+					"If you are hoping for more security, {keyword} suggests that growing a skill or pooling knowledge could help over time.",
+					"{keyword} invites you to value your own work. Knowing its worth is a useful place to start any money conversation."
+				],
+				"neutral": [
+					"Around money, {keyword} points to earning through skill, careful planning and working well with others.",
+					"{keyword} speaks of resources built steadily, through effort that is valued and shared.",
+					"{keyword} suggests that competence and cooperation may matter more than luck right now."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} reminds you that care is often a team effort. One small step in your control: tell one trusted person how you are really doing.",
+					"{keyword} invites you to approach your habits like a craft, one small practice at a time. Choose one, and do it with care today.",
+					"When stress is high, {keyword} suggests leaning on others for practical help. A shared walk or a meal cooked together lightens the load."
+				],
+				"curious": [
+					"{keyword} poses a question: what would you most like to learn about looking after yourself, and who might teach you?",
+					"What if {keyword} applied to rest and movement? Notice which routines feel well made, and which were thrown together.",
+					"{keyword} hints at building habits with others. Which activity would be more enjoyable with a friend or a group?"
+				],
+				"grieving": [
+					"Grief lives in the body, and {keyword} may simply mean letting others help with meals and errands. That is a kind of care.",
+					"{keyword} need not ask anything of you right now. Small, familiar habits, done slowly, are enough.",
+					"When you are grieving, {keyword} might be the people around you quietly keeping things running. Let them."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about building habits step by step. Which routine have you been trying to perfect before starting?",
+					"Treat {keyword} as a prompt to ask for input. People who know you well often notice what you don't.",
+					"No mysticism needed: {keyword} simply points to steady practice. Habits improve with repetition, not inspiration."
+				],
+				"hopeful": [
+					"{keyword} encourages you to keep building care into your days. Hope is reasonable if you are patient with the process.",
+					"If you are hoping to feel stronger, {keyword} suggests joining others in something active, a class, a walking group, a regular game.",
+					"{keyword} invites you to notice how far your habits have come. Small gains count."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to care built steadily, through practice, learning and support from others.",
+					"{keyword} speaks of habits made with attention and shared with people who help you keep them.",
+					"{keyword} suggests patience and cooperation in how you look after yourself."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsteady, {keyword} reminds you that practice can be shared. One step in your control: join others in a quiet moment, even online.",
+					"{keyword} invites you to treat spiritual growth as something learned slowly. Choose one simple practice and do it today.",
+					"When your mind races, {keyword} suggests focusing on the work of your hands. Careful, steady tasks can calm the spirit."
+				],
+				"curious": [
+					"{keyword} poses a question: who has taught you most about what matters, and what did they do rather than say?",
+					"What if {keyword} were a spiritual path? Work done with care can become a kind of devotion.",
+					"{keyword} hints at community practice. Which gatherings, groups or traditions help you feel part of something larger?"
+				],
+				"grieving": [
+					"In grief, {keyword} may mean letting a community hold you. You don't need to practise alone.",
+					"{keyword} need not bring answers. Sometimes the most meaningful thing is to keep making something with your hands.",
+					"When loss has shaken your sense of meaning, {keyword} may simply be people who show up. Let them be enough."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is a nudge toward learning from others. What practices or ideas have you dismissed without trying?",
+					"Treat {keyword} as a prompt: do you have anyone to talk with about meaning and values, beyond your own head?",
+					"No mystical claim here: {keyword} suggests that reflection improves with discipline and good company."
+				],
+				"hopeful": [
+					"{keyword} encourages you to keep building your inner life step by step. Hope is welcome in steady practice.",
+					"If you are hoping to grow, {keyword} suggests finding a teacher, a group or a book that challenges you.",
+					"{keyword} invites you to trust slow mastery. Inner growth rarely arrives all at once."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to growth through practice, learning and shared effort.",
+					"{keyword} speaks of meaning found in work done well and in community with others.",
+					"{keyword} suggests that discipline and cooperation may support your inner life right now."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels uncertain, {keyword} reminds you that you don't have to build everything alone. One step in your control: ask one person for help with one thing.",
+					"{keyword} invites you to focus on doing one thing well. Choose it, and let the rest wait.",
+					"When worry pulls you forward, {keyword} brings you back to the task in your hands. Careful work can be steadying."
+				],
+				"curious": [
+					"{keyword} opens a question: what are you building right now, and who is building it with you?",
+					"What if {keyword} were already in your life, waiting to be noticed? Look at the small things you do well.",
+					"{keyword} hints at a skill or project that could grow with others' help. What would you build with the right team?"
+				],
+				"grieving": [
+					"When you are carrying a loss, {keyword} may feel out of reach. Let others carry some of the load for a while.",
+					"{keyword} might simply be the people who help keep your days running. That is worth accepting.",
+					"{keyword} can wait. Doing small things with care is enough right now."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to cooperation and planning. Who needs to be involved for your goal to work?",
+					"Treat {keyword} as a prompt to ask for feedback. Others often spot gaps you can't see.",
+					"No forecasting here: {keyword} simply suggests that skill and teamwork tend to beat luck."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign. Hope is reasonable when it rests on shared effort and real skill.",
+					"If you are hoping to make progress, {keyword} suggests building it with others, step by step.",
+					"{keyword} invites you to honour the work already done. Recognising it can give you energy for what comes next."
+				],
+				"neutral": [
+					"Overall, {keyword} points to cooperation, skill and steady effort toward something worth making.",
+					"{keyword} speaks of building with others, learning as you go and doing work that lasts.",
+					"{keyword} suggests that planning and teamwork may matter most right now."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} in love feels out of sync, you can begin with one honest question. Ask what the other person thinks you are building together.",
+					"{keyword} may be strained, with one person carrying more. One thing in your control: say, calmly, which task you'd like to share.",
+					"When {keyword} seems to be missing, try not to assume the worst. A relationship can wobble without falling apart."
+				],
+				"curious": [
+					"{keyword} may be stalled. Are you working toward the same thing, or quietly building different houses?",
+					"What if {keyword} has been overlooked? When did you last thank someone close to you for the effort they put in?",
+					"{keyword} seems blocked here. Is one of you trying to do it all, or waiting for the other to begin?"
+				],
+				"grieving": [
+					"{keyword} may have fallen away since your loss. It is all right to let others carry what you can't.",
+					"If {keyword} feels like something you can no longer share with someone, that is a real grief. Give it room.",
+					"{keyword} can wait until you are ready. Nothing needs to be rebuilt right now."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be failing because roles aren't clear. Who does what, and does it feel fair?",
+					"Treat {keyword} as a prompt to check for unspoken resentment. Effort that goes unrecognised tends to sour.",
+					"Read plainly, {keyword} might be about mismatched goals. A frank talk about plans is often the quickest fix."
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. Hope is reasonable if both people are willing to try.",
+					"If {keyword} has been strained, a small shared project could help you find your rhythm again.",
+					"{keyword} could grow again with a little appreciation. Naming what the other person does well is a good start."
+				],
+				"neutral": [
+					"In love, {keyword} may be out of balance: poor cooperation, unrecognised effort or different goals.",
+					"{keyword} appears blocked, with partners pulling in different directions or one doing most of the work.",
+					"{keyword} suggests checking whether you are truly working together."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} at work feels strained, start with one clear conversation. One step in your control: confirm who owns the task in front of you, so you are not quietly carrying someone else's share.",
+					"{keyword} may be going unrecognised right now, and that can sting. Write down one thing you did well this month, for your own record rather than anyone's approval.",
+					"When {keyword} breaks down, try not to take the whole problem on yourself. Flag what is slipping early and plainly; that is a contribution too."
+				],
+				"curious": [
+					"{keyword} may be stalling. Does everyone involved actually share the same picture of what you are building, or has each person been working from their own sketch?",
+					"What if {keyword} has been held back by perfectionism? Sometimes good enough, shared early for feedback, beats flawless work shown too late to change.",
+					"{keyword} seems blocked here. Who is missing from the conversation who ought to be in it, and who is in it who doesn't need to be?"
+				],
+				"grieving": [
+					"During grief, {keyword} at work may falter. Let your team know roughly what you can manage, and let the rest go for now without apology.",
+					"If {keyword} feels hollow since your loss, that is understandable. Work that once felt satisfying can feel flat for a while; doing the essentials is enough.",
+					"{keyword} can wait until you have more to give. The skills you have built are not lost because you are resting them."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be failing because the plan is vague. Can everyone involved say, in one sentence, what done looks like?",
+					"Treat {keyword} as a prompt to look at how credit and effort are shared on your team. Uneven loads rarely stay quiet for long.",
+					"Read plainly, {keyword} might point to skills that don't match the role yet. Training, pairing or redistributing tasks is usually cheaper than struggling on."
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than denied. Hope is reasonable if you keep improving your craft and keep asking for honest feedback.",
+					"If {keyword} has been overlooked, a short, factual note about what you've contributed could change how your work is seen.",
+					"{keyword} could return with better coordination. One well-run meeting where everyone agrees on the plan can reset a struggling team."
+				],
+				"neutral": [
+					"In your working life, {keyword} may be blocked by poor teamwork, rushed effort or contributions that go unnoticed.",
+					"{keyword} appears out of sync, with goals misaligned between people or skills still developing.",
+					"{keyword} suggests revisiting roles, plans and feedback before pressing on."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} around money feels stalled, focus on one small thing. One step in your control: check that you are being paid correctly for what you do.",
+					"{keyword} may feel unrewarded right now. Name one skill you have that has real value, whether or not it is being paid for yet.",
+					"When {keyword} breaks down in shared finances, a calm conversation usually helps more than silence."
+				],
+				"curious": [
+					"{keyword} poses a question: are you undervaluing your work, or being undervalued by others?",
+					"What if {keyword} has been held back by doing everything yourself? Some costs shrink when shared.",
+					"{keyword} seems blocked. Is a joint money plan missing a step everyone assumed someone else would take?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may feel impossible. Let someone with practical skills help with one task.",
+					"If {keyword} has slipped since your loss, that is understandable. Only the essentials need attention now.",
+					"{keyword} can wait. Be gentle with yourself about what you can manage."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be failing because nobody owns the plan. Who is responsible for which bill?",
+					"Treat {keyword} as a prompt to check whether you are charging or being paid what the work is worth.",
+					"Read plainly, {keyword} might be about cutting corners. Rushed work often costs more to put right."
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. Hope is reasonable if you keep valuing your work.",
+					"If {keyword} has gone unrecognised, a clear conversation about pay or shared costs could help.",
+					"{keyword} could grow again with better planning. One honest review can reset things."
+				],
+				"neutral": [
+					"Around money, {keyword} may be blocked: undervalued work, poor coordination or plans that lack follow-through.",
+					"{keyword} appears out of sync, with effort and reward not lining up.",
+					"{keyword} suggests revisiting who does what, and what the work is really worth."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} in looking after yourself has stalled, start smaller than feels worthwhile. One step in your control: a short walk today, with no distance or pace to hit.",
+					"{keyword} may feel unsupported right now, as if you have to work it all out alone. Tell one person what you'd like help with, however small it seems.",
+					"When {keyword} slips, try not to judge yourself. Notice one habit that is still holding, a glass of water, a regular bedtime, and keep that one going."
+				],
+				"curious": [
+					"{keyword} poses a question: are you trying to build every healthy habit alone when company would make some of them easier and more fun?",
+					"What if {keyword} has been held back by perfectionism? A rough, imperfect version of a routine, done often, tends to beat a perfect one done rarely.",
+					"{keyword} seems blocked. Which routine feels like a chore rather than something you take pride in, and what would make it feel more like your own?"
+				],
+				"grieving": [
+					"{keyword} may fall away during grief, and that is all right. Resting, eating something and getting through the day are a full day's work.",
+					"If the routines you built have slipped since your loss, {keyword} can wait. They are not undone; they are paused.",
+					"{keyword} doesn't need rebuilding yet. Let the people around you help with meals, errands or simply sitting with you."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be failing because the plan isn't realistic for your actual week. What is the smallest version you would genuinely do?",
+					"Treat {keyword} as a prompt to get a second perspective. Someone who knows you well may spot what keeps tripping you up.",
+					"Read plainly, {keyword} might be suffering from rushing. Habits built slowly, one at a time, tend to hold better than a full overhaul."
+				],
+				"hopeful": [
+					"{keyword} may be delayed, not gone. Hope is reasonable if you rebuild one habit at a time and let each one settle before adding the next.",
+					"If {keyword} has stalled, joining a class, a group or a friend could make starting again feel lighter.",
+					"{keyword} could grow again with patience. Notice the small gains, a better night, a calmer morning, and let them count."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} may be blocked by isolation, perfectionism or habits that were put together too quickly.",
+					"{keyword} appears out of sync, with care lacking the support or structure it needs to last.",
+					"{keyword} suggests rebuilding steadily, ideally with others alongside you."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} in your inner life feels stalled, start with one small practice you already know. A minute of quiet, done today, is a real beginning.",
+					"{keyword} may feel lonely right now, as if no one shares what matters to you. One step in your control: reach out to one person whose values you trust.",
+					"When {keyword} feels blocked, try turning to a task with your hands, mending, baking, tidying a drawer. Careful work can quiet a restless mind."
+				],
+				"curious": [
+					"{keyword} poses a question: are you trying to grow entirely alone when a teacher, a book or a group might show you something new?",
+					"What if {keyword} has been held back by not wanting to be a beginner again? There is a freedom in not already knowing how.",
+					"{keyword} seems blocked here. Which practice has started to feel hollow, and what would make it feel honest again?"
+				],
+				"grieving": [
+					"In grief, {keyword} may fall away, and practices that once held you may feel empty. That is understandable; let simple things hold you for now.",
+					"If your community has felt distant since your loss, {keyword} can wait. You can reach out again when you are ready, and not before.",
+					"{keyword} doesn't need to be rebuilt yet. Being gentle with yourself is its own kind of practice."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be failing because there is no structure for reflection in your week. A fixed time, however short, often helps more than motivation.",
+					"Treat {keyword} as a prompt to ask whether your practice is something you chose and learned, or something you simply inherited and never examined.",
+					"Read plainly, {keyword} might be about going it alone. Other people's perspectives tend to sharpen your own, even when you disagree."
+				],
+				"hopeful": [
+					"{keyword} may be delayed, not gone. Hope is reasonable if you keep practising, even in small and imperfect ways.",
+					"If {keyword} has stalled, a new teacher, group or tradition could help you find your footing and your curiosity again.",
+					"{keyword} could grow again with patience and good company. Inner growth is rarely a solo project."
+				],
+				"neutral": [
+					"Spiritually, {keyword} may be blocked by isolation, lack of guidance or practice that has lost its depth.",
+					"{keyword} appears out of sync, with growth stalled by working alone or without structure.",
+					"{keyword} suggests seeking teachers, community or a steadier rhythm of practice."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} feels stalled, start with one clear step rather than the whole plan. One thing in your control: ask one person for their honest input this week.",
+					"{keyword} may be going unrecognised right now, which can be discouraging. Write down one thing you have done well recently and keep the note somewhere you'll see it.",
+					"When {keyword} breaks down, try not to carry the whole thing yourself. Naming the problem early, to the right person, is often the most useful move."
+				],
+				"curious": [
+					"{keyword} poses a question: are you building something alone that would go better, or simply feel better, with others involved?",
+					"What if {keyword} has been held back by perfectionism? Sometimes finished and shared is worth more than flawless and hidden.",
+					"{keyword} seems blocked here. Is everyone involved working toward the same thing, or only assuming they are?"
+				],
+				"grieving": [
+					"When you are grieving, {keyword} may fall away. Let others carry what you can't, and leave unfinished things unfinished for now.",
+					"If {keyword} feels empty since your loss, that is understandable. What once felt satisfying may feel flat for a while.",
+					"{keyword} can wait until you are ready. Nothing you have learned or built is lost by resting."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be failing because roles or plans aren't clear. Could each person involved say what they are responsible for?",
+					"Treat {keyword} as a prompt to check whether effort is being recognised and shared fairly. Imbalance tends to show up as friction.",
+					"Read plainly, {keyword} might be suffering from rushed or careless work. Slowing down at the planning stage usually saves time later."
+				],
+				"hopeful": [
+					"{keyword} may be delayed, not denied. Hope is reasonable if you keep improving and keep asking for feedback.",
+					"If {keyword} has gone unnoticed, a clear, unshowy word about your contribution could help others see it.",
+					"{keyword} could return with better coordination and a little patience. One honest conversation can realign a lot."
+				],
+				"neutral": [
+					"Overall, {keyword} may be blocked by poor teamwork, unrecognised effort or skills still developing.",
+					"{keyword} appears out of sync, with goals and efforts pulling in different directions.",
+					"{keyword} suggests revisiting plans, roles and feedback before pushing on."
+				]
+			}
+		}
+	}
+}

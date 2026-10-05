@@ -1,0 +1,412 @@
+{
+	"id": "pentacles_09_nine",
+	"name": "Nine of Pentacles",
+	"facets": [
+		{
+			"id": "self_sufficiency",
+			"keywords": ["self-sufficiency", "independence", "standing on your own feet"]
+		},
+		{
+			"id": "earned_comfort",
+			"keywords": ["earned comfort", "the fruit of your own labour", "a well-tended life"]
+		},
+		{
+			"id": "self_worth",
+			"keywords": ["self-worth", "quiet confidence", "a sense of your own value"]
+		},
+		{
+			"id": "refinement",
+			"keywords": ["refinement", "simple luxury", "pleasure in the finer things"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are worried about a relationship, {keyword} reminds you that you are whole on your own. One small step: do one thing today purely because you enjoy it, no one else required.",
+					"{keyword} suggests that your worth does not rise and fall with someone else's attention. Write down three things you value about the life you have made.",
+					"When love feels uncertain, {keyword} invites you to come back to your own ground. You can care deeply about someone and still keep your own steady centre."
+				],
+				"curious": [
+					"{keyword} asks an interesting question about love: what does your life look like when it is fully your own, and who would you want to share it with?",
+					"What if {keyword} were the most attractive thing about you? People are often drawn to someone at ease in their own company.",
+					"{keyword} hints at the pleasure of being complete before being partnered. What would you want a relationship to add, rather than fill?"
+				],
+				"grieving": [
+					"When you are missing someone, {keyword} may feel lonely rather than comforting. It is all right to wish you were not on your own right now.",
+					"{keyword} can mean slowly making the home and the days your own again. There is no timetable for that, and no need to enjoy it yet.",
+					"Grief can make {keyword} feel like something forced on you. Let it be a quiet place to rest, rather than a place you have to be strong."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about independence in relationships. Do you have your own friends, interests and resources, apart from any partner?",
+					"Read {keyword} as a plain question: are you choosing someone, or needing them? Both are human, but they lead to different kinds of relationships.",
+					"No mystery is needed: {keyword} points to the fact that people who feel secure in themselves tend to relate more freely. Where do you feel secure, and where not?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign for love. If you are hoping for a relationship, building a life you enjoy may draw people who fit it.",
+					"If you are hoping for more closeness, {keyword} suggests you have much to offer. Let yourself believe that before anyone else confirms it.",
+					"{keyword} invites a confident kind of hope: love that adds to a good life rather than rescues it."
+				],
+				"neutral": [
+					"In love, {keyword} speaks of self-assurance, independence and a life that feels full on its own terms.",
+					"{keyword} points to being comfortable alone and choosing company freely. It asks how secure you feel in yourself within your relationships.",
+					"{keyword} brings attention to the self you bring into love: grounded, self-respecting and at ease."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels uncertain, {keyword} reminds you of what you have already achieved by your own effort. One small step: write down three things you made happen this year.",
+					"{keyword} suggests you have more independence at work than worry lets you feel. Choose one decision today that is yours to make, and make it calmly.",
+					"When you doubt your position, {keyword} invites you to rest in your skills and track record. They are still yours, whatever happens around you."
+				],
+				"curious": [
+					"{keyword} asks a lively question: what would your working life look like if you designed it entirely around what you value?",
+					"What if {keyword} were your measure of success, rather than titles or praise? Notice which parts of your work make you feel most self-assured.",
+					"{keyword} hints at the reward of your own effort. Which achievement are you quietly proudest of, even if no one else noticed?"
+				],
+				"grieving": [
+					"If you are mourning a job or a working identity, {keyword} may feel hard to reach. What you built there still belongs to you.",
+					"{keyword} can mean slowly finding your footing again after a loss at work. There is no need to rush into the next role.",
+					"When work holds grief, {keyword} does not ask you to feel accomplished. It is enough to know that your effort over the years was real."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is about professional independence. How dependent are you on one employer, client or manager? It is worth knowing.",
+					"Treat {keyword} as a prompt: do you take time to enjoy what your work has earned, or does every gain immediately become the next target?",
+					"Plainly put, {keyword} points to confidence built on evidence. Keep a record of what you achieve; it is useful on hard days and in negotiations."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign at work. If you are hoping for recognition or autonomy, the groundwork you have laid may be paying off.",
+					"If you are hoping to work on your own terms, {keyword} suggests that independence is a real possibility worth exploring carefully.",
+					"{keyword} invites you to enjoy the results of your effort. Hope is reasonable when it rests on work you have actually done."
+				],
+				"neutral": [
+					"At work, {keyword} points to independence, accomplishment and enjoying what your effort has earned.",
+					"{keyword} speaks of professional confidence and self-direction. It asks how much control you have over your working life.",
+					"{keyword} highlights the satisfaction of standing on your own achievements."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money is a worry, {keyword} reminds you of what you have managed on your own so far. One small step: note one way you have kept yourself afloat before.",
+					"{keyword} suggests your security may rest on more than you think. Make a short list of what you have, in skills, resources and support, and read it slowly.",
+					"When finances feel uncertain, {keyword} invites you to find comfort in small, affordable pleasures. Security is partly a feeling you can tend."
+				],
+				"curious": [
+					"{keyword} raises a thoughtful question: what does enough look like for you? Not more, not less, just enough to feel at ease.",
+					"What if {keyword} were how you thought about spending? Notice which small comforts bring real pleasure and which are just habit.",
+					"{keyword} hints at the reward of your effort. When did you last enjoy something you earned without feeling guilty about it?"
+				],
+				"grieving": [
+					"Money can feel heavy after a loss, and {keyword} may seem far away. There is no need to make any big decisions while you grieve.",
+					"{keyword} may touch on suddenly managing alone. Take one small task at a time, and let someone help if they offer.",
+					"If a loss has changed your circumstances, {keyword} gently notes that small comforts are still allowed, even now."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about financial independence. How long could you manage on your own resources if something changed?",
+					"Treat {keyword} as a reminder to enjoy what you have earned within your means. Security without any enjoyment can feel like deprivation.",
+					"No mystery here: {keyword} points to the satisfaction of self-reliance. What would make you feel more financially at ease, in plain numbers?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image for money. If you are hoping for more security, the discipline you have shown may be bearing fruit.",
+					"If things are improving, {keyword} invites you to pause and appreciate it. A modest treat can mark progress without undoing it.",
+					"{keyword} suggests that comfort earned through your own effort is possible. Hope is reasonable here, alongside steady habits."
+				],
+				"neutral": [
+					"Around money, {keyword} points to financial independence, earned comfort and enjoying the results of discipline.",
+					"{keyword} speaks of self-reliance and the pleasure of a life you have built. It asks how secure you feel on your own resources.",
+					"{keyword} highlights the balance between saving and savouring what you have."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} suggests coming back to what you know steadies you. One thing you can do today: a small comfort, like a warm bath or a slow walk.",
+					"{keyword} reminds you that you have looked after yourself before. Choose one familiar routine that helps and keep it this week.",
+					"When stress is high, {keyword} invites you to treat yourself with the care you would offer someone you respect. Rest is part of that."
+				],
+				"curious": [
+					"{keyword} poses an interesting question: what does your body enjoy, purely for pleasure? Sunlight, good food, a garden, stillness?",
+					"What might {keyword} look like as self-care? Building a daily rhythm that feels luxurious in small ways.",
+					"{keyword} hints that time alone can be restoring. How does your energy change after a quiet afternoon of your own?"
+				],
+				"grieving": [
+					"Grief lives in the body, and {keyword} may simply mean letting yourself be comfortable: soft clothes, warm food, early nights.",
+					"{keyword} may feel lonely while you grieve. It is all right to want company as well as rest.",
+					"When you are carrying loss, {keyword} does not ask you to be strong. Small comforts are allowed, without needing to earn them."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to self-care you choose for yourself. Are your habits built around what actually helps you, or around what you think you should do?",
+					"{keyword} is a plain prompt about rest and reward. Do you let yourself enjoy downtime, or only allow it once everything is done?",
+					"No mystical reading needed: {keyword} asks how much your wellbeing depends on your own routines versus other people's schedules."
+				],
+				"hopeful": [
+					"{keyword} encourages you to enjoy the care you put into yourself. Energy often lifts when comfort is part of the routine.",
+					"If you are hoping to feel stronger, {keyword} suggests the habits you have kept may be serving you well. Notice the small signs.",
+					"{keyword} invites you to make your days a little more pleasurable. Hope grows in comfortable soil."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to self-care, comfort, independence and enjoying the results of good habits.",
+					"{keyword} highlights how pleasure and rest fit into your routines.",
+					"{keyword} suggests paying attention to the comforts that help you feel at ease in your body."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsteady, {keyword} reminds you that you have your own resources. One small step: sit quietly somewhere you love for a few minutes.",
+					"{keyword} suggests you can trust your own inner sense more than you think. Write down one thing you know to be true for you.",
+					"When you feel spiritually unmoored, {keyword} invites you to return to a simple practice that is entirely yours."
+				],
+				"curious": [
+					"{keyword} asks an intriguing question: what would a spiritual life designed entirely by you look like?",
+					"What if {keyword} were a form of gratitude? Enjoying what you have, slowly and fully, is a practice in many traditions.",
+					"{keyword} hints at a garden of your own. What inner qualities have you cultivated that now feel like home?"
+				],
+				"grieving": [
+					"{keyword} may feel lonely in grief. Your inner life can hold you, but it is all right to also need others.",
+					"When you have lost someone, {keyword} can mean slowly finding your own way of remembering them. There is no right way.",
+					"{keyword} does not ask you to find peace yet. It only notes that you have inner ground to rest on when you are ready."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about self-trust. Whatever you believe, it helps to know your own values without needing them confirmed.",
+					"Treat {keyword} as a prompt: do you take time to appreciate your life, or does your mind always move to what is missing?",
+					"No mystical claim is needed. {keyword} simply asks whether your inner life is something you tend for yourself."
+				],
+				"hopeful": [
+					"{keyword} encourages you to enjoy the inner growth you have worked for. Hope is easier from a place of self-respect.",
+					"If you are hoping for a deeper sense of peace, {keyword} suggests it may already be closer than you think, in the life you have built.",
+					"{keyword} invites a grounded kind of hope, rooted in your own experience rather than borrowed belief."
+				],
+				"neutral": [
+					"On the inner path, {keyword} points to self-trust, gratitude and the peace that comes from a life well tended.",
+					"{keyword} speaks of inner independence and appreciation. It asks how at home you feel in your own spirit.",
+					"{keyword} highlights the quiet rewards of discipline and the pleasure of simply being where you are."
+				]
+			},
+			"general": {
+				"anxious": [
+					"Whatever is worrying you, {keyword} reminds you of what you have already built. One small step in your control: name one thing in your life that is steady.",
+					"{keyword} suggests you have more inner resources than worry admits. Take a moment to recall a time you managed something difficult on your own.",
+					"When life feels uncertain, {keyword} invites you to enjoy one small comfort today. Steadiness can start there."
+				],
+				"curious": [
+					"{keyword} opens a playful question: what would a perfectly ordinary, perfectly pleasant day look like for you?",
+					"What if {keyword} were the theme of your month? Notice which parts of your life feel fully yours.",
+					"{keyword} hints at the reward of effort. What have you earned that you have not yet let yourself enjoy?"
+				],
+				"grieving": [
+					"{keyword} may feel lonely while you grieve. It is all right to want people around you rather than independence.",
+					"When you are carrying loss, {keyword} can simply mean small comforts. Let them in without needing to earn them.",
+					"{keyword} can feel strange in grief. There is no hurry to rebuild anything; resting in what remains is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about independence. In which parts of your life do you stand on your own, and where do you lean?",
+					"Treat {keyword} as a check-in: do you enjoy what you have worked for, or keep postponing it?",
+					"No mystery here: {keyword} is about self-respect. Pick one area of your life and ask whether it reflects your values."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image. If you are hoping for a good outcome, the effort you have put in may already be bearing fruit.",
+					"If things are going well, {keyword} invites you to enjoy it fully. You don't have to wait for the next goal.",
+					"{keyword} suggests hope rooted in self-trust. Keep tending your life, and let yourself enjoy it as you go."
+				],
+				"neutral": [
+					"Overall, {keyword} speaks of independence, earned comfort and self-respect.",
+					"{keyword} points to enjoying the results of your effort and feeling at home in your own life.",
+					"{keyword} highlights self-reliance, refinement and the satisfaction of a life well tended."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} feels shaky right now and you find yourself leaning heavily on someone, that is understandable. One step you control: do one small thing today that is just for you.",
+					"{keyword} may have tipped into keeping everyone at arm's length. Let one trusted person a little closer this week, even with something small.",
+					"When {keyword} feels out of reach, it is easy to measure yourself by how others treat you. Name one quality you value in yourself, regardless of anyone else."
+				],
+				"curious": [
+					"{keyword} might be blocked or overdone here. Are you so independent that there is no room for anyone, or so reliant that you have lost your own shape?",
+					"What if {keyword} reversed is asking whether you are trying to impress rather than connect? It could be interesting to notice what you show and what you hide.",
+					"{keyword} feels a little hollow here. Does your life look good from the outside but feel lonely from the inside?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible right now, after losing someone who was part of how you saw yourself. That is a real loss, and it takes time.",
+					"If you are suddenly on your own after a loss, {keyword} can feel like a weight rather than a freedom. There is no need to make peace with it quickly.",
+					"Grief can make {keyword} feel far away. Leaning on others for a while is not a failure of strength; it is part of being human."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance. Financial or emotional dependence in a relationship can limit choices. Do you have room to stand on your own if you needed to?",
+					"{keyword} is a prompt to check for performance. Are you putting energy into looking successful for someone rather than being close to them?",
+					"Read plainly, {keyword} reversed often means fierce self-reliance that keeps people out. When did you last ask for help in love?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping to feel secure in love, rebuilding your own footing is a hopeful first step.",
+					"If you have been depending on someone too much, {keyword} encourages you to reclaim one area of independence. Hope grows with confidence.",
+					"{keyword} could return once you stop proving yourself. Hoping for that is fair, especially if you let yourself be seen as you are."
+				],
+				"neutral": [
+					"In love, {keyword} can point to over-dependence, isolation dressed as independence, or self-worth tied to a partner's approval.",
+					"{keyword} appears blocked or overdone: needing someone too much, or keeping everyone at a distance.",
+					"{keyword} may be delayed or turned inward, asking you to look at how secure you feel in yourself within your relationships."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} at work feels shaky, perhaps after a setback, that is unsettling but not the full story. One step you control: list the skills no one can take from you.",
+					"{keyword} may feel out of reach if you rely heavily on one job or one person's approval. Choose one small way to widen your options this month.",
+					"When {keyword} slips, overworking to prove yourself is tempting. Set a limit on your hours this week and notice that your value does not drop."
+				],
+				"curious": [
+					"{keyword} might be hollow here. Does your career look impressive but feel unsatisfying? It could be worth asking what success means to you now.",
+					"What if {keyword} reversed is asking whether you are working too hard to enjoy anything you earn? Where did the rest go?",
+					"{keyword} feels a little off-balance. Are you too dependent on others at work, or too unwilling to accept help?"
+				],
+				"grieving": [
+					"{keyword} may feel lost after a setback or ending at work. Your worth was never only in your job, even if it feels that way today.",
+					"If a loss has shaken your professional confidence, {keyword} may be part of what you are grieving. That deserves time.",
+					"Grief can make {keyword} at work seem distant. You don't have to perform confidence right now; getting through the day is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance: overworking with no time to enjoy the results, or relying on one source of income or approval.",
+					"{keyword} is a prompt to check for status-chasing. Are you pursuing a role because you want it, or because of how it looks?",
+					"Read plainly, {keyword} reversed often means self-worth tied to productivity. What would you be proud of if you produced nothing this week?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping to feel secure at work again, steady, independent steps can rebuild it.",
+					"If you have been over-reliant on others at work, {keyword} encourages you to develop one skill or contact of your own. Hope grows with options.",
+					"{keyword} could return once you let yourself rest. Hoping for that is reasonable; confidence often comes back with energy."
+				],
+				"neutral": [
+					"At work, {keyword} can point to setbacks, overwork, dependence on others, or success that looks good but feels empty.",
+					"{keyword} appears blocked or overdone: proving yourself at all costs, or losing your footing after a change.",
+					"{keyword} may be delayed at work, asking you to look at where your sense of value really comes from."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} with money feels shaken, perhaps after a setback, that is hard but not final. One step you control: write down exactly what you have now, plainly.",
+					"{keyword} may feel out of reach if you depend on someone else financially. Choose one small step toward understanding your own position.",
+					"When {keyword} turns into spending to feel better, worry can follow. Before spending on something extra this week, notice what feeling you hope it will change."
+				],
+				"curious": [
+					"{keyword} raises an interesting question: do the things you spend on make you feel secure, or just look secure?",
+					"What if {keyword} reversed is about scarcity even when there is enough? Notice whether you can let yourself enjoy anything.",
+					"{keyword} feels a little hollow here. Is money being used to fill a gap that it cannot actually fill?"
+				],
+				"grieving": [
+					"{keyword} may feel lost after a loss, especially if finances were shared. It is all right to take time before making sense of it.",
+					"If you are newly responsible for money you never managed, {keyword} may feel daunting. Asking for help is a sensible step, not a weakness.",
+					"{keyword} can wait. Meeting basic needs is enough while you grieve."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to overspending on appearances, financial dependence, or working so hard there is no time to enjoy anything.",
+					"{keyword} is a prompt to check for status spending. Which purchases in the last month were for you, and which were for how you look to others?",
+					"Read plainly, {keyword} reversed often means relying on one source of support. How exposed would you be if it changed?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed while you rebuild. That pause is sensible, and hoping for steadier ground is reasonable.",
+					"If you have been depending on others, {keyword} encourages small steps toward your own footing. Each one counts.",
+					"{keyword} could return in a more grounded form. Hoping for that is fair, especially if you focus on comfort rather than display."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to setbacks, over-dependence, spending for show, or difficulty enjoying what you have.",
+					"{keyword} appears blocked or overdone: luxury that feels empty, or security that leaves no room for pleasure.",
+					"{keyword} may be delayed, asking you to look at whether your resources truly support the life you want."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} has slipped and you feel you are not looking after yourself well, start very small. One thing in your control tonight: an earlier bedtime.",
+					"{keyword} may feel out of reach when you are overworking. Choose one pleasure this week that has nothing to do with productivity.",
+					"When {keyword} turns into isolation, stress can build quietly. Reach out to one person, even with a short message."
+				],
+				"curious": [
+					"{keyword} poses a question: are you indulging to feel better, or resting to feel better? They can look alike and feel very different.",
+					"What would {keyword} look like if it were less about appearances and more about how you feel inside?",
+					"{keyword} might be turned inward. Does too much time alone leave you rested, or restless?"
+				],
+				"grieving": [
+					"{keyword} may feel beyond you while you grieve. Accepting care from others is not a loss of independence.",
+					"If you have stopped looking after yourself since your loss, {keyword} gently says that is understandable. One small comfort is enough for today.",
+					"{keyword} can wait. For now, letting others bring food or company is its own kind of care."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means overwork with no reward, or comfort habits that tire you more than they help. Which is closer?",
+					"{keyword} is a prompt about isolation. Long stretches alone can affect energy and mood. How is your balance at the moment?",
+					"No mysticism here: {keyword} out of balance usually means too little rest or too much indulgence. Which way are you leaning?"
+				],
+				"hopeful": [
+					"{keyword} may be paused while you regain your footing. Hope is reasonable here; small comforts can rebuild energy over time.",
+					"If you are hoping to feel better, {keyword} encourages you to accept a little help. Independence can include being supported.",
+					"{keyword} could find a healthier form, with real rest and fewer quick fixes. Hoping for that is fair."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to overwork, isolation, comfort habits that drain you, or neglecting your own needs.",
+					"{keyword} appears out of balance: too much self-reliance, or too much indulgence. It asks you to look honestly at both.",
+					"{keyword} suggests checking whether your routines truly restore you or simply fill the time."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} feels shaky, set aside comparing your inner life with anyone else's today. One small step: notice one thing you are grateful for, however small.",
+					"{keyword} may feel out of reach when you lean on others for answers. Try one quiet moment of asking yourself what you think.",
+					"When {keyword} slips, spiritual life can feel like something you lack. Let one ordinary pleasure be enough for today."
+				],
+				"curious": [
+					"{keyword} might be hollow here. Is your inner life about how it appears, or how it feels?",
+					"What if {keyword} reversed is asking whether material comfort has replaced meaning? It could be worth wondering what feeds you most.",
+					"{keyword} feels a little isolated. Has independence become a way of avoiding community?"
+				],
+				"grieving": [
+					"{keyword} may feel empty while you grieve. That emptiness is not a spiritual failing.",
+					"If you feel unmoored since your loss, {keyword} gently says it is all right to borrow others' faith or comfort for a while.",
+					"{keyword} can rest for now. Grief does not need to be handled alone or well."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed may point to finding meaning mainly in possessions or status. Neither is wrong, but neither tends to last.",
+					"{keyword} is a prompt about self-reliance taken too far. Do you ever let anyone help you think through what matters?",
+					"Read plainly, {keyword} reversed can mean difficulty enjoying anything. When did you last let yourself feel content?"
+				],
+				"hopeful": [
+					"{keyword} may be on hold while you rebuild. The hope here is that you could return to yourself with more ease.",
+					"If you have felt spiritually adrift, {keyword} encourages you to reconnect with simple pleasures. Meaning often grows there.",
+					"{keyword} could find a truer form once comparison eases. Hoping for that is fair."
+				],
+				"neutral": [
+					"On the inner path, {keyword} can point to materialism, isolation, self-doubt or an inability to enjoy what you have.",
+					"{keyword} appears blocked or overdone: independence that keeps others out, or comfort that has replaced meaning.",
+					"{keyword} may be delayed or turned inward, inviting you to look at where your sense of value comes from."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} feels shaky, perhaps after a setback, that is unsettling but not the whole picture. One step in your control: list what still stands.",
+					"{keyword} may feel out of reach when you lean heavily on others. Choose one small task to do entirely on your own this week.",
+					"When {keyword} turns into overwork, worry can grow. Take one pleasant break today with nothing to show for it."
+				],
+				"curious": [
+					"{keyword} feels a little hollow. Does your life look good from outside but feel thin from inside? That gap is worth exploring.",
+					"What if {keyword} reversed is about the balance of independence and connection? Which do you have too much of right now?",
+					"{keyword} might be turned inward. What would you enjoy if you did not have to justify it?"
+				],
+				"grieving": [
+					"{keyword} may feel lost after a loss, especially if you built your life alongside someone. That takes time to absorb.",
+					"If you are suddenly on your own, {keyword} can feel like a weight. It is all right to lean on others for a while.",
+					"{keyword} can wait. There is no need to feel strong or self-sufficient while you grieve."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance: over-dependence, overwork, or comfort sought in spending. Which applies to you?",
+					"{keyword} is a prompt to check for appearances. Is anything in your life mostly there to impress?",
+					"Read plainly, {keyword} reversed often means not enjoying what you have. When did you last stop and appreciate something you earned?"
+				],
+				"hopeful": [
+					"{keyword} may simply be delayed. If you are hoping to feel secure again, small independent steps can rebuild it.",
+					"If you have been overworking, {keyword} encourages you to enjoy something now. Hope grows when there is room for pleasure.",
+					"{keyword} could return in a more grounded form. Hope is reasonable here, especially if you focus on what truly matters to you."
+				],
+				"neutral": [
+					"Overall, {keyword} can point to setbacks, over-dependence, hollow success or difficulty enjoying what you have.",
+					"{keyword} appears blocked or overdone: independence that isolates, or comfort pursued for show.",
+					"{keyword} may be delayed or turned inward, asking you to look at where your sense of security really comes from."
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,416 @@
+{
+	"id": "wands_03_three",
+	"name": "Three of Wands",
+	"facets": [
+		{
+			"id": "expansion",
+			"keywords": ["expansion", "a broader reach", "growth beyond familiar ground"]
+		},
+		{
+			"id": "foresight",
+			"keywords": ["foresight", "a view from higher ground", "a long look ahead"]
+		},
+		{
+			"id": "progress",
+			"keywords": ["progress", "early momentum", "a plan in motion"]
+		},
+		{
+			"id": "awaited_return",
+			"keywords": [
+				"something sent out into the world",
+				"a ship on its way in",
+				"the wait for results"
+			]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you're waiting to hear how someone feels, {keyword} suggests you've already done your part. Let the message you sent be enough for today, and turn your attention to something kind for yourself.",
+					"{keyword} in love can mean living with not-knowing for a while. One thing in your control: how you spend the waiting, so fill one evening with people who steady you.",
+					"When a relationship is stretching into new territory, {keyword} may feel exposing. You can take it one conversation at a time instead of mapping the whole road."
+				],
+				"curious": [
+					"{keyword} asks a wide-open question about love: what might your relationships look like if they had more room to roam?",
+					"What could {keyword} mean between you and someone else? Perhaps travel together, a long-distance bond, or simply growing into new parts of each other.",
+					"{keyword} hints that your heart is looking past the horizon. Who or what is out there that you'd like to meet?"
+				],
+				"grieving": [
+					"{keyword} may feel strange when part of you is still looking back. It's all right to stand at the edge and simply watch for a while.",
+					"When love has been lost, {keyword} doesn't ask you to move on. It may only mean noticing that the world is still wide, whenever you're ready.",
+					"{keyword} can hold grief too: someone far away you wish were near, a return you're still hoping for. Let that longing be what it is."
+				],
+				"skeptical": [
+					"Practically, {keyword} in love is a prompt to look at the long view. Are the small choices you make now leading toward what you actually want?",
+					"{keyword} needs no magic to make sense. Relationships grow when both people make room for change; is there room in yours?",
+					"Read plainly, {keyword} is about patience after effort. You've put something out there; the honest question is how long you're willing to wait."
+				],
+				"hopeful": [
+					"{keyword} is a hopeful sign to carry into love. What you've invested may be starting to come back to you, so keep your eyes open.",
+					"If you're hoping a relationship can grow, {keyword} encourages you to imagine it bigger, then take one step toward that larger picture.",
+					"{keyword} invites you to trust the effort you've already made. Results aren't promised, but you've given love a real chance."
+				],
+				"neutral": [
+					"In love, {keyword} points to growth, patience after effort, and a relationship stretching into new ground.",
+					"{keyword} speaks of looking ahead together. It asks where you'd like your closest bonds to go next.",
+					"{keyword} suggests a time of waiting with confidence, after you've already reached out or committed."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If you're waiting on news at work, {keyword} reminds you that the effort is already in. One small thing in your control: note what you'd do next whichever way it goes.",
+					"{keyword} at work can feel exposed, especially when results aren't in yet. Keep doing the next ordinary task well; that's steadier than refreshing your inbox.",
+					"When a project is out of your hands, {keyword} invites you to rest in what you did right. Write down three things you're proud of in it."
+				],
+				"curious": [
+					"{keyword} asks a big question about work: what would your role look like if it reached beyond your current team, city or field?",
+					"What might {keyword} open up? A collaboration abroad, a client you'd never thought to approach, a market just past the one you know.",
+					"{keyword} hints that the view from where you stand has widened. What can you see now that you couldn't a year ago?"
+				],
+				"grieving": [
+					"If you're mourning something at work, {keyword} may feel out of step with how you feel. You can keep things moving gently without needing to feel ambitious.",
+					"{keyword} may arrive while you're still grieving, and that can feel strange. Both can be true: the work goes on, and so does the loss.",
+					"When a loss touches your working life, {keyword} can wait. Let others carry some of the forward motion for a while."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to check whether your current plans can scale. What would break first if things grew?",
+					"{keyword} isn't luck; it's the stage after effort when you watch what comes back. What are the early signals telling you?",
+					"Read plainly, {keyword} asks whether you're thinking far enough ahead. What will you need in six months that you could start on now?"
+				],
+				"hopeful": [
+					"{keyword} suggests your groundwork may be paying off. Keep an eye out for the openings it creates.",
+					"If you're hoping to grow at work, {keyword} encourages you to aim a little further than feels safe, while keeping your footing.",
+					"{keyword} invites you to trust the momentum you've built. Nothing is promised, but you've positioned yourself well."
+				],
+				"neutral": [
+					"At work, {keyword} points to expansion, plans in motion, and early results from earlier effort.",
+					"{keyword} highlights foresight and growth in your working life. It asks how far you want to reach.",
+					"{keyword} suggests a time to watch, wait and prepare for what your efforts bring back."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If you're waiting for money to arrive, {keyword} reminds you to keep your footing in the meantime. One step in your control: plan for the gap, however modestly.",
+					"{keyword} around money can feel nerve-wracking when results are slow. Look at what you already have and let that be your ground for today.",
+					"When you've invested time or resources, {keyword} can bring worry. Note when you'll next check in on it, and set it down until then."
+				],
+				"curious": [
+					"{keyword} raises an interesting money question: is there a way to grow your resources beyond where you usually look?",
+					"What could {keyword} look like if you thought of your savings as a voyage with a destination?",
+					"{keyword} hints at returns on past effort. What have you planted that might be ready to look at again?"
+				],
+				"grieving": [
+					"After a loss, {keyword} with money may feel too much to think about. Keeping things steady is enough for now.",
+					"{keyword} may bring practical matters while you're grieving. It's all right to ask for time, or for help with the details.",
+					"When your circumstances have changed, {keyword} can wait. There's no need to expand anything right now."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to measure returns. Is what you've invested actually paying back, and how would you know?",
+					"{keyword} needs no mysticism: growth usually follows planning and time. Do you have a realistic timeline in mind?",
+					"Read plainly, {keyword} asks whether you're planning for the long term or reacting month to month."
+				],
+				"hopeful": [
+					"{keyword} suggests effort you've put in may be starting to return. Keep watching, and keep your expectations grounded.",
+					"If you're hoping for growth, {keyword} encourages you to think a little longer-term than usual.",
+					"{keyword} invites you to trust a plan that's already moving. Results aren't certain, but patience gives them room."
+				],
+				"neutral": [
+					"Around money, {keyword} points to growth, returns on investment, and long-range planning.",
+					"{keyword} speaks of expansion in your resources. It asks how far ahead you're looking.",
+					"{keyword} suggests a period of waiting for results after you've already made your move."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you're waiting to feel better, {keyword} suggests trusting the care you've already given yourself. One gentle thing for today: rest without guilt.",
+					"{keyword} can feel slow in the body. Notice one small improvement, even a tiny one, and let it count.",
+					"When you're worried, {keyword} invites you to look a little further ahead than today. How would you like to feel next month, and what one habit points that way?"
+				],
+				"curious": [
+					"{keyword} asks a curious question: what would it feel like to stretch a little further, in movement or in rest?",
+					"What could {keyword} add to your routines? A longer walk, a new landscape, a little more air and space around you.",
+					"{keyword} hints at growth in your energy. Where do you notice it, and what seems to feed it?"
+				],
+				"grieving": [
+					"Grief can make the body feel heavy, and {keyword} may seem far away. Rest is a reasonable plan for now.",
+					"{keyword} might simply mean looking out at the horizon for a moment. A wide view can be gentle on a tired heart.",
+					"When you're carrying a loss, {keyword} doesn't ask you to do more. Small comforts are enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to look at habits over months rather than days. What trend do you notice?",
+					"{keyword} needs no mystical reading: changes in energy often take time to show. Are you giving yours enough time?",
+					"Read plainly, {keyword} asks whether your routines can stretch to fit a busier life, or need room built in."
+				],
+				"hopeful": [
+					"{keyword} encourages you to trust the care you've been giving yourself. Results may be quietly building.",
+					"If you're hoping to feel stronger, {keyword} suggests patience and a longer view.",
+					"{keyword} invites you to stretch a little, gently, and see how your body responds."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to steady growth, patience, and a longer view of your habits.",
+					"{keyword} highlights energy building over time. It asks how far you'd like to stretch.",
+					"{keyword} suggests a time to trust routines already in place and watch for their effects."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels uncertain, {keyword} suggests you've already taken steps. Sit with what you've learned so far before reaching for more.",
+					"{keyword} on the inner path can feel like standing on a cliff. Breathe; the view is wide, but you only need to take in what's in front of you.",
+					"When you're unsure, {keyword} invites you to trust the practice you've already begun."
+				],
+				"curious": [
+					"{keyword} asks an expansive question: what traditions, places or ideas lie just past the edge of what you know?",
+					"What could {keyword} reveal if you travelled, even in your imagination, to a new way of seeing?",
+					"{keyword} hints that your inner life is growing. Where do you feel it stretching?"
+				],
+				"grieving": [
+					"{keyword} may feel far off while you grieve. It's all right if your inner world feels narrow for now.",
+					"When loss has shaken your sense of meaning, {keyword} doesn't ask you to look ahead. Being where you are is enough.",
+					"{keyword} can be as quiet as looking at the sky for a while. That kind of looking is a practice too."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is a prompt to notice how your beliefs have changed over time. What's grown, and what's fallen away?",
+					"{keyword} needs no faith. It's a question about perspective: are you seeing your life from close up or far away?",
+					"Treat {keyword} as a question about patience: what reflective habit have you kept long enough to see results?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to keep exploring. Inner growth often widens slowly, then all at once.",
+					"If you're hoping for deeper understanding, {keyword} suggests looking beyond familiar sources.",
+					"{keyword} invites you to trust that what you've practised is still working beneath the surface."
+				],
+				"neutral": [
+					"On the inner path, {keyword} points to widening perspective, patience, and growth beyond the familiar.",
+					"{keyword} speaks of looking outward from a place of steadiness. It asks where you'd like to explore.",
+					"{keyword} suggests a time when earlier practice begins to bear fruit."
+				]
+			},
+			"general": {
+				"anxious": [
+					"Whatever you're waiting on, {keyword} reminds you that you've already done something. One thing in your control: how you treat yourself while you wait.",
+					"{keyword} may bring nerves along with possibility. Focus on the next step only, not the whole horizon.",
+					"When the outcome isn't in yet, {keyword} invites you to look at what's steady right now. That's solid ground."
+				],
+				"curious": [
+					"{keyword} opens a roomy question: if you could see your life from a hilltop, what would you notice?",
+					"What might {keyword} look like if you let yourself reach a little further than usual?",
+					"{keyword} hints that something you started is already moving. What's coming back to you?"
+				],
+				"grieving": [
+					"{keyword} may feel distant while you're carrying a loss. It's all right to stay close to home for now.",
+					"When you're grieving, {keyword} doesn't need you to look far ahead. Today is enough.",
+					"{keyword} can be very gentle: a glance at the horizon, a sense that the world is still wide."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to check your plans against reality. What's working, and what needs adjusting?",
+					"{keyword} isn't fate; it's the phase after effort when you watch for results. What signals are you seeing?",
+					"Read plainly, {keyword} asks whether you're thinking far enough ahead to be ready for what's coming."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image. What you've set in motion may be starting to come back.",
+					"If you're hoping for growth, {keyword} suggests you've already laid the groundwork. Keep looking ahead.",
+					"{keyword} invites you to trust your effort and stay open. Nothing is promised, but momentum is real."
+				],
+				"neutral": [
+					"{keyword} speaks of expansion, foresight and the patience of waiting for results.",
+					"In life as a whole, {keyword} points to plans in motion and a widening view.",
+					"{keyword} brings attention to the space between effort and outcome."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If a relationship seems slower to grow than you hoped, {keyword} may simply be taking its time. One thing in your control: enjoy one ordinary evening together, or alone, without measuring it against where you thought you'd be.",
+					"{keyword} may feel held up by distance, whether in miles or in feeling. Send one warm, clear message, then let it rest instead of checking for a reply.",
+					"When {keyword} seems stuck in love, it's easy to read silence as an answer. Before deciding anything, ask yourself what you actually know, and what you're filling in."
+				],
+				"curious": [
+					"{keyword} might be turning inward in love. What would you like to grow in yourself before you ask a relationship to grow?",
+					"What if {keyword} has stalled because one of you is looking far ahead and the other is happy where you are? It could be worth comparing horizons.",
+					"{keyword} seems to be waiting at the dock. What would help a relationship, or your own heart, feel ready to set out?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible while you're grieving, and looking far ahead can wait. Staying close to familiar comfort is allowed.",
+					"If {keyword} stopped when your loss began, that pause makes sense. Love doesn't need to stretch toward anything new right now.",
+					"{keyword} can carry its own ache when you're waiting for someone who can't come back. Be gentle with the part of you that still watches the horizon."
+				],
+				"skeptical": [
+					"Practically, {keyword} held up in love often comes down to mismatched timing. Have you each said out loud how fast you'd like things to move?",
+					"{keyword} is a prompt to check whether you're waiting on something that actually needs you to act. What would you do if you stopped waiting?",
+					"Read plainly, {keyword} stalling can mean keeping a relationship small because small feels safe. Is that still what you want?"
+				],
+				"hopeful": [
+					"{keyword} may simply be slow. If you're hoping for something to grow, steady attention and honest talk tend to help more than pushing.",
+					"If {keyword} feels delayed, hope is still fair. A small shared plan, even a weekend, can give it somewhere to go.",
+					"{keyword} could arrive in its own time. Meanwhile, keep tending what's already good between you."
+				],
+				"neutral": [
+					"In love, {keyword} can point to delays, distance, or a relationship that isn't yet ready to move into new ground.",
+					"{keyword} appears held back, asking whether timing, fear or differing hopes are keeping things where they are.",
+					"{keyword} suggests frustration with the pace of a relationship, or hopes that would benefit from a clearer shared plan."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If results at work are slow to arrive, {keyword} can feel like a test of nerve. One thing in your control: follow up once, clearly, then turn back to today's tasks.",
+					"{keyword} may be held up by things you didn't choose: budgets, approvals, other people's calendars. Delays like that aren't a judgement on your work.",
+					"When {keyword} feels stuck, write down what has already gone right. That record still counts, whatever the timeline does."
+				],
+				"curious": [
+					"{keyword} might be stuck because the plan was drawn too narrowly. What would it look like if you widened the map?",
+					"What if {keyword} has stalled because you're waiting for someone else to move? Is there a piece you could pick up yourself?",
+					"{keyword} might be turning inward. Could this be a season for strengthening the base, so the next reach holds better?"
+				],
+				"grieving": [
+					"{keyword} may be on hold while you grieve, and work can keep ticking along without big plans for a while. That's enough.",
+					"If {keyword} feels pointless right now, let it sit. Ambition often comes back on its own once the heaviest days have passed.",
+					"{keyword} doesn't need you to push. If colleagues ask about the next step, you can tell them honestly that you need a little time."
+				],
+				"skeptical": [
+					"Practically, {keyword} held up at work often points to a gap in planning. What wasn't accounted for, and can it be fixed now?",
+					"{keyword} is a prompt about foresight. Were the original timelines realistic, or were they optimistic guesses that hardened into promises?",
+					"Read plainly, {keyword} stalling can mean playing it safe. Is the caution protecting something valuable, or just familiar?"
+				],
+				"hopeful": [
+					"{keyword} may simply be delayed. If you're hoping to grow, keep preparing so you're ready when things start moving again.",
+					"If {keyword} feels slow, hope is still reasonable. Adjust the plan where it needs adjusting, and keep it in motion.",
+					"{keyword} could pick up after this pause. Use the quiet to build the contacts and skills the next stage will need."
+				],
+				"neutral": [
+					"At work, {keyword} can point to delays, setbacks in expansion, or plans made without enough foresight.",
+					"{keyword} appears blocked or slow, asking what is holding back the next stage of growth.",
+					"{keyword} suggests frustration with timing, or a plan that may need rethinking before it can move."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money you're counting on hasn't come in, {keyword} can feel worrying. One step in your control: work out how to cover the gap, even roughly, so it stops circling in your head.",
+					"{keyword} may be slower than you expected. Protecting what you already have is a steady choice while you wait.",
+					"When {keyword} feels stuck, bring your attention close: this week's essentials, the next bill, one small amount set aside."
+				],
+				"curious": [
+					"{keyword} might be held up by a plan that never allowed for delays. What would you build in differently next time?",
+					"What if {keyword} is slow because the idea needs longer to mature than you thought? Is it worth the wait?",
+					"{keyword} hints at returns that haven't arrived. It might be interesting to look at the original reasoning with fresh eyes."
+				],
+				"grieving": [
+					"{keyword} may be paused by grief, and big money moves can wait. Keeping the essentials steady is plenty.",
+					"If {keyword} feels overwhelming alongside a loss, let someone you trust help with the paperwork and practical pieces.",
+					"{keyword} can stay on hold until your mind is clearer. Nothing about money has to be decided while you feel this unsettled."
+				],
+				"skeptical": [
+					"Practically, {keyword} held up may point to something underestimated: time, cost or risk. Which one was it?",
+					"{keyword} is a prompt to decide in advance when you'd change course. Waiting without a limit is how small losses grow.",
+					"Read plainly, {keyword} stalling can mean resources stretched across too many things. Could you consolidate?"
+				],
+				"hopeful": [
+					"{keyword} may simply need more time. If you're hoping for a return, keep a careful eye on it and a steady budget beside it.",
+					"If {keyword} feels slow, hope is still fair. Patience is easier when the basics are covered.",
+					"{keyword} could pick up again. Use this pause to strengthen your footing so a delay costs you less next time."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to delays, disappointing returns, or growth that ran ahead of planning.",
+					"{keyword} appears blocked or slow, asking whether your financial plans need adjusting.",
+					"{keyword} suggests a need for patience with resources, or for a more realistic timeline."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you're not feeling the change you hoped for, {keyword} may simply be slow. One small thing: notice one way this week is easier than last month.",
+					"{keyword} may feel stuck in the body. Gentle consistency, like the same bedtime or the same short walk, often matters more than big efforts.",
+					"When {keyword} seems delayed, rest is still a sound choice. You don't have to earn it by making progress first."
+				],
+				"curious": [
+					"{keyword} might be stuck because the routine doesn't fit the life you're actually living. What would fit better?",
+					"What if {keyword} is asking for patience before progress? Notice what your energy does when you stop pushing it.",
+					"{keyword} hints at effort that hasn't shown results yet. What small signs would tell you something is shifting?"
+				],
+				"grieving": [
+					"{keyword} may feel far away while you grieve, and your body may want stillness. Rest is enough for now.",
+					"If {keyword} has stalled since your loss, that makes sense. Grief takes energy, and you're allowed to have less.",
+					"{keyword} can wait. Warmth, simple food and sleep when it comes are care too."
+				],
+				"skeptical": [
+					"Practically, {keyword} held up may mean expectations set too fast. Habits often take weeks before you feel them.",
+					"{keyword} is a prompt to ask whether your routines are realistic for your current schedule, or built for a calmer version of your life.",
+					"Read plainly, {keyword} stalling can mean too much effort and too little rest. Which side needs attention?"
+				],
+				"hopeful": [
+					"{keyword} may be slower than you hoped, but slow isn't stopped. Keep going gently.",
+					"If {keyword} feels delayed, patience can help. Small, steady gains tend to add up quietly.",
+					"{keyword} could build again as you rest and adjust. Be kind to yourself about the pace."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to slow progress, frustration with routines, or energy that needs rebuilding.",
+					"{keyword} appears blocked or delayed, asking for patience and some adjustment.",
+					"{keyword} suggests energy that is waiting for better conditions before it grows."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner growth feels stuck, {keyword} may simply be slow. One steady step: return to one familiar practice and let it hold you.",
+					"{keyword} may feel blocked by doubt. You can carry questions without forcing answers out of them.",
+					"When {keyword} seems far off, remember that inner life rarely moves in straight lines. A quiet stretch is not a wrong turn."
+				],
+				"curious": [
+					"{keyword} might be turning inward. What are you learning in this pause that you couldn't have learned while moving?",
+					"What if {keyword} has stalled because you've been looking too far ahead? What's right in front of you?",
+					"{keyword} hints at a view that has narrowed. Where could you find a wider perspective, even for an afternoon?"
+				],
+				"grieving": [
+					"{keyword} may be on hold while you grieve, and meaning may feel distant. You don't have to go looking for it.",
+					"If {keyword} feels absent, that absence is part of loss, not a failure of faith or practice.",
+					"{keyword} can stay quiet for a while. Simply being present with what you feel is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} stuck may mean a practice that has lost its purpose. Does it still serve you as it is?",
+					"{keyword} is a prompt to notice whether you're expecting quick answers from slow work.",
+					"Read plainly, {keyword} held back can mean searching outside yourself for what needs reflection inside."
+				],
+				"hopeful": [
+					"{keyword} may be gathering out of sight. If you're hoping for growth, keep showing up in small ways.",
+					"If {keyword} feels slow, roots usually grow before branches. That growth is real even when unseen.",
+					"{keyword} could widen again in its own time. Keep a little room open for it."
+				],
+				"neutral": [
+					"On the inner path, {keyword} can point to slow growth, a narrowed perspective, or frustration with progress.",
+					"{keyword} appears held inward, asking for patience rather than effort.",
+					"{keyword} suggests spiritual growth that is happening beneath the surface, not yet visible."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If things feel slow, {keyword} may be delayed rather than lost. One thing you can do: focus on today's step, not the whole journey.",
+					"{keyword} may feel blocked by things outside your control. Name the one part that is yours to move, and move only that.",
+					"When {keyword} seems far off, look at what's steady around you right now. That is solid ground to stand on while you wait."
+				],
+				"curious": [
+					"{keyword} might be stuck because the plan needs widening. What possibility haven't you let yourself consider?",
+					"What if {keyword} is turning inward, gathering strength rather than launching? What is this pause good for?",
+					"{keyword} hints at a wait that may have gone on long enough. Is there an action you've been postponing?"
+				],
+				"grieving": [
+					"{keyword} may be on hold while you grieve, and that's all right. Nothing needs to expand right now.",
+					"If {keyword} feels impossible, let today be enough. The horizon will still be there later.",
+					"{keyword} doesn't need to happen on any schedule. Small, familiar comforts are a reasonable place to stay."
+				],
+				"skeptical": [
+					"Practically, {keyword} held up often points to a gap in planning. What was missed, and can it be filled now?",
+					"{keyword} is a prompt about expectations. Were they realistic about time, money and help?",
+					"Read plainly, {keyword} stalling may mean waiting when action is needed. What would you do if you stopped waiting?"
+				],
+				"hopeful": [
+					"{keyword} may simply be delayed. Keep preparing quietly so you're ready when things begin to move.",
+					"If {keyword} feels slow, hope is still reasonable. A small adjustment could be enough to get things going again.",
+					"{keyword} could pick up with patience. Use the waiting to get clearer about what you actually want."
+				],
+				"neutral": [
+					"Overall, {keyword} can point to delays, obstacles, or plans made without enough foresight.",
+					"{keyword} appears blocked or slow, asking what needs adjusting before things can grow.",
+					"{keyword} suggests frustration with timing, or a need to look further ahead before reaching further."
+				]
+			}
+		}
+	}
+}

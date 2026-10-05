@@ -1,0 +1,412 @@
+{
+	"id": "major_06_lovers",
+	"name": "The Lovers",
+	"facets": [
+		{
+			"id": "connection",
+			"keywords": ["a deep connection", "a meeting of minds", "a bond of mutual respect"]
+		},
+		{
+			"id": "choice",
+			"keywords": ["a meaningful choice", "a choice of the heart", "a decision rooted in values"]
+		},
+		{
+			"id": "alignment",
+			"keywords": ["alignment with your values", "harmony between head and heart", "an honest yes"]
+		},
+		{
+			"id": "intimacy",
+			"keywords": ["being truly seen", "an openness to being known"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"In love, {keyword} can feel almost too important to trust. You don't have to decide what it means yet; notice how you feel in the hour after time with this person, and let that be your evidence.",
+					"If {keyword} has you worried about getting it wrong, remember that closeness is built from small, repeatable moments. One kind, honest message today is well within your reach.",
+					"{keyword} can stir up old fears of being left or being too much. Put a hand on your chest, breathe out slowly, and ask what you actually need from the people near you right now."
+				],
+				"curious": [
+					"{keyword} in love invites a playful question: what do you value most in someone, and when did you last tell them so out loud?",
+					"With {keyword} in the picture, you might explore what attraction is made of for you. Is it how someone listens, how they laugh, or who you become beside them?",
+					"{card} often turns up where two paths of the heart cross. If {keyword} were a door, what would you hope to find on the other side, and what would you carry through it?"
+				],
+				"grieving": [
+					"{keyword} may be a tender thing to read about right now. Love you've lost is still love; you don't have to turn it into a lesson or set it down before you're ready.",
+					"When someone is missing, {keyword} can live on in shared habits and in the way you still turn to tell them something. Let those moments be exactly what they are.",
+					"There is no need to look for anyone new. {keyword} may simply be the bond you still carry, and the friends quietly holding some of the weight with you."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is a prompt to check whether your relationships reflect what you say you value. Where do your actions and your words about love quietly disagree?",
+					"No fate involved: {keyword} describes something you can examine. Write down what you want from a partner or a friendship, then compare it honestly with what you are accepting.",
+					"Treat {keyword} as a question about choice rather than chemistry. Attraction tends to happen to us; commitment is something people decide on purpose. Which one are you weighing?"
+				],
+				"hopeful": [
+					"{keyword} suggests real warmth is possible here. It isn't a promise of how things turn out, but it is worth showing up for with an open, honest heart.",
+					"If you're hoping for closeness, {keyword} encourages you to let someone see a little more of you. Being known is often how affection deepens, one honest moment at a time.",
+					"There's good ground for hope in {keyword}, especially where both people are choosing each other freely. What could you do this week to make that choice feel mutual?"
+				],
+				"neutral": [
+					"In love, {keyword} points to a bond built on mutual choice and honesty. It asks whether your relationships leave room for both people to be fully themselves.",
+					"{keyword} here suggests a meaningful connection, or a decision about one. The focus is on what you value, and whether your close relationships reflect it.",
+					"With {keyword} present, attraction and values are both in play. It's a cue to look at what draws you to someone, and at what keeps you there."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} may arrive as a choice that feels heavier than it should. You don't need to see every consequence; ask which option you could explain to yourself a year from now.",
+					"If {keyword} has you second-guessing a work decision, return to one thing you know you value in your job. Let that be the tiebreaker, rather than the worst-case story.",
+					"{keyword} in your career may come through a colleague you trust. If you're worried, share the load with one person whose judgement you respect, and listen more than you explain."
+				],
+				"curious": [
+					"{keyword} at work invites you to notice which projects make you feel most like yourself. What do they have in common, and how could you find more of them?",
+					"With {keyword} in your working life, you might explore partnership: whose skills fit yours so well that the work gets lighter? Is there a collaboration worth proposing?",
+					"If your career were a relationship, would {keyword} describe it? What would you want to renegotiate, and what would you keep exactly as it is?"
+				],
+				"grieving": [
+					"If you've lost a role, a colleague or a way of working, {keyword} may feel far away. It's fine to let work be simply work for a while.",
+					"{keyword} at work can stir grief when a valued partnership or team has come to an end. That bond mattered, and missing it is part of having had it.",
+					"You don't have to make any big career decisions right now. {keyword} can wait until you have more room to feel what you want again."
+				],
+				"skeptical": [
+					"Read practically, {keyword} at work is about fit. Does your job ask you to act against something you care about? Name it specifically, then decide what you can live with.",
+					"No mysticism needed: {keyword} points to a decision between options that are each defensible. List what each one costs you personally, not just professionally.",
+					"Treat {keyword} as a prompt to look at your working relationships. Which collaborations produce your best work, and are you investing in them on purpose?"
+				],
+				"hopeful": [
+					"{keyword} suggests work that fits your values is worth pursuing. The outcome isn't guaranteed, but choosing with your whole self tends to make effort feel lighter.",
+					"If you're hoping for a better path, {keyword} encourages you to pick the option that feels honest over the one that merely looks impressive.",
+					"There's real promise in {keyword} when it comes to collaboration. A good partner at work can make an ambitious idea feel possible; who might that be for you?"
+				],
+				"neutral": [
+					"In career matters, {keyword} points to a values-led decision or a meaningful working partnership. It asks whether your work reflects what matters to you.",
+					"{keyword} here suggests a choice between paths. The emphasis is less on which is safer and more on which is truer to you.",
+					"Professionally, {keyword} highlights alignment: between you and your role, or between you and the people you work beside."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} can bring a decision that feels high-stakes. Slow it down: giving yourself one night to sleep on it is a small, real thing within your control.",
+					"If finances feel uncertain, {keyword} reminds you that your values can guide spending even when the numbers are tight. What is one expense that truly matters to you this month?",
+					"{keyword} in money matters may involve someone else: a partner, a relative, a shared account. A calm conversation about one specific figure is a good place to begin."
+				],
+				"curious": [
+					"{keyword} invites you to look at what your spending says about what you love. If your bank statement were a letter, who or what would it be addressed to?",
+					"With {keyword} touching your resources, you might explore what a shared financial life looks like for you. What would you want to pool, and what would you keep your own?",
+					"What if {keyword} with money meant choosing on purpose instead of by habit? Pick one regular cost and ask whether you'd sign up for it again today."
+				],
+				"grieving": [
+					"Money can feel cold and beside the point when you're grieving. If {keyword} means anything here, it may be letting someone you trust help with the practical tasks.",
+					"{keyword} may surface as decisions about shared things: belongings, accounts, a home. There's no rush; most of these can wait until you're steadier.",
+					"You don't need to make sense of your finances right now. {keyword} can be as small as keeping the essentials covered and letting the rest sit for a while."
+				],
+				"skeptical": [
+					"Practically, {keyword} in money is about whether your spending matches your priorities. Track one week honestly and see where the gaps are.",
+					"No magic needed: {keyword} points to a financial choice with real trade-offs. Write down what each option protects and what it gives up.",
+					"Treat {keyword} as a prompt about shared money. Do you and the people you pool resources with agree on what it's for? If you're not sure, that's the conversation."
+				],
+				"hopeful": [
+					"{keyword} suggests your resources can be handled in a way that feels right to you. It doesn't promise plenty, but choices that match your values tend to feel less like sacrifice.",
+					"If you're hoping for more ease with money, {keyword} encourages partnership: two people pulling in the same direction can often stretch things further.",
+					"There's encouragement in {keyword}: once you know what matters most, saying no to the rest gets easier. What is your clearest yes?"
+				],
+				"neutral": [
+					"In money matters, {keyword} points to a choice guided by values, or to shared resources and the trust they depend on.",
+					"{keyword} here suggests a decision about how you use what you have. It asks whether your spending and saving reflect your priorities.",
+					"Financially, {keyword} highlights agreement: between you and a partner, or between your habits and what you say you care about."
+				]
+			},
+			"health": {
+				"anxious": [
+					"When your body feels tense, {keyword} can begin with how you speak to yourself. Try one kind sentence, said slowly, and notice whether your shoulders loosen.",
+					"{keyword} in caring for yourself may mean letting someone else in. Tell one person you trust how you've really been feeling; you don't have to hold it all alone.",
+					"If worry has you running on alert, {keyword} might look like choosing rest because you matter, not because you've earned it. Tonight, an earlier bedtime is enough."
+				],
+				"curious": [
+					"{keyword} invites you to notice which habits feel like care and which feel like duty. What would a routine you actually enjoy look like?",
+					"With {keyword} in mind, you might explore how your closest relationships affect your energy. Who leaves you feeling lighter after time together?",
+					"What if {keyword} applied to your body too? Ask what it's been asking for lately, more sleep, more movement, more stillness, and get curious about the answer."
+				],
+				"grieving": [
+					"Grief can leave the body heavy. {keyword} might simply mean letting someone sit with you, bring you food, or keep you company on a slow walk.",
+					"{keyword} may feel tender right now. You don't have to look after yourself perfectly; small comforts like warmth, water and a little rest are enough.",
+					"If you shared routines with someone you've lost, {keyword} can ache in ordinary moments. Be especially gentle with those times of day."
+				],
+				"skeptical": [
+					"Practically, {keyword} asks whether your daily habits match what you say matters. If rest is a value, where does it actually appear in your week?",
+					"No mysticism here: {keyword} is a prompt to notice which relationships drain you and which restore you. That pattern tends to show up in your energy.",
+					"Treat {keyword} as a question about choice: if you could keep only one healthy habit for the next month, which would you pick, and why that one?"
+				],
+				"hopeful": [
+					"{keyword} suggests care that grows from respect for yourself rather than pressure. That kind of care tends to last longer than willpower alone.",
+					"If you're hoping to feel more at ease, {keyword} encourages small acts of kindness toward your body. Nothing is promised, but kindness is a steady foundation.",
+					"There's warmth in {keyword}: the right company can make good habits easier to keep. Who might join you in one?"
+				],
+				"neutral": [
+					"In health, {keyword} points to care rooted in self-respect, and to relationships that support your wellbeing.",
+					"{keyword} here suggests a choice about how you look after yourself. It asks whether your habits reflect what you value.",
+					"With {keyword} present, the focus is on agreement between what you know helps you feel well and what you actually do."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"Spiritually, {keyword} can feel like a big question to hold. You don't need an answer today; sit quietly for a minute and notice what feels true.",
+					"If you're worried about choosing the wrong path, {keyword} reminds you that values are a steady place to stand. Name one you're sure of.",
+					"{keyword} in your inner life doesn't have to be dramatic. One honest moment with yourself, a walk or a page of writing, is enough."
+				],
+				"curious": [
+					"{keyword} invites you to explore what you hold sacred. What moves you, and how often do you make room for it?",
+					"With {keyword} on your path, you might ask what union means to you: with others, with nature, with something larger. Where have you felt it?",
+					"What if {keyword} were a practice rather than a feeling? What could you do each day to honour what you love?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel like a connection that continues in a different form. You don't have to define it; let it be what it is.",
+					"{keyword} can be hard to feel when someone you love is gone. If your faith or practice has gone quiet, that's all right.",
+					"Spiritually, {keyword} might simply be the love you still carry. It doesn't need to be explained to be real."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is a prompt to check whether your beliefs and your behaviour agree. Where do they part ways?",
+					"No supernatural reading needed: {keyword} is about integrity, living in a way you'd stand behind. Where could you do that a little more?",
+					"Treat {keyword} as a thinking tool. Which values would you keep if you had to drop everything else?"
+				],
+				"hopeful": [
+					"{keyword} suggests your inner life and outer choices can come together. That kind of harmony grows with practice, not perfection.",
+					"There's encouragement in {keyword}: when you act from what you value, a sense of meaning often follows. It isn't promised, but it's worth the effort.",
+					"If you're hoping for direction, {keyword} invites you to trust your own sense of what is right. It may have been with you all along."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to harmony between your values and your actions, and to the connections that give life meaning.",
+					"{keyword} here suggests a choice about what you believe and how you live it out.",
+					"With {keyword} present, the focus is on integrity and connection, both with others and with your own deeper sense of right."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} can make a decision feel enormous. You don't have to choose today; take one quiet moment to ask which option lets you breathe more easily.",
+					"If {keyword} feels like a lot to hold, come back to the people you trust. Saying your thoughts out loud to one of them can make them clearer.",
+					"When everything seems to hinge on {keyword}, remember that most choices can be revisited. Take the next small step, not the whole road."
+				],
+				"curious": [
+					"{keyword} invites a question: what do you want your life to say about what you love? Where does it already say it?",
+					"With {keyword} in view, you might notice which relationships and choices feel most like home. What makes them different from the rest?",
+					"{card} is about union and choice, and {keyword} carries both. What are you being invited to say yes to, wholeheartedly?"
+				],
+				"grieving": [
+					"{keyword} may feel complicated while you're carrying a loss. You don't need to choose anything new; let the bonds you already have hold you.",
+					"In grief, {keyword} can mean letting someone close see how you're really doing. That is enough of a step for now.",
+					"There's no rush toward anything. {keyword} can simply be honouring what you loved and lost, in whatever way feels right."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about choosing in line with what you value. Where are you letting habit or pressure decide for you?",
+					"No mysticism needed: {keyword} is a prompt to look at your important relationships and decisions together. Do they point the same way?",
+					"Treat {keyword} as a tool for thinking. If you had to explain your next big choice to someone you respect, what would you say?"
+				],
+				"hopeful": [
+					"{keyword} suggests that what you choose with your whole heart may turn out to be worth it. Nothing is guaranteed, but sincerity tends to help.",
+					"If you're hoping things come together, {keyword} encourages you to act from your values. That is a choice you can make today.",
+					"There's honest hope in {keyword}: good connection with others, and with yourself, often grows from small, true moments."
+				],
+				"neutral": [
+					"{keyword} points to connection, choice and alignment. It asks whether your life reflects what you care about most.",
+					"In general, {keyword} suggests a meaningful decision or relationship. The focus is on honesty with yourself and others.",
+					"With {keyword} present, harmony between head and heart is in focus. It's a cue to act from what you value."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} may feel out of step right now, as if you and someone close want slightly different things. That's common and workable; one calm question about what each of you needs is a good start.",
+					"If {keyword} feels shaky, notice whether the fear belongs to this relationship or to an older hurt. You can't settle everything tonight, but you can be gentle with the part of you that's scared.",
+					"When {keyword} seems hard to reach, come back to what you know for sure. Write down two things about this relationship that are true today, not imagined."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. What would it mean to be on good terms with yourself first, before asking anyone else to meet you there?",
+					"If {keyword} keeps slipping out of reach, get curious about the pattern. Do you tend to choose people who are hard to get close to, or keep your distance from the ones who aren't?",
+					"{keyword} may be waiting on a decision you haven't let yourself make. What would you choose in love if nobody else's opinion counted?"
+				],
+				"grieving": [
+					"{keyword} may feel broken or far away after a loss. It's all right for your heart to close a little for now; closing to rest is not the same as closing for good.",
+					"If {keyword} was taken from you in a way you didn't choose, the grief can carry questions with no answers. You don't have to resolve them. Let yourself miss what was good.",
+					"Sometimes {keyword} lingers after the relationship itself has gone, and that hurts in its own way. Be patient with the part of you that still reaches for them."
+				],
+				"skeptical": [
+					"Practically, reversed, {card} points to {keyword} being out of balance. Is one person doing most of the choosing, the reaching out, or the compromising?",
+					"Use {keyword} as a check on values. When you disagree with someone close, is it about logistics, or about something you each care about deeply? The second needs a different conversation.",
+					"No mystery here: {keyword} often stalls when people avoid a decision they already sense. What have you been putting off saying, and what is the silence costing?"
+				],
+				"hopeful": [
+					"{keyword} may be slower to arrive than you'd like, but slow isn't the same as absent. What could you do to make room for it without forcing the pace?",
+					"If {keyword} has been strained, there may still be a way back to honesty. Nothing is promised, and it takes two people, but you can offer your half.",
+					"Hope here starts as inner work: {keyword} with someone else often begins with being clear on your own values. That clarity is something you can build now."
+				],
+				"neutral": [
+					"Reversed, {keyword} suggests disharmony, an imbalance between two people, or a choice being avoided. It asks where what you want and what you're doing have come apart.",
+					"{keyword} here may be delayed or turned inward. The focus shifts from the other person to your own values and how well you're honouring them.",
+					"In love, {keyword} reversed can point to mixed signals or a decision made for the wrong reasons. Clarity may come from slowing down rather than pushing on."
+				]
+			},
+			"career": {
+				"anxious": [
+					"{keyword} at work may feel off balance, as if you keep agreeing to things you don't believe in. One small step: decline or delay one request this week that doesn't sit right.",
+					"If a working relationship has turned tense, {keyword} may be strained rather than lost. You can't control how anyone responds, but you can choose a calm, specific way to raise it.",
+					"When {keyword} feels out of reach in your job, separate the decision from the panic. Write the options down; they often look smaller on paper."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} that you've postponed at work. What would you choose if you trusted yourself a little more?",
+					"{keyword} may be turned inward in your career right now. What do you actually want from work, underneath what you've been told you should want?",
+					"If {keyword} keeps getting deferred, ask who benefits from you not deciding. Is it you, or someone else?"
+				],
+				"grieving": [
+					"{keyword} can feel lost when a job or team that mattered has changed. You don't need to replace it quickly; let yourself mourn what worked.",
+					"If you're carrying grief into work, {keyword} may be too much to ask of yourself just now. Doing the ordinary tasks is enough.",
+					"Sometimes {keyword} at work ends without a proper goodbye. You can mark it privately, in your own way, when you're ready."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests a mismatch between your values and your work, or a partnership that isn't pulling equally. Which is it, and what evidence do you have?",
+					"Use {keyword} as a test: are you avoiding a career decision because both options are poor, or because choosing means giving something up? Those call for different moves.",
+					"No mystique: {keyword} tends to stall where incentives and values point different ways. Where is your job rewarding behaviour you don't respect?"
+				],
+				"hopeful": [
+					"{keyword} at work may be delayed rather than denied. Use this time to get clear on what you'd say yes to without hesitation.",
+					"If a working partnership has frayed, {keyword} can sometimes be rebuilt through one frank conversation. Nothing is guaranteed, but it may be worth offering.",
+					"Feeling the lack of {keyword} at work means you already know what you're looking for. Let that knowledge steer your next move, however small."
+				],
+				"neutral": [
+					"Reversed, {keyword} at work suggests misalignment, a strained collaboration, or a choice being put off. It asks where your work and your values have drifted apart.",
+					"{keyword} here may be blocked or held inward. The question is what you need to settle for yourself before anything outside can change.",
+					"Professionally, {keyword} reversed can point to friction between what's expected and what feels right. It invites an honest look at both."
+				]
+			},
+			"money": {
+				"anxious": [
+					"{keyword} around money may feel tense, perhaps because you and someone close see it differently. You don't have to solve it all; agree on one small thing you can both live with.",
+					"If spending has drifted from what you value, {keyword} may feel far off. Look at one recent purchase without judgement and simply ask what need it was meeting.",
+					"When {keyword} feels blocked, avoidance can make worry grow. Opening one statement or one envelope is a small, steadying act."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} postponed in money matters. What financial decision have you been circling, and what would help you land it?",
+					"{keyword} may be turned inward here. What did you learn about money growing up, and do you still agree with it?",
+					"If {keyword} keeps slipping, notice where you spend to feel close to people, or to keep them at arm's length. What patterns show up?"
+				],
+				"grieving": [
+					"{keyword} around shared money can be painful after a loss. Let practical matters move slowly, and accept help where it's offered.",
+					"If money decisions feel impossible right now, {keyword} can wait. Keeping the basics covered is enough while you're grieving.",
+					"Sometimes {keyword} with money shifts painfully when a relationship ends. Notice the strain without blaming yourself for it."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests spending that doesn't match stated priorities, or a shared arrangement that feels uneven. Which numbers would tell you which?",
+					"Use {keyword} as a check: is a money disagreement really about money, or about trust and fairness? Naming the real issue makes it easier to work on.",
+					"No mystery: {keyword} often slips when choices are made to please someone else. Whose expectations are shaping your spending?"
+				],
+				"hopeful": [
+					"{keyword} in your finances may be catching up slowly. Small, consistent choices can bring your money back in line with what you care about.",
+					"If a financial partnership has been strained, {keyword} may still be possible with clearer agreements. Nothing is assured, but writing things down tends to help.",
+					"The distance between your spending and {keyword} is a map, not a judgement. What's one change that would close it a little this month?"
+				],
+				"neutral": [
+					"Reversed, {keyword} in money suggests misaligned priorities, an imbalance in shared resources, or a decision being avoided.",
+					"{keyword} here may be delayed or held inward. It asks whether your financial choices are truly your own.",
+					"In money matters, {keyword} reversed can point to tension between what you want and what you value. It invites an honest look at both."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} with your own body may feel strained, as if the two of you are at odds. One small gesture of peace, a stretch, a slow breath, a warm drink, is a real step.",
+					"If you've been looking after everyone but yourself, {keyword} may be out of balance. Choose one small thing today that is only for you.",
+					"When {keyword} feels far away, stress can get louder. Notice where you're holding it, and let that one place soften for a few breaths."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. What would it be like to treat your body as a partner rather than a project?",
+					"{keyword} may be held back by habits you chose long ago. Which of your routines still fit, and which belong to an older version of you?",
+					"If {keyword} keeps slipping, notice what pulls you away from the habits you value. Is it time, company, or something quieter?"
+				],
+				"grieving": [
+					"{keyword} with yourself can be hard after a loss. If caring for your body feels pointless some days, let the smallest version count.",
+					"If grief has pulled you out of step with your own needs, {keyword} can return slowly. There's no pace you have to keep.",
+					"Sometimes {keyword} goes missing because all your energy is going to the loss. That isn't a failure; it's simply where you are."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to habits that conflict with your goals. Where is the gap between what you plan and what you do?",
+					"Use {keyword} as a prompt: whose expectations are shaping how you treat your body, yours or someone else's?",
+					"No mystery: {keyword} slips when stress pushes self-care down the list. What would be the first thing you'd put back on it?"
+				],
+				"hopeful": [
+					"{keyword} in how you care for yourself may be returning gradually. Notice small shifts in how you feel, and let them encourage you.",
+					"If you've felt at odds with your body, {keyword} can be rebuilt through small, kind choices. Nothing is guaranteed, but steadiness helps.",
+					"Missing {keyword} is useful information: it tells you what kind of care you're hungry for. What's one way to offer it this week?"
+				],
+				"neutral": [
+					"Reversed, {keyword} in health suggests an imbalance between your needs and your habits, or care that has been put on hold.",
+					"{keyword} here may be crowded out by stress or competing demands. It asks, plainly, what you need.",
+					"In health, {keyword} reversed points to a gap between body and intention, an invitation to listen more closely to both."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{keyword} may feel distant, as if you've lost touch with what matters. That happens to everyone; one quiet moment of attention can begin to bring it back.",
+					"If you're torn between beliefs, {keyword} can wait until you feel steadier. You're allowed to hold questions without answers.",
+					"When {keyword} feels blocked, try something simple: notice one thing you're grateful for, and stay with it a moment longer than usual."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. What do you believe when no one is watching?",
+					"{keyword} may be in flux. Which parts of your practice feel borrowed, and which feel truly yours?",
+					"If {keyword} keeps eluding you, ask what you might be stepping around. Sometimes the question we skip is the one that matters."
+				],
+				"grieving": [
+					"{keyword} may feel lost in grief. If your faith or sense of meaning has gone silent, give it time; silence is not the same as absence.",
+					"If loss has shaken what you believed, {keyword} doesn't need to be restored right away. Your questions are welcome as they are.",
+					"Sometimes {keyword} comes back after a loss only in small, unexpected moments. Be patient with the quiet in between."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests a gap between your stated values and your daily life. Where is that gap widest?",
+					"Use {keyword} as a prompt: are you following beliefs you've examined, or ones you inherited? Both are worth a look.",
+					"No mysticism needed: {keyword} slips when we act against our own sense of right. Is there one small correction you could make?"
+				],
+				"hopeful": [
+					"{keyword} may be closer than it seems. Small acts in line with your values can restore a sense of connection over time.",
+					"If you've felt out of step with yourself, {keyword} can grow again with patience. Nothing is promised, but returning to practice helps.",
+					"Feeling the absence of {keyword} shows you what you care about. That longing is a kind of compass worth following."
+				],
+				"neutral": [
+					"Reversed, {keyword} on the spiritual level suggests disconnection from your values, or a choice being avoided.",
+					"{keyword} here may be held inward or delayed. It asks what you truly believe, apart from what you've been told.",
+					"Spiritually, {keyword} reversed can point to inner conflict, and an invitation to reconcile it honestly."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} may feel out of reach, as if every option has a catch. You don't have to resolve it now; name one thing you're sure you want, and start there.",
+					"If {keyword} feels tangled, notice what you can control: your words, your pace, your boundaries. One of those is enough to work with today.",
+					"When {keyword} seems lost, it helps to talk to someone who knows you well. They may see your values more clearly than you can right now."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned inward. What might change if you made peace with yourself first?",
+					"{keyword} may be on hold while you work something out. What's the question underneath the decision you keep putting off?",
+					"If {keyword} keeps slipping away, get curious: is the obstacle out there, or in a story you tell about what you deserve?"
+				],
+				"grieving": [
+					"{keyword} can feel broken by loss. You don't have to mend it yet; let yourself feel how much it mattered.",
+					"If grief has left you out of step with your own life, {keyword} may return slowly. Be patient with the in-between.",
+					"Sometimes {keyword} hurts precisely because it was real. Let that be true without needing it to mean anything more."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to a mismatch between what you value and what you're doing. Where is it most visible?",
+					"Use {keyword} as a check: is a decision being delayed because you need more information, or because you don't want the trade-off?",
+					"No mystery: {keyword} slips when we try to keep everyone happy. Whose approval are you weighing above your own judgement?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than gone. Taking small steps in line with your values can bring it back into view.",
+					"If something has felt out of tune, {keyword} can be restored over time. Nothing is promised, but honesty usually helps.",
+					"Knowing what {keyword} would feel like is half the work. Let that picture guide one choice this week."
+				],
+				"neutral": [
+					"Reversed, {keyword} suggests misalignment, imbalance, or a choice being avoided. It asks where you've drifted from what matters.",
+					"{keyword} here may be blocked or delayed. The focus is on what needs to be reconciled within you first.",
+					"In general, {keyword} reversed can point to conflict between head and heart. It invites you to listen to both."
+				]
+			}
+		}
+	}
+}

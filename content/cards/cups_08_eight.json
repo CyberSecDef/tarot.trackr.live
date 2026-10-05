@@ -1,0 +1,412 @@
+{
+	"id": "cups_08_eight",
+	"name": "Eight of Cups",
+	"facets": [
+		{
+			"id": "walking_away",
+			"keywords": ["walking away", "a quiet departure", "leaving what no longer fits"]
+		},
+		{
+			"id": "deeper_meaning",
+			"keywords": ["a search for deeper meaning", "a longing for more"]
+		},
+		{
+			"id": "disillusionment",
+			"keywords": ["disillusionment", "a sense that something is missing"]
+		},
+		{
+			"id": "solitude",
+			"keywords": ["solitude", "a retreat to reflect"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If {keyword} is stirring in a relationship, you don't have to act on it today. Notice the feeling, write it down, and give yourself a few days before deciding anything.",
+					"{keyword} in love can feel frightening, as if wanting more means losing what you have. One small step in your control: name, privately, what you have been missing.",
+					"When {keyword} shows up between you and someone close, take it one evening at a time. A calm, honest sentence tends to go further than a sudden exit."
+				],
+				"curious": [
+					"{keyword} raises a gentle question: what are you reaching for in love that the current picture doesn't quite hold? Try describing it without naming any person.",
+					"What if {keyword} is less about leaving someone and more about leaving an old way of loving? Which habit in your relationships feels ready to be set down?",
+					"{keyword} invites a little exploration. When you imagine a fuller kind of closeness, what is different about how you spend your time and how you speak?"
+				],
+				"grieving": [
+					"{keyword} may describe the slow, aching work of turning away from a love that has ended. You can walk at whatever pace your heart allows.",
+					"After a loss, {keyword} can feel like leaving part of yourself behind. It is all right to look back as often as you need to while you go.",
+					"When you are grieving, {keyword} might mean spending evenings on your own with your memories. That quiet is not failure; it is a kind of care."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to an honest question: is this relationship meeting your needs, or are you staying out of habit? Both answers deserve respect.",
+					"Read plainly, {keyword} describes a familiar moment when effort stops being returned. What would you need to see change to feel like staying is a choice?",
+					"No mysticism needed: {keyword} is about emotional investment versus return. List what you give and what you receive, and look at the balance calmly."
+				],
+				"hopeful": [
+					"{keyword} can make room for love that fits who you are becoming. Hope is reasonable, as long as you let the next step unfold rather than forcing it.",
+					"If you are hoping for something deeper, {keyword} encourages you to be honest about what you want, first with yourself and then with others.",
+					"{keyword} suggests that turning toward what matters most can feel lonely at first and freeing later. Trust your reasons, and go gently."
+				],
+				"neutral": [
+					"In love, {keyword} points to moving on from something that no longer satisfies, or to seeking a deeper kind of connection.",
+					"{keyword} speaks to emotional honesty: noticing when a bond has changed and choosing what to do about it.",
+					"{keyword} suggests stepping back from a relationship pattern to see what you are really looking for."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} has crept into your feelings about work, you don't need to resign in your head tonight. Note what has stopped satisfying you, and sleep on it.",
+					"{keyword} at work can feel like losing your footing. One thing in your control: talk the feeling through with someone outside your workplace who knows you well.",
+					"When {keyword} makes your job feel hollow, look for one part of the day that still feels worthwhile, and let it carry you while you think."
+				],
+				"curious": [
+					"{keyword} asks a curious question about your working life: if this job were one chapter, what would the next chapter be about?",
+					"What might {keyword} show you about what you need from work beyond pay? Make a short list of the moments that have felt most meaningful.",
+					"{keyword} invites you to wonder what you have outgrown. Which tasks once lit you up and now feel routine, and what would replace them?"
+				],
+				"grieving": [
+					"If you are mourning a role or a working life you loved, {keyword} can be heavy. You are allowed to miss it while you are leaving it behind.",
+					"{keyword} may mean packing up something you built with care. Let yourself feel the weight of that; it shows how much it mattered.",
+					"After a loss at work, {keyword} might look like a few quiet weeks before anything new. Rest in that space without needing to fill it."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about sunk cost. Are you staying in a role because of what it offers now, or because of what you have already put in?",
+					"Read plainly, {keyword} describes the point where a job stops matching your values. What specific change would make it fit again, if any?",
+					"{keyword} needs no mystical reading. People often leave a role long after the meaning has drained from it; is that happening to you?"
+				],
+				"hopeful": [
+					"{keyword} suggests you may be ready for work that feels more like yours. Begin quietly: research one path, have one conversation.",
+					"If you are hoping for a change, {keyword} encourages you to trust that wanting more is reasonable, while planning the step carefully.",
+					"{keyword} can be the start of a more meaningful working life. It doesn't promise an easy road, but the direction may be worth walking."
+				],
+				"neutral": [
+					"At work, {keyword} points to leaving behind a role or project that has stopped satisfying, or looking for deeper purpose.",
+					"{keyword} highlights the moment when ambition turns toward meaning rather than status.",
+					"{keyword} suggests stepping back from your working life to see what you are really trying to build."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} is touching your finances, it doesn't have to mean a leap. Look at one recurring expense that no longer serves you and consider letting it go.",
+					"{keyword} around money can feel risky. Stay grounded with one practical step, like checking how many months your savings would cover if things changed.",
+					"When {keyword} makes your financial life feel empty, remember that your worth isn't your balance. Start with one small, deliberate choice today."
+				],
+				"curious": [
+					"{keyword} raises a question: what would you stop paying for if you were honest about what actually brings you value?",
+					"What if {keyword} pointed to a different relationship with money altogether? Imagine needing less, and notice what that would free you to do.",
+					"{keyword} invites you to notice where spending has become automatic. Which purchases feel empty the moment after you make them?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may show up as letting go of possessions or plans you shared. You can do this slowly, keeping what still holds meaning.",
+					"{keyword} may mean leaving a home or a way of living. Let each box and each decision take the time it needs.",
+					"If a loss has changed your finances, {keyword} does not ask for quick choices. Ask for help with the paperwork, and give yourself room to feel."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to cut what you have outgrown: subscriptions, commitments, or investments that no longer make sense.",
+					"Read plainly, {keyword} suggests that more money isn't always the goal. What would enough look like, written down in numbers?",
+					"No magic needed: {keyword} describes a common shift from earning more to living differently. Is that shift happening for you?"
+				],
+				"hopeful": [
+					"{keyword} may lead you toward a simpler, steadier relationship with money. Hope is reasonable when you plan the change in steps.",
+					"If you are hoping for more freedom, {keyword} encourages you to let go of spending that only fills a gap for a moment.",
+					"{keyword} suggests that leaving one financial habit behind could make room for something that matters more to you."
+				],
+				"neutral": [
+					"In money matters, {keyword} points to leaving behind spending, work or plans that no longer bring real value.",
+					"{keyword} speaks to choosing meaning over accumulation, and to the courage of letting something go.",
+					"{keyword} suggests reviewing your resources with an eye to what still matters and what you have outgrown."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} touches your wellbeing, start with something gentle: step away from one draining commitment this week and notice how your body responds.",
+					"{keyword} can bring a restless tiredness. One small thing in your control is a quiet half hour today with no screens and no demands.",
+					"When {keyword} makes you feel disconnected from yourself, a slow walk alone can help. Let your feet set the pace."
+				],
+				"curious": [
+					"{keyword} asks a curious question: which habits feel as if you are still doing them out of momentum rather than choice?",
+					"What could {keyword} reveal about rest? Try spending an hour alone without a plan and notice what your body asks for.",
+					"{keyword} invites you to ask what you are hungry for beyond food: quiet, movement, meaning, company. Which one has been missing?"
+				],
+				"grieving": [
+					"In grief, {keyword} may look like withdrawing for a while. Let yourself rest, and let the world wait, without feeling you have to explain.",
+					"{keyword} may leave you tired in a way sleep doesn't touch. Be gentle; this kind of weariness belongs to loss and asks for patience.",
+					"When you are grieving, {keyword} can mean stepping away from routines that no longer fit. You can build new ones slowly when you are ready."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to look at what drains you. Is there one obligation that costs more energy than it returns?",
+					"Read plainly, {keyword} points to burnout risk when meaning drains from daily life. How full does your tank feel, honestly, on a scale of one to ten?",
+					"{keyword} needs no mystical meaning. Time alone and a change of routine are known ways to restore energy; when did you last have either?"
+				],
+				"hopeful": [
+					"{keyword} suggests that letting go of what exhausts you could make room for more energy. Try one small change and see what follows.",
+					"If you are hoping to feel better, {keyword} encourages you to protect some solitude and rest without guilt.",
+					"{keyword} can mark a turning point in how you care for yourself, away from what drains and toward what restores."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to withdrawing from what depletes you and seeking rest, quiet or a change of routine.",
+					"{keyword} speaks to emotional tiredness and the wish to step back and recharge.",
+					"{keyword} suggests noticing where your energy goes and choosing to leave some of it behind."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} has unsettled your sense of meaning, you don't have to find new answers right away. Sit with the questions; they are already a kind of practice.",
+					"{keyword} can feel lonely on the inner path. One small step: spend ten quiet minutes outdoors and let your thoughts settle on their own.",
+					"When {keyword} makes old beliefs feel thin, you are allowed to hold them loosely without throwing them away."
+				],
+				"curious": [
+					"{keyword} invites you to ask what you are really searching for. If you had to describe it in one word, what would it be?",
+					"What if {keyword} is a pilgrimage of sorts? Notice where you feel drawn, even if the reason isn't clear yet.",
+					"{keyword} raises a question: which practices still move you, and which do you keep only out of habit?"
+				],
+				"grieving": [
+					"In grief, {keyword} may draw you inward, toward questions with no easy answers. Let them stay open; that is honest.",
+					"{keyword} may mean turning away from comforts that no longer reach you. Something new may come in time, but nothing has to come now.",
+					"When you are grieving, {keyword} can feel like walking alone at night. Go slowly; even small steps count."
+				],
+				"skeptical": [
+					"Treat {keyword} as a prompt about meaning: what gives your days purpose now, and has that changed recently?",
+					"Read practically, {keyword} is about outgrowing a framework. Which ideas no longer match your experience, and what has taken their place?",
+					"{keyword} needs no supernatural claim. Stepping back to reflect is a sensible response to feeling unfulfilled."
+				],
+				"hopeful": [
+					"{keyword} suggests a deeper path may be opening. Follow your curiosity, and let the meaning gather as you go.",
+					"If you are hoping for inner growth, {keyword} encourages you to trust the restlessness; it often points somewhere worth going.",
+					"{keyword} can be the beginning of a more honest practice. Keep what is true, release what isn't, and see what grows."
+				],
+				"neutral": [
+					"In your inner life, {keyword} points to leaving behind old answers and seeking something more meaningful.",
+					"{keyword} speaks to solitude, reflection and the courage to follow a quieter call.",
+					"{keyword} suggests a turning inward, where you look for what truly matters to you."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} is on your mind, you don't have to do anything drastic. Name one thing that no longer fits your life and let that be today's honest step.",
+					"{keyword} can feel like stepping into the dark. Ground yourself in what is steady: your routines, your people, your breath.",
+					"When {keyword} unsettles you, remember you can leave slowly. Most departures happen in many small steps rather than one leap."
+				],
+				"curious": [
+					"{keyword} raises a question: what in your life feels finished, even if you haven't admitted it yet?",
+					"What if {keyword} is an invitation to explore? Imagine walking away from one habit or role, and notice how that feels in your body.",
+					"{keyword} invites you to ask what you are searching for. Is it a place, a person, a feeling, or a version of yourself?"
+				],
+				"grieving": [
+					"In grief, {keyword} may describe the slow work of letting a life you had become a memory. There's no need to rush it.",
+					"{keyword} can bring a quiet sadness, even when leaving is right. That sadness deserves room too.",
+					"When you are carrying a loss, {keyword} may mean spending more time alone. That's allowed; solitude can be a resting place."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about knowing when something has run its course. What are you keeping that you'd not choose again today?",
+					"Read plainly, {keyword} describes the moment effort stops feeling worthwhile. Is that true for something in your life right now?",
+					"No mysticism: {keyword} points to a common turning point. Take stock of what still matters, and what doesn't."
+				],
+				"hopeful": [
+					"{keyword} suggests that leaving something behind could lead somewhere more fitting. Hope is reasonable, even if the way ahead is unclear.",
+					"If you are hoping for change, {keyword} encourages you to trust your reasons and walk forward at your own pace.",
+					"{keyword} can mark the start of a more meaningful chapter. Pack lightly and keep your eyes open."
+				],
+				"neutral": [
+					"Overall, {keyword} points to moving on, seeking deeper meaning, and leaving behind what no longer satisfies.",
+					"{keyword} speaks to the decision to walk away from something familiar in search of something truer.",
+					"{keyword} suggests a time of reflection and change, when what you want begins to matter more than what you have."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} may be on hold in a relationship, with you caught between staying and going. You don't have to settle it tonight; notice what each option stirs in your body and write it down.",
+					"If {keyword} keeps circling back in your mind, talk it through with one friend who isn't involved. Saying it aloud often loosens the knot.",
+					"When {keyword} feels stuck, look after yourself first: eat, sleep, step outside. A rested heart tends to see a relationship more clearly than a worn one."
+				],
+				"curious": [
+					"Here {keyword} may be happening on the inside while everything looks the same from outside. How far have your feelings already travelled?",
+					"What if {keyword} is turning into a return? Is there someone, or some version of yourself in love, that you're quietly drawn back toward?",
+					"{keyword} may be paused at the doorway. What would you need to see, hear or feel to know whether to step through or come back in?"
+				],
+				"grieving": [
+					"When you are grieving, {keyword} may feel impossible, as if moving on would betray someone. You don't have to move on; you can carry them with you.",
+					"{keyword} may be slowed by love that is still holding on. That's not a mistake. It's how grief keeps someone close for a while.",
+					"If {keyword} keeps pulling you back toward old rooms and old photographs, let it. There's no deadline for setting them down."
+				],
+				"skeptical": [
+					"Practically, {keyword} held back can point to staying out of fear rather than choice. Is that true of any bond you're in right now?",
+					"Read plainly, {keyword} here suggests a cycle of nearly leaving and staying. What keeps bringing you back, and is it what you actually want?",
+					"No mysticism needed: {keyword} stalled often means waiting for someone else to change first. Have they said they want to, or is that hope doing the talking?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to a renewed effort between you and someone close. Hope is fair here, provided you're both choosing it.",
+					"If you are hoping to stay, {keyword} turned around can mean finding what was missing inside the bond itself. What would help it grow again?",
+					"{keyword} delayed can be a gift of time: room to try one more honest conversation before deciding anything."
+				],
+				"neutral": [
+					"In love, {keyword} appears held back: hesitation about leaving, a drift back toward old patterns, or an inner departure not yet spoken.",
+					"{keyword} here suggests fear of change, or a renewed attempt to find what was missing within a relationship.",
+					"With {keyword} turned inward, the shift may be in your feelings long before it shows in your choices."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} has stalled at work, remember that staying for now is a legitimate choice. Jot down what would need to change, and by when, so the worry has edges.",
+					"{keyword} may be held back by real concerns about money or security. One thing in your control: keep a running note of what you'd want next, so you're ready when you are.",
+					"When {keyword} feels blocked, give yourself credit for still showing up. Planning a change and making it are allowed to be weeks apart."
+				],
+				"curious": [
+					"Here {keyword} may look like drifting rather than deciding. What would it take to either commit fully to this work or leave it cleanly?",
+					"What if {keyword} is happening in your attitude before it happens on paper? Notice how your relationship to the job has already shifted.",
+					"{keyword} may be paused at the edge. What would you need to learn, save or try before you'd feel ready to move?"
+				],
+				"grieving": [
+					"If you are grieving a role, {keyword} may feel too soon. You can stay where you are while the loss settles into something you can carry.",
+					"{keyword} may be delayed because leaving would mean admitting something you loved is over. Take the time that admission needs.",
+					"After a loss at work, {keyword} may show up as reluctance to let go of old colleagues or routines. Holding on for a while is natural."
+				],
+				"skeptical": [
+					"Practically, {keyword} held back can point to inertia. Is the security of this role worth what it's costing you in energy and interest?",
+					"Read plainly, {keyword} here suggests indecision. Pick a date to decide by, and list the three facts you need before then.",
+					"No mysticism: {keyword} overdone can also mean leaving too easily. Are you escaping a hard stretch, or genuinely outgrowing the work?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to fresh energy where you already are. Hope is reasonable if something has shifted that makes staying feel worthwhile.",
+					"If you are hoping for change, {keyword} delayed gives you time to prepare quietly. Readiness can come in stages.",
+					"{keyword} turned around can mean rediscovering meaning in familiar work. Look for one project that could rekindle your interest."
+				],
+				"neutral": [
+					"At work, {keyword} appears held back or overdone: staying out of fear, indecision about moving on, or restless leaving before anything is finished.",
+					"{keyword} here suggests a change that is delayed, or happening more in your feelings than in your circumstances.",
+					"With {keyword} turned inward, your working life may call for honest reflection before any outward move."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} around money feels stuck, take one small steady step: track what you spend for a week and see what it shows you.",
+					"{keyword} may be held back by fear of losing security. That fear is understandable; ground it in numbers rather than guesses.",
+					"When {keyword} feels blocked, remember you can change one thing without changing everything. Small adjustments still count."
+				],
+				"curious": [
+					"Here {keyword} may point to habits you keep out of comfort. Which financial routines would you not choose again if you were starting today?",
+					"What if {keyword} is delayed because something still matters to you? Notice what you'd honestly miss if you let it go.",
+					"{keyword} may be turning inward. How has your sense of what money is for shifted lately, even if your spending hasn't?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may feel impossible to begin. You don't have to clear out, sell or change plans yet.",
+					"{keyword} may be slowed because objects hold memories. Keep what you need to keep, for as long as you need to keep it.",
+					"If grief has stalled {keyword}, take care of the essentials and let the bigger decisions rest until you have more room."
+				],
+				"skeptical": [
+					"Practically, {keyword} held back can point to sunk cost: holding on because you've already invested. Is that still a good reason on its own?",
+					"Read plainly, {keyword} here suggests avoiding a necessary change. What would a sensible, low-risk first step look like?",
+					"No magic needed: {keyword} overdone can mean dropping plans too quickly. Have you given your current approach a fair trial?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to a renewed sense of value in what you already have. That can be a quiet kind of wealth.",
+					"If you are hoping for stability, {keyword} delayed can be a chance to adjust gradually rather than leap.",
+					"{keyword} turned around can mean finding a middle path between staying put and starting over."
+				],
+				"neutral": [
+					"In money matters, {keyword} appears held back: reluctance to let go, decisions postponed, or a fresh look at what you already have.",
+					"{keyword} here suggests staying put financially, whether for good reasons or out of habit.",
+					"With {keyword} turned inward, the change may be in how you think about value rather than in your accounts."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} feels blocked, look after the basics first: food, water, a little movement. Small care keeps you steady while you think.",
+					"{keyword} may be stuck because stepping back feels impossible. Could you take just one hour off this week, and protect it?",
+					"When {keyword} feels out of reach, remember that rest is allowed even before everything is sorted."
+				],
+				"curious": [
+					"Here {keyword} may point to a routine you've outgrown but kept. What would your body choose instead, if you let it?",
+					"What if {keyword} is happening quietly, as a shift in what you need? Notice which parts of the day your energy dips and lifts.",
+					"{keyword} may be paused. What would help you feel ready to change a habit that wears you down?"
+				],
+				"grieving": [
+					"Grief can make {keyword} feel impossible, as if you can't stop to rest. Be gentle; even a short pause matters.",
+					"{keyword} may be delayed because routines feel like the only solid ground. Keep them for as long as they help.",
+					"If {keyword} feels far away, let others carry a little of the load while you rest."
+				],
+				"skeptical": [
+					"Practically, {keyword} held back can point to staying in a draining pattern. What keeps you there, and what would a small change look like?",
+					"Read plainly, {keyword} here suggests avoiding rest. Is there a real reason you can't step back, or has pushing on become habit?",
+					"No mysticism: {keyword} overdone can look like withdrawing from everything. Is solitude restoring you, or isolating you?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to renewed energy within a familiar routine. Hope is reasonable if something has felt lighter lately.",
+					"If you are hoping to feel better, {keyword} turned around can mean making room for quiet without withdrawing completely.",
+					"{keyword} may lead you back to something that once helped you feel well. It might be worth trying again."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} appears held back or overdone: reluctance to rest, clinging to draining routines, or withdrawing more than helps.",
+					"{keyword} here suggests that stepping back may be delayed, or happening more slowly than you'd like.",
+					"With {keyword} turned inward, the change may be in how closely you listen to what your body needs."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} feels blocked, you don't have to force a new understanding. Return to one familiar practice and let it steady you.",
+					"{keyword} may be held back by fear of letting go of old beliefs. You can question gently without abandoning everything at once.",
+					"When {keyword} feels stuck, quiet time outdoors can help. Let the questions breathe without needing answers."
+				],
+				"curious": [
+					"Here {keyword} may suggest you're searching far away for something that is already close. Where have you not thought to look?",
+					"What if {keyword} is a return rather than a departure? Notice which old practice or belief you're drawn back toward.",
+					"{keyword} may be paused while you absorb what you've already learned. What has stayed with you from the last stretch of searching?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel blocked, with meaning hard to find. You don't have to find it now.",
+					"{keyword} may be slowed because holding on feels like love. It is; let it be love for as long as it needs.",
+					"If {keyword} has gone quiet since your loss, there's no rush to begin again. Silence can be part of the path."
+				],
+				"skeptical": [
+					"Practically, {keyword} overdone can point to restlessness without direction. Is the search still helping, or has it become a habit of its own?",
+					"Read plainly, {keyword} here suggests staying with a belief mainly for comfort. Does it still fit what you've actually experienced?",
+					"No supernatural claim needed: {keyword} held back can be a sign that seeking has turned into avoiding. What might you be stepping around?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to finding meaning right where you are. Hope is fair; depth can grow in familiar places.",
+					"If you are hoping for growth, {keyword} turned around encourages you to look closer to home before looking far away.",
+					"{keyword} could lead you back to something you thought you'd left behind, and let you see it with new eyes."
+				],
+				"neutral": [
+					"In your inner life, {keyword} appears held back or turned inward: hesitation, a return to old practices, or a search without direction.",
+					"{keyword} here suggests the journey may be pausing, or happening quietly within.",
+					"With {keyword} turned inward, the question may be what you already know rather than what you're still seeking."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} is stuck, you don't have to choose today. Write down what you'd gain and lose either way, and let the list rest overnight.",
+					"{keyword} may be held back by fear of the unknown. That's human; lean on one familiar comfort while you wait for clarity.",
+					"When {keyword} feels blocked, remember that small changes count. You can adjust a life without walking away from all of it."
+				],
+				"curious": [
+					"Here {keyword} may raise a question: what keeps you where you are, and is it something you'd choose freely today?",
+					"What if {keyword} is happening inside before it shows outside? Notice how much your feelings have already moved.",
+					"{keyword} may be paused at the threshold. What would help you feel ready, one way or the other?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel impossible right now. You can stay where you are for as long as you need.",
+					"{keyword} may be delayed by love for what you've lost. That's not weakness; it's attachment, and it is natural.",
+					"If {keyword} keeps pulling you back to memories, let it. Moving forward can wait until your feet are ready."
+				],
+				"skeptical": [
+					"Practically, {keyword} held back points to indecision or inertia. What's the real reason you haven't moved, in one sentence?",
+					"Read plainly, {keyword} here suggests a cycle of nearly leaving and staying. What single change would break that pattern?",
+					"No mysticism: {keyword} overdone can mean leaving before giving things a chance. Are you avoiding a change, or avoiding a commitment?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to renewed commitment. Hope is reasonable if something has genuinely changed for the better.",
+					"If you are hoping for clarity, {keyword} delayed encourages patience. Readiness often grows quietly.",
+					"{keyword} turned around can mean finding what was missing without having to leave at all."
+				],
+				"neutral": [
+					"Overall, {keyword} appears held back or overdone: hesitation, fear of change, restless wandering, or a return to something familiar.",
+					"{keyword} here suggests a departure that is delayed, or happening inwardly first.",
+					"With {keyword} turned inward, the task may be understanding what you truly want before you act on it."
+				]
+			}
+		}
+	}
+}

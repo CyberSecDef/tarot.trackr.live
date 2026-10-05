@@ -1,0 +1,412 @@
+{
+	"id": "cups_09_nine",
+	"name": "Nine of Cups",
+	"facets": [
+		{
+			"id": "wishes",
+			"keywords": ["a heartfelt wish", "what you most want"]
+		},
+		{
+			"id": "contentment",
+			"keywords": ["contentment", "a sense of satisfaction", "a quiet sense of enough"]
+		},
+		{
+			"id": "gratitude",
+			"keywords": ["gratitude", "an appreciation of what you have"]
+		},
+		{
+			"id": "pleasure",
+			"keywords": ["pleasure", "simple indulgence", "an evening of comfort"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are worried about love, {keyword} is worth holding onto for a moment. Name one person who makes you feel at ease, and let yourself feel that ease fully.",
+					"{keyword} in love can feel almost too good to trust. You don't need to brace for it to end; enjoy the warmth you have tonight and leave tomorrow for tomorrow.",
+					"When doubts about a relationship crowd in, {keyword} invites you to notice what is already going well. Write down one moment from this week that felt good between you."
+				],
+				"curious": [
+					"{keyword} raises a lovely question: if someone asked what makes you happiest in love, what would you say without thinking?",
+					"What if {keyword} is as much about how you treat yourself as how others treat you? Try giving yourself the attention you'd love to receive.",
+					"{keyword} invites you to notice the small pleasures of closeness: a shared joke, a familiar voice, a hand on your shoulder. Which ones do you treasure most?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel out of place, or like something that belonged to the time before. It's all right if it can't touch you yet.",
+					"{keyword} may show up as a memory of a happy day with someone you've lost. Let it be sweet and sore at once; both are true.",
+					"When you are grieving, {keyword} doesn't ask you to feel cheerful. It may simply mean noticing one small comfort, like a favourite song, when it comes."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to notice what you already have in your relationships before chasing more. What would you miss most if it went?",
+					"Read plainly, {keyword} points to satisfaction. Are you content with how you're treated and how you treat others, or settling for comfortable?",
+					"No magic here: {keyword} describes the ordinary, valuable experience of feeling fulfilled with someone. Where do you feel that most?"
+				],
+				"hopeful": [
+					"{keyword} is a warm sign to carry into your hopes for love. Say clearly, to yourself at least, what you would like, and stay open to how it might arrive.",
+					"If you are hoping for closeness, {keyword} encourages you to enjoy what is already good while you reach for more. Gladness tends to draw people near.",
+					"{keyword} suggests that happiness in love is possible and worth wanting. It isn't a promise, but it is a good place to stand."
+				],
+				"neutral": [
+					"In love, {keyword} points to emotional satisfaction, pleasure in each other's company, and appreciating what you share.",
+					"{keyword} speaks to contentment in relationships and the comfort of feeling that your needs are met.",
+					"{keyword} suggests taking time to enjoy the warmth already present between you and the people you care about."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work worries are pressing, {keyword} invites you to remember what you've already achieved. List three things you've done well this year.",
+					"{keyword} at work may feel fragile, as if any moment could undo it. One thing in your control: enjoy today's progress before planning tomorrow's.",
+					"When anxiety about your career rises, {keyword} reminds you that you are allowed to be pleased with your work. Let yourself feel that."
+				],
+				"curious": [
+					"{keyword} asks a playful question: what would your ideal working day look like, hour by hour, and which part of it do you already have?",
+					"What might {keyword} look like in your career? Perhaps it's less about the next step and more about savouring this one.",
+					"{keyword} invites you to wonder what truly satisfies you at work. Is it praise, mastery, money, freedom, or something else entirely?"
+				],
+				"grieving": [
+					"If you are mourning something at work, {keyword} may feel distant. You can still mark what you built, quietly, without needing to celebrate.",
+					"{keyword} may arrive mixed with loss, like a success that someone you miss can't share. That bittersweetness is allowed.",
+					"After a loss, {keyword} at work may simply mean a task that went smoothly. Let that small ease count."
+				],
+				"skeptical": [
+					"Read practically, {keyword} points to satisfaction with your work. Are you acknowledging your achievements, or always moving the goalposts?",
+					"{keyword} is a plain prompt: what have you accomplished that you haven't fully noticed? Take five minutes to write it down.",
+					"Without mysticism, {keyword} describes a career moment worth appreciating. Recognising progress tends to sustain motivation."
+				],
+				"hopeful": [
+					"{keyword} suggests good things are within your reach at work. Hope is reasonable; keep doing the work that brought you here.",
+					"If you are hoping for success, {keyword} encourages you to name what you want clearly. A clear wish is easier to work toward.",
+					"{keyword} can be a sign that your efforts are being noticed. Enjoy it, and let it fuel the next steady step."
+				],
+				"neutral": [
+					"At work, {keyword} points to satisfaction, achievement and a sense that things are going well.",
+					"{keyword} highlights appreciation for your efforts and the results they have produced.",
+					"{keyword} suggests pausing to enjoy what you've built before reaching for the next goal."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money worries are pressing, {keyword} invites you to notice what you do have. List three things that feel secure right now.",
+					"{keyword} around money may feel fragile, as if it could disappear. One thing in your control: put a little aside today, however small.",
+					"When finances feel uncertain, {keyword} reminds you that comfort doesn't always cost much. A cup of tea and a quiet hour are free."
+				],
+				"curious": [
+					"{keyword} raises a question: what would enough look like for you, and how close are you to it already?",
+					"What if {keyword} is about enjoying what you have rather than getting more? Try spending a day noticing everything that already works.",
+					"{keyword} invites you to think about which purchases have brought you lasting pleasure, and which faded quickly."
+				],
+				"grieving": [
+					"After a loss, {keyword} may feel strange, or even guilty. It's all right to enjoy small comforts; they don't diminish your grief.",
+					"{keyword} may mean having enough while missing someone who can't share it. Let both be true.",
+					"If a loss has changed your circumstances, {keyword} may simply be one evening without financial worry. Let yourself rest in it."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about satisfaction versus spending. Are you buying things that make you happy, or things you think should?",
+					"Read plainly, {keyword} points to financial comfort. Do you know what your real needs cost, and what your wants cost on top?",
+					"No magic: {keyword} describes feeling satisfied with your resources. That feeling often depends more on expectations than on totals."
+				],
+				"hopeful": [
+					"{keyword} suggests your finances could feel more comfortable. Hope is reasonable when you keep enjoying what you have along the way.",
+					"If you are hoping for security, {keyword} encourages you to name what you want and plan toward it calmly.",
+					"{keyword} can be a reminder that wealth includes the pleasures money can't buy. Count those too."
+				],
+				"neutral": [
+					"In money matters, {keyword} points to comfort, satisfaction and enjoying the resources you have.",
+					"{keyword} speaks to financial ease and the importance of appreciating what is already in place.",
+					"{keyword} suggests balancing enjoyment of what you have with care for what comes next."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If worry about your body is loud, {keyword} invites you to notice one thing that feels good right now: warmth, a comfortable chair, a steady breath.",
+					"{keyword} in your wellbeing may feel hard to trust. One thing in your control: do one thing today purely because it feels nice.",
+					"When anxiety rises, {keyword} reminds you that comfort is a real form of care. Let yourself have some."
+				],
+				"curious": [
+					"{keyword} asks a curious question: what simple pleasures leave you feeling more energised, not less?",
+					"What could {keyword} teach you about rest? Notice which comforts restore you and which just pass the time.",
+					"{keyword} invites you to savour a meal, a walk or a bath with full attention, and see how your body responds."
+				],
+				"grieving": [
+					"In grief, {keyword} may feel far away. If one small comfort reaches you today, let it in without needing to explain it.",
+					"{keyword} may look like a warm drink, a soft blanket, or a quiet afternoon. These are not trivial; they are care.",
+					"When you are grieving, {keyword} doesn't have to mean happiness. It can simply mean your body feeling held for a moment."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about balance. Are your pleasures restoring your energy, or are some of them costing more than they give?",
+					"Read plainly, {keyword} points to wellbeing through enjoyment. Which small comforts genuinely help you feel better?",
+					"No mysticism here: {keyword} reflects a simple truth that rest and pleasure support wellbeing. Do you make room for both?"
+				],
+				"hopeful": [
+					"{keyword} suggests that feeling good in your body is possible and worth wanting. Begin with one comfort you can return to daily.",
+					"If you are hoping for more energy, {keyword} encourages you to enjoy the habits that support it rather than enduring them.",
+					"{keyword} can be a sign that ease is returning. Notice it, and let it guide your choices."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to comfort, pleasure and feeling at home in your body.",
+					"{keyword} speaks to the value of enjoyment as part of caring for yourself.",
+					"{keyword} suggests noticing which comforts nourish you and making space for them."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsettled, {keyword} invites you to rest in what already feels meaningful. Return to one practice that brings you peace.",
+					"{keyword} may feel fleeting, as if it could slip away. You don't have to hold it tightly; just notice it while it's here.",
+					"When worry crowds your thoughts, {keyword} reminds you that a moment of thanks can be grounding. Name one thing you're grateful for."
+				],
+				"curious": [
+					"{keyword} invites you to explore what fulfilment means to you beyond things and achievements. What does it feel like inside?",
+					"What if {keyword} is a practice rather than a feeling? Try ending each day this week by naming one good moment.",
+					"{keyword} raises a question: what would you wish for if the wish had to be for your inner life?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel out of reach. Let your inner life be quiet and tender; nothing needs to be fulfilled right now.",
+					"{keyword} may arrive as gratitude for the time you had with someone. That gratitude can sit alongside the ache.",
+					"When you are grieving, {keyword} doesn't ask you to find meaning. It simply leaves room for comfort if it comes."
+				],
+				"skeptical": [
+					"Treat {keyword} as a prompt: what gives you a sense of fulfilment, and is it something you pursue or something you notice?",
+					"Read practically, {keyword} points to the psychology of contentment. Gratitude and savouring are habits that can be practised.",
+					"{keyword} needs no supernatural reading. Reflecting on what satisfies you is a useful exercise in its own right."
+				],
+				"hopeful": [
+					"{keyword} suggests a sense of inner fulfilment is within reach. Nurture it with small, regular moments of appreciation.",
+					"If you are hoping for peace, {keyword} encourages you to notice where it already exists in your life.",
+					"{keyword} can be a sign of inner growth: wanting less, appreciating more, and feeling at home within yourself."
+				],
+				"neutral": [
+					"In your inner life, {keyword} points to contentment, gratitude and a sense of inner fulfilment.",
+					"{keyword} speaks to the joy of feeling whole and appreciating the richness of your experience.",
+					"{keyword} suggests that satisfaction may come from within as much as from outward success."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you're braced for bad news, {keyword} invites you to notice what's going right. Name three good things from today, however small.",
+					"{keyword} may feel fragile, as though it could vanish. You can enjoy it now without guarding it.",
+					"When worry rises, {keyword} reminds you that comfort is allowed. Do one thing today simply because it pleases you."
+				],
+				"curious": [
+					"{keyword} asks a playful question: if you could have one wish granted, what would it be, and what does that wish say about you?",
+					"What if {keyword} is already present in small ways? Spend a day looking for it.",
+					"{keyword} invites you to explore what makes you truly satisfied. Is it achievement, connection, rest, or something else?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel like it belongs to other people. That's all right; you don't need to feel it yet.",
+					"{keyword} may arrive mixed with sadness, a good moment shadowed by absence. Both can be held.",
+					"When you're carrying a loss, {keyword} may just be a small comfort in a long day. Let it count."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to notice what's working in your life. Do you acknowledge good outcomes or move straight on?",
+					"Read plainly, {keyword} points to satisfaction. What would you need for life to feel like enough?",
+					"No mysticism: {keyword} describes contentment and pleasure. These are worth noticing in their own right."
+				],
+				"hopeful": [
+					"{keyword} suggests good things are possible. Hope is fair here; name your wish clearly and take one step toward it.",
+					"If you're hoping for happiness, {keyword} encourages you to enjoy what you already have while reaching for more.",
+					"{keyword} can be a sign that life is offering satisfaction. Let yourself receive it."
+				],
+				"neutral": [
+					"Overall, {keyword} points to contentment, pleasure, gratitude and the fulfilment of wishes.",
+					"{keyword} speaks to satisfaction with life and the comfort of having enough.",
+					"{keyword} suggests a time to enjoy and appreciate what is good."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} in love feels out of reach right now, you don't have to chase it tonight. Do one kind thing for yourself that you were hoping someone else would do.",
+					"{keyword} may be slower to arrive between you and someone than you hoped. One steady step: say plainly what would make you feel cared for, instead of waiting to be guessed.",
+					"When {keyword} seems to belong to every couple but you, step back from the comparisons for a day. Fewer feeds and more real voices can quieten that worry."
+				],
+				"curious": [
+					"Here {keyword} may be living inward for now. What would it mean to feel satisfied in love on your own first, and then to share that with someone?",
+					"What if {keyword} isn't missing but mis-shaped? The picture you started with may have been someone else's idea of happy. What is yours?",
+					"{keyword} may have tipped into too much of a good thing: comfort becoming routine, ease becoming distance. Where could a little effort bring the spark back?"
+				],
+				"grieving": [
+					"When you have lost someone, {keyword} may feel like a word from another language. There is no need to translate it yet; let the absence be what it is.",
+					"{keyword} may feel almost disloyal while you are grieving, as if enjoying anything would mean forgetting. It wouldn't. But you can wait until it feels right.",
+					"If {keyword} keeps turning to longing for someone who isn't here, let that longing be a way of loving them. It doesn't have to become anything else."
+				],
+				"skeptical": [
+					"Practically, {keyword} turned around can point to complacency: assuming someone will always be there without tending the bond. When did you last make a real effort?",
+					"Read plainly, {keyword} here suggests checking whether you're dissatisfied with a person or with an ideal no one could meet. Those need very different responses.",
+					"There's nothing mystical in {keyword} gone sour. Comfort can slide into taking each other for granted; one honest thank-you can shift the tone more than you'd think."
+				],
+				"hopeful": [
+					"{keyword} may simply be taking longer than you'd like. Hope is fair here, especially if you keep showing up as the warm, open person you are.",
+					"If you are hoping for a fuller kind of love, {keyword} may grow first in quieter places: a friendship, a family tie, your own company. Notice those too.",
+					"{keyword} could return in a humbler, truer form than the one you imagined. Let your wish change shape without letting it go."
+				],
+				"neutral": [
+					"In love, {keyword} appears blocked or overdone: expectations unmet, comfort slipping into complacency, or satisfaction sought mainly from someone else.",
+					"{keyword} here suggests a gap between the relationship you wished for and the one in front of you, and asks which deserves your attention.",
+					"With {keyword} turned inward, the work may be noticing what would make you feel fulfilled, rather than waiting for another person to supply it."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} at work feels further away than ever, shrink the horizon. Pick one task you can finish well today and let that be enough for this afternoon.",
+					"{keyword} may be delayed by things you can't control at work. One thing you can: write down three skills you've grown this year, so the progress isn't invisible.",
+					"When {keyword} seems to slip past you while others get the recognition, take a breath. Comparison is loud, but your own track record is still there."
+				],
+				"curious": [
+					"Sometimes {keyword} may show up as a goal you reached that felt flatter than expected. What were you really hoping it would give you?",
+					"What if {keyword} has been resting on outside approval? Try naming one piece of work you're proud of that nobody else has praised.",
+					"{keyword} may be on hold while you outgrow an old ambition. Which goal still matters to you, and which are you chasing out of habit?"
+				],
+				"grieving": [
+					"If you are grieving something at work, {keyword} may feel hollow even when things go well. You don't have to feel pleased about anything just yet.",
+					"{keyword} may be hard to reach when the person you'd have told is gone, or the team you built has scattered. That emptiness makes sense.",
+					"After a loss, {keyword} at work can wait. For now, doing the next ordinary task is a quiet enough way through the day."
+				],
+				"skeptical": [
+					"Practically, {keyword} turned around can point to success that doesn't satisfy. Is the problem the work, or the measure you're using to judge it?",
+					"Read plainly, {keyword} here suggests complacency. Are you comfortable in a role in a way that's quietly stopping you from growing?",
+					"No mysticism needed: {keyword} out of balance often means goals set by someone else. Rewrite one target in your own words and see if it still holds."
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than denied. Hope is reasonable; keep a note of each small step so you can see the distance covered.",
+					"If you are hoping for a win at work, {keyword} may come more from mastering the craft than from any single prize. Let that be part of the goal.",
+					"{keyword} could be gathering out of sight while you work. Celebrate progress privately now, without waiting for a public moment."
+				],
+				"neutral": [
+					"At work, {keyword} appears blocked or hollow: goals delayed, success that feels empty, or comfort that has turned into coasting.",
+					"{keyword} here suggests reassessing what satisfaction at work actually looks like for you, beyond titles and approval.",
+					"With {keyword} turned inward, the reward may lie in personal pride rather than in recognition from others."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} around money feels out of reach, look for comfort that costs little: a library book, a walk, a meal you cook slowly.",
+					"{keyword} may be delayed while finances are tight. One thing in your control: choose a single treat that you plan for, so it feels earned and not anxious.",
+					"When {keyword} seems blocked by worry about bills, remember that security is built in small amounts. Today's small amount still counts."
+				],
+				"curious": [
+					"Lately {keyword} may have tipped into spending for a quick lift. Which of last month's purchases still makes you smile, and which don't?",
+					"What if {keyword} has less to do with money than you think? Make a list of things that satisfy you and cost nothing, and see how long it gets.",
+					"{keyword} may be turning inward. How would you feel about what you have if you couldn't see what anyone else has?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may feel out of place, or even unwelcome. You don't need to enjoy anything you buy or own right now.",
+					"{keyword} may have slipped away while money matters feel tangled up with someone you miss. Let someone help with the parts that hurt to handle.",
+					"If grief has made {keyword} hard to feel, keep things simple. Cover the essentials and let comfort return when it's ready."
+				],
+				"skeptical": [
+					"Practically, {keyword} turned around can point to overspending in search of satisfaction. Is there a pattern, like shopping when tired or lonely?",
+					"Read plainly, {keyword} here suggests having enough on paper but not feeling it. What would make enough feel like enough?",
+					"No magic needed: {keyword} out of balance often means lifestyle creeping up with income. Has that happened quietly for you?"
+				],
+				"hopeful": [
+					"{keyword} may simply be on hold. Hope is reasonable; a steady plan can get you to comfort even if it's slower than you'd like.",
+					"If you are hoping for more ease, {keyword} could come from wanting a little less as much as from having a little more.",
+					"{keyword} may be waiting on the other side of a few patient months. Set a modest goal and enjoy each step toward it."
+				],
+				"neutral": [
+					"In money matters, {keyword} appears blocked or overdone: comfort delayed, spending that doesn't satisfy, or enough that doesn't feel like enough.",
+					"{keyword} here suggests looking at the link between what you spend and how content you actually feel.",
+					"With {keyword} turned inward, the question may be what you value when no one else is watching."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} feels far away and your body feels tense, choose one gentle comfort right now: a warm drink, a softer chair, a slower breath.",
+					"{keyword} may be blocked by worry. One thing in your control: go to bed fifteen minutes earlier tonight and let that be the whole plan.",
+					"When {keyword} seems out of reach, notice one part of your body that feels fine at this moment. Rest your attention there for a while."
+				],
+				"curious": [
+					"Here {keyword} may show up as comforts that no longer comfort. Which treats leave you feeling better the next day, and which leave you flatter?",
+					"What if {keyword} is asking for quality rather than quantity? Try enjoying one thing slowly instead of several things quickly.",
+					"{keyword} may be turning inward. What does your body seem to enjoy when you're not rewarding it, just listening to it?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel impossible to reach. Your body is carrying something heavy, and simply getting through the day is enough.",
+					"{keyword} may be delayed while loss takes up the space. Small comforts, like clean sheets or a familiar meal, can be enough for now.",
+					"If {keyword} has slipped away since your loss, be patient with yourself. Feeling good isn't a task to complete."
+				],
+				"skeptical": [
+					"Practically, {keyword} turned around can point to overindulgence. Is one pleasure costing you sleep or energy more often than you'd like?",
+					"Read plainly, {keyword} here suggests that something meant as a reward has become a routine. Notice the pattern without judging it.",
+					"No mysticism needed: {keyword} out of balance usually means too much of one comfort and too little of another. Which is which for you?"
+				],
+				"hopeful": [
+					"{keyword} may be returning slowly as you find a better balance. Hope is reasonable; notice each day that feels a little easier.",
+					"If you are hoping to feel better, {keyword} could come from gentler, simpler comforts that you can keep up.",
+					"{keyword} may be closer when enjoyment and rest support each other. Look for a habit that does both."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} appears blocked or overdone: comfort that tips into excess, or pleasure that feels out of reach.",
+					"{keyword} here suggests checking whether your comforts restore your energy or quietly drain it.",
+					"With {keyword} turned inward, the focus may be on what genuinely nourishes you rather than what simply soothes."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} in your inner life feels blocked, you don't have to manufacture it. Name one small thing you're glad of today and leave it there.",
+					"{keyword} may feel delayed, as though peace is always one step ahead. One thing in your control: a few quiet minutes each morning, nothing more.",
+					"When {keyword} seems out of reach, remember that calm doesn't need to be deep to be real. A steady breath is a start."
+				],
+				"curious": [
+					"For now, {keyword} may be pointing inward. What are you looking for outside yourself that might already be present in your own quiet?",
+					"What if {keyword} has become a performance, something you're supposed to feel? Try noticing what you honestly appreciate instead.",
+					"{keyword} may be on hold while your sense of meaning shifts. What used to fulfil you that no longer does, and what is taking its place?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel unreachable, and well-meaning advice to be thankful may sting. You don't have to feel grateful right now.",
+					"{keyword} may be delayed while loss fills your inner life. Let it be quiet in there; that quiet is not emptiness.",
+					"If {keyword} has slipped away since your loss, don't force it back. Some comfort returns on its own, unasked."
+				],
+				"skeptical": [
+					"Practically, {keyword} turned around can point to spiritual smugness: feeling you've arrived. What questions have you stopped asking?",
+					"Read plainly, {keyword} here suggests looking for fulfilment in achievements or possessions. Has that ever lasted for you?",
+					"No supernatural claim needed: {keyword} out of balance often means comparing your inner life with others'. What does yours need, on its own terms?"
+				],
+				"hopeful": [
+					"{keyword} may be returning in a quieter, deeper form. Hope is fair here; keep noticing small moments of peace.",
+					"If you are hoping for inner fulfilment, {keyword} may come from simplifying rather than adding new practices.",
+					"{keyword} could grow from honest appreciation rather than forced positivity. Let it be real, even if it's small."
+				],
+				"neutral": [
+					"In your inner life, {keyword} appears blocked or overdone: fulfilment sought outside, gratitude that feels forced, or contentment slipping into complacency.",
+					"{keyword} here suggests turning inward to find what truly satisfies.",
+					"With {keyword} turned inward, the task may be noticing what you already value, quietly and honestly."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} feels out of reach, focus on one small good thing in the next hour. It can steady you more than a big plan.",
+					"{keyword} may be delayed, and that can stir worry. One thing in your control: notice what is already working and write it down.",
+					"When {keyword} seems to be happening for everyone but you, step away from comparing. Your life is the only one you have to live."
+				],
+				"curious": [
+					"Here {keyword} may be asking whether the wish itself has changed. What do you want now that you didn't want a year ago?",
+					"What if {keyword} has tipped into too much: too much comfort, too much ease, not enough challenge? What would stretch you a little?",
+					"{keyword} may be turning inward. What do you appreciate about yourself that you rarely say out loud?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel impossible, and that's all right. You don't need to feel satisfied with anything right now.",
+					"{keyword} may be delayed while loss takes up the room. Let it wait; it isn't going anywhere.",
+					"If {keyword} has slipped away, be gentle. Small comforts can carry you until it returns."
+				],
+				"skeptical": [
+					"Practically, {keyword} turned around can point to dissatisfaction or overindulgence. Look at the last month honestly: which one fits?",
+					"Read plainly, {keyword} here suggests taking good things for granted. What would you miss if it disappeared tomorrow?",
+					"No mysticism: {keyword} out of balance often means wanting the next thing before enjoying this one. Is that pattern showing up?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed, not lost. Hope is reasonable; keep your wish clear and keep taking modest steps toward it.",
+					"If you are hoping for happiness, {keyword} may come from inside first, from appreciating the life you're already living.",
+					"{keyword} could arrive in a different form than you pictured. Stay open to the surprise."
+				],
+				"neutral": [
+					"Overall, {keyword} appears blocked or overdone: wishes delayed, comfort slipping into complacency, or pleasure that doesn't quite satisfy.",
+					"{keyword} here suggests looking at what truly fulfils you rather than what only looks like fulfilment.",
+					"With {keyword} turned inward, the focus may be on contentment that doesn't depend on outcomes."
+				]
+			}
+		}
+	}
+}

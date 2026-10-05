@@ -1,0 +1,412 @@
+{
+	"id": "cups_04_four",
+	"name": "Four of Cups",
+	"facets": [
+		{
+			"id": "contemplation",
+			"keywords": ["contemplation", "a quiet withdrawal", "time spent looking inward"]
+		},
+		{
+			"id": "apathy",
+			"keywords": ["apathy", "a sense of discontent", "a flat mood"]
+		},
+		{
+			"id": "overlooked_offer",
+			"keywords": ["an overlooked offer", "a chance passing by", "an outstretched hand"]
+		},
+		{
+			"id": "reevaluation",
+			"keywords": ["reevaluation", "a second look", "a pause to take stock"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you feel distant from someone and it worries you, {keyword} suggests the distance may be a pause rather than a verdict. One small step: tell them you are a bit in your head lately, so they don't have to guess.",
+					"{keyword} can make love feel muted, which is unsettling when you care. You don't need to force a spark tonight; a short walk together without an agenda is enough.",
+					"When you are braced for a relationship to fade, {keyword} invites you to look at what is actually in front of you. Write down one kind thing someone offered you this week that you nearly missed."
+				],
+				"curious": [
+					"{keyword} asks a quiet question: is something in your love life feeling stale, or are you simply tired? Those need very different answers.",
+					"What if {keyword} is hiding an invitation you haven't looked at properly? Someone may be reaching out in a way you don't usually notice.",
+					"{keyword} hints at sitting out the dance for a while. What are you waiting for before you join in, and is it worth waiting for?"
+				],
+				"grieving": [
+					"{keyword} may be exactly where your heart needs to be while you grieve. Not wanting anything new for a while is not a failing.",
+					"When love has been lost, {keyword} can look like turning down invitations and staying home. That is allowed; the people who care will keep asking.",
+					"{keyword} does not ask you to notice what you are missing out on. It can simply be a quiet room where you get to feel what you feel."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to boredom or withdrawal in a relationship. Is the problem the connection itself, or the routine around it?",
+					"Take {keyword} as a prompt: are you dismissing people or offers too quickly because they don't match a picture in your head?",
+					"No mystery is needed here. {keyword} often shows up when someone is comparing what they have with what they imagine. Which comparison are you making?"
+				],
+				"hopeful": [
+					"{keyword} can be a useful pause before something better. It cannot promise what comes next, but it encourages you to keep one eye open while you rest.",
+					"If you are hoping for love, {keyword} suggests looking again at what is already near you. A kind offer might be closer than you think.",
+					"{keyword} invites you to rest without shutting the door. Hope can live alongside a quiet season."
+				],
+				"neutral": [
+					"In love, {keyword} speaks of a quiet, inward season: some boredom or detachment, and possibly an offer you haven't fully noticed.",
+					"{keyword} points to emotional withdrawal and reflection. It asks whether your heart needs rest or is simply looking the wrong way.",
+					"{keyword} brings the focus to what you are turning down or ignoring in your relationships, and why."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work has gone flat and that frightens you, {keyword} suggests a pause, not a collapse. One thing in your control: pick one task you can finish today, just for the feeling of finishing.",
+					"{keyword} may leave you wondering if you are in the wrong job. You don't have to decide that this week; just notice which parts drain you and which don't.",
+					"When you feel stuck at work, {keyword} invites you to check your messages and opportunities with fresh attention. Something useful may have slipped past."
+				],
+				"curious": [
+					"{keyword} asks what exactly has gone dull about your work. The tasks, the people, or the sense of where it is all heading?",
+					"What if {keyword} is your mind asking for a different kind of challenge? What would you try if no one was grading you?",
+					"{keyword} hints at an opportunity sitting quietly on the table. Is there an invitation you dismissed too quickly?"
+				],
+				"grieving": [
+					"If you are mourning a role or a colleague, {keyword} may describe how distant work feels now. Doing the basics is enough for a while.",
+					"{keyword} can look like staring at the screen without taking much in. Grief takes attention; it is all right to have less to give.",
+					"When work has lost its colour after a loss, {keyword} does not ask you to find it inspiring. Getting through the day is its own effort."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is about disengagement. How long has it lasted, and has anything changed in your role, your rest or your goals?",
+					"{keyword} is a plain prompt to check whether you are turning down useful offers out of habit. Look back over the last month's requests.",
+					"There is nothing mystical here: {keyword} often means a plateau. Plateaus are normal; the useful question is what would make the next step worth taking."
+				],
+				"hopeful": [
+					"{keyword} may be the quiet before a clearer direction. Hope fits, as long as you stay open to what is offered.",
+					"If you are hoping for a change at work, {keyword} encourages you to look closely at the options already around you before searching far afield.",
+					"{keyword} invites a pause to work out what you really want. That clarity can make the next opportunity easier to recognise."
+				],
+				"neutral": [
+					"At work, {keyword} points to a plateau, some boredom, and possibly an opportunity going unnoticed.",
+					"{keyword} highlights a time of reflection about your work and whether it still fits.",
+					"{keyword} suggests stepping back to reconsider your direction, while keeping an eye out for offers you might be overlooking."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money worries have left you numb, {keyword} suggests that is a common reaction, not a failing. One step in your control: open one statement and just read it.",
+					"{keyword} may make it tempting to avoid the numbers. You can look at them in small doses; ten minutes is a real start.",
+					"When finances feel stuck, {keyword} invites you to check for help you haven't used yet, like a support scheme, a discount or a friend's advice."
+				],
+				"curious": [
+					"{keyword} asks a question: are you dissatisfied with what you have, or with how you feel about it?",
+					"What if {keyword} is pointing to a resource you have overlooked? A skill, a contact, a thing you own but never use?",
+					"{keyword} hints at a habit of wanting the next thing. What would happen if you paused that for a week?"
+				],
+				"grieving": [
+					"Money can feel meaningless or overwhelming while you grieve. {keyword} reflects that, and it is understandable.",
+					"{keyword} may look like letting bills pile up because you can't face them. Ask someone to help with one, and leave the rest for now.",
+					"If a loss has changed your finances, {keyword} does not ask you to plan ahead yet. Small steps, when you can."
+				],
+				"skeptical": [
+					"Practically, {keyword} raises a question about dissatisfaction. Is spending a way of filling a gap that isn't about money?",
+					"{keyword} is a prompt to review offers and options you've ignored. Interest rates, better deals, unclaimed benefits are often overlooked.",
+					"Read plainly, {keyword} points to stagnation. What's one small financial habit that has drifted?"
+				],
+				"hopeful": [
+					"{keyword} suggests a good moment to reassess. Hope fits, especially if it leads to one practical change.",
+					"If you are hoping for more security, {keyword} encourages you to look at what you might already have access to.",
+					"{keyword} invites you to appreciate what is enough. Contentment can be a resource in its own right."
+				],
+				"neutral": [
+					"Around money, {keyword} points to dissatisfaction, stagnation or an opportunity being overlooked.",
+					"{keyword} speaks to a pause in financial momentum and a chance to reconsider what you value.",
+					"{keyword} suggests looking again at what you have before reaching for more."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel low on energy and it worries you, {keyword} suggests a pause rather than a problem to solve. One small thing: step outside for five minutes of daylight.",
+					"{keyword} can make everything feel like too much effort. Let today's goal be one gentle act of care, like a proper meal or an early night.",
+					"When you feel flat, {keyword} invites you to accept help that is offered. A friend's invitation for a walk might be worth saying yes to."
+				],
+				"curious": [
+					"{keyword} poses a question: what does your body want when you feel this flat, rest or movement?",
+					"What might {keyword} be telling you about your routine? Is there a part of your day that has gone stale?",
+					"{keyword} hints at turning inward. How does your body feel when you give it quiet without guilt?"
+				],
+				"grieving": [
+					"Grief can make the body heavy, and {keyword} may be how that heaviness shows. Resting is care, not avoidance, and it doesn't need a reason.",
+					"{keyword} may look like staying in bed longer or not feeling hungry. Be gentle with yourself; small comforts count.",
+					"When you are carrying loss, {keyword} does not ask you to feel motivated. Let the body move slowly."
+				],
+				"skeptical": [
+					"Practically, {keyword} can point to low mood or low energy. How have your sleep, light and movement been lately?",
+					"{keyword} is a prompt to notice whether you are turning down things that usually help you feel well.",
+					"Read without mysticism, {keyword} is about stagnation. Small changes to routine tend to shift energy more than big plans."
+				],
+				"hopeful": [
+					"{keyword} may be a resting phase before energy returns. Hope is fair, especially if you treat yourself kindly in the meantime.",
+					"If you are hoping to feel brighter, {keyword} encourages you to accept small offers of care from others.",
+					"{keyword} invites you to rest without deciding it is permanent. Low seasons tend to shift, and you can keep the next good day in view without forcing it."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to low energy, inward focus and a need to reassess routines.",
+					"{keyword} speaks to a quiet, withdrawn phase and asks what kind of rest you need.",
+					"{keyword} suggests noticing which forms of care you might be overlooking, like an offer of company, a quiet hour, or simply going to bed earlier."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels dull, {keyword} suggests this is a common season rather than a sign of something wrong. One steady step: sit outside for a few minutes and notice what is around you.",
+					"{keyword} may make meaning feel far away. You can keep a small practice going without feeling anything in particular.",
+					"When you feel spiritually stuck, {keyword} invites you to notice small graces you may be passing over, like a kind word or good light."
+				],
+				"curious": [
+					"{keyword} asks what you are looking for so hard that you might miss what is offered. What if the answer is quieter than you expect?",
+					"What if {keyword} is part of your practice rather than a break from it? Sitting under the tree and doing nothing much can be its own kind of attention.",
+					"{keyword} hints at dissatisfaction with old answers. What question are you really asking now?"
+				],
+				"grieving": [
+					"{keyword} may describe the stillness of grief. Your inner life can be quiet for a while without being lost.",
+					"When loss has emptied you, {keyword} does not ask you to seek meaning. Sitting still is enough.",
+					"{keyword} might be a place to rest with your loss, away from everyone else's ideas about it."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to notice where you've grown jaded. Is it with a practice, a belief, or yourself?",
+					"{keyword} doesn't need faith. It simply suggests asking what you have stopped paying attention to.",
+					"Read plainly, {keyword} points to reflection. When did you last ask yourself whether your beliefs still fit?"
+				],
+				"hopeful": [
+					"{keyword} suggests a season of reflection that could lead somewhere new. Hope fits here, even if the next step isn't visible yet.",
+					"If you are hoping for renewal, {keyword} encourages patience and attentiveness to small openings.",
+					"{keyword} invites you to rest in stillness. Insight sometimes comes when you stop chasing it."
+				],
+				"neutral": [
+					"On the inner path, {keyword} speaks of contemplation, inner dissatisfaction and overlooked grace.",
+					"{keyword} points to stillness and reassessment, a time when old answers feel thin and new ones haven't arrived.",
+					"{keyword} suggests looking inward while keeping a hand open to what is offered from outside, which may be easy to miss."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels stuck, {keyword} suggests a pause rather than a dead end. One thing in your control: do one small thing differently today.",
+					"{keyword} may make everything feel grey. You don't have to change everything; just notice one thing you appreciate.",
+					"When you are braced for bad news, {keyword} invites you to check whether a good option is already in front of you."
+				],
+				"curious": [
+					"{keyword} asks what you might be overlooking. Is there an offer or idea you dismissed too fast?",
+					"What if {keyword} is your mind asking for a new question rather than a new answer? Try writing down what you are really wondering about lately.",
+					"{keyword} hints at a quiet season. What might you notice if you stopped scanning for something better?"
+				],
+				"grieving": [
+					"{keyword} may be where you need to be while you grieve. Withdrawal is part of how people carry loss.",
+					"When loss has flattened everything, {keyword} does not ask you to rally. Rest and quiet are enough.",
+					"{keyword} might mean turning down invitations for now. The people who care will understand."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to boredom or dissatisfaction. What specifically has gone stale?",
+					"{keyword} is a prompt to notice the opportunities you've been ignoring. Make a short list of invitations from the last month and see which still appeal.",
+					"Read plainly, {keyword} is about reflection. Is it productive reflection, or just drifting?"
+				],
+				"hopeful": [
+					"{keyword} may be a quiet pause before something clearer. Hope is fair, and staying open costs little while you wait to see what arrives.",
+					"If you are hoping for change, {keyword} encourages you to look again at what is already offered.",
+					"{keyword} invites you to rest and reassess. That can be a good foundation for what comes next."
+				],
+				"neutral": [
+					"Overall, {keyword} speaks of contemplation, boredom, withdrawal or an overlooked opportunity.",
+					"{keyword} points to a quiet pause and asks what you might be missing while your attention is turned inward.",
+					"{keyword} suggests reassessing before moving on, checking what you want before deciding what to turn down."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you are coming out of a withdrawn season, {keyword} may be shifting, and that can feel exposed. One small step: answer one message you have left unanswered, even briefly.",
+					"{keyword} may be turning outward again, slowly. You don't have to leap back into everything; one coffee with someone you like is plenty for now.",
+					"When you notice you have been holding people at arm's length, {keyword} invites you to forgive yourself for it first. Then let one person a little closer, at a pace that feels safe."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. What made you start looking up and around again, and who did you notice first?",
+					"What if {keyword} is giving way to curiosity about someone? Think of one thing you would genuinely like to know about them, and ask it.",
+					"{keyword} hints at saying yes to something you would once have waved away. Which invitation in your love life feels worth a second look now?"
+				],
+				"grieving": [
+					"{keyword} may be easing a little, or it may not be, and either is all right. Grief keeps its own calendar and does not owe anyone a timetable.",
+					"If you feel some pull to see people again, {keyword} does not ask you to be cheerful when you do. Turning up as you are is enough.",
+					"{keyword} may run deeper while you grieve, and you can stay inside it as long as you need. The people who love you can wait at the door."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often marks a turn back toward people. What actually changed: your mood, your circumstances, or who is around you?",
+					"{keyword} is a prompt to notice whether withdrawal has gone on longer than it is useful. Is the distance you keep still protecting you, or just habit now?",
+					"Read plainly, {keyword} reversed can mean finally noticing an offer of affection you once brushed aside. Is it still on the table, and do you want it?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to renewed interest in love. Hope fits here, so let yourself be visibly open to what is offered.",
+					"If you are hoping for connection, {keyword} encourages you to say yes to the next kind invitation, even if it is small and ordinary.",
+					"{keyword} could be turning into readiness. It cannot promise who you might meet or how it goes, but it suggests the door is no longer shut."
+				],
+				"neutral": [
+					"In love, {keyword} reversed can point to re-engaging after a withdrawn spell, accepting care you once overlooked, or, less often, a turn even further inward.",
+					"{keyword} appears to be shifting, asking whether you are ready to let people back into your attention.",
+					"{keyword} suggests a detached season coming to an end, or a sign that it has quietly gone on too long."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If you feel a little motivation returning, {keyword} may be moving. One step in your control: write down one realistic goal for this month and nothing more.",
+					"{keyword} may be loosening its hold at work. You don't need a five-year plan; one next action, done today, is enough to build on.",
+					"When you feel ready to engage again, {keyword} invites you to start small. Offer to help with one task that genuinely interests you."
+				],
+				"curious": [
+					"{keyword} seems to be shifting at work. What has caught your interest lately, even in passing?",
+					"What if {keyword} is turning toward an opportunity you once dismissed? It might be worth asking whether it is still open.",
+					"{keyword} hints at re-engaging with your work. If you could change one thing about how you spend your working day, what would it be?"
+				],
+				"grieving": [
+					"{keyword} may still sit heavily on your working days while you grieve. That's all right; your job can have less of you for a while.",
+					"If you notice a flicker of interest in work returning, {keyword} does not ask you to fan it into a flame. Let it come and go as it will.",
+					"{keyword} may ease and return in waves after a loss. Some days you may be present at work and some days not, and both are part of it."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to re-engagement after a plateau. What changed in concrete terms: your role, your rest, or your goals?",
+					"{keyword} is a prompt to check whether you are still declining useful offers out of habit. Look at the last three things you said no to.",
+					"Read plainly, {keyword} reversed can mean it is time to act on what you have been mulling over. What is the first concrete step, and when could you take it?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to fresh motivation at work. Hope fits, so act on it while it is warm, even modestly.",
+					"If you are hoping for progress, {keyword} encourages you to say yes to one new thing this month and see where it leads.",
+					"{keyword} could be turning into readiness for change. It cannot promise the next role or project, but it suggests you are able to reach for it."
+				],
+				"neutral": [
+					"At work, {keyword} reversed can point to renewed motivation, a second chance at an opportunity, or a disengagement that has run deeper than intended.",
+					"{keyword} appears to be shifting at work, asking what you feel ready to take on next.",
+					"{keyword} suggests a plateau ending, or a pause that is ready to become a decision."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If you feel ready to face your finances again, {keyword} may be shifting. One step in your control: jot down what came in and went out last week, nothing more.",
+					"{keyword} may be loosening around money. Start with one small, satisfying task, like cancelling a subscription you no longer use.",
+					"When avoidance starts to ease, {keyword} invites you to ask for the advice you have been putting off. One conversation can make the whole picture less frightening."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. What made you want to look at your money again, and what are you hoping to find?",
+					"What if {keyword} turns up a resource you had forgotten, like an old account, a skill you could charge for, or help you are entitled to?",
+					"{keyword} hints at saying yes to a financial opportunity you once ignored. What would you want to check before you did?"
+				],
+				"grieving": [
+					"{keyword} may still sit heavily on money matters while you grieve. Not wanting to look at numbers is understandable.",
+					"If you feel a little readier to deal with finances, {keyword} does not ask you to sort out everything. One envelope, one call, then rest.",
+					"{keyword} may ease slowly after a loss. Let someone you trust sit with you for the parts that feel heaviest."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means ending a period of financial avoidance. A single honest review of your accounts is a sensible start.",
+					"{keyword} is a prompt to revisit offers you dismissed: a better rate, a refund you never claimed, a cheaper plan. Some may still be available.",
+					"Read plainly, {keyword} reversed may also mean dissatisfaction tipping into restless spending. Which way is it going for you?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to clearer action with money. Hope fits, especially when it comes with one practical step.",
+					"If you are hoping for more ease, {keyword} encourages you to engage with your finances rather than wait for them to improve on their own.",
+					"{keyword} could become a fresh start. It cannot promise a better balance, but paying attention again is how most improvements begin."
+				],
+				"neutral": [
+					"Around money, {keyword} reversed can point to re-engaging after avoidance, accepting help, or restlessness turning into impulse.",
+					"{keyword} appears to be shifting, asking whether you are ready to look at your resources with fresh eyes and a steady hand.",
+					"{keyword} suggests a stagnant financial season coming to an end, or a need to notice that it has dragged on."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If some energy is returning, {keyword} may be shifting. One small thing in your control: take a short walk today, as slow as you like.",
+					"{keyword} may be loosening, though not all at once. There is no rush; you can rebuild routines one ordinary day at a time.",
+					"When you feel ready to come out of a flat spell, {keyword} invites you to accept care from others. Let someone cook or keep you company."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. What do you actually feel like doing with your body now: moving, resting, or something new?",
+					"What if {keyword} is giving way to interest in a fresh habit? Pick one you would enjoy, not one you think you should do.",
+					"{keyword} hints at re-engaging with how you feel day to day. What small pleasure have you started noticing again?"
+				],
+				"grieving": [
+					"{keyword} may still feel heavy in your body while you grieve. Lying down when you need to is a reasonable kind of care.",
+					"If some energy returns, {keyword} does not ask you to spend it all at once. Save some for yourself.",
+					"{keyword} may ease and settle back in waves. Grief often moves that way, and your body is allowed to follow it."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means energy and interest coming back. What concretely helped: sleep, daylight, company, or time?",
+					"{keyword} is a prompt to notice whether resting has stopped being restful. At some point stillness can start to drain rather than restore.",
+					"Read without mysticism, {keyword} reversed can mean leaving a rut. Changing one small habit tends to work better than overhauling everything."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to a little more energy. Hope fits, as long as you pace yourself kindly.",
+					"If you are hoping to feel brighter, {keyword} encourages steady, small steps: a walk, a decent meal, an earlier night.",
+					"{keyword} could become readiness to look after yourself in new ways. It cannot promise how you might feel, but it points toward movement."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} reversed can point to returning energy, renewed interest in self-care, or a withdrawal that has gone on longer than it helps.",
+					"{keyword} appears to be shifting, asking whether rest has done its work and what your body wants next.",
+					"{keyword} suggests a flat spell starting to lift, or a reminder to check that it hasn't settled in for too long."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If you feel a spark returning to your inner life, {keyword} may be shifting. One steady step: come back to a familiar practice for just five minutes.",
+					"{keyword} may be loosening, though meaning rarely returns on a schedule. You can stay patient and still keep showing up.",
+					"When you feel ready to look outward again, {keyword} invites you to notice small graces: a kind stranger, good light, a song that lands."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. What is drawing your attention now that wasn't before?",
+					"What if {keyword} is giving way to a new insight you are not yet able to name? Let it stay unnamed a little longer.",
+					"{keyword} hints at re-engaging with questions of meaning. Which old question feels fresh again?"
+				],
+				"grieving": [
+					"{keyword} may still be your resting place while you grieve. Inner quiet can be a kind of shelter, and you can stay as long as you need.",
+					"If a sense of meaning starts to return, {keyword} does not ask you to make sense of your loss. Some things do not need to make sense.",
+					"{keyword} may ease slowly, or change shape entirely. Let your inner life move at the pace your heart allows."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can mean renewed interest in what you believe. What prompted it?",
+					"{keyword} is a prompt to revisit ideas or practices you dismissed too quickly. Were you rejecting them, or just tired?",
+					"Read plainly, {keyword} reversed may point to too much navel-gazing. Is reflection still leading anywhere, or circling?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to fresh insight. Hope fits, so stay open to where it leads.",
+					"If you are hoping for renewal, {keyword} encourages you to say yes to an invitation to practise with others.",
+					"{keyword} could become readiness for a new chapter in your inner life. It may come gently, through ordinary days."
+				],
+				"neutral": [
+					"On the inner path, {keyword} reversed can point to renewed meaning, a returning sense of wonder, or contemplation turned into withdrawal.",
+					"{keyword} appears to be shifting, asking whether your stillness is still nourishing you.",
+					"{keyword} suggests a dry spiritual season ending, or one that may need a gentle nudge from you to end."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you feel ready to move again, {keyword} may be shifting. One step in your control: do one thing today you have been putting off for weeks.",
+					"{keyword} may be loosening its hold. Go gently; coming out of a flat spell is easier one small yes at a time.",
+					"When you notice you have been turning things down, {keyword} invites you to accept one offer this week, just to see how it feels."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. What has caught your interest lately, even something small?",
+					"What if {keyword} is giving way to an opportunity you once dismissed? It may be worth a second look.",
+					"{keyword} hints at re-engaging with life. What would you try if you trusted that you could stop again whenever you liked?"
+				],
+				"grieving": [
+					"{keyword} may still be where you live for now, and that is all right while you grieve. There is no deadline for coming back out.",
+					"If things start to lift, {keyword} does not ask you to rush back into everything. Small steps out and back are fine.",
+					"{keyword} may ease slowly or not yet at all. Either way, your grief does not need to be hurried."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means re-engagement after a stuck period. What changed to make that possible?",
+					"{keyword} is a prompt to revisit offers you dismissed. Some are gone, but some may still be open.",
+					"Read plainly, {keyword} reversed can mean reflection finally turning into action. What is the first concrete step?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to fresh motivation. Hope fits, so use it while it is warm.",
+					"If you are hoping for change, {keyword} encourages you to say yes to the next invitation that feels even slightly right.",
+					"{keyword} could become readiness for something new. It cannot promise what comes next, but you seem ready to meet it."
+				],
+				"neutral": [
+					"Overall, {keyword} reversed can point to re-engaging after withdrawal, accepting an overlooked chance, or a pause that has gone on too long.",
+					"{keyword} appears to be shifting, asking what you feel ready to say yes to.",
+					"{keyword} suggests stagnation coming to an end, or a nudge to notice that it should."
+				]
+			}
+		}
+	}
+}

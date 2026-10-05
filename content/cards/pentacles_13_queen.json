@@ -1,0 +1,412 @@
+{
+	"id": "pentacles_13_queen",
+	"name": "Queen of Pentacles",
+	"facets": [
+		{
+			"id": "nurture",
+			"keywords": ["practical care", "nurturing warmth", "a caring presence"]
+		},
+		{
+			"id": "home",
+			"keywords": ["a welcoming home", "comfort and shelter", "a nourishing space"]
+		},
+		{
+			"id": "resourcefulness",
+			"keywords": ["resourcefulness", "making much from little", "practical wisdom"]
+		},
+		{
+			"id": "groundedness",
+			"keywords": ["down-to-earth calm", "groundedness", "ease in your own body"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If love feels uncertain, {keyword} is something you can give and receive without needing every answer first. Cook something for someone, or let them cook for you.",
+					"{keyword} suggests the people who care for you show it in small, practical ways. One thing in your control today: notice one of those ways and thank them for it.",
+					"When worry makes you grip tightly, {keyword} invites you to soften your shoulders and look at what is already warm and working. What does an ordinary good evening look like for you?"
+				],
+				"curious": [
+					"{keyword} asks a gentle question: what makes you feel truly looked after, and do the people close to you know it?",
+					"What if {keyword} were the language your relationships speak best? A shared meal or a tidied corner can say a great deal.",
+					"{keyword} hints that love grows well in comfortable places. What could you change about your shared spaces to make closeness easier?"
+				],
+				"grieving": [
+					"{keyword} may feel far away when you are missing someone. It is all right to let others look after you for a while, without offering anything back.",
+					"After a loss, {keyword} might be as simple as a blanket, a warm drink and a friend nearby. Let comfort be small and enough.",
+					"Grief can make a home feel empty, and {keyword} does not ask you to fill it quickly. Keep one corner soft and familiar, and rest there when you need to."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to how care is shared at home. Who does the feeding, the remembering, the tidying? Is that balance working for everyone?",
+					"Read {keyword} as a prompt about everyday kindness. Relationships tend to rest on small acts of care more than big declarations.",
+					"No mystery is needed for {keyword}. People generally feel closer when they feel comfortable around each other. What helps you relax with the people you love?"
+				],
+				"hopeful": [
+					"{keyword} is a warm sign to carry into love. Hope tends to grow where people feel at home with each other.",
+					"If you are hoping for closeness, {keyword} encourages you to make room for it: an open invitation, a cleared evening, a meal to share.",
+					"{keyword} suggests that the love you hope for may look ordinary and steady. That is not a lesser kind; it is the kind that lasts."
+				],
+				"neutral": [
+					"In matters of the heart, {keyword} speaks of loyalty, nurturing and love expressed through everyday care.",
+					"{keyword} points to a relationship that feels like shelter: warm, practical and generous.",
+					"{keyword} brings attention to the comfort people create for one another, and how it is shared."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels unsettled, {keyword} reminds you that you have handled hard things with what you had before. List one resource you can draw on this week.",
+					"{keyword} suggests looking after yourself as part of doing the job well. One thing in your control: protect a proper lunch break.",
+					"When you are worried about work, {keyword} invites you to make your working space a little kinder. A tidy desk or a plant can steady more than you expect."
+				],
+				"curious": [
+					"{keyword} opens a question: where at work are you already the person others come to for help? That may be a strength worth naming.",
+					"What if {keyword} were your quiet edge? Teams often run better around someone who makes things work with what is at hand.",
+					"{keyword} hints at balance. How would your working week look if it left room for the parts of life you care about most?"
+				],
+				"grieving": [
+					"Work may feel distant after a loss, and {keyword} does not ask you to give more than you have. Let colleagues carry a little extra for now.",
+					"{keyword} might mean bringing some comfort into the workday: a familiar mug, an earlier finish, a kind word to yourself.",
+					"If grief has made work harder, {keyword} reminds you that caring for yourself is also part of showing up. Rest when the day allows."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to resourcefulness. What could you achieve with the tools and people you already have, before asking for more?",
+					"Treat {keyword} as a prompt about sustainability. Can you keep doing the work at this pace and still look after the rest of your life?",
+					"No mysticism required: {keyword} is about practical competence and care for the people around you. Both tend to be noticed over time."
+				],
+				"hopeful": [
+					"{keyword} encourages you to trust your ability to make things work. Hope is reasonable when it rests on skills you have already shown.",
+					"If you are hoping for growth at work, {keyword} suggests growing in a way that still leaves room for home and rest.",
+					"{keyword} invites you to value the care you put into your work. It often matters more than it appears."
+				],
+				"neutral": [
+					"At work, {keyword} speaks of competence, generosity and balancing ambition with the rest of life.",
+					"{keyword} points to a practical, nurturing presence that helps others do their best work.",
+					"{keyword} brings attention to making the most of available resources with calm and care."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money worries are pressing, {keyword} reminds you that you have stretched resources before. What is one thing you already do well with what you have?",
+					"{keyword} suggests that security can be felt in simple comforts. One thing in your control today: a home-cooked meal or a tidy cupboard can help you feel steadier.",
+					"When finances feel tight, {keyword} invites you to look at what is already enough. Naming it does not fix everything, but it can ease the panic."
+				],
+				"curious": [
+					"{keyword} asks what makes you feel secure. Is it a number, a full pantry, a warm home, people nearby?",
+					"What if {keyword} were a more interesting money skill than earning more? Notice where you already make a lot from a little.",
+					"{keyword} hints at value that is not on a statement. What in your home or life feels rich to you, regardless of its price?"
+				],
+				"grieving": [
+					"After a loss, money matters may feel heavy, and {keyword} acknowledges that. Let someone you trust help with one practical task.",
+					"{keyword} may look like friends bringing food or helping with errands. Accepting that help is not a debt you need to settle now.",
+					"If a loss has changed your circumstances, {keyword} does not ask you to have it all worked out. Comfort and the basics come first."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to household management: what comes in, what goes out, what is wasted. A plain look can be useful.",
+					"Treat {keyword} as a prompt to value what you already have. Using things well often matters as much as acquiring more.",
+					"No magic involved: {keyword} is about practical habits. Which small, sensible choices already make your resources go further?"
+				],
+				"hopeful": [
+					"{keyword} suggests that security grows from care and good sense. Hope is honest here when it rests on habits you already have.",
+					"If you are hoping for more comfort, {keyword} encourages you to enjoy what you have while you build.",
+					"{keyword} invites you to notice how much you already provide for yourself and others. That is worth recognising."
+				],
+				"neutral": [
+					"Around money, {keyword} speaks of sensible management, comfort and generosity at home.",
+					"{keyword} points to a practical, nurturing relationship with resources.",
+					"{keyword} brings attention to the security found in a well-kept life and the resourcefulness that supports it."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} suggests simple comforts: warm food, fresh air, a proper rest. Choose one for today.",
+					"{keyword} invites you to look after yourself as kindly as you look after others. One small act of care is enough to start.",
+					"When stress is high, {keyword} reminds you to come back to your senses: the weight of your feet, the warmth of a cup, the air on your skin."
+				],
+				"curious": [
+					"{keyword} poses a question: what makes your body feel at home? A particular meal, a walk outside, a long bath?",
+					"What if {keyword} were the centre of your routine? Care can be enjoyable as well as useful.",
+					"{keyword} hints at the link between your surroundings and your energy. Which space helps you rest best, and why?"
+				],
+				"grieving": [
+					"Grief lives in the body, and {keyword} may simply mean letting yourself be cared for. Warm food, soft clothes and early nights all count.",
+					"{keyword} does not ask you to feel better. It only invites small comforts while you carry what you are carrying.",
+					"When loss has left you tired, {keyword} might look like a friend bringing soup, or a quiet afternoon in a familiar chair."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to the basics: food, rest, movement and a comfortable environment. Which is most neglected?",
+					"Treat {keyword} as a prompt: do you give yourself the same care you give the people you look after?",
+					"No mysticism needed: {keyword} is about everyday habits. Cooking, sleeping and getting outside each affect how you feel."
+				],
+				"hopeful": [
+					"{keyword} encourages you to make care part of daily life. Steady comfort can be a solid thing to put hope in.",
+					"If you are hoping to feel stronger, {keyword} suggests nurturing yourself with the same patience you would offer anyone else.",
+					"{keyword} invites you to notice the small comforts that already help. Building on them is a hopeful step."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} speaks of self-care, nourishment and feeling at home in your body.",
+					"{keyword} points to steady, practical comfort and attention to the basics.",
+					"{keyword} highlights the link between a nurturing environment and how you feel."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsettled, {keyword} suggests grounding yourself in the physical: hands in soil, bread in the oven, feet on the floor.",
+					"{keyword} reminds you that the sacred can be ordinary. Making a cup of tea slowly can be a quiet practice.",
+					"When doubts crowd in, {keyword} invites you to rest in what is simple and real. What around you feels steady right now?"
+				],
+				"curious": [
+					"{keyword} asks where you feel most connected: in nature, in your kitchen, in caring for others?",
+					"What if {keyword} were your spiritual path? Tending a home or a garden can be a form of devotion.",
+					"{keyword} hints that spirit and body are not separate. What happens to your sense of meaning when you slow down physically?"
+				],
+				"grieving": [
+					"{keyword} may feel distant when grief has shaken what you believe. Simple rituals of comfort can be enough for now.",
+					"After a loss, {keyword} might mean being outside among living things. The earth can hold what is too heavy for words.",
+					"Grief has its own season, and {keyword} does not ask you to rush it. Let your body rest and your beliefs wait."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to grounded practice over abstract ideas. What keeps you feeling connected to everyday life?",
+					"Treat {keyword} as a prompt: do your beliefs show up in how you treat people and places around you?",
+					"No mystical claims needed: {keyword} is about care made visible. Meaning often grows from what we look after."
+				],
+				"hopeful": [
+					"{keyword} encourages a spirituality rooted in daily life. Hope can live in small rituals of care.",
+					"If you are hoping for deeper meaning, {keyword} suggests it may be closer than you think, in home, body and earth.",
+					"{keyword} invites you to trust the wisdom of ordinary things. They are often deeper than they look."
+				],
+				"neutral": [
+					"In inner life, {keyword} speaks of grounded spirituality, the sacred in everyday life and connection with nature.",
+					"{keyword} points to meaning found through care, comfort and practical devotion.",
+					"{keyword} brings attention to the link between the body, the home and the spirit."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels uncertain, {keyword} suggests taking care of the basics first. Eat, rest, tidy one small space.",
+					"{keyword} reminds you that you are more capable than worry suggests. You have made things work before with what you had.",
+					"When everything feels unsettled, {keyword} invites you to make one corner of your life comfortable and steady."
+				],
+				"curious": [
+					"{keyword} asks a question worth exploring: what makes you feel at home, in your space and in yourself?",
+					"What if {keyword} were the theme of this season? Caring for what you have could be its own adventure.",
+					"{keyword} hints at hidden resources. What are you already good at that you have stopped noticing?"
+				],
+				"grieving": [
+					"{keyword} may feel far away while you grieve. Let others look after you for a while.",
+					"After a loss, {keyword} might mean finding comfort in small, physical things: warmth, food, rest.",
+					"{keyword} does not ask you to move forward. It only invites you to be gentle with yourself while you carry this."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to resourcefulness and care. What could you do well with what you already have?",
+					"Treat {keyword} as a prompt to look at balance: are you looking after others at the expense of yourself, or the other way round?",
+					"No mystery needed: {keyword} is about practical competence and warmth. Both make daily life easier."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign for building a life that feels secure and comfortable.",
+					"If you are hoping for stability, {keyword} suggests it may grow from steady, caring habits.",
+					"{keyword} invites you to trust your own ability to make a good life from what is at hand."
+				],
+				"neutral": [
+					"{keyword} speaks of nurturing, practicality and making a comfortable, secure life.",
+					"{keyword} points to a grounded, generous approach to home, work and the people you care for.",
+					"{keyword} brings attention to resourcefulness and the quiet abundance of a well-kept life."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you are giving more care than you receive, {keyword} may be running one way only. One thing in your control: ask for one small thing you need this week.",
+					"{keyword} may feel missing at home right now, and that can stir worry. Rather than assuming the worst, name one specific comfort you would like more of.",
+					"When you feel unseen in love, {keyword} may be turned inward, waiting to be offered to yourself first. What would you do if you were looking after you?"
+				],
+				"curious": [
+					"{keyword} might be overdone, with care tipping into managing or smothering. Where are you doing things for someone that they could do for themselves?",
+					"What if {keyword} has been neglected because work or worry has taken over? Wonder what home would feel like with a little more attention.",
+					"{keyword} feels uneven here. Who looks after whom, and is that what both of you want?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible after a loss. If you can't look after others the way you did, that is understandable.",
+					"If the home you shared feels empty, {keyword} may be hard to find. It's all right to let it stay quiet for a while.",
+					"{keyword} can be turned toward yourself for now. You don't have to care for everyone while you grieve."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance. Is one person carrying most of the household and emotional work?",
+					"{keyword} is a prompt about over-giving. Caring too much for others can quietly breed resentment; is that happening here?",
+					"Read plainly, {keyword} blocked can mean comfort replaced by busyness. When did you last relax together without a task?"
+				],
+				"hopeful": [
+					"{keyword} may be paused rather than lost. A small act of care, offered or asked for, can restart the flow.",
+					"If you are hoping to feel closer, {keyword} encourages you to look after yourself as well as the relationship.",
+					"{keyword} might simply need sharing more evenly. Hope is reasonable if both people are willing to adjust."
+				],
+				"neutral": [
+					"In love, {keyword} can point to over-giving, neglecting yourself, or a home that feels more like a workplace.",
+					"{keyword} appears blocked or overdone: care that smothers, or care that has dried up.",
+					"{keyword} may be turned inward, asking you to tend your own needs before others'."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work is crowding out the rest of your life, {keyword} may be stretched thin. One thing in your control: protect one evening this week and keep it free.",
+					"{keyword} can feel out of reach when work is chaotic. Clear one small corner of your desk or your inbox and let that be enough of a start today.",
+					"When you feel responsible for everyone at work, {keyword} reminds you that you can't hold it all at once. Choose the one thing that truly matters today and let the rest wait."
+				],
+				"curious": [
+					"{keyword} might be overdone at work, with you quietly fixing everyone else's problems. What would happen if you let one of them go back to its owner?",
+					"What if {keyword} has been missing from your working life because ambition took all the room? Wonder what a gentler pace could make possible.",
+					"{keyword} hints at a doubt worth looking at. Where at work do you question your own competence, even though the evidence says you are capable?"
+				],
+				"grieving": [
+					"{keyword} may be hard to find at work while you grieve. Doing what is needed and nothing more is a reasonable way through these weeks.",
+					"If a loss has drained your energy, {keyword} can wait. Let colleagues carry some of the load; you have carried theirs before.",
+					"{keyword} might need to be turned toward yourself for now. Looking after your own tired self is legitimate work, even when nobody sees it."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance. Count the hours honestly: is work taking more of your life than you agreed to give it?",
+					"{keyword} is a prompt about over-commitment. Taking on others' tasks can look generous while leaving your own work and evenings stretched.",
+					"Read plainly, {keyword} blocked often shows up as disorder: cluttered systems, lost time, everything urgent. Which process could you simplify first?"
+				],
+				"hopeful": [
+					"{keyword} may be paused rather than gone. A little order and a little rest can bring back the calm competence you know you have.",
+					"If you are hoping for better balance, {keyword} encourages one small boundary that protects your time. Small ones are the easiest to keep.",
+					"{keyword} might return once you stop trying to do everything for everyone. Hope is reasonable when you include yourself in the plan."
+				],
+				"neutral": [
+					"At work, {keyword} can point to imbalance, over-commitment, or self-doubt that sits alongside real competence.",
+					"{keyword} appears blocked or overdone: caring for colleagues and tasks while neglecting your own needs.",
+					"{keyword} may be turned inward, asking for a better balance between working life and home life."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money feels insecure, {keyword} may be hard to feel at all. One thing in your control: look calmly at a single area of spending, without judging yourself.",
+					"{keyword} may be tipping into worry about providing for everyone. You are allowed to count your own needs among the ones that matter.",
+					"When finances feel unstable, {keyword} reminds you that you have been resourceful before. Name one time you made things stretch, and let it steady you."
+				],
+				"curious": [
+					"{keyword} raises an interesting question: are you spending on comfort itself, or on the feeling that comfort might arrive?",
+					"What if {keyword} has quietly turned into accumulation? Wonder what you would keep if you suddenly had half the space.",
+					"{keyword} hints at money and care tangled together. Are you paying for others in ways that leave you strained, and do they know?"
+				],
+				"grieving": [
+					"{keyword} may feel beyond reach after a loss. It is all right if bills and paperwork move slowly while you grieve.",
+					"If money tasks have piled up since your loss, {keyword} does not ask you to clear them all. One envelope a day is plenty.",
+					"{keyword} can be postponed. Ask someone you trust to help with anything that truly cannot wait, and let the rest sit."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance. Is spending on the home or on other people outpacing what feels sustainable to you?",
+					"{keyword} is a prompt about possessions. Have the things you bought brought the comfort you expected, or mainly more to look after?",
+					"Read plainly, {keyword} blocked can mean household finances nobody quite manages. Which one area would benefit from a simple, regular check?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed, not lost. Small, sensible habits can rebuild a sense of security over time.",
+					"If you are hoping for more stability, {keyword} encourages you to care for your own needs as faithfully as you care for others'.",
+					"{keyword} might return as things settle. Hope is reasonable here, especially if you let yourself enjoy a little of what you already have."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to spending too much on others, seeking comfort through things, or household finances left untended.",
+					"{keyword} appears blocked or overdone: generosity stretched thin, or security sought through possessions.",
+					"{keyword} suggests checking whether your resources are serving your wellbeing or simply filling space."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you have been caring for everyone except yourself, {keyword} may be running low. One small act of care for your own body today is enough.",
+					"{keyword} can be hard to reach when stress is high. Notice one place in your body that is holding tension, and let it soften a little.",
+					"When you feel depleted, {keyword} reminds you that you are allowed to receive care too. Say yes to one offer of help this week."
+				],
+				"curious": [
+					"{keyword} poses a question: when did you last do something purely for your own comfort, with no one else in mind?",
+					"What if {keyword} has been squeezed out by busyness? Wonder what one small, pleasant habit could change about your week.",
+					"{keyword} might be overdone in some places and missing in others: plenty of comfort food, perhaps, but little real rest. Where is the imbalance?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible while you grieve. Your body is carrying a great deal; rest whenever you can.",
+					"If looking after yourself has slipped since your loss, {keyword} holds no judgement about that. A warm drink and a quiet hour count.",
+					"{keyword} can come from others for now. Let someone bring the meal or run the errand, and let that be care you receive."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to self-neglect. Are your own basic needs for food, sleep and quiet actually being met?",
+					"{keyword} is a prompt about over-giving. Caring for others at your own expense tends to catch up with your energy sooner or later.",
+					"Read plainly, {keyword} blocked often comes down to too little rest. How has your sleep been, honestly, over the past week?"
+				],
+				"hopeful": [
+					"{keyword} may be paused rather than gone. A few small acts of self-care can begin to restore it.",
+					"If you are hoping to feel better, {keyword} encourages you to put yourself on the list of people you look after.",
+					"{keyword} might return as you rest and receive. Hope is reasonable here, especially if you let others help."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to self-neglect, weariness from caring for others, or feeling disconnected from your body.",
+					"{keyword} appears blocked or overdone, asking for a fairer balance between giving and receiving care.",
+					"{keyword} suggests checking whether you are nurturing yourself as well as you nurture everyone else."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If you feel spiritually disconnected, {keyword} suggests coming back to something simple and physical: bare feet on the ground, bread rising, rain on a window.",
+					"{keyword} may be blocked by sheer busyness. Five minutes outside, doing nothing in particular, can be a real beginning.",
+					"When you feel adrift, {keyword} reminds you that your body is a place you can return to. Notice your breath for three slow counts."
+				],
+				"curious": [
+					"{keyword} asks whether practical worries have crowded out your inner life. Where has the quiet gone?",
+					"What if {keyword} has simply been neglected rather than lost? Wonder what one small ritual of care might bring back.",
+					"{keyword} hints at an imbalance between doing and being. Which way has the scale tipped lately?"
+				],
+				"grieving": [
+					"{keyword} may feel empty after a loss, and that is all right. You don't need to find meaning in this yet.",
+					"If familiar rituals feel hollow since your grief began, {keyword} does not ask you to force them. They can wait for you.",
+					"{keyword} can rest for now. Simple comfort and the company of living things may be enough of a practice for this season."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to busyness crowding out reflection. When in your week do you actually have unclaimed quiet?",
+					"{keyword} is a prompt about what you rely on for meaning. Do possessions and achievements give you what you hoped they would?",
+					"Read plainly, {keyword} blocked often means time away from nature or from your own body. Which of those do you miss more?"
+				],
+				"hopeful": [
+					"{keyword} may be paused. Hope can live in small returns: a walk, a garden, a meal made slowly.",
+					"If you are hoping for renewal, {keyword} encourages time outdoors or with your hands busy at something simple.",
+					"{keyword} might return as you slow down. Meaning often reappears when there is room for it."
+				],
+				"neutral": [
+					"In inner life, {keyword} can point to disconnection, too much focus on material concerns, or practice that has been neglected.",
+					"{keyword} appears blocked, asking for grounding and gentle attention to the body.",
+					"{keyword} suggests looking at whether everyday life still leaves room for meaning."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels unsteady, {keyword} may be hard to feel. One thing in your control: make one small space around you tidy and comfortable.",
+					"{keyword} may be overdone, with you looking after everyone else first. You are allowed to include yourself in the care.",
+					"When things feel chaotic, {keyword} reminds you that you have made things work before with less. Start with what is in front of you."
+				],
+				"curious": [
+					"{keyword} asks a useful question: where in your life is care flowing freely, and where has it stopped?",
+					"What if {keyword} has been neglected rather than lost? Wonder what home would feel like with a little more of your attention.",
+					"{keyword} hints at an imbalance between work and home. Which side is asking for more of you right now?"
+				],
+				"grieving": [
+					"{keyword} may be hard to find while you grieve. Let others look after you; it is not a burden to them to be asked.",
+					"If home has felt empty since your loss, {keyword} does not ask you to fill it. Let it be quiet for now.",
+					"{keyword} can wait. Getting through the day, fed and warm, is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to imbalance or self-neglect. Which part of your life has gone without attention the longest?",
+					"{keyword} is a prompt about over-giving. Are you stretched thin from looking after people who could do more for themselves?",
+					"Read plainly, {keyword} blocked can mean disorder at home that drains energy. What is one thing you could simplify this week?"
+				],
+				"hopeful": [
+					"{keyword} may be paused, not lost. Small, steady acts of care can bring it back.",
+					"If you are hoping for more stability, {keyword} encourages a better balance between what you give and what you let yourself receive.",
+					"{keyword} might return as you rest. Hope is reasonable, especially if you treat yourself as someone worth looking after."
+				],
+				"neutral": [
+					"{keyword} can point to self-neglect, over-giving, or an imbalance between work and home.",
+					"{keyword} appears blocked or overdone: care that smothers, or care that has quietly dried up.",
+					"{keyword} suggests checking whether you are nurturing yourself as well as the people around you."
+				]
+			}
+		}
+	}
+}

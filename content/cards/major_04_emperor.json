@@ -1,0 +1,412 @@
+{
+	"id": "major_04_emperor",
+	"name": "The Emperor",
+	"facets": [
+		{
+			"id": "structure",
+			"keywords": ["structure", "a solid framework", "order"]
+		},
+		{
+			"id": "authority",
+			"keywords": ["authority", "steady leadership", "responsibility"]
+		},
+		{
+			"id": "stability",
+			"keywords": ["stability", "a secure foundation", "dependable routine"]
+		},
+		{
+			"id": "discipline",
+			"keywords": ["discipline", "a clear boundary", "self-control"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"When a relationship feels shaky, {keyword} can be something small you set yourself: a regular call, a time you go to bed, a promise you keep. Reliability calms the nerves.",
+					"{keyword} in love doesn't mean taking control of someone else. It means knowing what you'll accept and saying it plainly. Choose one thing you could say clearly this week.",
+					"Worry often wants to manage every detail. Let {keyword} be gentler than that: one steady habit between you, like a weekly meal, that both of you can count on."
+				],
+				"curious": [
+					"{keyword} in love invites you to look at the agreements you've never spoken. Who decides what in your relationships, and how did that come about?",
+					"What would a good shape for your closeness look like if you designed it on purpose? {keyword} can be freeing when it's chosen rather than inherited.",
+					"{card} sits on a stone throne. In your connections, where might {keyword} make things feel safer, and where might it make them feel stiff?"
+				],
+				"grieving": [
+					"After a loss in love, {keyword} may be the thing that gets you through the day: meals at the usual time, the dog walked, the bed made. That counts.",
+					"{keyword} doesn't ask you to be strong in front of anyone. It can simply be the quiet routine that holds you while the feelings move through.",
+					"If you were the one who kept everything in order, grief may make that hard now. Let {keyword} come from others for a while, and let them carry some of it."
+				],
+				"skeptical": [
+					"Plainly, {keyword} in a relationship is about clear expectations. Are yours spoken, or are you hoping the other person simply knows?",
+					"No mystery here: {keyword} points to who takes responsibility for what between you. Is the load fair, and is it the load you agreed to?",
+					"Treat {keyword} as a prompt to check your boundaries. Is there something you keep allowing that you'd rather not, and could you say so calmly?"
+				],
+				"hopeful": [
+					"{keyword} suggests that the kind of love you hope for may grow best on firm ground. Consistency, more than grand gestures, tends to build trust.",
+					"If you're hoping for something lasting, {keyword} invites you to be someone who keeps their word, and to look for the same in return.",
+					"There's encouragement in {keyword}: clear commitments can make a bond feel safe enough to soften. Nothing is guaranteed, but steadiness helps."
+				],
+				"neutral": [
+					"In love, {keyword} points to commitment, reliability and clear boundaries. It suggests relationships that rest on mutual responsibility.",
+					"{keyword} here suggests that a relationship may benefit from structure: clear roles, shared plans, promises kept.",
+					"With {keyword} present, the emphasis is on stability and protection between people, and on who holds responsibility for what."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can steady you when everything feels urgent. Write tomorrow's three most important tasks before you leave today, and stop there.",
+					"If your job feels precarious, focus on {keyword} within your reach: your calendar, your inbox, your own standards. Order the small things, and the large ones feel less wild.",
+					"{keyword} doesn't require you to have all the answers. It asks you to know what you're responsible for, and to do that part well, one task at a time."
+				],
+				"curious": [
+					"{keyword} at work invites a question: what kind of leader would you like to be, even if no one has given you the title?",
+					"What would happen if you built a system for the thing you keep doing by hand? {keyword} can turn effort into ease.",
+					"{card} asks where {keyword} could help your ambitions. Which goal of yours would benefit from a plan with dates and milestones?"
+				],
+				"grieving": [
+					"When grief comes to work with you, {keyword} can be a quiet support: familiar tasks, set hours, nothing unexpected. Lean on the routine.",
+					"{keyword} doesn't mean pretending you're fine. It can mean asking a manager or colleague to help you set a manageable shape to your days.",
+					"If leading or deciding feels impossible right now, that's understandable. Let {keyword} be held by others for a while."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work is about clarity: who decides, who's accountable, what the process is. Where is that unclear in your role?",
+					"No mysticism: {keyword} points to planning. Do you have a written plan for your next career step, or just an intention?",
+					"Use {keyword} as a check. Are you taking ownership of your work, or waiting for someone else to set direction?"
+				],
+				"hopeful": [
+					"{keyword} suggests you may be ready to take on more responsibility. Steady, reliable work often earns trust, though outcomes aren't promised.",
+					"If you're hoping to advance, {keyword} invites you to build a clear plan and follow it consistently. Structure turns hope into progress.",
+					"There's encouragement here: {keyword} often looks like quiet competence. Keep showing up well, and let your track record speak."
+				],
+				"neutral": [
+					"In your career, {keyword} points to leadership, planning and steady work within clear structures.",
+					"{keyword} here suggests a time to organise, take responsibility and build something that lasts.",
+					"With {keyword} present, discipline and clear goals may matter more than inspiration."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} can begin with one simple list: what comes in, what goes out. Writing it down often makes the worry smaller.",
+					"{keyword} doesn't mean fixing everything today. Choose one bill to automate or one expense to track, and let that be a solid start.",
+					"If finances feel chaotic, {keyword} offers a calm next step: set a regular time each week to look at your accounts, briefly and without judgement."
+				],
+				"curious": [
+					"{keyword} invites you to design how your money works rather than react to it. What would your ideal monthly system look like?",
+					"What rules do you already follow with money, perhaps without noticing? {keyword} suggests examining which ones still serve you.",
+					"{card} builds empires on foundations. Where could {keyword} turn a vague savings wish into a structure you trust?"
+				],
+				"grieving": [
+					"When loss shakes your sense of security, {keyword} can be simple: keep paying the essentials, and let the larger decisions wait.",
+					"{keyword} may mean asking someone you trust to help with financial tasks while you grieve. That's sensible, not weak.",
+					"If money feels overwhelming after loss, rely on routines you already have. {keyword} can carry you until you feel steadier."
+				],
+				"skeptical": [
+					"Plainly, {keyword} with money means a budget, a plan, and the discipline to follow both. Which part is weakest for you right now?",
+					"No guarantees: {keyword} is about controlling what you can. What financial decision have you been delaying that a clear rule could settle?",
+					"Use {keyword} as a practical check. Do you know exactly where your money goes each month?"
+				],
+				"hopeful": [
+					"{keyword} suggests that steady, structured habits could help your finances grow more secure. Nothing is promised, but a plan improves your odds.",
+					"If you're hoping for stability, {keyword} invites you to build it brick by brick: one rule, one habit, one month at a time.",
+					"There's encouragement in {keyword}: security often comes from consistency more than luck. What could you commit to?"
+				],
+				"neutral": [
+					"With money, {keyword} points to planning, discipline and long-term security built step by step rather than by chance.",
+					"{keyword} here suggests building a reliable financial structure and sticking to it.",
+					"With {keyword} present, careful management and clear limits may serve your resources well."
+				]
+			},
+			"health": {
+				"anxious": [
+					"When you feel unsettled, {keyword} can be a regular bedtime or a set time for meals. Small routines often calm the body more than big plans.",
+					"{keyword} doesn't mean being hard on yourself. Choose one gentle habit you can keep at the same time each day, and let it hold you.",
+					"If stress has scattered your days, let {keyword} bring some order: a morning glass of water, an evening wind-down. Start with just one."
+				],
+				"curious": [
+					"{keyword} invites you to notice which routines help your energy and which drain it. What happens when you keep one steady for a week?",
+					"What would a caring structure for your days look like? {keyword} suggests designing it around how you want to feel.",
+					"Get curious about {keyword} in your habits. Where does a little discipline actually make life feel easier?"
+				],
+				"grieving": [
+					"In grief, {keyword} can be a gentle scaffold: regular meals, a set bedtime, a short walk. Let the routine carry you.",
+					"{keyword} doesn't ask you to push through. It simply offers a shape to the day when everything else feels formless.",
+					"If you feel lost, lean on small routines. {keyword} can hold you steady while you rest."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about consistency. Which habit would make the biggest difference to your energy if you did it every day?",
+					"No mystique needed: {keyword} points to boundaries around rest. Are you protecting your sleep, or letting it slip?",
+					"Use {keyword} as a check: are your routines supporting you, or have they become rigid in ways that cost you?"
+				],
+				"hopeful": [
+					"{keyword} suggests that steady habits could help you feel more grounded. Pick one and build on it gradually.",
+					"There's encouragement in {keyword}: structure can create space for rest and wellbeing. What routine would you like to begin?",
+					"If you're hoping to feel stronger, {keyword} invites patience and consistency. Small steps, repeated, often add up."
+				],
+				"neutral": [
+					"For your wellbeing, {keyword} points to routine, consistency and healthy boundaries.",
+					"{keyword} here suggests that a little more structure, regular sleep, regular meals, may support your energy and rest.",
+					"With {keyword} present, steady habits and clear limits may help you feel grounded."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels chaotic, {keyword} can help: a regular time for reflection, even five minutes, can steady you.",
+					"{keyword} doesn't need to be strict. A simple, repeated practice can be a safe place to return to when you're worried.",
+					"When doubt crowds in, let {keyword} ground you. Choose one small ritual and keep it, even on hard days."
+				],
+				"curious": [
+					"{keyword} invites you to explore how commitment shapes your practice. What happens when you show up consistently?",
+					"What principles guide your life, and where did they come from? {keyword} suggests examining them with curiosity.",
+					"{card} rules with a clear vision. If {keyword} shaped your inner life, which values would you build it around, chosen deliberately rather than by default?"
+				],
+				"grieving": [
+					"In grief, {keyword} can offer a container: a regular moment to remember, a candle lit at the same time each evening.",
+					"{keyword} doesn't ask you to make sense of loss. It can simply give your sorrow a steady place to rest.",
+					"If you feel unmoored, let {keyword} hold you. Familiar practices can be comforting when meaning feels distant."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about discipline in practice. Do you have a routine for reflection, or only good intentions?",
+					"No supernatural claims: {keyword} points to the value of consistency. What would a week of steady practice teach you?",
+					"Use {keyword} as a prompt to define your principles. What do you actually stand for?"
+				],
+				"hopeful": [
+					"{keyword} suggests that a steady practice could help your inner life grow. Commit to something small and see where it leads.",
+					"There's encouragement in {keyword}: spiritual growth often comes from showing up, day after day.",
+					"If you're seeking direction, {keyword} invites you to build a practice you can trust."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to discipline, principle and a structured practice.",
+					"{keyword} here suggests building your inner life on clear values and steady commitment.",
+					"With {keyword} present, consistency and self-mastery may support your growth more than bursts of inspiration."
+				]
+			},
+			"general": {
+				"anxious": [
+					"When life feels chaotic, {keyword} can steady you. Choose one area to bring into order today, a drawer, a schedule, a plan, and leave the rest.",
+					"{keyword} reminds you that some things are within your control. Write them down, and act on the simplest one.",
+					"If worry is loud, let {keyword} be your anchor: a routine you keep, a boundary you hold, a plan you trust."
+				],
+				"curious": [
+					"{keyword} invites you to look at the structures in your life. Which ones support you, and which have you simply inherited?",
+					"What would you build if you had full authority over your own time? {keyword} suggests imagining it in detail.",
+					"{card} asks where {keyword} could turn a scattered situation into something you can steer."
+				],
+				"grieving": [
+					"In a season of loss, {keyword} can be a quiet support. Familiar routines may hold you when feelings are overwhelming.",
+					"{keyword} doesn't ask you to be strong. It simply offers a shape to the days while you grieve.",
+					"If you feel unmoored, let {keyword} come from small, steady habits, and from people you trust."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about taking responsibility for what you can control. What's within your power right now?",
+					"No mysticism needed: {keyword} points to planning and follow-through. What's the next concrete step?",
+					"Use {keyword} as a check: are you leading your own life, or reacting to whatever comes?"
+				],
+				"hopeful": [
+					"{keyword} suggests that steady effort and clear plans could help you build something lasting. Nothing is promised, but foundations matter.",
+					"There's encouragement in {keyword}: structure can make your hopes more achievable. What plan could you commit to?",
+					"If you're hoping for stability, {keyword} invites you to create it, one decision at a time."
+				],
+				"neutral": [
+					"Overall, {keyword} points to order, responsibility and building on firm foundations.",
+					"{keyword} here suggests a time for planning, taking the lead in your own affairs, and steady effort over time.",
+					"With {keyword} present, discipline and clear boundaries may serve you well, protecting what you're building from distraction."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you've been holding a relationship tightly because letting go of any detail feels unsafe, {keyword} may have tipped into strain. Notice one small thing you could leave unmanaged today.",
+					"When things between you feel unsteady, {keyword} can seem to have gone missing. One modest promise you know you can keep, a call at eight, a meal on Sunday, is a solid place to stand.",
+					"Fear can make you rigid, and rigidity makes closeness hard. Let {keyword} relax by one notch; you can protect yourself without having to be in charge of everything."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} in your relationships has hardened into rules nobody chose, or gone so slack that nobody knows what to expect. Which feels closer?",
+					"What would it feel like to let someone else take the lead for a week, plans, choices, the small stuff? {keyword} sometimes grows healthier when it's shared.",
+					"Get curious about {keyword} as it shows up in love. Which limits keep you safe, and which ones keep people from reaching you?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may crumble, and the routines that once held a household or a friendship together can feel hollow. You don't need to rebuild them yet.",
+					"{keyword} can feel far away in grief, and that's not a failing. Let someone else hold the calendar, the meals, the arrangements, while you simply get through.",
+					"If you were always the steady one, losing your footing can be frightening. Be gentle with yourself; {keyword} doesn't have to come back on any schedule."
+				],
+				"skeptical": [
+					"Plainly, {card} reversed is a prompt about power. Is {keyword} in this relationship being shared, or is one person quietly making all the calls?",
+					"Use {keyword} as a check on your boundaries: are they so strict that nothing gets in, or so loose that you keep agreeing to things you resent?",
+					"No prophecy here, just a pattern worth naming: when {keyword} is out of balance, one partner often over-functions and the other withdraws. Do you recognise either role?"
+				],
+				"hopeful": [
+					"{keyword} may be finding a better balance between you. As control softens, there can be more room for trust, though it takes time on both sides.",
+					"If love has felt either chaotic or stifling, there's hope in an honest conversation about what each of you needs. {keyword} can be renegotiated.",
+					"Loosening your grip can be its own kind of strength. Let {keyword} become something you build together, rather than something one of you imposes."
+				],
+				"neutral": [
+					"In love, {card} reversed shows {keyword} out of balance: either rigid and controlling, or missing, leaving a relationship without a steady frame.",
+					"{keyword} here may be disrupted, so that trust wobbles and roles between people feel unclear or unfair.",
+					"Reversed, the card asks whether {keyword} in a relationship is being held fairly, and whether the agreements between you still fit."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} may feel either suffocating or nowhere to be found. Pick one corner you can organise for yourself today, your desk, your list, your next hour, and let that steady you.",
+					"If a manager or system feels heavy-handed, focus on the part that's yours. {keyword} within your own tasks, done calmly, can bring back a little sense of control.",
+					"When everything is marked urgent, {keyword} disappears. Write down the one thing that truly matters today and give it your first hour."
+				],
+				"curious": [
+					"Reversed, {card} asks whether {keyword} at work has become a cage, or never quite formed. Where do you feel boxed in, and where do you feel adrift?",
+					"What would you change about how decisions are made around you, if you had more say? {keyword} might be asking for your voice rather than your compliance.",
+					"Get curious about how you relate to {keyword}: do you push against it, defer to it, or quietly want more of it?"
+				],
+				"grieving": [
+					"If grief has unsettled your working life, {keyword} may feel out of reach. Doing the familiar tasks, and letting others cover what you can't, is enough.",
+					"{keyword} can wait while you carry this. You don't have to lead, decide or plan ahead right now; showing up is plenty.",
+					"Loss can make professional structures feel strangely small or strangely heavy. Let {keyword} be held by colleagues for a while if they can."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to a working structure that isn't working: too much control, or too little direction. Which one is costing you more?",
+					"Use {keyword} as a practical question: are you micromanaging someone, or being micromanaged? Either way, what would a clearer agreement look like?",
+					"No mysticism required: {card} reversed often shows {keyword} held by the wrong person or in the wrong way. Where is accountability unclear in your role?"
+				],
+				"hopeful": [
+					"{keyword} may be shifting toward something healthier. As you find your own footing at work, structure can start to feel supportive rather than confining.",
+					"If your workplace has felt chaotic, there's hope in clearer roles and simple plans. Start with your own patch and let {keyword} spread from there.",
+					"You may be learning a more flexible kind of {keyword}, one that leads by example rather than by force. That can be a quiet strength."
+				],
+				"neutral": [
+					"In your career, {card} reversed shows {keyword} misused or missing, whether through rigid hierarchy, poor direction, or avoided responsibility.",
+					"{keyword} here may be disrupted, leaving goals unclear, decisions stalled and morale uneven.",
+					"Reversed, the card points to {keyword} that needs rethinking, firmer in some places and looser in others."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If your finances feel chaotic, {keyword} may simply be missing for now. One small rule, checking your balance every Friday, is a steady place to begin.",
+					"{keyword} can tip into anxious control, counting every coin and still feeling unsafe. Notice whether your strictness is actually helping, or only adding to the worry.",
+					"When money feels out of hand, write down one thing you can manage this week. Let {keyword} grow back from that single, doable piece."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} with money has become too tight to enjoy anything, or too loose to rely on. Which way do you lean?",
+					"What would happen if you relaxed one money rule, or added a missing one? {keyword} might work better with a small adjustment than a total overhaul.",
+					"Get curious about who holds the purse strings in your life. Is {keyword} around shared money agreed, or simply assumed?"
+				],
+				"grieving": [
+					"When loss disrupts your finances, {keyword} may feel impossible to hold. Keep the essentials paid, and let everything else wait.",
+					"{keyword} can rest while you grieve. Asking someone you trust to help with paperwork is a sensible kind of care.",
+					"If money feels out of control after a loss, be gentle with yourself. {keyword} can come back slowly, as the fog lifts."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to a financial structure that's either too rigid to live with or missing altogether. Which describes yours?",
+					"Use {keyword} as a check: is anyone, a partner, a relative, an employer, exerting more control over shared resources than feels fair?",
+					"Practically, {card} reversed is a nudge to review {keyword}. Would a plan you could actually stick to beat the strict one you keep abandoning?"
+				],
+				"hopeful": [
+					"{keyword} may return as you find a gentler balance. Rules that bend a little are often the ones people keep.",
+					"If your finances have felt chaotic, there's hope in small, regular habits. Let {keyword} rebuild one week at a time.",
+					"There's encouragement in starting again. Let {keyword} become a support for your security rather than a source of strain."
+				],
+				"neutral": [
+					"With money, {card} reversed shows {keyword} too rigid, too loose, or held by someone else in a way that limits you.",
+					"{keyword} here may be disrupted, leaving financial security feeling less solid than it should.",
+					"Reversed, the card suggests reworking {keyword} around your resources so it is fair, flexible and actually followed."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your routines have fallen apart, {keyword} may feel far away. Choose one tiny anchor, a glass of water when you wake, and let that be the whole plan for now.",
+					"{keyword} can turn harsh when you're stressed, a list of rules you keep failing. Notice whether the standards you hold yourself to are ones you'd set for a friend.",
+					"When your days feel out of control, let {keyword} be soft rather than strict: one regular meal, one reasonable bedtime, nothing more."
+				],
+				"curious": [
+					"Reversed, {card} asks whether {keyword} in your habits has become too rigid to enjoy, or slipped away entirely. Which one sounds like your last month?",
+					"What would happen if you loosened one strict rule about rest or food or movement, and paid attention to how you felt? {keyword} might work better with some give in it.",
+					"Get curious about where you drive yourself hardest. Is {keyword} genuinely helping there, or just keeping you busy?"
+				],
+				"grieving": [
+					"Grief can scatter every routine you had. {keyword} can rest; eating something, sleeping when you can, and being warm are enough.",
+					"{keyword} may feel lost right now, and the days may have no shape. Let someone else help with the basics if they offer.",
+					"If your body feels out of rhythm, that's a very ordinary part of loss. Be patient; {keyword} can return slowly, one small habit at a time."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to habits that are either too strict to sustain or too loose to help. Which describes yours this month?",
+					"Use {keyword} as a practical check: is your routine disciplined, or has it quietly become a way of punishing yourself?",
+					"No mystique needed: {card} reversed is a prompt to adjust {keyword}. What would a routine look like if it were designed to be kept, not admired?"
+				],
+				"hopeful": [
+					"{keyword} may come back as you find a kinder rhythm. Small, steady steps often last longer than strict regimes.",
+					"If your routines have slipped, there's hope in starting gently. Let {keyword} return through one habit you actually like.",
+					"You may be learning a softer kind of {keyword}, one that supports your energy rather than fighting it. That's worth building on."
+				],
+				"neutral": [
+					"For your wellbeing, {card} reversed shows {keyword} either too rigid or too loose, with rest and energy paying the price.",
+					"{keyword} here may be disrupted, leaving the days without a shape that supports you.",
+					"Reversed, the card suggests adjusting {keyword} so that routine feels like care rather than control."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your practice has become rigid, or fallen away entirely, {keyword} may need softening. One unhurried minute of quiet is enough for today.",
+					"{keyword} can feel oppressive when you're anxious about doing things correctly. Set the rules aside for one evening and simply sit with what is.",
+					"When doubt is loud, let {keyword} be kind rather than strict: a familiar phrase, a candle, a short walk at the same time each day."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} in your inner life has hardened into dogma. What would you believe if no one were checking?",
+					"What rules about faith or meaning did you inherit rather than choose? {keyword} may be asking to be examined with fresh eyes.",
+					"Get curious about where {keyword} helps your practice and where it stifles it. Which part feels alive, and which part feels like duty?"
+				],
+				"grieving": [
+					"In grief, {keyword} in your beliefs may crumble. That's all right; you don't need to hold anything together right now.",
+					"{keyword} can rest while you carry sorrow. If rituals feel empty, you're allowed to set them down for a while.",
+					"If the frameworks that once held you feel thin now, be gentle with that. {keyword} may return in time, possibly in a new form."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to one of two things: rigid belief, or practice that has drifted. Which fits you better?",
+					"Use {keyword} as a check: are you following spiritual rules you no longer believe in, simply out of habit?",
+					"No supernatural claims required: {card} reversed invites you to rethink {keyword}. What do you actually value, stated in your own words?"
+				],
+				"hopeful": [
+					"{keyword} may soften into something more supportive. A practice with room to breathe tends to be one you return to.",
+					"If you've felt constrained by belief, there's hope in rebuilding gently. Let {keyword} serve your growth instead of limiting it.",
+					"You may be discovering that {keyword} in your inner life works best when it is chosen freely and held lightly."
+				],
+				"neutral": [
+					"Spiritually, {card} reversed shows {keyword} rigid, dogmatic, or drifted away entirely.",
+					"{keyword} here may need rebalancing, so that structure supports reflection instead of replacing it.",
+					"Reversed, the card invites a practice in which {keyword} feels chosen rather than imposed."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels out of control, {keyword} may simply be missing for now. Choose one small area, a shelf, a schedule, a single plan, and bring it into order today.",
+					"{keyword} can tip into rigidity when you're afraid. Notice one place where you're gripping hard, and see if you can loosen it slightly.",
+					"When things feel chaotic, let {keyword} be modest: one routine you keep, one limit you hold, one decision you make and leave alone."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} in your life has become too rigid, or slipped away altogether. Which sounds closer?",
+					"What would you rearrange if you had more say over your days? {keyword} may be asking to be redesigned rather than obeyed.",
+					"Get curious about your relationship with control. Where does {keyword} help you, and where does it quietly cost you?"
+				],
+				"grieving": [
+					"In grief, {keyword} may crumble, and plans can feel meaningless. Nothing needs to be held together right now.",
+					"{keyword} can rest while you carry loss. Let others take on some of the organising if they're willing.",
+					"If you feel unmoored, be gentle with yourself. {keyword} may come back slowly, through small habits rather than big decisions."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to an imbalance: too much control in one place, or too little in another. Which applies to you?",
+					"Use {keyword} as a check: who holds the power in your situation, and is that arrangement working for everyone involved?",
+					"No mysticism needed: {card} reversed is a prompt to review {keyword}. Which of your rules still serve you, and which are just habit?"
+				],
+				"hopeful": [
+					"{keyword} may rebalance as you find your footing. Structures can be rebuilt with more flexibility than before.",
+					"If life has felt chaotic or stifling, there's hope in small adjustments. Let {keyword} become something you shape, not something that shapes you.",
+					"You may be learning a gentler kind of {keyword}, one that steadies without confining. That's a good foundation to build on."
+				],
+				"neutral": [
+					"Overall, {card} reversed shows {keyword} misused, too rigid, or absent when it is needed.",
+					"{keyword} here may be wobbling, leaving plans and responsibilities unclear and everyone unsure who decides.",
+					"Reversed, the card invites you to rework {keyword} so it supports your life instead of constraining it."
+				]
+			}
+		}
+	}
+}

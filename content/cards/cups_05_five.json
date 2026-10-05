@@ -1,0 +1,412 @@
+{
+	"id": "cups_05_five",
+	"name": "Five of Cups",
+	"facets": [
+		{
+			"id": "loss",
+			"keywords": ["loss", "a heavy heart", "something spilled"]
+		},
+		{
+			"id": "regret",
+			"keywords": ["regret", "a backward glance", "a choice that still stings"]
+		},
+		{
+			"id": "disappointment",
+			"keywords": ["disappointment", "an unmet hope", "a plan that fell through"]
+		},
+		{
+			"id": "what_remains",
+			"keywords": ["what remains", "what is still standing", "a wider view"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are afraid something in love is slipping away, {keyword} asks you to slow down and breathe before you read every sign as an ending. One small thing in your control: tell one trusted person what you are afraid of.",
+					"{keyword} can make the heart race toward worst cases. For today, let yourself feel the hurt without deciding what it means for the future.",
+					"When a relationship has disappointed you, {keyword} invites you to look after yourself first. Eat something, rest, and leave the big conversations for a calmer day."
+				],
+				"curious": [
+					"{keyword} asks a tender question: what exactly are you mourning, the person, the hope, or the version of yourself you were with them?",
+					"What if {keyword} holds information about what you value in love? Disappointment often points straight at what mattered most.",
+					"{keyword} invites you to notice where your gaze rests. Are you looking only at what went wrong, or is something else in the room asking for attention too?"
+				],
+				"grieving": [
+					"{keyword} is real, and it is allowed to take up space. There is nothing you need to learn from it or do with it today.",
+					"When love has been lost, {keyword} may sit with you through ordinary moments, the second cup you make, the message you start to send. Let those moments ache without hurrying them.",
+					"{keyword} does not need to be explained or tidied away. You can cry, or not cry, and carry what you carry at your own pace."
+				],
+				"skeptical": [
+					"Practically, {keyword} in love often comes with rumination, replaying what went wrong. Is the replay giving you anything new, or just keeping the wound open?",
+					"Take {keyword} as a prompt: what would you honestly do differently, and what was never in your control? Separating those can ease the self-blame.",
+					"No mystery is needed here. {keyword} is a normal response to a relationship that didn't go as hoped. The useful question is what kind of support you need now."
+				],
+				"hopeful": [
+					"{keyword} doesn't cancel hope, but it asks to be felt first. Letting yourself be sad honestly can make room for whatever comes later.",
+					"If you are hoping to love again, {keyword} encourages you to go slowly. Healing tends to be quieter and less linear than we'd like.",
+					"{keyword} sits alongside the love that is still in your life, the friends, the family, the people who stayed. Noticing them is not the same as moving on."
+				],
+				"neutral": [
+					"In love, {keyword} speaks of grief, regret and disappointment, and of the pull to stare at what was lost.",
+					"{keyword} points to a painful ending or let-down in a relationship. It asks you to feel it honestly before deciding anything.",
+					"{keyword} brings the focus to sorrow in love, and to how long your attention stays on what has spilled."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If something at work has gone wrong and you are bracing for more, {keyword} asks you to pause. One thing in your control: write down exactly what happened, in plain facts.",
+					"{keyword} can make a setback feel like the end of a career. It usually isn't; for today, focus on the next small task rather than the whole picture.",
+					"When a disappointment at work weighs on you, {keyword} invites you to talk it through with one person you trust before deciding what it means."
+				],
+				"curious": [
+					"{keyword} asks what this setback reveals about what you wanted. Was the goal yours, or someone else's?",
+					"What if {keyword} is pointing to a lesson you can only see once the sting fades? Leave a note for your future self about what happened.",
+					"{keyword} hints at looking past the spilled cups. Is there a skill, contact or idea from this experience that still holds?"
+				],
+				"grieving": [
+					"If you are mourning a job, a role or a project, {keyword} is a real loss. You do not have to be grateful or philosophical about it yet.",
+					"{keyword} may follow you into work every day for a while. It is all right to do less, and to let colleagues see you are having a hard time.",
+					"When work has ended in a way that hurts, {keyword} deserves time. You can feel it fully before anyone asks what comes next."
+				],
+				"skeptical": [
+					"Read practically, {keyword} at work is often about expectations that didn't match reality. What expectation was it, and where did it come from?",
+					"{keyword} is a plain prompt for a post-mortem. What went wrong, what went right, and what was simply outside your control?",
+					"There is nothing mystical here: {keyword} is the feeling after a setback. Feeling it is normal; staying stuck in it is worth watching for."
+				],
+				"hopeful": [
+					"{keyword} doesn't erase your ability, though it may hide it for a while. Let the disappointment be felt before you plan the next step.",
+					"If you are hoping to recover from a setback, {keyword} encourages honesty about what happened. That clarity tends to make the next attempt stronger.",
+					"{keyword} sits beside the work you still have, the skills you've built and the people who know your worth. Those are still yours."
+				],
+				"neutral": [
+					"At work, {keyword} points to setbacks, regret over a decision, or a loss that still stings.",
+					"{keyword} highlights disappointment in your working life and asks how long your attention stays on it.",
+					"{keyword} suggests a time to acknowledge what didn't work before looking at what still might."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If you have lost money or a plan has fallen apart, {keyword} asks you to breathe first. One step in your control: write down what you still have, line by line.",
+					"{keyword} can make a financial loss feel bottomless. It usually has edges; finding them, one number at a time, can steady you.",
+					"When money regret keeps you up, {keyword} invites you to talk it through with someone calm. A second pair of eyes often shrinks the problem."
+				],
+				"curious": [
+					"{keyword} asks what this loss has taught you about risk, trust or timing. What would you want to remember next time?",
+					"What if {keyword} is less about the money and more about what it represented, security, freedom, a dream?",
+					"{keyword} invites you to look around the whole room. What resources, skills or support have you not counted yet?"
+				],
+				"grieving": [
+					"Money losses can be wrapped up in other losses, and {keyword} may feel heavier for it. You don't have to sort it all out right now.",
+					"{keyword} may surface every time a bill arrives. It is all right to ask someone to help you open them for a while.",
+					"If a loss has changed your circumstances, {keyword} deserves to be felt. There is no need to find anything good in it today."
+				],
+				"skeptical": [
+					"Practically, {keyword} raises a question about what went wrong. Was it a decision, bad luck, or something no one could have foreseen?",
+					"{keyword} is a prompt to avoid compounding a loss. Sometimes people chase what is gone with more risk; is that a temptation?",
+					"Read plainly, {keyword} points to financial regret. Write down the lesson and then decide how much more attention it deserves."
+				],
+				"hopeful": [
+					"{keyword} doesn't mean nothing can be rebuilt. Feeling the loss honestly is part of being ready to plan again.",
+					"If you are hoping to recover, {keyword} encourages small, steady steps rather than a dramatic fix.",
+					"{keyword} sits beside the resources you still have. Counting them doesn't undo the loss, but it can give you somewhere to stand."
+				],
+				"neutral": [
+					"Around money, {keyword} points to financial loss, regret over a decision, or a plan that fell through.",
+					"{keyword} speaks to disappointment with resources, and asks how you are holding it.",
+					"{keyword} suggests acknowledging a financial loss honestly before deciding what to do next."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel low and worried about how you are doing, {keyword} asks you to be gentle with yourself. One small thing: drink a glass of water and sit somewhere comfortable for a few minutes.",
+					"{keyword} can weigh on the body as well as the heart. Let yourself rest today without having to justify it.",
+					"When sadness makes everything feel heavy, {keyword} invites you to reach out to one person. You don't have to explain much; just say you're having a hard time."
+				],
+				"curious": [
+					"{keyword} poses a quiet question: where in your body do you feel sadness or regret? Noticing it can be its own kind of care.",
+					"What might {keyword} need from you? Movement, stillness, tears, or simply someone to sit with?",
+					"{keyword} hints at how emotional weight shows up physically. Have you noticed changes in your sleep or appetite lately?"
+				],
+				"grieving": [
+					"Grief lives in the body, and {keyword} may make you tired in ways sleep doesn't fix. Rest when you can; that is enough.",
+					"{keyword} may feel like a weight on your chest or a fog over everything. You don't need to push through it today.",
+					"When you are carrying loss, {keyword} asks only that you look after your body gently: a warm drink, a blanket, a slow breath."
+				],
+				"skeptical": [
+					"Practically, {keyword} can point to low mood or emotional fatigue. How have your sleep and energy been in the last few weeks?",
+					"{keyword} is a prompt to notice whether sadness is affecting your habits. Small routines can help keep things steady.",
+					"Read without mysticism, {keyword} is about emotional weight. Talking it through with someone you trust is a practical step."
+				],
+				"hopeful": [
+					"{keyword} doesn't have to be the whole story of how you feel. It asks to be acknowledged, and then you can look after yourself kindly.",
+					"If you are hoping to feel lighter, {keyword} encourages letting the sadness move through rather than pushing it down.",
+					"{keyword} sits alongside the parts of you that are still steady. You can lean on them while the heavier feelings pass."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to emotional heaviness, low energy and the need for gentle care.",
+					"{keyword} speaks to how sorrow and regret affect the body, and asks what would help you rest.",
+					"{keyword} suggests taking your feelings seriously as part of how you look after yourself."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If loss has shaken your sense of meaning, {keyword} asks you to hold on to something simple. One steady step: sit quietly and breathe for a minute.",
+					"{keyword} can make faith or purpose feel far away. You don't need answers today; you only need to get through it gently.",
+					"When regret is loud, {keyword} invites you to speak to yourself with the compassion you would offer a friend."
+				],
+				"curious": [
+					"{keyword} asks what you believe about loss, and whether that belief matches how you are actually feeling. Sometimes the two are far apart, and that gap is worth exploring.",
+					"What if {keyword} holds a question you haven't let yourself ask yet? It might be about fairness, or about what you owe yourself.",
+					"{keyword} invites you to notice where your attention goes. Is there anything beside the spilled cups asking to be seen?"
+				],
+				"grieving": [
+					"{keyword} may make prayer, practice or meaning feel hollow. That is part of grief, not a failure of faith.",
+					"When you are mourning, {keyword} does not need to be made sense of. Sitting with it is enough.",
+					"{keyword} may be the most honest thing in your inner life right now. Let it be there, unhurried, without asking it to turn into anything else."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to notice how you make sense of loss. Do you blame yourself, the world, or no one?",
+					"{keyword} doesn't require belief. It points to grief and regret as part of being human, and asks whether you are allowing yourself either.",
+					"Read plainly, {keyword} asks whether you have given yourself real time to take in what happened, or rushed straight back to being fine."
+				],
+				"hopeful": [
+					"{keyword} doesn't close the door on meaning. It asks you to feel what you feel before looking for any, and to be suspicious of meanings that come too quickly.",
+					"If you are hoping to find peace, {keyword} encourages patience. Understanding often comes later, if at all.",
+					"{keyword} sits alongside whatever still feels sacred to you. You can hold sorrow and reverence in the same hands without one cancelling the other."
+				],
+				"neutral": [
+					"On the inner path, {keyword} speaks of grief and regret, and of how slowly acceptance tends to come.",
+					"{keyword} points to sorrow as part of the inner journey, not a detour from it.",
+					"{keyword} suggests honouring loss on its own terms before trying to find any meaning in it."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you are braced for more bad news, {keyword} asks you to steady yourself first. One thing in your control: name what has actually happened, separately from what you fear might.",
+					"{keyword} can make everything look darker than it is. For today, focus on one small task and let the rest wait.",
+					"When regret keeps circling, {keyword} invites you to write it down and set it aside for an hour. You can come back to it."
+				],
+				"curious": [
+					"{keyword} asks what exactly you are grieving. Is it a person, a plan, a version of the future? Naming it precisely can make it easier to hold.",
+					"What if {keyword} is showing you, by its absence, what matters most to you? That knowledge could quietly shape what you choose next.",
+					"{keyword} invites you to notice where your gaze keeps landing. If you turned your head slightly, what else might come into view?"
+				],
+				"grieving": [
+					"{keyword} is real and deserves room. Nothing needs to be fixed or understood today, and no one gets to tell you how long this takes.",
+					"When you are carrying loss, {keyword} may follow you into every room. Let it be there without needing to move it or explain it to anyone.",
+					"{keyword} doesn't need a silver lining or a lesson. You are allowed to simply be sad, for as long as it lasts."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to grief or regret. Is it something you need to feel, or something you need to act on?",
+					"{keyword} is a prompt to separate what you could control from what you couldn't. Blame tends to shrink once that line is drawn honestly.",
+					"Read plainly, {keyword} is about dwelling on loss. That is natural for a while; it is worth noticing if the same thoughts loop for months without changing."
+				],
+				"hopeful": [
+					"{keyword} doesn't cancel hope. It asks to be felt first, honestly, rather than skipped over on the way to something better.",
+					"If you are hoping for things to improve, {keyword} encourages patience with yourself while you grieve what was lost.",
+					"{keyword} sits beside the good things that haven't gone anywhere. Both are real, and you don't have to choose between them today."
+				],
+				"neutral": [
+					"Overall, {keyword} speaks of loss, grief, regret and disappointment, and the way they can fill the whole view for a while.",
+					"{keyword} points to sorrow and gently asks where your attention keeps coming to rest.",
+					"{keyword} suggests acknowledging fully what has been lost before turning toward anything else."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you have been holding {keyword} in and putting on a brave face, that takes a lot of energy. One small step: let one trusted person know it still hurts.",
+					"{keyword} may be loosening its grip on your love life, and that can feel unfamiliar, even unsettling. You don't have to trust it all at once; just notice a lighter hour when it comes.",
+					"When you worry you should be over something by now, {keyword} reminds you there is no deadline. Today, simply do one kind thing for yourself."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. What have you started to see differently about what happened between you?",
+					"What if {keyword} is asking for forgiveness, perhaps of someone else, perhaps of yourself? Which feels closer to true?",
+					"{keyword} hints at turning around slowly. If you looked up from what was lost, what in your relationships might you notice?"
+				],
+				"grieving": [
+					"{keyword} may be easing a little, or it may not be. Both are all right, and neither means you loved any less.",
+					"If you have been keeping {keyword} to yourself, you are allowed to let someone in. You don't have to grieve alone, and you don't have to grieve neatly.",
+					"{keyword} may still sit close by even as days go on. Let it stay as long as it needs to; there is no rush to move it."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can point to grief that has been pushed down. Is avoiding the feeling costing you more than feeling it would?",
+					"{keyword} is a prompt to notice whether you are ready to stop replaying the past. Ready doesn't mean forgetting; it means choosing where your attention goes.",
+					"Read plainly, {keyword} reversed often marks the start of acceptance. What would accepting what happened look like, in concrete terms?"
+				],
+				"hopeful": [
+					"{keyword} may be beginning to lift. It doesn't promise new love, but it suggests your heart is slowly making room again.",
+					"If you are hoping to move forward, {keyword} encourages you to go at your own pace. Small steps back toward people count.",
+					"{keyword} could be giving way to a gentler kind of remembering. That softening is worth honouring when it comes."
+				],
+				"neutral": [
+					"In love, {keyword} reversed can point to acceptance beginning, forgiveness, or grief that has been held in rather than felt.",
+					"{keyword} appears to be shifting, asking whether you are moving through sorrow or around it.",
+					"{keyword} suggests something beginning to move, either toward healing or toward feelings still waiting to be expressed."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If you are still carrying {keyword} from a work setback and hiding it, that can be exhausting. One step in your control: talk it through with one colleague or friend.",
+					"{keyword} may be lifting at work, slowly. You don't have to feel confident yet; just take on one small task that feels manageable.",
+					"When you worry a past mistake defines you, {keyword} invites you to list what you've done since. The record is usually bigger than the regret."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. What has the setback taught you that you couldn't have learned another way?",
+					"What if {keyword} is turning into curiosity about what's next? What would you like to try?",
+					"{keyword} hints at forgiving yourself for a work decision. What would change if you did?"
+				],
+				"grieving": [
+					"{keyword} may still follow you at work while you grieve. It is all right to keep going quietly without pretending it isn't there.",
+					"If you have been hiding {keyword} at work, you don't have to. A brief word to someone you trust can lighten the effort of pretending.",
+					"{keyword} may ease and return. That is how loss often moves, and your working days can make room for both."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means it's time to stop replaying a setback. What would a clean line under it look like?",
+					"{keyword} is a prompt to check for suppressed frustration at work. Is it leaking out sideways?",
+					"Read plainly, {keyword} reversed can mean acceptance and a return to effort. What is the first practical step?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to renewed energy. Hope fits, as long as you pace yourself.",
+					"If you are hoping to move on from a setback, {keyword} encourages you to take one forward step this week.",
+					"{keyword} could be turning into readiness. It cannot promise success, but it suggests you are able to try again."
+				],
+				"neutral": [
+					"At work, {keyword} reversed can point to recovery from a setback, acceptance, or regret that is being suppressed.",
+					"{keyword} appears to be shifting, asking whether you are ready to look forward.",
+					"{keyword} suggests a working life starting to look forward again after a hard stretch, or a setback still quietly being carried."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If you've been avoiding {keyword} around money, it can feel heavier in the dark. One step in your control: look at one statement, with a cup of tea beside you, and stop there.",
+					"{keyword} may be easing around your finances, and you are allowed to let it. Make one small plan for the coming month and leave the past decisions alone for now.",
+					"When financial regret keeps nagging, {keyword} invites you to forgive yourself for the choice you made with what you knew then. Hindsight is clearer than any of us were at the time."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. What have you learned about money through all this that you would not want to unlearn?",
+					"What if {keyword} is turning into a clearer sense of what you actually value? A loss can sharpen what you would protect next time.",
+					"{keyword} hints at looking forward again. Which financial goal feels realistic now, rather than one you set to make up for the past?"
+				],
+				"grieving": [
+					"{keyword} may still sit with you around money while you grieve, especially if the finances were shared. There is no need to hurry past it.",
+					"If you've been carrying {keyword} around money alone, you can share the load. Asking someone to help with one form or one call is allowed.",
+					"{keyword} may ease slowly, or come back each time a certain bill arrives. Take one practical step only when you feel able, and rest between them."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to moving on from a financial loss. Have you actually drawn a line under it, or is it still steering your choices?",
+					"{keyword} is a prompt to check whether avoidance is quietly making things worse. Unopened post rarely gets lighter with time.",
+					"Read plainly, {keyword} reversed can mean acceptance turning into replanning. If you wrote a one-page plan today, what would be on it?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to a fresh start with money. Hope fits, as long as it comes with careful, unglamorous steps.",
+					"If you are hoping to recover, {keyword} encourages small, consistent actions over one big move to win everything back.",
+					"{keyword} could become the ground you rebuild on. It cannot promise the outcome, but beginning again is a real choice you can make."
+				],
+				"neutral": [
+					"Around money, {keyword} reversed can point to recovery from a loss, acceptance of a mistake, or avoidance that has gone on too long.",
+					"{keyword} appears to be shifting, asking whether you are ready to plan again rather than look back.",
+					"{keyword} suggests financial regret beginning to loosen, or still waiting to be faced."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you have been holding {keyword} in your body without letting it out, that can be tiring. One small thing: let yourself have a proper cry, or a long walk, whichever feels right.",
+					"{keyword} may be loosening, though energy often returns unevenly. A heavy day after a lighter one is normal, not a step backward.",
+					"When you worry you should feel better by now, {keyword} reminds you that bodies keep their own time. Today, just eat something warm and get some air."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. What do you notice in your body on the lighter days, and what was different about them?",
+					"What if {keyword} is asking to be expressed rather than held? Writing, moving, singing or talking are all ways a feeling can leave the body.",
+					"{keyword} hints at energy creeping back. If you had an extra hour of it, what would you most like to do?"
+				],
+				"grieving": [
+					"{keyword} may still be heavy in your body while you grieve. Lying down, staying in, moving slowly are all reasonable today.",
+					"If you've been holding {keyword} in to keep going, letting a little of it out can be a form of care. Tears are not a setback.",
+					"{keyword} may ease unevenly, one hour lighter and the next heavy again. Let your body set the pace and try not to argue with it."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can point to emotion pushed down. Pushed-down feeling often shows up as tension or tiredness; does that fit?",
+					"{keyword} is a prompt to notice whether you are ready to rebuild routines: regular meals, a bedtime, a daily walk. Which one is easiest to restart?",
+					"Read without mysticism, {keyword} reversed often means some energy returning. What concretely helped, so you can do more of it?"
+				],
+				"hopeful": [
+					"{keyword} may be lifting, slowly. Hope fits, especially when it is paired with gentle, everyday care rather than pressure.",
+					"If you are hoping to feel better, {keyword} encourages letting feelings move through rather than bracing against them. Bracing is tiring too.",
+					"{keyword} could give way to steadier days. It cannot promise when, but each restful night is something you can give yourself now."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} reversed can point to emotional release, energy slowly returning, or sorrow held tightly in the body.",
+					"{keyword} appears to be shifting, asking whether your body is being allowed to feel what your heart feels.",
+					"{keyword} suggests heaviness beginning to move, or still waiting for a safe place to be let out."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} has made meaning feel far away, it may be returning slowly. One steady step: keep a small practice, even if it feels empty for now.",
+					"{keyword} may be easing in your inner life. You don't need to understand what happened to begin feeling a little more at peace with it.",
+					"When regret is loud in your head, {keyword} invites self-forgiveness. Try saying, quietly, that you did the best you could with what you had."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. What have you come to understand about yourself that you didn't before?",
+					"What if {keyword} is slowly becoming something closer to wisdom? Not a reason for the loss, just knowledge you carry now.",
+					"{keyword} hints at forgiveness, of yourself, of someone else, or of life for not going as planned. Which one feels nearest?"
+				],
+				"grieving": [
+					"{keyword} may still feel close in your inner life while you grieve. That closeness can be its own kind of faithfulness to what you lost.",
+					"If you've hidden {keyword} from a community or practice, you are allowed to let it be seen. Grief belongs in sacred spaces too.",
+					"{keyword} may ease slowly, or stay. Either way, there is nothing you need to make of it spiritually today."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can mean acceptance taking root. Are you able to think about what happened without the same sting?",
+					"{keyword} is a prompt about grief that has been avoided. Is there a feeling you've decided you shouldn't have?",
+					"Read plainly, {keyword} reversed points to turning around: seeing more than the loss. What else is now in view?"
+				],
+				"hopeful": [
+					"{keyword} may be lifting from your inner life. Hope fits, gently, without needing to call anything a blessing.",
+					"If you are hoping for peace, {keyword} encourages patience and small rituals. Lighting a candle or taking a walk can hold a lot.",
+					"{keyword} could turn into acceptance over time. That is not the same as being glad it happened, and it doesn't need to be."
+				],
+				"neutral": [
+					"On the inner path, {keyword} reversed can point to acceptance, self-forgiveness, or sorrow held in where no one can see it.",
+					"{keyword} appears to be shifting, asking what you are ready to set down and what you still need to carry.",
+					"{keyword} suggests attention slowly moving from what was lost toward the rest of your inner life."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} has been held in for a while, letting a little of it out can ease the pressure. One step in your control: talk to one person you trust this week.",
+					"{keyword} may be easing, though not in a straight line. A hard day doesn't undo the lighter ones; go gently.",
+					"When you worry you should be past it by now, {keyword} reminds you there is no deadline for this. Today, just do the next small thing."
+				],
+				"curious": [
+					"{keyword} seems to be shifting. What has changed in how you think about what happened?",
+					"What if {keyword} is turning into a kind of understanding you couldn't have had before? What does it tell you?",
+					"{keyword} hints at looking up. If you glanced over your shoulder now, what might you notice that you have been too sad to see?"
+				],
+				"grieving": [
+					"{keyword} may still be close while you grieve, and that is all right. There is no right moment to be finished.",
+					"If you've been hiding {keyword} so others don't worry, you can let someone see it. Being held is not the same as being a burden.",
+					"{keyword} may ease slowly, or come and go with no pattern. Let it move at its own pace; nothing needs hurrying."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to one of two things: acceptance beginning, or feeling being pushed down. Which fits you better?",
+					"{keyword} is a prompt to notice whether replaying the past is still useful. When did it last tell you anything new?",
+					"Read plainly, {keyword} reversed often means it's possible to move on without forgetting. What would that look like for you this month?"
+				],
+				"hopeful": [
+					"{keyword} may be lifting. Hope fits, though it can be quiet hope, the kind that simply notices a better hour.",
+					"If you are hoping for things to get better, {keyword} encourages small steps back toward people and plans you care about.",
+					"{keyword} could turn into readiness for what comes next. It cannot promise what that is, only that you may be able to meet it."
+				],
+				"neutral": [
+					"Overall, {keyword} reversed can point to acceptance, forgiveness, moving on, or grief held in rather than expressed.",
+					"{keyword} appears to be shifting, asking whether you are moving through sorrow or quietly around it.",
+					"{keyword} suggests your gaze slowly lifting from the past toward the rest of your life, at whatever pace feels bearable."
+				]
+			}
+		}
+	}
+}

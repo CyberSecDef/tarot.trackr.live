@@ -1,0 +1,412 @@
+{
+	"id": "pentacles_10_ten",
+	"name": "Ten of Pentacles",
+	"facets": [
+		{
+			"id": "legacy",
+			"keywords": ["legacy", "something built to last", "what is handed down"]
+		},
+		{
+			"id": "family",
+			"keywords": ["family", "a family line", "a household across generations"]
+		},
+		{
+			"id": "lasting_security",
+			"keywords": ["long-term security", "a stable foundation", "lasting wealth"]
+		},
+		{
+			"id": "tradition",
+			"keywords": ["tradition", "a family custom", "an inherited way of life"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are worried about where a relationship is going, {keyword} invites you to look at what is already solid between you. Name one shared habit or memory that still holds.",
+					"{keyword} reminds you that love is often built over years, not proved in a week. One small thing in your control today: tend a ritual you share, however ordinary.",
+					"When love feels uncertain, {keyword} suggests leaning on the wider web around you: family, old friends, the people who have known you longest. Call one of them this week."
+				],
+				"curious": [
+					"{keyword} asks an interesting question about love: what would you most want to pass on from the relationships that raised you, and what would you leave behind?",
+					"What if {keyword} were part of how you thought about romance? Notice which shared routines and family stories make a partnership feel rooted.",
+					"{keyword} hints at love across generations. Which grandparent, elder or old friend showed you what lasting care looks like?"
+				],
+				"grieving": [
+					"When you are missing someone, {keyword} may be one of the ways they stay with you: the recipes, the sayings, the way the table is set. Those are still yours.",
+					"{keyword} can hold grief as well as joy. Families often gather to remember together, and you are allowed simply to be held by that.",
+					"Grief can make {keyword} feel heavy or far away. You don't need to carry anything on for anyone yet; it can wait until you are ready."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to look at the patterns you learned at home. Which ones help your relationships now, and which get in the way?",
+					"Read {keyword} as a plain question: are you building something stable with the people you love, or still treating it as temporary? Both are honest answers.",
+					"No mystery is needed: {keyword} points to the value of long commitment. Relationships that last tend to be built on shared routines and mutual support over time."
+				],
+				"hopeful": [
+					"{keyword} is a warm sign for love. If you are hoping for something lasting, the steady, shared life you are building may matter more than any single moment.",
+					"If you are hoping for a family of your own, by birth, choice or friendship, {keyword} suggests that kind of belonging is worth working toward.",
+					"{keyword} encourages you to trust in slow, deep roots. Hope is reasonable here, as long as it is tended day by day."
+				],
+				"neutral": [
+					"In love, {keyword} speaks of commitment, family and a bond built to last across years.",
+					"{keyword} points to belonging, shared history and the wider family around a relationship. It asks how rooted your closest bonds feel.",
+					"{keyword} brings attention to what love builds over time: homes, rituals and ties between generations."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels uncertain, {keyword} invites you to look at the long arc of your career rather than this week alone. Name one thing you built that still stands.",
+					"{keyword} reminds you that stability is often built slowly. One thing in your control today: tend a working relationship that has lasted.",
+					"When your position feels shaky, {keyword} suggests drawing on established wisdom. Ask someone with long experience how they weathered similar times."
+				],
+				"curious": [
+					"{keyword} asks a lively question: what would you like your working life to leave behind, for colleagues, for a field, for those who come after?",
+					"What if {keyword} were part of how you chose your next step? Notice which organisations or crafts have the kind of roots you admire.",
+					"{keyword} hints at family influence on work. Which values about work did you learn at home, and how do they show up now?"
+				],
+				"grieving": [
+					"If you are mourning a job, a business or a colleague, {keyword} may be what remains: the work you shaped together and the people it touched.",
+					"{keyword} can mean honouring what a working life gave you, even if it has ended. That contribution is part of your story.",
+					"When work holds grief, {keyword} does not ask you to carry anything forward yet. Let what was built simply be acknowledged."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is about long-term stability at work. Are you building something durable, or moving from one short-term role to the next?",
+					"Treat {keyword} as a prompt: is there a family expectation about your career you have never examined? It is worth asking whether it still fits.",
+					"Plainly put, {keyword} points to institutions and structures. Is the place you work stable and well run, and does that matter to you?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign at work. If you are hoping for something lasting, the foundations you are laying may support you for years.",
+					"If you are hoping to build a business or a long career, {keyword} suggests that patience and steady care can create something durable.",
+					"{keyword} invites you to think beyond the next promotion. Hope is reasonable here when it looks at the long view."
+				],
+				"neutral": [
+					"At work, {keyword} points to stability, established institutions, family business or a career built over a lifetime.",
+					"{keyword} speaks of long-term success and what endures. It asks what you are building that might outlast you.",
+					"{keyword} highlights foundations, continuity and the passing on of knowledge in a working life."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money is a worry, {keyword} invites you to look at the long view. One small step: note one thing that has kept you steady over many years.",
+					"{keyword} reminds you that security is often built slowly and quietly. One thing in your control today: look at one long-term commitment calmly.",
+					"When finances feel uncertain, {keyword} suggests drawing on the experience of people who came before you. Ask an older relative or friend how they managed lean years."
+				],
+				"curious": [
+					"{keyword} raises a thoughtful question: what did your family teach you about money, out loud or without words?",
+					"What if {keyword} were how you thought about resources? Notice what you would want to be steady, not just this year but in twenty years.",
+					"{keyword} hints at what passes between generations. What would you like to hand on, whether money, habits or values?"
+				],
+				"grieving": [
+					"Money can feel heavy after a loss, and {keyword} may touch on inheritance or shared assets. There is no need to decide anything quickly.",
+					"{keyword} may bring up complicated feelings about what someone left. All of those feelings are allowed.",
+					"If a loss has changed your family's circumstances, {keyword} gently notes that the practical questions can wait while you grieve."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about long-term thinking. Do your financial habits reflect the life you want years from now, or just this month?",
+					"Treat {keyword} as a reminder that family and money are often tangled. Are there shared assets or expectations that need a clear conversation?",
+					"No mystery here: {keyword} points to stability built over time. What would make you feel more secure in the long run, in plain terms?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image for money. If you are hoping for lasting security, the steady choices you make may add up over years.",
+					"If things are improving, {keyword} invites you to think about what you would like this to support in the long run.",
+					"{keyword} suggests that durable foundations are possible. Hope is reasonable here, alongside patience."
+				],
+				"neutral": [
+					"Around money, {keyword} points to long-term security, family resources and wealth built across generations.",
+					"{keyword} speaks of stability and continuity. It asks what you are building that might last.",
+					"{keyword} highlights the link between money, family and the long view."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} invites you to lean on familiar routines. One thing you can do today: a simple ritual that has always steadied you.",
+					"{keyword} reminds you that care can be shared across a household. Let one person at home take one small task off your hands.",
+					"When stress is high, {keyword} suggests finding comfort in what is stable: home, old friends, familiar food. Spend a little time with one of them."
+				],
+				"curious": [
+					"{keyword} poses an interesting question: which habits of rest and care did you learn at home, and which do you still keep?",
+					"What might {keyword} look like as self-care? Routines that last for years, not weeks, and feel like home.",
+					"{keyword} hints at the comfort of belonging. How does your energy change when you are among people who have known you a long time?"
+				],
+				"grieving": [
+					"Grief lives in the body, and {keyword} may simply mean letting family or old friends look after you for a while.",
+					"{keyword} may look like the old rituals of mourning, food brought, stories shared, people sitting together. Let them hold you.",
+					"When you are carrying loss, {keyword} does not ask you to be strong for everyone. Rest is allowed."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to long-term habits. Which routines would you want to still be keeping in ten years?",
+					"{keyword} is a plain prompt to look at your home life. Does it help you rest, or does it add to your stress?",
+					"No mystical reading needed: {keyword} asks whether your support network at home is helping you feel well."
+				],
+				"hopeful": [
+					"{keyword} encourages you to build steady routines that support you over time. Energy often grows on stable ground.",
+					"If you are hoping to feel stronger, {keyword} suggests that the people and places that root you may be part of it.",
+					"{keyword} invites you to think of care as something lasting. Hope grows well in familiar, steady places."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to stable routines, a supportive home and care that lasts over time.",
+					"{keyword} highlights how home, family and long habits shape the way you feel.",
+					"{keyword} suggests paying attention to the steady foundations that support your energy."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsteady, {keyword} invites you to draw on the wisdom of those who came before. One small step: recall a saying or practice from an elder.",
+					"{keyword} reminds you that you belong to something larger than this moment. Sit quietly and think of the people whose lives made yours possible.",
+					"When you feel spiritually adrift, {keyword} suggests returning to a familiar ritual, however simple."
+				],
+				"curious": [
+					"{keyword} asks an intriguing question: what inner wisdom have you inherited, and what would you like to pass on?",
+					"What if {keyword} were a spiritual practice? Many traditions honour ancestors as a source of meaning.",
+					"{keyword} hints at roots. Which beliefs feel truly yours, and which did you simply grow up with?"
+				],
+				"grieving": [
+					"{keyword} may hold grief as well as comfort. Many traditions gather families to mourn together; you can simply be present.",
+					"When you have lost someone, {keyword} can be a way of keeping them near: their values, their stories, the way they lived.",
+					"{keyword} does not ask you to find meaning in your loss. It only notes that you are part of a long line of people who have loved and grieved."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about continuity. Whatever you believe, people often find meaning in connection to the past and future.",
+					"Treat {keyword} as a prompt: which values from your family do you still hold, and which have you let go?",
+					"No mystical claim is needed. {keyword} simply asks what you would like to leave behind you."
+				],
+				"hopeful": [
+					"{keyword} encourages you to see your life as part of a longer story. Hope often grows when you feel connected to something lasting.",
+					"If you are hoping for deeper meaning, {keyword} suggests looking at your roots. There may be wisdom there you have not yet claimed.",
+					"{keyword} invites a patient kind of hope, the kind that trusts what is built slowly."
+				],
+				"neutral": [
+					"On the inner path, {keyword} points to ancestry, continuity and the meaning found in belonging to something lasting.",
+					"{keyword} speaks of roots and what endures. It asks how connected you feel to the past and the future.",
+					"{keyword} highlights the wisdom passed between generations and the legacy of a life well lived."
+				]
+			},
+			"general": {
+				"anxious": [
+					"Whatever is worrying you, {keyword} invites you to look at what is stable in your life. Name one thing that has lasted.",
+					"{keyword} reminds you that you are part of something larger. One small step in your control: reach out to one person who has known you for years.",
+					"When life feels uncertain, {keyword} suggests leaning on long habits and old connections. They are steadier than they seem."
+				],
+				"curious": [
+					"{keyword} opens a playful question: what would you like people to remember about the way you lived?",
+					"What if {keyword} were the theme of your month? Notice which traditions you keep and which you have quietly dropped.",
+					"{keyword} hints at roots and branches. What have you received from those before you, and what are you growing for those after?"
+				],
+				"grieving": [
+					"{keyword} may hold your grief gently. The people you have lost are part of what you carry, and that can stay.",
+					"When you are carrying loss, {keyword} can mean letting family or old friends gather around you. You don't have to be strong.",
+					"{keyword} can feel heavy in grief. There is no need to carry anything forward right now."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to look at the long term. Are your choices building something stable?",
+					"Treat {keyword} as a check-in: which family patterns help you, and which ones do you repeat without thinking?",
+					"No mystery here: {keyword} is about foundations. Pick one area of your life and ask what would make it more durable."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image. If you are hoping for lasting good, the steady foundations you build may support it.",
+					"If things are going well, {keyword} invites you to think about how to make them last.",
+					"{keyword} suggests hope with a long view. Keep tending what matters, and let it grow over years."
+				],
+				"neutral": [
+					"Overall, {keyword} speaks of family, stability and what lasts across generations.",
+					"{keyword} points to roots, inheritance and long-term security. It invites you to look at what you are building.",
+					"{keyword} highlights continuity, belonging and the foundations beneath your life."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} feels strained, perhaps through family tension or pressure, that is hard but rarely the whole story. One step you control: choose one calm, kind thing to say to one relative.",
+					"{keyword} may be weighing on a relationship, with expectations about how love should look. You can honour where you come from and still choose your own shape.",
+					"When {keyword} feels unstable, it is easy to imagine everything falling apart. Focus on the one relationship that feels safest and spend a little time there."
+				],
+				"curious": [
+					"{keyword} might be blocked by old family patterns. Which habits of love did you inherit without ever choosing them?",
+					"What if {keyword} reversed is asking whether you are building a relationship around someone else's idea of success? It could be worth asking what you both actually want.",
+					"{keyword} feels a little tangled here. Is family drawing you closer to a partner, or pulling you apart?"
+				],
+				"grieving": [
+					"{keyword} may feel fractured after a loss, and families sometimes grieve in different directions. It is all right if gatherings feel hard right now.",
+					"If a loss has changed the shape of your family, {keyword} may feel unfamiliar. There is no need to rebuild anything yet.",
+					"Grief can make {keyword} feel like a burden as well as a comfort. Both can be true, and you don't have to choose between them."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance. Family expectations, money or old rivalries can strain a relationship. Is there one you could talk about openly?",
+					"{keyword} is a prompt to check for inherited scripts. Are you repeating a pattern from your family because it works, or because it is familiar?",
+					"Read plainly, {keyword} reversed often means short-term choices in love. Are you building something stable, or living from week to week?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping for more harmony at home, small, patient steps can shift old patterns.",
+					"If family tension has worn on you, {keyword} encourages you to build the kind of belonging you want, with whoever offers it.",
+					"{keyword} could take a new form that fits you better. Hoping for that is fair, especially if you are willing to break with what no longer works."
+				],
+				"neutral": [
+					"In love, {keyword} can point to family conflict, the weight of expectations, or a relationship without stable footing.",
+					"{keyword} appears blocked or strained: traditions that constrain, disputes over the shared past, or roots that feel shaky.",
+					"{keyword} may be delayed or turned inward, asking you to look at what you have inherited in love and what you want to keep."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} at work feels unstable, perhaps through restructuring or a family business under strain, that is unsettling. One step you control: write down your own skills and contacts.",
+					"{keyword} may feel out of reach in a time of change. Choose one small, steady task today and let that be your anchor.",
+					"When {keyword} feels threatened, short-term thinking can take over. Take a breath and ask what matters over five years, not five days."
+				],
+				"curious": [
+					"{keyword} might be blocked by inherited expectations. Are you working in a field because you chose it, or because it was expected?",
+					"What if {keyword} reversed is inviting you to break with tradition at work? It could be interesting to imagine doing something no one in your family has done.",
+					"{keyword} feels a little shaky here. Is the organisation you work for as stable as it looks?"
+				],
+				"grieving": [
+					"{keyword} may feel lost after an ending at work, especially if it was tied to family or long history. That is a real loss.",
+					"If something long established has ended, {keyword} may be part of what you are mourning. Give yourself time with it.",
+					"Grief can make {keyword} at work seem distant. You don't need to plan for the long term right now; the near term is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance: family pressure on your career, short-term choices, or an employer on shaky ground.",
+					"{keyword} is a prompt to check for inherited assumptions. What did your family teach you about work that you have never questioned?",
+					"Read plainly, {keyword} reversed often means instability. How exposed are you if your current role changed?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping for stability, small, steady steps can rebuild it over time.",
+					"If family expectations have weighed on your career, {keyword} encourages you to define success for yourself. That can be hopeful.",
+					"{keyword} could take a new form that suits you better. Hoping for that is reasonable, especially if you are willing to start fresh."
+				],
+				"neutral": [
+					"At work, {keyword} can point to instability, family pressure, a broken tradition, or short-term thinking.",
+					"{keyword} appears blocked or strained: structures that no longer hold, or expectations that no longer fit.",
+					"{keyword} may be delayed at work, asking you to look at what you are building and for whom."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} feels shaky, perhaps through family money troubles or sudden change, that is unsettling. One step you control: write down exactly where things stand.",
+					"{keyword} may be under strain from disagreements about money in a family. Choose one calm conversation rather than many tense ones.",
+					"When {keyword} feels out of reach, it is easy to think only about today. Take a breath and note one small thing that could help in a year."
+				],
+				"curious": [
+					"{keyword} raises an interesting question: which of your money habits came from your family, and which have you chosen?",
+					"What if {keyword} reversed is asking you to break a pattern? It could be revealing to imagine doing money differently from those before you.",
+					"{keyword} feels a little tangled. Is there an inheritance, debt or shared obligation that shapes your choices more than you admit?"
+				],
+				"grieving": [
+					"{keyword} may feel complicated after a loss, especially if money or belongings are disputed. It is all right to step back from it for now.",
+					"If what you expected to inherit has changed, {keyword} may be part of what you are grieving. That loss is real.",
+					"{keyword} can wait. There is no need to settle family money questions while you are still raw."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to family disputes over money, short-term thinking, or reliance on an inheritance that may not come.",
+					"{keyword} is a prompt to check for unspoken expectations. Are family members assuming things about money that have never been discussed?",
+					"Read plainly, {keyword} reversed often means instability. How much of your security depends on things outside your control?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping for steadier ground, rebuilding slowly is a sensible path.",
+					"If family money has been a source of strain, {keyword} encourages you to build your own foundation. Hope can live there.",
+					"{keyword} could take a new form, one that suits your life rather than tradition. Hoping for that is fair."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to family conflict over resources, instability, or the burden of inherited expectations.",
+					"{keyword} appears blocked or strained: wealth that divides rather than unites, or security that feels fragile.",
+					"{keyword} may be delayed, asking you to look at what money means in your family and what you want it to mean."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} feels unsettled, perhaps through tension at home, your body may be carrying it. One thing in your control tonight: find one quiet corner and rest there.",
+					"{keyword} may feel out of reach when routines have broken down. Pick one small habit to restore this week.",
+					"When {keyword} feels strained, stress can build quietly. Step outside for a few minutes and breathe slowly."
+				],
+				"curious": [
+					"{keyword} poses a question: which family habits around food, rest or work still shape how you feel today?",
+					"What would {keyword} look like if you chose your own routines instead of inherited ones?",
+					"{keyword} might be turned inward. What does home feel like in your body, restful or tense?"
+				],
+				"grieving": [
+					"{keyword} may feel fractured while you grieve. It is all right if family gatherings drain rather than restore you right now.",
+					"If routines have collapsed since your loss, {keyword} gently says that is understandable. One small anchor is enough.",
+					"{keyword} can wait. Your body is carrying a great deal; let it rest."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means instability at home affecting rest and energy. Is there one change that would help?",
+					"{keyword} is a prompt about inherited habits. Is there a family pattern around work or rest that tires you?",
+					"No mysticism here: {keyword} out of balance usually means a home life that is stressful or routines that have fallen away."
+				],
+				"hopeful": [
+					"{keyword} may be paused while things settle. Hope is reasonable here; steady routines can be rebuilt one at a time.",
+					"If you are hoping to feel better, {keyword} encourages you to create a home life that supports you, whatever shape it takes.",
+					"{keyword} could find a new, steadier form. Hoping for that is fair."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to stress at home, broken routines, or inherited habits that no longer serve you.",
+					"{keyword} appears strained: home feels unsettled, or old patterns are wearing on your energy.",
+					"{keyword} suggests checking whether your home life and long-term habits are supporting you."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} feels like a weight, perhaps a faith or tradition you feel bound to, set that down for today. One small step: notice what you believe right now.",
+					"{keyword} may feel distant if you have stepped away from your roots. You can still keep a small practice of your own.",
+					"When {keyword} feels unsettled, meaning can feel shaky. Return to one simple thing that has always calmed you."
+				],
+				"curious": [
+					"{keyword} might be asking you to question what you inherited. What would your inner life look like if you started fresh?",
+					"What if {keyword} reversed is inviting you to create a new tradition? It could be interesting to imagine one.",
+					"{keyword} feels a little tangled. Are you holding on to a belief out of loyalty rather than conviction?"
+				],
+				"grieving": [
+					"{keyword} may feel hollow while you grieve, even in rituals that once comforted you. That emptiness is not a failing.",
+					"If your family grieves differently from you, {keyword} may feel strained. You are allowed to mourn in your own way.",
+					"{keyword} can rest for now. You don't have to carry anything forward until you are ready."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed may point to traditions kept out of habit or pressure. Do they still mean something to you?",
+					"{keyword} is a prompt about family expectations around belief. Are you living by your values or someone else's?",
+					"Read plainly, {keyword} reversed can mean feeling cut off from your roots. Is that a loss, a relief, or both?"
+				],
+				"hopeful": [
+					"{keyword} may be on hold while you find your own way. The hope here is that you could build something meaningful of your own.",
+					"If you have felt disconnected, {keyword} encourages you to reclaim one part of your heritage that feels true.",
+					"{keyword} could take a new form that fits who you are now. Hoping for that is fair."
+				],
+				"neutral": [
+					"On the inner path, {keyword} can point to breaking with tradition, feeling cut off from roots, or inherited beliefs that no longer fit.",
+					"{keyword} appears blocked or strained: tradition kept from pressure, or a heritage that feels distant.",
+					"{keyword} may be delayed or turned inward, inviting you to choose what you carry forward."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} feels shaky, perhaps through family strain or sudden change, that is unsettling. One step in your control: focus on one steady relationship.",
+					"{keyword} may feel out of reach in a time of change. Choose one small routine to keep, and let it anchor you.",
+					"When {keyword} feels threatened, short-term worry can take over. Take a breath and ask what matters over years, not days."
+				],
+				"curious": [
+					"{keyword} feels a little tangled. Which family expectations are you living out, and which are you ready to set down?",
+					"What if {keyword} reversed is inviting you to start something new? Imagine a tradition that begins with you.",
+					"{keyword} might be turned inward. What does home mean to you, apart from where you came from?"
+				],
+				"grieving": [
+					"{keyword} may feel fractured after a loss. Families often grieve unevenly; be gentle with yourself and with them.",
+					"If a loss has changed the shape of your family, {keyword} can feel unfamiliar. There is no need to rebuild yet.",
+					"{keyword} can wait. There is no need to carry anyone's expectations while you grieve."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance: family conflict, instability, or short-term thinking. Which applies to you?",
+					"{keyword} is a prompt to check for inherited assumptions. What did you learn at home that you have never questioned?",
+					"Read plainly, {keyword} reversed often means foundations that need attention. Which part of your life feels least stable?"
+				],
+				"hopeful": [
+					"{keyword} may simply be delayed. If you are hoping for stability, small, steady steps can rebuild it.",
+					"If family strain has worn on you, {keyword} encourages you to create the kind of belonging you want.",
+					"{keyword} could take a new shape that fits you better. Hope is reasonable here, especially if you let go of what no longer works."
+				],
+				"neutral": [
+					"Overall, {keyword} can point to family conflict, instability, broken traditions or the weight of expectations.",
+					"{keyword} appears blocked or strained: roots that feel shaky, or a legacy that feels like a burden.",
+					"{keyword} may be delayed or turned inward, asking you to look at what you inherited and what you want to build."
+				]
+			}
+		}
+	}
+}

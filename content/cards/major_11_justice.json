@@ -1,0 +1,412 @@
+{
+	"id": "major_11_justice",
+	"name": "Justice",
+	"facets": [
+		{
+			"id": "fairness",
+			"keywords": ["fairness", "a fair balance", "an even hand"]
+		},
+		{
+			"id": "truth",
+			"keywords": ["truth", "an honest accounting", "clear judgement"]
+		},
+		{
+			"id": "accountability",
+			"keywords": ["accountability", "cause and effect", "the weight of a choice"]
+		},
+		{
+			"id": "decision",
+			"keywords": ["a weighed decision", "a clear choice", "a careful verdict"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"In love, {keyword} can feel like being measured, and that is uncomfortable. You are not on trial. Pick one thing you know to be true about how you've shown up, and rest your weight on that.",
+					"If {keyword} between you and someone close is weighing on you, you don't need to settle every account tonight. Write down what you actually want to be fair about, then let the rest wait.",
+					"{keyword} may be asking for one honest sentence rather than a whole speech. What is the smallest true thing you could say to the person you're thinking of?"
+				],
+				"curious": [
+					"{keyword} in a relationship invites a look at the scales. Who tends to give more, and who tends to ask? You might be surprised which way they tip.",
+					"What would {keyword} look like if both of you described it? It can be interesting to imagine the version of events the other person would tell.",
+					"Here {keyword} asks a quietly bold question: what do you owe the people you love, and what do they owe you? Sit with the answer before you defend it."
+				],
+				"grieving": [
+					"{keyword} can feel far away when someone is missing from your life. It's alright if nothing about this seems fair right now; you don't have to make it balance.",
+					"When love has ended or changed, {keyword} may simply mean being honest about what you're feeling, without judging it. Let it be as tangled as it is.",
+					"You might be weighing what you did or didn't say, and {keyword} doesn't ask you to hand down a verdict on yourself. Be as fair to you as you would be to anyone you love."
+				],
+				"skeptical": [
+					"Treat {keyword} as a practical question: is the give and take in this relationship roughly even? A rough tally of the last month may tell you more than a feeling.",
+					"Read plainly, {keyword} points to the agreements, spoken and unspoken, that hold a relationship up. Which one have you never actually checked with the other person?",
+					"Nothing mystical here: {keyword} is about seeing a situation as a neutral friend would. What would that friend say you're leaving out?"
+				],
+				"hopeful": [
+					"{keyword} in love can make room for something steadier. If you want things to be good between you, honesty about what each of you needs is a sturdy place to start.",
+					"Hope sits well alongside {keyword}. You can wish for a warm outcome and still ask for what's fair; the two tend to strengthen each other.",
+					"{keyword} may be the ground a better connection is built on. What small promise could you keep this week that makes the balance between you a little truer?"
+				],
+				"neutral": [
+					"In relationships, {keyword} points to balance between people: what is given, what is received, and whether both feel seen.",
+					"{keyword} suggests looking at a connection honestly, including your own part in it, before deciding what comes next.",
+					"Here {keyword} speaks to agreements between people and the consequences of keeping or breaking them."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} may feel like a review you didn't ask for. You can steady yourself by gathering the facts you already have: dates, emails, what you actually did.",
+					"If {keyword} has you bracing for someone else's judgement, remember you also get to judge the situation. What do you believe is fair here, in plain terms?",
+					"{keyword} in your working life can be met one item at a time. Choose the single task you can complete well today, and let that be your evidence."
+				],
+				"curious": [
+					"{keyword} at work invites a look at how decisions really get made around you. Who weighs things, and on what basis? You might learn a great deal by watching.",
+					"What would {keyword} change about the way you divide your time at work? Try tracing where your effort goes versus where the credit lands.",
+					"Here {keyword} asks what kind of colleague you want to be when no one is checking. What answer feels most like you?"
+				],
+				"grieving": [
+					"If you've lost a role, a team or a plan, {keyword} may feel cold comfort. You can let the unfairness of it simply be true for a while.",
+					"{keyword} at work doesn't require you to be productive while you're carrying something heavy. Doing what is honest and enough can be its own kind of fairness.",
+					"Grief can make {keyword} feel like a harsh word. Here it can be softer: an honest look at what you can manage now, without blaming yourself for what you can't."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work means documentation and clarity. Is there an agreement, a role, a deadline, that no one has actually written down?",
+					"Read as a prompt, {keyword} asks whether your work is being judged on the same terms as others'. Gather the comparison before you draw the conclusion.",
+					"No forces at play, just {keyword} as a habit worth practising. Before your next decision at work, list what you'd gain, what you'd lose, and who else it affects."
+				],
+				"hopeful": [
+					"{keyword} in your career can reward steady, honest work, though it doesn't promise when. Keep doing what you'd be proud to have reviewed.",
+					"If you're hoping for recognition, {keyword} invites you to make your case clearly and fairly. What evidence of your work could you put in front of the right person?",
+					"{keyword} may be the quality that sets your next step on firm ground. Choose the option you could explain plainly to anyone, and hope from there."
+				],
+				"neutral": [
+					"At work, {keyword} points to fair dealing, clear agreements, and decisions that hold up when examined.",
+					"{keyword} suggests that what you've put into your work and what comes back are worth weighing honestly.",
+					"Here {keyword} speaks to responsibility in your role, and to choices made with care rather than haste."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} can sound like a reckoning. It doesn't have to be. Open one statement, read one number, and let knowing it be the whole task for today.",
+					"If {keyword} around your finances feels frightening, start with what is already true and fixed. Rent, income, a single balance; facts are steadier than fears.",
+					"{keyword} with money may simply mean seeing clearly. You are allowed to look at the figures slowly, with a cup of tea, and stop when you've had enough."
+				],
+				"curious": [
+					"{keyword} invites a curious audit: where does your money go, and does that match what you say you value? The gap, if there is one, can be fascinating.",
+					"What would {keyword} look like in how you share costs with others? Try noticing who pays for what, without judging, just observing.",
+					"Here {keyword} asks what a fair exchange really is to you. What have you paid for lately that felt exactly worth it, and why?"
+				],
+				"grieving": [
+					"If money is tangled up with a loss, {keyword} can feel impossible to reach. Let practical things move slowly; there's no fairness in rushing yourself.",
+					"{keyword} may mean letting someone you trust help you look at the numbers. You don't have to hold every account alone right now.",
+					"When things feel unfair, {keyword} with money can wait a little. For today, it's enough to cover what is needed and be kind to yourself about the rest."
+				],
+				"skeptical": [
+					"Treat {keyword} as a bookkeeping prompt. Is there a debt, a refund, or a shared cost that has never been squared? Naming it is the useful part.",
+					"Read plainly, {keyword} is about matching records to reality. When did you last check that what you think you have is what you do have?",
+					"{keyword} needs no magic to be useful: weigh a money decision by writing the costs and benefits side by side. The page often decides for you."
+				],
+				"hopeful": [
+					"{keyword} with money can build a quiet kind of security. A fair price, a clear agreement, an honest budget: these are small, real reasons to feel hopeful.",
+					"If you're hoping things improve, {keyword} invites you to make the next exchange a clean one. What would make your next financial decision feel square?",
+					"{keyword} may help a hope become a plan. Put one number on what you want, and one date on when you'll check your progress."
+				],
+				"neutral": [
+					"With money, {keyword} points to fair exchange, honest records, and decisions weighed against real figures.",
+					"{keyword} suggests that what goes out and what comes in deserve an even look, without wishful thinking either way.",
+					"Here {keyword} speaks to agreements around money, and to the consequences of past financial choices."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} can make you watch yourself closely, perhaps too closely. Notice one thing your body is doing well right now, a steady breath, a warm hand, and let that count.",
+					"If {keyword} has you weighing every habit, choose just one gentle thing to keep steady this week, like a regular bedtime. You don't need to balance everything at once.",
+					"{keyword} in how you care for yourself can start very small. A glass of water and a few unhurried minutes are fair things to give your body today."
+				],
+				"curious": [
+					"{keyword} invites you to look at the trade-offs in your days. What gives you energy, and what quietly takes it? The balance might not be where you'd guess.",
+					"What would {keyword} toward your own body look like? You might try treating it the way you'd treat a friend whose wellbeing you respect.",
+					"Here {keyword} asks how your rest and your effort weigh against each other lately. Which side of the scale have you been loading?"
+				],
+				"grieving": [
+					"Grief takes energy, and {keyword} means acknowledging that honestly. If you're more tired than usual, that is a fair response, not a failing.",
+					"{keyword} toward yourself might look like rest without having earned it first. You're allowed to simply be looked after for a while.",
+					"When you're carrying a loss, {keyword} in your habits can be very simple: eat something, sleep when you can, go outside if you're able. That is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} here is about cause and effect in your routines. Which habit has the clearest effect on how you feel the next day?",
+					"Read as a prompt, {keyword} asks for a fair look at your week: hours slept, hours worked, hours spent moving. The numbers are just information.",
+					"{keyword} doesn't need to be mystical to be useful. Try keeping a short note of your energy for a few days and see what it tells you."
+				],
+				"hopeful": [
+					"{keyword} in how you live day to day can support how you feel. Choose one small, balanced change that you'd actually enjoy keeping.",
+					"If you're hoping for more energy, {keyword} invites patience and honesty about what your body needs. Small, steady care tends to add up.",
+					"{keyword} may help you trust yourself again. Each time you keep a gentle promise to your body, the scales tip a little toward ease."
+				],
+				"neutral": [
+					"In health, {keyword} points to balance between effort and rest, and to how today's habits shape tomorrow's energy.",
+					"{keyword} suggests an honest look at the way you care for your body, neither harsh nor careless.",
+					"Here {keyword} speaks to the steady give and take between what you ask of yourself and what you replenish."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"In your inner life, {keyword} can feel like being weighed by something larger. You aren't. Come back to a value you trust, and let it be your steady ground.",
+					"If {keyword} stirs worry about whether you're living rightly, take one quiet minute. What is one thing you did today that matched what you believe?",
+					"{keyword} on a spiritual path can be gentle. You don't have to resolve every question; one honest moment of reflection is a full practice for today."
+				],
+				"curious": [
+					"{keyword} invites you to ask what you truly believe is fair in the world. Where did that sense come from, and has it changed?",
+					"What does {keyword} feel like from the inside? You might notice the quiet click when an action and a value line up.",
+					"Here {keyword} asks what you would stand for even if no one saw. That question can open a surprising amount of inner ground."
+				],
+				"grieving": [
+					"{keyword} may feel absent when something precious has been taken. It's alright to feel that the world is out of balance right now.",
+					"In grief, {keyword} can be as small as letting your feelings be exactly what they are. You don't need to weigh them or explain them.",
+					"{keyword} doesn't ask you to find a reason for your loss. Your practice for now can simply be honesty with yourself about how much you miss what's gone."
+				],
+				"skeptical": [
+					"Read without any mysticism, {keyword} is an ethical question: are your actions and your stated values in line? Pick one area and compare.",
+					"Treat {keyword} as a thinking prompt. What principle do you lean on when decisions get hard, and does it hold up when you look at it directly?",
+					"{keyword} needs no belief system to be useful. It simply asks whether you would accept the reasoning you use if someone else used it on you."
+				],
+				"hopeful": [
+					"{keyword} on your inner path can bring a feeling of being aligned. Living by your values won't guarantee ease, but it may bring a steadier kind of peace.",
+					"If you hope to grow, {keyword} invites you to keep faith with what you know to be true. Small, consistent choices are a quiet form of practice.",
+					"{keyword} may help you trust your own inner compass. Where is it already pointing that you could follow a step further?"
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to integrity, the alignment of belief and action, and an honest look at your own conduct.",
+					"{keyword} suggests that inner growth here comes through truthfulness and accepting responsibility for your choices.",
+					"Here {keyword} speaks to the balance between conscience and action, and to seeing yourself clearly."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} can feel like a moment of judgement, but nothing is being decided about you right now. Gather the facts you have and let them steady you.",
+					"If {keyword} is on your mind, choose one fair, simple step you can take today. One honest action is enough to start.",
+					"{keyword} may be asking you to look clearly at something, and you can do that at your own pace. Write down what you know, then set the page aside for a while."
+				],
+				"curious": [
+					"{keyword} invites you to examine your life the way a fair witness would. What would a neutral observer notice that you've been too close to see?",
+					"What if {keyword} were a lens rather than a verdict? Try looking through it at one choice you're facing and see what comes into focus.",
+					"Here {keyword} asks where your actions and your words have drifted apart. Exploring that gap can be more interesting than uncomfortable."
+				],
+				"grieving": [
+					"{keyword} may feel out of reach when life has taken something from you. You don't have to make your loss make sense or seem fair.",
+					"In a heavy season, {keyword} can mean being honest with yourself about how much you're carrying. That honesty is enough; it doesn't need a solution.",
+					"{keyword} doesn't ask you to judge yourself for how you're coping. Let the scales rest for now."
+				],
+				"skeptical": [
+					"Treat {keyword} as a prompt for a clear-headed review: what have you chosen, what followed, and what would you choose again?",
+					"Read practically, {keyword} is about evidence. Before deciding, separate what you know from what you assume, and see which list is longer.",
+					"No mysticism needed: {keyword} simply invites a fair weighing of options. Try arguing honestly for the choice you're leaning against."
+				],
+				"hopeful": [
+					"{keyword} can bring a sense that things are settling on firmer ground. Acting honestly won't guarantee the outcome, but it keeps you able to stand behind it.",
+					"If you're hoping for a turn, {keyword} invites you to do your part well and let the rest unfold. What is your part, specifically?",
+					"{keyword} may help a good outcome take root. Choose the option you'd be glad to explain to yourself a year from now."
+				],
+				"neutral": [
+					"{keyword} points to fairness, truth, and the link between choices and their results.",
+					"In general, {keyword} suggests a time to weigh things honestly and take responsibility for what you decide.",
+					"Here {keyword} speaks to balance, clarity, and decisions made with care."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} in a relationship may feel delayed or lopsided right now. You don't have to fix the imbalance today; noticing it calmly is a real first step.",
+					"If {keyword} seems missing between you and someone close, steady yourself with what you can control: how you speak, and what you're willing to accept.",
+					"{keyword} may be stuck on old grievances. One small step: name, privately, a single thing you'd like to be different, without needing to act on it yet."
+				],
+				"curious": [
+					"{keyword} reversed in love may show up as keeping score. What are you tallying in your head, and does the other person even know there's a scoreboard?",
+					"What if {keyword} were blocked more by silence than by unfairness? You might explore what each of you assumes the other already knows.",
+					"Here {keyword} may be turned inward: judging yourself in love more harshly than you'd judge anyone else. Where did that harshness come from?"
+				],
+				"grieving": [
+					"{keyword} may feel withheld after a loss in love. Things may never seem squared, and you don't have to make peace with that yet.",
+					"If you're replaying what was fair and unfair, {keyword} can wait. Let yourself grieve before you try to settle any accounts.",
+					"{keyword} turned inward can become self-blame. You did what you could with what you knew; let that be enough for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed may point to an unspoken imbalance: chores, effort, attention. Is there a fact you've been avoiding naming?",
+					"Read plainly, {keyword} delayed often means a conversation postponed. What would it cost to have it, and what does postponing it cost?",
+					"Treat this as a prompt: {keyword} can be overdone too, turning into rigid rules about who owes what. Is fairness serving the relationship, or policing it?"
+				],
+				"hopeful": [
+					"{keyword} may be slow to arrive in love, but slow isn't never. One honest, kind conversation can begin to even things out.",
+					"If you hope to rebalance a relationship, {keyword} invites you to start with your own side of the scale. What could you offer more fairly?",
+					"{keyword} may be returning gradually. Notice small signs of good faith, and give some back."
+				],
+				"neutral": [
+					"Reversed in love, {keyword} may be blocked, delayed, or tipped into blame and score-keeping.",
+					"{keyword} suggests an imbalance in a relationship that hasn't yet been named or addressed.",
+					"Here {keyword} turns inward, as harsh self-judgement or avoidance of an honest look at your own part."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} may feel out of reach, as if the rules aren't applied evenly. Write down the facts as you know them; clarity on paper can calm a racing mind.",
+					"If {keyword} seems delayed in your job, focus on what you can stand behind: your own records, your own conduct, your next honest step.",
+					"{keyword} may be stalled rather than lost. For today, choose one task you can do well, and let the bigger question rest until you have more information."
+				],
+				"curious": [
+					"{keyword} reversed at work might show up as a decision everyone is avoiding. What would happen if someone simply asked who owns it?",
+					"What if {keyword} was being overdone at your job, with so much process that nothing moves? Where could fairness be lighter and still work?",
+					"Here {keyword} may be hidden: credit drifting to the wrong place, or blame landing quietly. Get curious about how that drift happens."
+				],
+				"grieving": [
+					"If work has brought a loss, {keyword} may seem to have failed you. It's alright to feel that, and to take time before deciding what to do with it.",
+					"{keyword} may be slow in coming. In the meantime, you don't owe anyone a brave face; a steady, ordinary day is enough.",
+					"When {keyword} feels denied, be careful not to turn the verdict on yourself. What happened at work is not a measure of your worth."
+				],
+				"skeptical": [
+					"Practically, {keyword} delayed at work often means unclear responsibility. Who actually decides, and have you asked them directly?",
+					"Read plainly, {keyword} reversed may point to a decision you're avoiding because both options have costs. List them; avoiding is a choice too.",
+					"Treat this as a prompt to check for bias in your own judgement at work. Is {keyword} missing out there, or in how you're reading things?"
+				],
+				"hopeful": [
+					"{keyword} may take longer than you'd like at work, but a clear record of your contributions keeps the door open. Start keeping that record now.",
+					"If you're hoping for a fairer situation, {keyword} invites you to raise it calmly and specifically. Concrete examples carry more weight than frustration.",
+					"{keyword} may be shifting slowly in your favour, or it may not; either way, acting with integrity leaves you with options."
+				],
+				"neutral": [
+					"Reversed at work, {keyword} may be delayed, unevenly applied, or avoided through indecision.",
+					"{keyword} suggests unclear accountability or a choice being postponed in your career.",
+					"Here {keyword} points to imbalance in how effort and reward are shared, or to being too hard on yourself professionally."
+				]
+			},
+			"money": {
+				"anxious": [
+					"{keyword} with money may feel shaky, as if the numbers don't add up. Start with one account and one honest look; that alone restores some ground.",
+					"If {keyword} seems off in a financial arrangement, you don't have to resolve it today. Write down what was agreed, as best you remember, and pause there.",
+					"{keyword} may be delayed rather than gone. One steadying step: check a single figure you've been avoiding, and let knowing be enough."
+				],
+				"curious": [
+					"{keyword} reversed with money might show up as an exchange that quietly favours one side. Which of your regular payments would you renegotiate if you could?",
+					"What if {keyword} was being dodged in your finances out of habit? Explore which money question you always change the subject on.",
+					"Here {keyword} might be overdone: splitting every bill to the penny until generosity disappears. Where does fairness end and tightness begin for you?"
+				],
+				"grieving": [
+					"If loss has unsettled your finances, {keyword} may feel far off. Practical matters can move slowly; ask for help sorting them if you can.",
+					"{keyword} may seem denied right now, and that hurts on top of everything else. You can set financial decisions down for a little while.",
+					"When money and grief are tangled, {keyword} may not come quickly. Take care of today's needs and let the bigger accounting wait."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed may mean a record that doesn't match reality. Reconcile one account this week and see what turns up.",
+					"Read plainly, {keyword} delayed can be a payment, a refund, or an agreement left vague. Which one could you clarify with a single message?",
+					"Treat {keyword} as a prompt to check a decision you've been putting off because it's unpleasant, not because it's unclear."
+				],
+				"hopeful": [
+					"{keyword} with money may be slow to come, yet small corrections add up. Fix one imbalance this month and notice the relief.",
+					"If you're hoping for fairer terms, {keyword} invites you to ask clearly. You may not get everything, but asking keeps the door open.",
+					"{keyword} may return as you bring your records up to date. Honest numbers are a hopeful place to build from."
+				],
+				"neutral": [
+					"Reversed with money, {keyword} may be blocked by unclear agreements, avoided figures, or an uneven exchange.",
+					"{keyword} suggests a financial imbalance, or a decision postponed until it becomes harder.",
+					"Here {keyword} points to the cost of past choices still being felt, or to money matters left unsettled."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} toward your body may feel out of balance lately. Pick one small, kind habit to steady things, a short walk or an earlier night, and let that be enough.",
+					"If {keyword} has turned into harsh self-judgement about how you look after yourself, pause. Speak to yourself as you would to someone you care about.",
+					"{keyword} may be delayed while you're stretched thin. Notice where you're holding tension and give that one place a moment of softness."
+				],
+				"curious": [
+					"{keyword} reversed might show up as all effort and no rest, or the opposite. Which way has your week been tipping?",
+					"What if {keyword} toward yourself has been hidden under busyness? Explore what your energy has been asking for that you haven't given it.",
+					"Here {keyword} could be overdone: tracking and judging every habit until care feels like a test. What would gentler attention feel like?"
+				],
+				"grieving": [
+					"{keyword} toward your body may slip when you're grieving. That's understandable; let basic care be enough for now.",
+					"If you've been neglecting yourself through a loss, {keyword} doesn't ask for guilt. A little rest and a warm meal are a fair place to begin.",
+					"{keyword} may feel out of reach while you're carrying so much. Be patient; the balance can return slowly."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed may point to a habit you know is costing you energy. Track it for a week and let the record speak.",
+					"Read plainly, {keyword} delayed can mean postponing rest until some imagined later. When, specifically, is later?",
+					"Treat {keyword} as a prompt: are you being fair to your body, or treating it as a machine with no limits?"
+				],
+				"hopeful": [
+					"{keyword} toward yourself may be returning in small steps. Notice one habit that's improved, however slightly, and give yourself credit.",
+					"If you hope to feel steadier, {keyword} invites you to rebalance gently, rather than all at once.",
+					"{keyword} may grow as you keep small promises to yourself. Pick one and keep it this week."
+				],
+				"neutral": [
+					"Reversed in health, {keyword} may be blocked by overwork, neglect, or harsh self-judgement.",
+					"{keyword} suggests an imbalance between effort and rest that hasn't yet been addressed.",
+					"Here {keyword} points to habits whose effects are being felt, or to care for yourself postponed."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{keyword} in your inner life may feel clouded, as if you can't tell right from wrong as easily as before. You don't need certainty today; returning to one value you still trust is enough.",
+					"If {keyword} has become a fear of being judged, remember that a practice can be forgiving. Sit for one quiet minute and let nothing be graded.",
+					"{keyword} may be caught on an old guilt that keeps replaying. Try naming it once, gently, then put it down for the rest of the day."
+				],
+				"curious": [
+					"{keyword} reversed might show up as rules you hold others to but quietly excuse in yourself, or the other way round. Where do you keep two sets of scales?",
+					"What if {keyword} has gone quiet because one of your values has changed and you haven't caught up with it? Explore what you believe now, not what you were taught.",
+					"Here {keyword} could be overdone, an inner judge so strict there's no room left for grace. What would a kinder conscience sound like if it spoke?"
+				],
+				"grieving": [
+					"{keyword} may feel absent in a season of grief. Nothing about your sorrow needs to be justified; let it be uneven and unresolved.",
+					"If you've been asking whether you deserved this, {keyword} turned inward can become cruel. Your sorrow is not a sentence passed on you.",
+					"{keyword} may stay quiet for a while, and that's alright. Your practice for now can be gentleness toward yourself and nothing more."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to a gap between stated values and daily actions. Name one gap, then decide whether to close it or honestly revise the value.",
+					"Read plainly, {keyword} delayed may mean avoiding an inner look because of what it could show. That avoidance is itself useful information.",
+					"Treat {keyword} as a prompt to audit self-judgement. Is the harsh voice accurate, or just familiar? Check it against what a fair stranger would say."
+				],
+				"hopeful": [
+					"{keyword} may come back into your inner life as you forgive yourself for something old. You don't have to start with the biggest thing; start with the easiest.",
+					"If you hope to feel more whole, {keyword} invites small acts that match your values. Each one quietly rebuilds trust with yourself.",
+					"{keyword} may be rebalancing slowly. Notice any place where your conscience feels a little lighter than it did a year ago."
+				],
+				"neutral": [
+					"Reversed in spiritual matters, {keyword} may be clouded by self-judgement, avoided, or out of step with your values.",
+					"{keyword} suggests a gap between belief and conduct that is asking, quietly, to be looked at.",
+					"Here {keyword} turns inward, as harsh self-assessment or a reluctance to face your own part in something."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} may feel delayed or tilted right now, and that can be unsettling. Focus on the two things fully in your hands: your own honesty, and the next small step.",
+					"If {keyword} seems missing from a situation, you're allowed to wait for more information before deciding. Writing down what you know can quiet the noise.",
+					"{keyword} may be held back by fear of choosing wrongly. A small, fair choice today is still a choice, and it's enough."
+				],
+				"curious": [
+					"{keyword} reversed might look like a decision you keep circling without landing. What would you need to know, or admit, to land it?",
+					"What if {keyword} has turned inward, so you're harder on yourself than on anyone else? Get curious about whose voice that judgement really is.",
+					"Here {keyword} might be traded for comfort: not looking too closely so nothing has to change. What do you suspect you'd see if you did look?"
+				],
+				"grieving": [
+					"{keyword} may feel far away when life has dealt a loss. You don't have to make it balance, or find it fair, or find it anything.",
+					"If {keyword} has hardened into self-blame, let it soften. You were doing your best with what you knew at the time.",
+					"{keyword} may be slow to return, and there's no deadline. Let the scales rest while you rest."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed usually means one of two things: a decision postponed or a fact avoided. Which is it here?",
+					"Read plainly, {keyword} delayed can be a habit of keeping the peace at your own expense. Add up what that habit has cost you lately.",
+					"Treat {keyword} as a prompt to check your own bias. Is the imbalance in the situation, or in the way you've been reading it?"
+				],
+				"hopeful": [
+					"{keyword} may return as you act honestly in small ways. Balance tends to be rebuilt one fair choice at a time, not in one grand gesture.",
+					"If you're hoping things will even out, {keyword} invites one concrete step: an apology, a question, a correction you can make yourself.",
+					"{keyword} may already be creeping back. Notice where things feel slightly steadier than they did before."
+				],
+				"neutral": [
+					"Reversed, {keyword} may be blocked, delayed, or turned inward as self-judgement.",
+					"{keyword} suggests an imbalance, or a decision that keeps being put off.",
+					"Here {keyword} points to truths avoided or responsibility not yet taken up."
+				]
+			}
+		}
+	}
+}

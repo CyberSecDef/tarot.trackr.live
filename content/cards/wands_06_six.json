@@ -1,0 +1,412 @@
+{
+	"id": "wands_06_six",
+	"name": "Six of Wands",
+	"facets": [
+		{
+			"id": "victory",
+			"keywords": ["a hard-won victory", "success after effort", "a well-earned win"]
+		},
+		{
+			"id": "recognition",
+			"keywords": ["public recognition", "praise from others", "being seen for your work"]
+		},
+		{
+			"id": "confidence",
+			"keywords": ["earned confidence", "quiet pride", "self-assurance"]
+		},
+		{
+			"id": "momentum",
+			"keywords": ["forward momentum", "progress others can see"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are worried about how you are seen in love, {keyword} suggests you have more standing than you fear. Today, notice one way someone close to you has shown they value you.",
+					"{keyword} in a relationship doesn't have to be dramatic. One thing in your control: say out loud, to yourself or to them, one thing you two have handled well together.",
+					"When love feels uncertain, {keyword} invites you to remember a time you showed up well for someone. You did it once; you can do the next small kind thing now."
+				],
+				"curious": [
+					"{keyword} asks a lively question about love: who cheers for you, and who do you cheer for? Those two lists may not match, and that is interesting.",
+					"What would {keyword} look like between you and someone you care about? Perhaps a shared goal reached, or simply being proud of each other in public.",
+					"{keyword} hints that being admired and being loved are not quite the same thing. Which one are you reaching for right now?"
+				],
+				"grieving": [
+					"{keyword} may feel strange to think about while you are missing someone. You can let the good things you built together count, even now that they are behind you.",
+					"When love has ended or been lost, {keyword} might simply be the fact that you are still here and still caring. That is enough to honour today.",
+					"{keyword} does not ask you to celebrate. It may only be a quiet acknowledgement that the love you gave was real and did good in someone's life."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about appreciation. Do the people closest to you know what you admire in them, and do you know what they admire in you?",
+					"Read plainly, {keyword} points to how a relationship handles success. Is one person's win treated as both people's, or does it quietly create distance?",
+					"No mystery needed: {keyword} raises the question of whether you feel respected in love. That is worth checking directly rather than guessing at."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign to carry into love. If you have been putting in real effort, it is fair to hope that effort is being noticed.",
+					"If you are hoping a relationship can grow, {keyword} suggests building on what is already working. Name one shared success and let it set the tone.",
+					"{keyword} invites you to show up in love with your head up. Confidence that is kind tends to draw people closer, though it cannot decide anyone else's choices."
+				],
+				"neutral": [
+					"In love, {keyword} points to mutual pride, admiration and the good feeling of being valued by someone who knows you well.",
+					"{keyword} highlights a relationship that has come through something and can stand a little taller for it.",
+					"{keyword} asks how openly you and the people you love recognise each other's efforts and wins."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If you are braced for criticism at work, {keyword} suggests your track record may be stronger than your nerves admit. Write down three things you have delivered this year.",
+					"{keyword} can feel exposing when you are anxious, as if being noticed means being judged. One small step: share one piece of finished work with someone you trust.",
+					"When work feels shaky, {keyword} invites you to stand on what you have already done. Pick the task you are best at and do it well today."
+				],
+				"curious": [
+					"{keyword} asks a playful question: what would you most like to be known for at work? The answer could point you toward your next project.",
+					"What might {keyword} look like if you defined it yourself rather than by title or salary? It is worth sketching your own idea of a win.",
+					"{keyword} hints that a door may be opening because of work people have already seen. Who has noticed you lately, and what did they notice?"
+				],
+				"grieving": [
+					"If you are grieving, {keyword} at work may feel hollow or far away. You are allowed to let the achievement sit quietly until you are ready to feel it.",
+					"{keyword} can arrive at the same time as a loss, and that mix is hard. You don't have to choose which one to feel first.",
+					"When a job or a colleague has been lost, {keyword} may mean remembering what you did well together. That shared work still counts."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about visibility. Good work that nobody sees rarely moves a career, so consider how your results reach the people who make decisions.",
+					"{keyword} is a prompt to take stock. List what has actually gone well this quarter; evidence is more useful than either modesty or bravado.",
+					"Read practically, {keyword} asks whether you are claiming credit for your work or letting it drift to others. A short, factual update can fix that."
+				],
+				"hopeful": [
+					"{keyword} is a hopeful image for your working life. If you have been pushing hard, it is fair to expect that effort to be seen in time, even if the timing is not yours.",
+					"If you are hoping for a promotion or a breakthrough, {keyword} encourages you to make your case clearly. Ask for the thing; don't wait to be offered it.",
+					"{keyword} invites you to enjoy a win when it comes, then use the goodwill it brings to set up the next step."
+				],
+				"neutral": [
+					"At work, {keyword} points to achievement, acknowledgement and a reputation growing stronger.",
+					"{keyword} highlights the moment when effort turns into results that others can see and respect.",
+					"{keyword} suggests a time to take ownership of your successes and let them inform where you go next."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money is worrying you, {keyword} is a reminder that you have handled hard stretches before. Look at one bill or goal you have already met and let it steady you.",
+					"{keyword} around money may be smaller than you hoped, but it still counts. One thing in your control: write down every financial step you have taken this month.",
+					"When finances feel fragile, {keyword} invites you to focus on the next small target, not the whole mountain. Choose one amount to set aside and set it aside."
+				],
+				"curious": [
+					"{keyword} poses an interesting question: what does financial success actually look like to you, beyond what others would applaud?",
+					"What might {keyword} teach you about money? Notice which purchases feel like rewards and which simply feel like keeping up with appearances.",
+					"{keyword} hints that a skill you are proud of may have more value than you have been charging for it. It might be worth exploring."
+				],
+				"grieving": [
+					"{keyword} may feel beside the point while you are carrying a loss. Money matters can wait a little; small, steady steps are enough.",
+					"If a loss has changed your circumstances, {keyword} might simply mean getting through this month. That is a real achievement, even if no one sees it.",
+					"{keyword} does not ask you to feel triumphant. It only notes that keeping things going while you grieve is something to be quietly proud of."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to measure progress. Compare your finances now with a year ago; the numbers are more honest than your mood.",
+					"{keyword} raises a fair question: is any of your spending aimed at looking successful rather than being secure? Neither is wrong, but it helps to know.",
+					"Read plainly, {keyword} points to the payoff of consistent effort. Which money habit has quietly worked for you, and could you do more of it?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign around money. If you have been disciplined, it is reasonable to hope the results start to show, without counting on a windfall.",
+					"If you are hoping for more security, {keyword} suggests celebrating each milestone. Small wins tend to make the next ones easier to reach.",
+					"{keyword} invites you to recognise your own good decisions. Confidence with money often grows one sensible choice at a time."
+				],
+				"neutral": [
+					"Around money, {keyword} points to goals reached, a sense of financial progress and the confidence that follows.",
+					"{keyword} highlights rewards that come from steady effort, and the question of how you choose to mark them.",
+					"{keyword} suggests noticing what has gone right with your resources and building from there."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} is a reminder to notice what is going well too. Name one habit you have kept up and give yourself credit for it.",
+					"{keyword} can be as modest as a good night's sleep or a walk you actually took. One small thing today: do the easy, kind thing for your body first.",
+					"When stress runs high, {keyword} invites you to look back at a hard week you got through. You have more steadiness than this moment suggests."
+				],
+				"curious": [
+					"{keyword} asks an inviting question: when do you feel strongest in your body? Notice the time of day, the people, the activity.",
+					"What would {keyword} look like if it were about how you feel rather than how you look? That shift could be worth exploring.",
+					"{keyword} hints that small routines may be paying off. Which one has made the biggest difference to your energy lately?"
+				],
+				"grieving": [
+					"Grief can make {keyword} feel very distant. Getting up, eating something and resting are enough to count as care right now.",
+					"{keyword} may simply look like letting yourself be looked after. Accepting help is not a lack of strength.",
+					"When you are carrying a loss, {keyword} does not need to be celebrated. It can be a quiet sense that you are still taking care of yourself."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to track what actually helps. A simple note of sleep, movement and mood can show patterns that feelings miss.",
+					"{keyword} raises a plain question: are your habits built for how you feel day to day, or for how they look to others?",
+					"No mysticism needed: {keyword} points to the payoff of consistency. Which healthy routine would be easiest to keep going for another month?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image for your wellbeing. If you have been looking after yourself, let yourself notice the difference, however small.",
+					"If you are hoping to feel stronger, {keyword} suggests marking every step forward. Progress that is noticed tends to be progress that continues.",
+					"{keyword} invites you to share a good change with someone who will be glad for you. Encouragement can help a habit stick."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to vitality, steady habits and the satisfaction of feeling capable in your body.",
+					"{keyword} highlights how good routines and self-respect support each other.",
+					"{keyword} suggests recognising the effort you put into caring for yourself, not only the results."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsettled, {keyword} reminds you of the growth you have already made. Sit for a moment with one lesson you have truly learned.",
+					"{keyword} may not feel spiritual at first, but self-respect is part of inner steadiness. One small practice: end today by naming something you did with integrity.",
+					"When doubt crowds in, {keyword} invites you to trust the ground you have already crossed. You do not have to prove your path again today."
+				],
+				"curious": [
+					"{keyword} opens a question: what does success mean for your soul, as opposed to your reputation? The two can point in very different directions.",
+					"What if {keyword} on the inner path looked less like applause and more like a quiet sense of rightness? Where have you felt that lately?",
+					"{keyword} hints at a moment to share what you have learned. Who might benefit from hearing how you got here?"
+				],
+				"grieving": [
+					"{keyword} may feel at odds with grief. You can hold both: the loss, and the fact that you have grown in ways you never asked to.",
+					"When loss has shaken your sense of meaning, {keyword} does not ask for answers. It may only honour that you are still searching.",
+					"{keyword} can be very gentle here, simply recognising that carrying grief with care is its own kind of strength."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is a prompt about motivation. Are you pursuing growth for its own sake, or partly for how it looks to others?",
+					"{keyword} needn't be mystical. It simply asks you to notice which of your values you have actually lived by recently.",
+					"Treat {keyword} as a reflection exercise: what is one belief you have acted on with courage, and what did it cost you?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to trust your own progress. Inner growth is often slow and unseen, which doesn't make it less real.",
+					"If you are hoping for a sense of arrival, {keyword} suggests pausing to notice how far you have come before looking for the next summit.",
+					"{keyword} invites a little gratitude for your own effort. Being kind to yourself about growth can make more of it possible."
+				],
+				"neutral": [
+					"On the inner path, {keyword} points to integrity rewarded, a sense of progress and the confidence to keep going.",
+					"{keyword} highlights the dignity of having stayed true to something that mattered to you.",
+					"{keyword} suggests recognising your own growth without needing anyone else to confirm it."
+				]
+			},
+			"general": {
+				"anxious": [
+					"Whatever is worrying you, {keyword} is a reminder that you have come through things before. Pick one recent success, however small, and let it remind you of that.",
+					"{keyword} suggests the ground under you is firmer than it feels. One thing in your control: finish one small task today and let yourself notice it is done.",
+					"When things feel uncertain, {keyword} invites you to stand on your own record. You do not have to win everything; you only need the next step."
+				],
+				"curious": [
+					"{keyword} asks a playful question: what would you be proud to be celebrated for a year from now? Start pointing yourself toward it.",
+					"What might change if you let yourself enjoy {keyword} instead of rushing to the next goal? Pausing could show you something.",
+					"{keyword} hints that people may be watching your progress more warmly than you realise. Who has been quietly cheering for you?"
+				],
+				"grieving": [
+					"{keyword} may feel far away while you are grieving, and that is all right. Getting through the day is enough for now.",
+					"When you are carrying a loss, {keyword} might mean simply acknowledging what you have managed. No one needs to see it for it to count.",
+					"{keyword} does not ask you to feel victorious. It only notes, gently, that you are still standing, and that this matters."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to review what has gone right. People often remember setbacks more vividly than wins, so it helps to write them down.",
+					"{keyword} raises a useful question: whose approval are you working for, and is it the approval you actually want?",
+					"There is nothing magic in {keyword}, only the ordinary pattern of effort paying off. Where has that happened for you lately?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image to sit with. Hope is fair here, especially where you have already been doing the work.",
+					"If you are hoping for something good, {keyword} suggests carrying yourself as someone who has earned a place. Confidence can open doors effort alone cannot.",
+					"{keyword} invites you to celebrate the progress already made, not only the outcome you are waiting for."
+				],
+				"neutral": [
+					"{keyword} speaks of achievement, acknowledgement and the confidence that grows from both.",
+					"In life as a whole, {keyword} points to a moment of standing a little taller after something hard.",
+					"{keyword} brings attention to success, how it is shared, and how you carry it."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you feel unappreciated in love, {keyword} may be held back rather than missing. One step in your control: tell the person one specific thing you would like them to notice.",
+					"{keyword} may feel out of reach right now, and that can sting. Before deciding what it means, ask one calm question about how they see things.",
+					"When {keyword} seems to have slipped, it helps to remember your worth does not rise and fall with someone's praise. Do one kind thing for yourself today."
+				],
+				"curious": [
+					"{keyword} may be turned inward here. What would it be like to feel proud of how you love, whether or not anyone says so?",
+					"What if {keyword} has become a bit of a contest between you and someone close? It could be worth wondering who is keeping score, and why.",
+					"{keyword} hints at a private win in a relationship that nobody has named yet. What might change if you named it?"
+				],
+				"grieving": [
+					"{keyword} may feel lost along with the person or the relationship. It is all right to miss being seen by someone who knew you well.",
+					"If grief has dimmed {keyword}, you don't need to rebuild it now. Let the people who are still here notice you in small ways.",
+					"{keyword} may simply be on hold while you mourn. There is no rush to feel confident in love again."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be lopsided in this relationship. Is one person's effort routinely noticed while the other's goes unremarked?",
+					"{keyword} is a prompt about ego. When pride gets in the way, small apologies tend to cost less than long standoffs.",
+					"Read plainly, {keyword} can point to needing reassurance more than usual. That is human, and it is worth saying rather than hinting at."
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than denied. If you are hoping to feel valued, keep showing up as yourself and let the right people catch up.",
+					"If you have felt overlooked, {keyword} encourages you to seek out people who notice you without being prompted. They do exist.",
+					"{keyword} might grow back quietly, starting with how you speak to yourself. Hope is reasonable, as long as it begins at home."
+				],
+				"neutral": [
+					"In love, {keyword} can point to feeling unappreciated, competing for attention, or pride getting in the way of closeness.",
+					"{keyword} appears held back or inward, asking whether you need outside approval to feel secure with someone.",
+					"{keyword} may be delayed, overdone or private, inviting a look at how admiration flows between you and the people you love."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If your work feels invisible, {keyword} may simply be running late. One thing in your control: send a short note to your manager summarising what you have finished.",
+					"{keyword} can feel fragile when you are worried about slipping. Focus on one solid piece of work this week and let it speak for you.",
+					"When you fear failing in front of others, {keyword} may feel far away. Remember that one setback is a moment, not a reputation."
+				],
+				"curious": [
+					"{keyword} may be happening quietly. What if the most important win at work this season is one only you know about?",
+					"What would happen if you stopped chasing {keyword} for a while and focused on work you find meaningful in itself?",
+					"{keyword} hints at a question: has someone else been credited for something you did? If so, what would a fair correction look like?"
+				],
+				"grieving": [
+					"If you are grieving, {keyword} at work may matter much less than it used to. That shift is allowed; your priorities can change.",
+					"{keyword} may feel withheld while you are not at your best. Colleagues may simply not know what you are carrying, and you can choose how much to share.",
+					"When a loss touches your working life, {keyword} can wait. Doing the work at all is enough for now."
+				],
+				"skeptical": [
+					"Plainly, {keyword} may be missing because your results aren't reaching the right people. It is a communication problem before it is a talent problem.",
+					"{keyword} is a prompt to check for overreach. Has confidence run ahead of preparation anywhere? It is easier to catch now than later.",
+					"Treat {keyword} as a question about credit. Keep a simple record of your contributions; it helps in reviews and in your own head."
+				],
+				"hopeful": [
+					"{keyword} may be postponed rather than lost. If you are hoping for recognition, keep doing the work and make sure it is visible.",
+					"If you have felt passed over, {keyword} encourages you to look for places where your skills are wanted. The right audience matters.",
+					"{keyword} might arrive later and more quietly than you imagined. Hope is fair; stay honest about what still needs doing."
+				],
+				"neutral": [
+					"At work, {keyword} can point to credit withheld, a win that stays private, or confidence that has tipped into overconfidence.",
+					"{keyword} appears delayed or inward: progress made but not yet acknowledged, or fear of being seen to fall short.",
+					"{keyword} suggests looking at whether you are working for results or for applause, and what each is costing you."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money progress feels stalled, {keyword} may simply be slower than you hoped. One small step in your control: check one account and note one thing that has improved.",
+					"{keyword} may feel out of reach if you have taken a financial knock. You don't have to undo it all today; pick the next single payment or task.",
+					"When finances feel shaky, comparing yourself with others can make {keyword} seem impossible. Try measuring against your own last month instead."
+				],
+				"curious": [
+					"{keyword} may be hidden in your finances. What quiet improvement have you made that nobody else would notice?",
+					"What if {keyword} has been tied to spending that shows success rather than builds it? It might be interesting to look.",
+					"{keyword} hints at a question: what would you do with money if no one could see the results?"
+				],
+				"grieving": [
+					"{keyword} may feel meaningless while you are grieving. Keeping the basics going is more than enough right now.",
+					"If a loss has set your finances back, {keyword} can wait. There is no need to prove anything to anyone.",
+					"{keyword} may be on hold, and that is all right. Some seasons are about holding steady, not moving forward."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be overdone in your spending: buying to look like you are doing well. Add up what that costs in a typical month.",
+					"{keyword} is a prompt to check for overconfidence. Has an early win encouraged bigger risks than your situation can comfortably carry?",
+					"Read plainly, {keyword} could point to effort not yet reflected in pay. That is worth raising directly rather than waiting to be noticed."
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than gone. A careful plan and a little patience can carry hope a long way.",
+					"If you are hoping to get ahead, {keyword} encourages you to celebrate privately and save the rest. Quiet progress still adds up.",
+					"{keyword} might return once things steady. For now, a small, deliberate marker of progress can keep you going."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to slow progress, spending for show, or a financial win that goes unnoticed.",
+					"{keyword} appears held back or overdone: confidence getting ahead of the numbers, or success that feels hollow.",
+					"{keyword} suggests checking whether your money choices reflect your own goals or other people's expectations."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel you are falling behind with your wellbeing, {keyword} may simply be slower than you'd like. One thing in your control: choose one gentle habit and keep it for three days.",
+					"{keyword} may feel far away when your energy is low. You are allowed to measure progress in small steps, like a better night's sleep or a slower morning.",
+					"When you compare yourself with others, {keyword} can feel impossible. Turn back toward your own body and ask what it needs today."
+				],
+				"curious": [
+					"{keyword} may be turning inward. What changes in how you feel would matter to you even if nobody else could see them?",
+					"What if {keyword} has been driving you to push too hard? It could be worth noticing where effort turns into strain.",
+					"{keyword} hints at a quiet improvement you haven't credited yourself for yet. What might it be?"
+				],
+				"grieving": [
+					"Grief can make {keyword} feel unreachable. Resting, eating and being gentle with yourself are enough for now.",
+					"If you have let go of {keyword} for a while, be kind about it. Your energy is going toward carrying something heavy.",
+					"{keyword} can wait. When you feel ready, the smallest step back toward your routines will be enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be tied to appearances. Are your habits serving how you feel, or how you want to be seen?",
+					"{keyword} is a prompt about overdoing it. Pushing to impress, even yourself, can cost more energy than it returns.",
+					"No mysticism here: {keyword} out of balance often means comparing yourself with others. Try comparing with yourself a month ago instead."
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. Hope is reasonable, especially if you let progress be small and steady.",
+					"If you are hoping to feel better, {keyword} encourages you to celebrate private gains. Not every good change needs an audience.",
+					"{keyword} could come back in a gentler form. Listening to your body is a sound place to start."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to progress that feels slow, pressure to perform, or pride getting in the way of rest.",
+					"{keyword} appears inward or delayed, asking whether your habits serve you or your image.",
+					"{keyword} suggests noticing quiet improvements and letting go of the need to show them off."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If you feel your inner growth has stalled, {keyword} may be quieter rather than absent. One steady step: return to one simple practice you trust.",
+					"{keyword} may feel shaky if you have been comparing your path with others'. You can step back from that comparison today.",
+					"When self-doubt is loud, {keyword} invites you to look for one moment this week when you acted in line with your values."
+				],
+				"curious": [
+					"{keyword} may be turning inward. What do you know about yourself that no one has ever praised you for?",
+					"What if letting go of {keyword} is part of the work right now? Humility can teach things that success cannot.",
+					"{keyword} hints at a question about ego: which parts of your practice are for you, and which are for being seen?"
+				],
+				"grieving": [
+					"{keyword} may feel empty while you grieve. That emptiness is not a failing; it is part of carrying loss.",
+					"If grief has humbled you, {keyword} may simply be on hold. There is no need to feel accomplished on the inner path right now.",
+					"{keyword} may come back slowly and differently. For now, honesty about how you feel is practice enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to spiritual pride, the subtle wish to be seen as further along. It is worth noticing without judgment.",
+					"{keyword} is a prompt to look at motivation. If no one would ever know about your practice, would you still keep it?",
+					"Read plainly, {keyword} can mean progress that is real but private. That kind often lasts longest."
+				],
+				"hopeful": [
+					"{keyword} may be on hold while you grow quietly. The hope here is that what you build in private holds up in public.",
+					"If you are hoping for a sense of progress, {keyword} encourages patience. Inner work rarely announces itself.",
+					"{keyword} might deepen once it is less about recognition and more about truth. That is worth looking for."
+				],
+				"neutral": [
+					"On the inner path, {keyword} can point to private growth, spiritual pride, or confidence shaken by a setback.",
+					"{keyword} appears turned inward, asking what success means when no one is watching.",
+					"{keyword} suggests examining whether your growth needs an audience to feel real."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you fear falling short, {keyword} may simply be slower to arrive than you hoped. One thing in your control: finish one thing today and let that be enough.",
+					"{keyword} may feel out of reach right now. You don't have to prove yourself to everyone; choose one person whose respect actually matters to you.",
+					"When a setback has knocked your confidence, {keyword} can seem far away. Remember the last thing you did well, and start from there."
+				],
+				"curious": [
+					"{keyword} feels a little off-kilter. What would you be proud of if no one ever found out about it?",
+					"What if {keyword} is postponed rather than denied? When it comes, what would you want it to be for?",
+					"{keyword} hints at something to notice: how much of your effort is aimed at being seen, and how much at the thing itself?"
+				],
+				"grieving": [
+					"{keyword} may feel unimportant right now, and that is all right. Grief has its own priorities.",
+					"If loss has shaken your confidence, {keyword} does not need rebuilding today. Small, ordinary days are enough.",
+					"{keyword} may be set aside for a while. Some seasons are for carrying, not for winning."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance: either undervalued or overplayed. Look at the last month and see which it is.",
+					"{keyword} is a prompt about pride. Is there a situation where admitting a mistake would cost less than defending a position?",
+					"Read plainly, {keyword} can point to effort that hasn't been recognised yet. That calls for clearer communication, not a mystical explanation."
+				],
+				"hopeful": [
+					"{keyword} may simply be delayed. Hope is fair here, so keep working and keep your efforts visible.",
+					"If you have felt overlooked, {keyword} encourages you to recognise yourself first. Others often follow your lead.",
+					"{keyword} might be gathering quietly. Notice the small signs of progress; they could be the start of something."
+				],
+				"neutral": [
+					"Overall, {keyword} can point to delayed success, lack of recognition, or pride that has started to get in the way.",
+					"{keyword} appears held back or overdone, asking you to notice where you seek approval and where you trust yourself.",
+					"{keyword} suggests a quieter season for wins, or a version of them that is private rather than public."
+				]
+			}
+		}
+	}
+}

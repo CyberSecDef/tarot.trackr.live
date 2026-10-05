@@ -1,0 +1,412 @@
+{
+	"id": "major_00_fool",
+	"name": "The Fool",
+	"facets": [
+		{
+			"id": "new_beginnings",
+			"keywords": ["a new beginning", "a first step", "a blank page"]
+		},
+		{
+			"id": "leap_of_faith",
+			"keywords": ["a leap of faith", "trust in the unknown", "an untested path"]
+		},
+		{
+			"id": "innocence",
+			"keywords": ["beginner's mind", "an open heart", "a fresh perspective"]
+		},
+		{
+			"id": "spontaneity",
+			"keywords": ["spontaneity", "a sense of play", "the pull of the open road"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"In matters of the heart, {keyword} can feel like stepping off a ledge with no view of the ground. You don't need to know how it ends; you only need to know what you'd like to say first.",
+					"If {keyword} with someone feels exciting and frightening in equal measure, both feelings can be true at once. Let one honest conversation be the only thing you take on this week.",
+					"Closeness tends to start with {keyword}, and nobody arrives at that moment fully ready. Notice where your body relaxes around this person; that is information you can trust a little at a time."
+				],
+				"curious": [
+					"What would change if you treated this connection as an experiment rather than a test? {keyword} tends to flourish between people when nobody is keeping score.",
+					"There's an invitation here to meet someone as if for the first time, even someone you've known for years. Where could {keyword} make room for a surprise between you?",
+					"{card} likes the question more than the answer. If {keyword} were the theme of your next date, coffee or phone call, what small, unusual thing might you try?"
+				],
+				"grieving": [
+					"After a loss, {keyword} in love can seem impossible or even disloyal. There is no schedule for this. It may be enough simply to notice that your heart still knows how to turn toward warmth.",
+					"You don't have to be ready for anything. {keyword} can be as quiet as letting a friend sit with you, or answering a message you've been leaving unread. Go as slowly as you need.",
+					"Grief and {keyword} can live in the same chest without one cancelling the other. Whatever you carry from before is not something you have to set down in order to keep walking."
+				],
+				"skeptical": [
+					"Take {keyword} as a practical question: are you waiting for certainty before you show interest in someone? Most people never get it, and the ones who move anyway learn faster.",
+					"No fate required: {keyword} simply names the moment when you act before you have all the data. In your relationships, where are you over-researching and under-living?",
+					"Read plainly, {card} points to {keyword}. Ask yourself whether the risk you're avoiding in love is actually large, or just unfamiliar. Those two feel identical from the inside."
+				],
+				"hopeful": [
+					"{keyword} suits a heart that's ready to try. It doesn't promise how things turn out, but it does suggest that openness gives good things somewhere to land.",
+					"There's real lightness available here. If you let {keyword} guide how you show up, without rehearsing every line, people may meet the most honest version of you.",
+					"Hope pairs well with {keyword}. Say the warm thing, send the invitation, and let the other person answer for themselves; your part is simply to be sincere."
+				],
+				"neutral": [
+					"In love, {keyword} points to the start of something, or a fresh chapter in something old. It asks for openness more than a plan.",
+					"{keyword} suggests that a relationship may grow best right now through curiosity and a willingness to look a little foolish.",
+					"Where connection is concerned, {card} highlights {keyword}: an unscripted moment, a first move, a choice to trust before everything is proven."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can feel like walking into a meeting without notes. You are allowed to be new at this. Pick one thing you already know how to do well and let it be your footing.",
+					"If {keyword} in your working life has you awake at night, try shrinking it. What is the very next step, and could you do it before lunch tomorrow? Start there, not with the whole road.",
+					"Change at work often begins with {keyword}, and the unease you feel is the normal cost of entry, not a warning. Write down what you'd need to feel ten percent steadier, and ask for that."
+				],
+				"curious": [
+					"{keyword} at work could be a side project, a new skill, or an odd question no one has asked yet. What would you explore if being a beginner were part of the job description?",
+					"{card} likes a detour. Where might {keyword} lead if you followed your interest for an afternoon instead of your to-do list?",
+					"Some careers turn on a single unplanned yes. Is there a conversation, a course or a colleague that {keyword} might be nudging you toward?"
+				],
+				"grieving": [
+					"If work has ended, or changed beyond recognition, {keyword} may feel too soon. Let it wait. Mourning what you built is part of the work, not a delay to it.",
+					"There is no need to leap anywhere today. {keyword} can be very small: tidying a desk, updating one line of a profile, reaching out to someone kind. Only what you have room for.",
+					"Losing a role can take a piece of who you thought you were. {keyword} doesn't erase that; it just leaves a door ajar for whenever, and if ever, you want to look through it."
+				],
+				"skeptical": [
+					"Practically speaking, {keyword} asks what you'd attempt at work if you didn't need to be an expert first. Most skills are learned on the job, not before it.",
+					"Treat {keyword} as a planning prompt: what's the smallest experiment you could run in your career this month, with a cost you could easily absorb if it fails?",
+					"Nothing mystical here: {keyword} describes the phase where you don't know enough yet. The useful question is whether you're gathering information or using it as a reason to stall."
+				],
+				"hopeful": [
+					"{keyword} looks good on you. If there's a role, pitch or venture you've been circling, this is a nudge to take one concrete step, without pretending the outcome is settled.",
+					"Your enthusiasm is a real asset here. Let {keyword} carry you into the first conversation, and let the work itself show you whether the path deserves more of you.",
+					"Hopeful energy and {keyword} make good company. Aim high, start small, and keep a little of the beginner's delight even as you get good at it."
+				],
+				"neutral": [
+					"In your working life, {keyword} marks an opening: a new role, project or way of working, with more potential than proof so far.",
+					"{keyword} at work suggests acting while things are still unformed, learning by doing rather than waiting for a perfect plan.",
+					"{card} brings {keyword} to your career question, an invitation to begin, experiment, and accept that the map is still being drawn."
+				]
+			},
+			"money": {
+				"anxious": [
+					"When money feels tight, {keyword} can sound reckless. It doesn't have to be. Begin with one honest look at a single account, and let knowing replace guessing.",
+					"{keyword} with your finances could be as modest as a fresh notebook for tracking spending. Starting small is still starting, and it may quiet the noise in your head a little.",
+					"If a financial change is ahead, the fear you feel about {keyword} makes sense. Name the one number you most need to know, and find it before deciding anything else."
+				],
+				"curious": [
+					"{keyword} with money might mean asking how you actually want your resources to feel: safe, generous, adventurous? What answer surprises you?",
+					"What would {keyword} look like in your budget if you treated it like a game you're learning rather than a test you're failing?",
+					"{card} wonders what you'd value if you started from scratch. Let {keyword} prompt a list of things that are truly worth paying for, and a few that quietly aren't."
+				],
+				"grieving": [
+					"Loss often reshapes money, and that can feel cruelly practical. {keyword} here doesn't ask you to fix everything; it just notices that a new arrangement may need to form, slowly.",
+					"There may be accounts to sort or decisions to make that you never wanted. Let {keyword} mean one small task at a time, with someone you trust beside you if possible.",
+					"Your sense of security may have shifted with what you've lost. {keyword} can wait until you have breath for it. For now, gentleness with yourself is the first resource."
+				],
+				"skeptical": [
+					"Read practically, {keyword} asks whether your money habits were chosen or simply inherited. Which one would you design differently if you were starting today?",
+					"{keyword} with money is not a reason to gamble. It's a prompt to test one change, such as a new savings habit or a cheaper option, and see what the numbers say after a month.",
+					"Plainly put, {card} raises {keyword}. Consider what a clean start in your finances would require, and which part is genuinely within reach this week."
+				],
+				"hopeful": [
+					"{keyword} can make money feel lighter. If you've been wanting to start something, whether saving, earning or giving, this is a good moment to take the first, modest step.",
+					"There's optimism in {keyword}, and it can be grounded optimism. Hope for good things while keeping one eye on the numbers; the two work better together than apart.",
+					"Let {keyword} remind you that your relationship with money can change. It may take time, but a single new choice is how any new pattern begins."
+				],
+				"neutral": [
+					"With money, {keyword} points to a fresh start: a new approach to earning, spending or saving, taken on with more openness than certainty.",
+					"{keyword} suggests that your resources may be entering a new phase, one that rewards curiosity and a willingness to learn as you go.",
+					"In financial matters, {card} brings {keyword}: a beginning that asks for a light hand and clear eyes in equal measure."
+				]
+			},
+			"health": {
+				"anxious": [
+					"When your body feels uncertain, {keyword} can be gentle. Try one small new habit, like a short walk or an earlier night, and notice how it lands without judging it.",
+					"{keyword} in how you care for yourself doesn't have to be dramatic. Breathe out slowly, feel your feet on the floor, and ask what one thing would help you rest tonight.",
+					"Worry can make the body brace. {keyword} might be the simple act of letting your shoulders drop and choosing a kinder pace for the rest of today."
+				],
+				"curious": [
+					"{keyword} could mean trying a new kind of movement just for the fun of it. What does your body enjoy when no one is keeping score?",
+					"{card} invites you to approach your energy like a beginner. Where might {keyword} show you something about rest, food or play that you've stopped noticing?",
+					"What if {keyword} in your daily routine meant following your energy instead of your schedule for one day? See what you learn."
+				],
+				"grieving": [
+					"Grief lives in the body too. {keyword} doesn't ask for strength; it might simply be stepping outside for a few minutes, or letting yourself sleep when you're tired.",
+					"There is no right way to carry this. If {keyword} means anything right now, it may be allowing each day to be new, without asking it to look like the last one.",
+					"Be slow with yourself. {keyword} can be as small as a glass of water, a warm meal, a hand on your own chest. These count."
+				],
+				"skeptical": [
+					"Practically, {keyword} asks whether there's a habit you keep meaning to start. The first week is usually the hardest; what would make day one easier?",
+					"No magic involved: {keyword} is a reminder that small changes in sleep, movement or routine are worth testing. Pick one, try it for a fortnight, and see.",
+					"Treat {keyword} as a prompt to check in with how you actually feel, rather than how you think you should feel. That gap is often the useful part."
+				],
+				"hopeful": [
+					"{keyword} brings lightness to how you care for yourself. A new routine started with curiosity rather than pressure is often one that lasts.",
+					"There's room here for energy to return in its own way. Let {keyword} mean saying yes to the activities that make you feel most alive, at a pace that suits you.",
+					"Hope and {keyword} sit well together. Start where you are, celebrate small shifts, and let your body set the rhythm."
+				],
+				"neutral": [
+					"For your wellbeing, {keyword} suggests a fresh approach to energy and rest, begun with openness rather than strict rules. What you try now is a draft, not a contract.",
+					"{keyword} points to trying something new in your daily care, and paying attention to how it actually feels.",
+					"In matters of the body, {card} brings {keyword}: a lighter step, a looser grip on how things should feel, and room to notice what your energy is asking for today."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"Spiritually, {keyword} can feel like standing at the edge of something vast. You don't need to understand it all. One quiet minute of attention is enough for today.",
+					"If doubt or fear is close, {keyword} doesn't ask you to banish it. It invites you to take one small step anyway, with the doubt walking beside you.",
+					"{keyword} may stir up questions that feel too big. Bring them down to size: what do you believe right now, this hour, about being cared for?"
+				],
+				"curious": [
+					"{card} is the eternal beginner. Where might {keyword} lead your inner life if you set aside what you think you already know?",
+					"{keyword} invites play into your practice. Could you pray, sit or walk in a way you never have before, purely to see what it stirs? Nothing has to count.",
+					"Children ask why until the adults run out of answers. What would it be like to hold your beliefs that lightly for a while, letting {keyword} treat wonder as a practice in its own right?"
+				],
+				"grieving": [
+					"In grief, faith can feel distant or broken. {keyword} doesn't demand that you believe anything; it simply leaves room for meaning to return when it's ready.",
+					"You may feel like you're starting from nothing. {keyword} can be honest about that, and still allow that nothing is a place where new things are sometimes found.",
+					"Let {keyword} be quiet. A walk, a candle, a few words for the one you've lost. There's no need to make sense of anything yet."
+				],
+				"skeptical": [
+					"You don't need a belief system to use this. {keyword} simply asks whether you're open to new ideas about meaning, or whether your current ones have stopped being questioned.",
+					"Read as a thinking tool, {keyword} invites you to examine one assumption you hold about how life works. Is it still serving you?",
+					"Plainly, {card} points to {keyword}. Curiosity about the big questions doesn't require answers, only a willingness to keep asking."
+				],
+				"hopeful": [
+					"{keyword} brings a sense of openness to your inner life. Trust that wonder is still available, even if you've felt dry for a while.",
+					"There's freshness here. Let {keyword} guide you toward a practice or community that makes you feel more alive and more like yourself.",
+					"Hope is its own kind of faith. With {keyword}, you might find that simply beginning, again, is the most spiritual act available today."
+				],
+				"neutral": [
+					"On a spiritual level, {keyword} points to a new phase of seeking, marked by openness, trust and a willingness not to know.",
+					"{keyword} suggests that your inner life may benefit from a lighter grip on old certainties, and a little more room for surprise.",
+					"{card} brings {keyword} to your spiritual question: a step taken in trust, before the ground beneath it is visible."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} can feel daunting when you'd rather have guarantees. You don't need to see the whole path; choose the next small step, and take only that one.",
+					"If life feels uncertain, {keyword} reminds you that most beginnings are wobbly. Steady yourself with one familiar thing, then look ahead.",
+					"Worry often magnifies the unknown. {keyword} invites you to name what is actually in front of you today, and handle only that."
+				],
+				"curious": [
+					"{card} carries everything it needs in one small bag. Where might {keyword} take you if you packed lighter, and said yes to the next interesting thing that crosses your path?",
+					"Somewhere on a list in your head is a thing you have wanted to try for years. {keyword} asks, playfully, what exactly you are waiting for.",
+					"What if {keyword} were your guiding question for the week? Keep a note of every small door that opens when you follow curiosity instead of caution."
+				],
+				"grieving": [
+					"After loss, {keyword} may feel far away or even unwelcome. That's okay. Beginnings can wait until you are ready to look at them.",
+					"Life may feel unfamiliar now. {keyword} doesn't rush you; it simply notes that every day is, in its own way, a first day of something.",
+					"Let {keyword} be as gentle as you need. Small acts of continuing, like eating, resting or talking to a friend, are enough for now, and they are not small."
+				],
+				"skeptical": [
+					"Practically, {keyword} asks whether you're waiting for perfect conditions. Most good decisions are made with incomplete information.",
+					"No predictions here: {keyword} is a prompt to look at where you might be over-planning and under-acting. What's one thing you could start today?",
+					"Treat {card} as a question: where could {keyword} help you move from thinking about a change to testing it in a small, safe way?"
+				],
+				"hopeful": [
+					"{keyword} fits a hopeful heart. It doesn't promise success, but it does suggest that being open is the best way to meet whatever comes next.",
+					"There's lightness here. Let {keyword} remind you that you are allowed to begin again, as many times as you need, without the earlier attempts counting against you.",
+					"Hope pairs well with {keyword}. Take one step toward what you want this week, then look around; the view from there may show you the second."
+				],
+				"neutral": [
+					"{keyword} marks a threshold: an open road with more possibility than certainty, and an invitation to travel light.",
+					"In your life as a whole, {keyword} suggests openness, trust and a willingness to begin before everything is clear.",
+					"{card} brings {keyword}, a reminder that the first step is usually taken before you feel fully prepared, and that this is normal."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"Reversed, {card} can show {keyword} held back by fear of getting it wrong. That caution is understandable. You might start by telling one trusted person what you actually want, out loud.",
+					"If you've been leaping into closeness too quickly and it leaves you shaken, {keyword} may need a slower rhythm. It's fine to pause, breathe and let trust be earned on both sides.",
+					"{keyword} may be stuck at the edge right now, waiting for a sign that it's safe. You can't control another person's answer, but you can choose how kindly you treat yourself while you wait."
+				],
+				"curious": [
+					"Something about {keyword} in your love life seems to be idling at the cliff edge. What story are you telling yourself about why it isn't time yet, and who wrote it?",
+					"When {keyword} turns inward, it often becomes daydreaming instead of doing. What would the smallest real-world version of that daydream look like?",
+					"Reversed, {card} asks an interesting question: is {keyword} being held back by caution, or rushed by restlessness? Which of those sounds more like you lately?"
+				],
+				"grieving": [
+					"It makes sense if {keyword} feels out of reach in love right now. A heart that has been hurt often wants to stay still for a while, and stillness is allowed.",
+					"Perhaps you once jumped without looking and it ended in pain. {keyword} doesn't need to be tried again yet. There's no deadline on being ready.",
+					"{keyword} may be resting under the weight of what you've lost. You don't owe anyone a fresh start; letting love stay quiet for now is also a kind of care."
+				],
+				"skeptical": [
+					"Practically, {card} reversed points to {keyword} that's either stalled or rushed. Look at your last few choices in love: were you hesitating out of wisdom or habit, or moving fast to avoid thinking?",
+					"Treat {keyword} as a question about pacing. If you keep almost reaching out and then not, what is the actual cost you're trying to avoid? Write it down; it may be smaller on paper.",
+					"Nothing mystical: {keyword} can go wrong by being skipped entirely or by being taken blindly. Which pattern has shown up more in your relationships so far?"
+				],
+				"hopeful": [
+					"Your hope is real, and {keyword} may just be gathering itself before it moves. Use the delay to get clear on what you'd like, so you can recognise it when it comes.",
+					"{keyword} may be waiting for you to trust yourself a little more. Hope is a good start; pair it with one small brave act, like a message or an honest reply.",
+					"If you've been rushing toward someone, {keyword} suggests slowing to a walk. The good things in love tend to survive a little patience."
+				],
+				"neutral": [
+					"Reversed, {card} shows {keyword} in love either held back by hesitation or overdone through impulsiveness. It asks which way the balance has tipped.",
+					"{keyword} may be delayed or turned inward, suggesting a relationship that is still at the threshold rather than across it.",
+					"In matters of the heart, {keyword} may lean toward naivety or toward fear, an invitation to look clearly at someone before stepping closer."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} may be stalled by the fear of looking inexperienced. Everyone starts somewhere. Pick one task where you could ask a question instead of pretending to know.",
+					"If you've jumped into something at work faster than felt safe, {card} reversed asks you to steady the ground under {keyword} first. Which loose end, tied up, would help you breathe easier?",
+					"{keyword} can feel blocked when the stakes seem high. You don't have to decide your whole future this week; just gather one more piece of information that would make the next step clearer."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} at work is being postponed indefinitely. What would happen if you gave yourself a date for the first small test?",
+					"{keyword} turned inward can look like endless research. What's one thing you've learned already that you haven't yet tried out?",
+					"Is {keyword} in your career being held back by caution, or scattered by too many ideas at once? Try narrowing down to a single experiment and see how it feels."
+				],
+				"grieving": [
+					"After a setback at work, {keyword} might feel impossible or even foolish. It's okay to stay where you are for a while. Not every season is for leaping.",
+					"If a past risk at work ended badly, {keyword} may feel tainted. Give yourself time; the hurt is real and it doesn't need to be resolved before you rest.",
+					"{keyword} can wait. Grieving what didn't work out, or what was taken from you, deserves its own room before anything new asks for your attention."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work seems caught between over-caution and under-preparation. Which is more likely? An honest answer is more useful than a hopeful one.",
+					"Treat this as a check on your planning. If {keyword} keeps being delayed, list the real blockers. If it's being rushed, list what you haven't yet verified.",
+					"No fate, just pattern: {keyword} at work tends to stall when people wait for permission they don't actually need, and to backfire when they skip basic checks. Which applies here?"
+				],
+				"hopeful": [
+					"{keyword} may just be taking longer than you'd like. That doesn't mean it won't come; use this time to sharpen the skills that will help when it does.",
+					"If you've been hesitating, your hope is a good sign. Let {keyword} start smaller than you imagined: a single conversation or a single draft.",
+					"Hope can make us move too fast. Before {keyword} carries you off, it may help to take one more look at the details before you commit, and then go."
+				],
+				"neutral": [
+					"In your working life, {card} reversed may show {keyword} held at the threshold: a role, project or idea that keeps being discussed and not begun.",
+					"{keyword} at work may be tipping into haste, with enthusiasm running ahead of preparation. The card asks for a pause to check the footing, not a retreat.",
+					"Here {keyword} is turned inward. The beginning may already be happening in your head, quietly, well before anyone at work can see it."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money worries have you frozen, {keyword} may be waiting behind that freeze. You don't have to solve anything today. Open one statement, read it once, and let that be the whole task.",
+					"Perhaps a recent purchase or decision was more impulsive than you'd like. {card} reversed doesn't scold; it suggests letting {keyword} wait until you've slept on the next choice.",
+					"Fear can make every financial move feel like a cliff. {keyword} may be smaller than it looks from here. What is one amount you could set aside, however modest, just to prove you can?"
+				],
+				"curious": [
+					"There's a gap between the money plans you talk about and the ones you act on. What lives in that gap? {keyword} may be hiding there, waiting to be named.",
+					"Reversed, {card} wonders whether {keyword} has been swapped for window shopping, browsing possibilities without ever choosing one. Which option keeps catching your eye, and why?",
+					"Try this: imagine {keyword} with your finances, then imagine its reckless cousin. Where exactly is the line between them for you? Finding it may be the interesting part."
+				],
+				"grieving": [
+					"When someone or something has gone, money decisions can feel unbearably cold. {keyword} does not have to be faced alone, or this week, or in one sitting.",
+					"If a risk you took with money cost you more than you can easily say, {keyword} may feel like the last thing you want. That wariness is earned. Let it stand for a while.",
+					"Some days, simply keeping the lights on is the whole achievement. {keyword} can stay folded away until there is more room in you to look at it."
+				],
+				"skeptical": [
+					"Here's a practical reading: {keyword} with money goes wrong in two ways, by never starting or by starting without a budget. Look at your last three money decisions and see which way you lean.",
+					"If {keyword} keeps getting postponed, try pricing the delay. What has waiting actually cost or saved you so far? The number may settle the argument faster than a feeling.",
+					"{card} reversed isn't a forecast, just a nudge to audit. Is {keyword} being blocked by a real constraint, or by a story about yourself and money that you've never checked?"
+				],
+				"hopeful": [
+					"Hope for your finances is worth keeping, and {keyword} may simply need a firmer floor beneath it. What one detail, a date or a figure, would turn the wish into a plan?",
+					"The excitement is real; so is the case for checking twice. Let {keyword} unfold at the pace of your actual resources, and it has a better chance of lasting.",
+					"Slow money can still be good money. If {keyword} is taking its time, use the wait to learn the terms, read the small print, and ask the questions you skipped before."
+				],
+				"neutral": [
+					"With money, {card} reversed shows {keyword} either stalled by caution or spent too freely, before the ground has been checked.",
+					"{keyword} in your finances may be delayed or kept to yourself, still forming as an idea rather than a decision.",
+					"Here {keyword} leans toward naivety: trusting a deal, a promise or a hunch before looking at it closely enough."
+				]
+			},
+			"health": {
+				"anxious": [
+					"When worry is loud, {keyword} in caring for yourself can feel blocked. Put one hand on your belly, breathe out longer than you breathe in, and do it three times. That is enough for now.",
+					"If you've thrown yourself into a new routine and your body is asking for a break, listen. {card} reversed suggests {keyword} at a gentler pace; resting is part of it.",
+					"Fear can make starting anything feel huge. {keyword} could shrink to a single choice today: an earlier night, a slower meal, five minutes outdoors."
+				],
+				"curious": [
+					"Reversed, {card} wonders what your body has been asking for that you haven't quite heard. Could {keyword} begin with listening rather than doing?",
+					"Have you been collecting wellness ideas, routines and plans without trying any of them? Pick the one that makes you smile, and let {keyword} be that and only that.",
+					"Sometimes {keyword} gets overdone, all enthusiasm and no rest. What would it feel like to do half as much, twice as gently, and notice the difference?"
+				],
+				"grieving": [
+					"Grief is tiring in a way that's hard to explain. {keyword} can wait. Lying down, staying warm and being looked after are all reasonable things to want right now.",
+					"If you're not ready to start caring for yourself in new ways, that's okay. {keyword} has no deadline, and getting through the day counts as care.",
+					"Your body may feel like it's carrying more than usual, because it is. Let {keyword} stay small and private: a bath, a blanket, a walk with no destination."
+				],
+				"skeptical": [
+					"Practically, {card} reversed asks whether {keyword} is being delayed by waiting for motivation, or overcooked by trying to change everything at once. Both are common, and both are fixable.",
+					"Consider {keyword} as a design question: what's the smallest version of the habit you could repeat on your worst day? Start there and build up only when it's boring.",
+					"Not a sign, just a useful prompt. Look honestly at how you've been sleeping, moving and resting. Is {keyword} being blocked, or are you simply pushing past signals to slow down?"
+				],
+				"hopeful": [
+					"Your wish to feel more energised is worth honouring. If {keyword} has stalled, try a version so easy it feels almost silly, and let early wins carry you.",
+					"Hope can tempt us to sprint. {card} reversed suggests {keyword} at walking pace, so that next month still has energy left in it.",
+					"{keyword} may be gathering quietly before it shows. Keep doing the small, steady things; the body often answers patience in its own time."
+				],
+				"neutral": [
+					"For your wellbeing, {card} reversed shows {keyword} either held back by hesitation or overdone through enthusiasm without rest.",
+					"{keyword} in your daily care may be delayed, still an intention rather than a practice, and worth a gentle look at what's in the way.",
+					"Here {keyword} turns inward: a time for noticing how your body feels before deciding what to change."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsteady, {keyword} may be hiding behind a wish to get it exactly right. There's no wrong way to sit quietly for a minute. Try one, today.",
+					"Perhaps you've leapt into a new belief or teacher and now feel unsure. {card} reversed invites you to step back, keep your own counsel, and let {keyword} slow to a pace that feels safe.",
+					"Doubt doesn't disqualify you. {keyword} can begin with something familiar, a phrase, a place, a song, that once made you feel held."
+				],
+				"curious": [
+					"Reversed, {card} asks whether {keyword} has gone underground, happening in thoughts and late-night questions rather than in practice. What's surfacing there?",
+					"Spiritual seeking can turn into collecting: books, retreats, ideas. Which one of them actually changed how you live? Let {keyword} grow from that one.",
+					"What if {keyword} isn't stalled at all, just dormant, like a seed in winter? What might it need from you before spring?"
+				],
+				"grieving": [
+					"Loss can empty out the places where meaning used to live. {keyword} may be impossible to feel right now, and you don't need to force it.",
+					"If what you believed didn't hold you when you needed it, the hurt goes deep. {keyword} can remain a question, unanswered, for as long as it needs.",
+					"Let {keyword} be still. Silence isn't absence; sometimes it's simply where you rest between one understanding and the next."
+				],
+				"skeptical": [
+					"Read as a prompt, {card} reversed asks whether {keyword} is being avoided because it feels naive, or embraced without much scrutiny. Which do you tend toward?",
+					"Try a simple exercise: write down what you believe about meaning, then one reason you might be wrong. {keyword} lives in the space that opens up.",
+					"No claims about the universe required. {keyword} here is just about whether your sense of purpose is still being examined, or has quietly gone on autopilot."
+				],
+				"hopeful": [
+					"Your longing for something deeper is itself a kind of practice. {keyword} may be unfolding slowly, beneath the surface, and slowness doesn't mean it's absent.",
+					"If you've been chasing peak moments, {card} reversed suggests {keyword} through ordinary days instead. Small attention, repeated, often goes further.",
+					"Hope is a good companion here. Let {keyword} rest on discernment as well as trust, and it may carry you somewhere real."
+				],
+				"neutral": [
+					"Spiritually, {card} reversed shows {keyword} held back by doubt, or rushed into without enough grounding.",
+					"{keyword} in your inner life may be turned inward, quietly taking shape before it's ready to be expressed.",
+					"Here {keyword} leans toward naivety, trusting too readily, or toward hesitation, trusting too little."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} may be frozen at the edge right now, and the fear behind that is understandable. You don't have to jump. Just name one thing you could do in the next hour, and do only that.",
+					"If you leapt recently and the landing feels shaky, steady yourself first. {card} reversed suggests {keyword} can wait until your feet are under you again.",
+					"Worry shrinks the world to the worst outcome. {keyword} invites you to widen it a little: what else could be true, and what is one thing that is fine today?"
+				],
+				"curious": [
+					"Reversed, {card} asks whether {keyword} has been hiding in daydreams. What would happen if one of those daydreams got a date in your calendar?",
+					"Is {keyword} being held back by caution, or scattered across too many shiny options? Try sorting your ideas into 'someday' and 'soon', and see what's left in 'soon'.",
+					"Some leaps need a run-up. What if this pause isn't hesitation at all, but {keyword} gathering speed? What would help it build?"
+				],
+				"grieving": [
+					"After loss, {keyword} may feel unwelcome, even unthinkable. That's okay. There's no clock running on when you begin again.",
+					"If a past leap ended in hurt, of course {keyword} feels hard to trust. Keep that wariness close; it is protecting something that matters.",
+					"{keyword} can stay on the far side of the door for now. Today it's enough to be where you are, carrying what you carry."
+				],
+				"skeptical": [
+					"Practically, {card} reversed asks whether {keyword} is being avoided or rushed. Look at a recent choice and ask: was I careful, or just stalling? Bold, or just careless?",
+					"Treat {keyword} as a thought experiment. If a friend described your situation, would you tell them to wait, or to stop over-thinking? Your answer is the useful data.",
+					"Nothing here requires belief. {keyword} is simply a prompt to check whether fear or impulse has been doing your deciding lately."
+				],
+				"hopeful": [
+					"Your hope is worth keeping close. {keyword} may just need more preparation than you'd planned, and that's not a no, only a not yet.",
+					"If you've been impatient to start, {card} reversed suggests {keyword} with a little more forethought. A well-packed bag makes the road lighter.",
+					"Even a delayed start can be a good one. Let {keyword} take the time it needs, and use that time to get clear on what you're truly reaching for."
+				],
+				"neutral": [
+					"Reversed, {card} shows {keyword} either held back by fear of the unknown or rushed into with more trust than care.",
+					"{keyword} may be delayed or turned inward, existing as an intention that hasn't yet found its first step.",
+					"Here {keyword} tilts toward naivety or recklessness, inviting a clear look at the ground before stepping off."
+				]
+			}
+		}
+	}
+}

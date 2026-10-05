@@ -1,0 +1,412 @@
+{
+	"id": "major_09_hermit",
+	"name": "The Hermit",
+	"facets": [
+		{
+			"id": "solitude",
+			"keywords": ["solitude", "a quiet retreat", "time alone"]
+		},
+		{
+			"id": "introspection",
+			"keywords": ["introspection", "a search for inner truth", "soul-searching"]
+		},
+		{
+			"id": "inner_guidance",
+			"keywords": ["inner guidance", "hard-earned wisdom", "a lantern held for others"]
+		},
+		{
+			"id": "simplicity",
+			"keywords": ["a slower pace", "stepping back from the noise"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"In love, {keyword} can look worrying from the outside, as if distance means something has gone wrong. Often it simply means someone needs room to think. One gentle check-in is enough; you don't have to chase.",
+					"If {keyword} is what you need right now, you're allowed to take it without explaining every reason. A short, kind message saying you'll be back in touch can ease both your mind and theirs.",
+					"{keyword} in a relationship can give your nerves a chance to settle. Spend one evening on your own doing something calming, and notice what you actually feel once the noise drops."
+				],
+				"curious": [
+					"{keyword} in love asks an interesting question: who are you when no one is looking at you? What would you want a partner to know about that person?",
+					"With {keyword} lighting the way, you might explore what you need from closeness. How much togetherness feels nourishing, and when does it start to crowd you?",
+					"What if {keyword} were part of a healthy relationship rather than a threat to it? What would you do with an afternoon that belonged only to you?"
+				],
+				"grieving": [
+					"After a loss, {keyword} can be a place to let the grief be exactly as big as it is. You don't have to be good company right now.",
+					"{keyword} may feel like the only thing you can manage, and that's all right. When you're ready, one person who understands can sit with you quietly, without needing you to talk.",
+					"Missing someone can make the evenings long. Let {keyword} be gentle: a lamp on, a familiar song, a memory you choose to keep close."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about knowing yourself before asking someone else to know you. What do you want from love, in a sentence you'd stand behind?",
+					"No fate involved: {keyword} points to the value of reflection. Before your next big conversation with someone close, take ten minutes alone to work out what you actually think.",
+					"Treat {keyword} as a practical prompt. Are you choosing partners or friends based on loneliness, or on what you've learned about yourself?"
+				],
+				"hopeful": [
+					"{keyword} suggests that time spent understanding yourself can make you a clearer, kinder partner. It isn't a promise of love arriving, but it's good ground for it.",
+					"If you're hoping for deeper connection, {keyword} encourages you to get to know your own needs first. People often meet each other best when they arrive whole.",
+					"There's quiet hope in {keyword}: what you learn alone can light the way back toward others. What have you been discovering about what you need?"
+				],
+				"neutral": [
+					"In love, {keyword} points to a period of reflection, distance or self-understanding. It asks what you need before you can share it.",
+					"{keyword} here suggests stepping back from a relationship question to see it more clearly.",
+					"With {keyword} present, the focus is on knowing your own heart, and on respecting the need for space on both sides."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can be a relief rather than a retreat. If things feel overwhelming, block out a quiet half hour today to think before you act.",
+					"If you're worried about a career decision, {keyword} invites you to step away from other people's opinions for a while. What do you think when the noise stops?",
+					"{keyword} in your working life doesn't mean disappearing. It can be as simple as closing your inbox for an hour and working on the one thing that matters."
+				],
+				"curious": [
+					"{keyword} at work invites you to ask what you'd do if no one were watching or grading you. What kind of work would you choose for its own sake?",
+					"{keyword} in your career might lead you to think about mentors. Who has held a light for you along the way, and who might you guide in turn?",
+					"Think of {keyword} as a research trip into yourself. What have you learned about how you work best?"
+				],
+				"grieving": [
+					"{keyword} at work may be what you need while carrying grief. It's fine to keep your head down and do quiet, steady tasks.",
+					"If you've lost a role or a colleague, {keyword} can help you understand what it meant to you. There's no rush to decide what's next.",
+					"Sometimes {keyword} means letting work be simple and small for a while. That is a reasonable choice."
+				],
+				"skeptical": [
+					"Read practically, {keyword} at work is about deep focus. When did you last have uninterrupted time to think properly about a problem?",
+					"No mystery: {keyword} points to the value of reflection before action. Which work decision would benefit from a week of thinking rather than a day?",
+					"Treat {keyword} as a prompt: are you learning from your own experience, or just repeating it? What would you tell someone starting your job today?"
+				],
+				"hopeful": [
+					"{keyword} suggests that reflection may reveal a clearer path. It isn't a guarantee, but time spent thinking tends to sharpen direction.",
+					"If you're hoping for a breakthrough, {keyword} encourages you to look inward. Your own experience may hold more answers than you think.",
+					"There's encouragement in {keyword}: the knowledge you've built quietly may soon be useful to others. Who could you share it with?"
+				],
+				"neutral": [
+					"In career matters, {keyword} points to reflection, focused independent work, and wisdom gained through experience.",
+					"{keyword} here suggests stepping back to see your working life clearly before your next move.",
+					"Professionally, {keyword} highlights mentorship, either seeking guidance or offering it."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} can mean stepping back from the constant checking. Set one quiet time this week to review things, and let the rest of the week be free of it.",
+					"If finances feel loud, {keyword} invites you to look at them alone and calmly, away from comparisons. What do the numbers say when nobody else is in the room?",
+					"{keyword} in money matters often reveals that you need less than you feared. One simple question to sit with: what is genuinely essential this month?"
+				],
+				"curious": [
+					"{keyword} invites you to explore what enough means to you. If you stripped away what you buy to keep up, what would remain?",
+					"With {keyword} touching your resources, you might wonder what a simpler life would cost and what it would give back. Is any part of it quietly appealing?",
+					"Think of {keyword} as a quiet audit. What spending reflects who you are, and what reflects who you think you should be?"
+				],
+				"grieving": [
+					"Money can feel very far from the heart of things when you're grieving. {keyword} might mean letting the finances wait while you rest.",
+					"{keyword} can mean quietly sorting what needs sorting, one piece at a time, with no one hurrying you.",
+					"If a loss has changed your resources, {keyword} gives you space to understand it slowly. You don't need to decide anything big now."
+				],
+				"skeptical": [
+					"Practically, {keyword} in money is about reviewing your own choices without outside pressure. When did you last look at your spending honestly?",
+					"No magic needed: {keyword} points to simplicity. What subscription, habit or commitment could you drop without missing it?",
+					"Treat {keyword} as a prompt to think independently. Are your financial decisions shaped by what others are doing?"
+				],
+				"hopeful": [
+					"{keyword} suggests a simpler relationship with money may bring more ease. Nothing is promised, but less clutter often means less worry.",
+					"If you're hoping for security, {keyword} encourages careful reflection. Quiet planning tends to beat hurried decisions.",
+					"There's encouragement in {keyword}: you may find you already know more about what you need than you thought."
+				],
+				"neutral": [
+					"In money matters, {keyword} points to reflection, simplicity and independent judgement.",
+					"{keyword} here suggests stepping back to review your resources calmly.",
+					"Financially, {keyword} highlights living by your own sense of enough."
+				]
+			},
+			"health": {
+				"anxious": [
+					"When your body feels on edge, {keyword} can be a real gift. Find a quiet corner, dim the lights, and give yourself five minutes with nothing to do and nowhere to be.",
+					"If stress is loud, {keyword} invites you to turn the volume of the world down. Silencing notifications for one evening is a small, real kindness to yourself.",
+					"{keyword} in caring for yourself doesn't need a long retreat. A slow walk on your own, without your phone, can be enough to let your breathing settle."
+				],
+				"curious": [
+					"{keyword} invites you to notice what your body tells you once it's quiet. What do you hear when the day's noise finally fades?",
+					"With {keyword} in mind, you might explore how much quiet actually restores you. Are you getting more or less of it than you need?",
+					"{card} carries a small lamp rather than a floodlight. If {keyword} lit up just one habit, which would you want to look at more closely?"
+				],
+				"grieving": [
+					"Grief can make the body want to withdraw and rest. {keyword} may be exactly right for now, as long as one person knows how you're doing.",
+					"{keyword} can look like long rests, quiet evenings and very simple routines. These are care, not giving up.",
+					"If you're carrying a loss, {keyword} gives you room to feel it without performing being fine. Let your days be as slow as they need to be."
+				],
+				"skeptical": [
+					"Practically, {keyword} in health is about rest and lower stimulation. How much genuinely quiet time, no screens and no tasks, are you getting each week?",
+					"No mystery: {keyword} points to the plain value of quiet. Try one screen-free evening and compare how you sleep and feel the next day.",
+					"Treat {keyword} as a prompt to examine your habits. Which ones run on autopilot, and would you choose them if you were deciding fresh?"
+				],
+				"hopeful": [
+					"{keyword} suggests that rest and reflection can restore some of your energy. Nothing is guaranteed, but quiet has a way of giving back.",
+					"If you're hoping to feel more like yourself, {keyword} encourages slowing down on purpose. Your body may respond to the extra room.",
+					"There's encouragement in {keyword}: listening inward can point you toward the kind of care that actually suits you."
+				],
+				"neutral": [
+					"In health, {keyword} points to rest, reflection and a break from constant stimulation.",
+					"{keyword} here suggests stepping back from demands so you can listen to your body more closely.",
+					"With {keyword} present, the focus is on quiet, simplicity and attention turned inward."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"Spiritually, {keyword} doesn't have to feel like wandering in the dark. Think of it as carrying a small lamp: you only need to see the next step, not the whole road.",
+					"If big questions are unsettling you, {keyword} invites you to sit with one of them quietly for a few minutes, without needing to answer it.",
+					"{keyword} in your inner life can be a steadying routine: the same quiet chair, the same few minutes each day. Familiar stillness can calm a busy mind."
+				],
+				"curious": [
+					"{keyword} invites you to ask what you believe when you've set aside everything you were taught. What's left standing?",
+					"With {keyword} on your path, you might explore the teachers who've shaped you, in books, in people, in places. Which ones still speak to you?",
+					"{card} climbs alone to a high, quiet place. If {keyword} took you somewhere like that, what question would you bring with you?"
+				],
+				"grieving": [
+					"In grief, {keyword} can be a sanctuary where you don't have to explain anything. Let it hold you for as long as you need.",
+					"{keyword} may bring you close to the one you've lost, in memory or in silence. There's no wrong way to spend that time.",
+					"Spiritually, {keyword} doesn't ask you to find meaning in the loss. It may only offer a quiet place to carry it."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about thinking for yourself. Which of your beliefs have you tested against your own experience, and which have you simply accepted?",
+					"No supernatural reading needed: {keyword} describes the ordinary value of reflection. When did you last sit quietly with no input at all?",
+					"Treat {keyword} as a practical prompt. If you wrote down the three things you're surest of, what would they be, and how did you come to them?"
+				],
+				"hopeful": [
+					"{keyword} suggests that the answers you're seeking may already be forming inside you. Nothing is promised, but quiet attention tends to bring them closer.",
+					"If you're hoping for clarity, {keyword} encourages patience with the process. Insight often arrives slowly, then all at once.",
+					"There's encouragement in {keyword}: what you learn in quiet can become a light for others later. Your search may matter beyond yourself."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to inner searching, quiet wisdom and guidance found through reflection.",
+					"{keyword} here suggests turning away from noise to listen for your own truth.",
+					"With {keyword} present, the focus is on contemplation, and on the light you carry for yourself and others."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} can feel like a calm room in a loud house. If you're worried, give yourself a short stretch of quiet today before deciding anything.",
+					"If life feels overwhelming, {keyword} invites you to step back just far enough to see the shape of things. You don't have to see everything; only the next step.",
+					"{keyword} doesn't mean cutting yourself off. It can be as small as one solitary walk or one phone-free hour to hear yourself think."
+				],
+				"curious": [
+					"{keyword} invites a question: what do you know now that you didn't know a year ago? How did you come to know it?",
+					"With {keyword} in view, you might wonder what you'd discover if you stepped back from your usual routines for a week. What would you miss, and what wouldn't you?",
+					"{card} holds a lamp up to the path. If {keyword} lit one corner of your life more brightly, which corner would you want it to be?"
+				],
+				"grieving": [
+					"{keyword} may be what you need while you grieve. Quiet doesn't have to be lonely; it can be a place to rest with what you carry.",
+					"If you're carrying a loss, {keyword} gives you room to feel it fully, without having to explain or perform. Take as long as you need.",
+					"Sometimes {keyword} means being alone with memories, turning them over gently. That is a way of honouring someone."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about stepping back to think clearly. When did you last give a decision the quiet time it deserved?",
+					"No mystery: {keyword} describes the value of reflection and independent judgement. Whose opinion would you set aside if you trusted your own?",
+					"Treat {keyword} as a practical prompt: what have you learned from experience that you're not yet putting into practice?"
+				],
+				"hopeful": [
+					"{keyword} suggests clarity may come from quiet reflection. Nothing is promised, but stepping back often reveals what was hidden by the noise.",
+					"If you're hoping for direction, {keyword} encourages patience. The way forward often becomes visible one step at a time.",
+					"There's encouragement in {keyword}: what you learn in solitude can light the path for you and for others."
+				],
+				"neutral": [
+					"{keyword} points to introspection, solitude and wisdom gained through reflection.",
+					"In general, {keyword} suggests stepping back from the noise to find your own truth.",
+					"With {keyword} present, the focus is on inner guidance and the slow, steady work of understanding."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} may have tipped into loneliness, and that can feel frightening. One small step back toward people is enough: reply to one message, or say yes to one short plan.",
+					"If you've been pulling away from someone because closeness feels risky, {keyword} may be protecting you a little too well. You can open the door a crack without throwing it wide.",
+					"When {keyword} turns into overthinking, your mind can build stories that aren't true. Write down what you actually know about this relationship, and set the rest aside for tonight."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} turned away from rather than toward. What are you avoiding by staying busy with other people?",
+					"{keyword} may be overdone at the moment. Have you been hiding inside your own head when what you really want is to be found?",
+					"If {keyword} feels hard to come by, get curious about the crowd you keep around you. Who would you still choose if you had to choose only one?"
+				],
+				"grieving": [
+					"{keyword} after a loss can slide into isolation without you noticing. You don't have to be sociable, but letting one person know how you are can help.",
+					"If you've closed yourself off since losing someone, that's understandable. {keyword} can stay; you might just leave one window open.",
+					"Sometimes {keyword} gets crowded out by people trying to help. It's okay to ask for some quiet, and okay to ask for company when the quiet gets heavy."
+				],
+				"skeptical": [
+					"Practically, reversed, {card} points to {keyword} being either avoided or overdone. Are you never alone with your thoughts, or almost always?",
+					"Use {keyword} as a check: is distance in a relationship giving you clarity, or just letting a problem sit? Those look alike for a while.",
+					"No mysticism needed: {keyword} that goes on too long can turn into withdrawal. When did you last let someone close see how you're really doing?"
+				],
+				"hopeful": [
+					"{keyword} may be ready to give way to reconnection. When you feel able, one small reach toward someone could be the start.",
+					"If you've been too much alone, or never alone enough, {keyword} can find a better balance. Nothing is promised, but small adjustments help.",
+					"There's hope in noticing the imbalance. Whatever you've learned through {keyword} can come with you as you turn back toward people."
+				],
+				"neutral": [
+					"Reversed, {keyword} in love suggests isolation, withdrawal that has gone on too long, or reflection being avoided.",
+					"{keyword} here may be blocked or overdone. It asks whether you need more connection or more space.",
+					"In love, {keyword} reversed can point to loneliness, or to keeping people at a distance out of habit."
+				]
+			},
+			"career": {
+				"anxious": [
+					"{keyword} at work may have become isolation, and that can feed worry. One small step: ask a colleague a question, or share one piece of what you're working on.",
+					"If you've been avoiding thinking about where your career is going, {keyword} may feel uncomfortable. Ten honest minutes with a notebook is a manageable start.",
+					"When {keyword} turns into endless overthinking, it helps to set a limit. Decide when you'll make the decision, and let yourself rest until then."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} that's been crowded out at work. What would you notice if you had an hour of quiet tomorrow?",
+					"{keyword} may be overdone in your working life. Have you been working alone so long that you've forgotten what collaboration gives you?",
+					"If {keyword} feels hard to reach, get curious about the noise. Which meetings, messages or habits keep you from thinking?"
+				],
+				"grieving": [
+					"{keyword} can turn into withdrawal when you're grieving, and work may feel far away. Let one trusted colleague know you're struggling.",
+					"If loss has made work feel empty, {keyword} doesn't have to answer every question about your career right now.",
+					"Sometimes {keyword} gets lost in the rush to keep up. You're allowed to slow down while you grieve."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests too much isolation, or too little time to think. Which describes your work right now?",
+					"Use {keyword} as a check: are you refusing advice because you trust yourself, or because asking feels like weakness?",
+					"No mystery: {keyword} slips when every day is reactive. What could you protect time for this week?"
+				],
+				"hopeful": [
+					"{keyword} at work may be ready to turn outward. What you've worked out alone might be worth sharing now.",
+					"If you've been isolated, {keyword} can give way to connection. Nothing is promised, but one conversation could help.",
+					"There's hope in finding balance. {keyword} works best alongside people, not instead of them."
+				],
+				"neutral": [
+					"Reversed, {keyword} at work suggests isolation, avoided reflection, or advice being refused.",
+					"{keyword} here may be blocked or overdone. It asks whether you need more space or more company.",
+					"Professionally, {keyword} reversed can point to a lack of guidance or a reluctance to seek it."
+				]
+			},
+			"money": {
+				"anxious": [
+					"{keyword} with money may have slid into avoidance, where not looking feels safer. One small step: open a single account today, read the balance, then close it and breathe.",
+					"If you've been carrying money worries entirely on your own, {keyword} may be heavier than it needs to be. Asking one trusted person for a second pair of eyes is a reasonable move.",
+					"When {keyword} turns into the same worry on a loop, write it down in full and leave it on the page until tomorrow. Worries often shrink once they're outside your head."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} pushed aside in money matters. What is the one financial question you keep not quite asking yourself?",
+					"{keyword} may be overdone here. Have you become so cautious with money that it has stopped supporting the life you actually want?",
+					"If {keyword} feels hard to reach, get curious about the noise around money: adverts, comparisons, other people's advice. Which voice is loudest, and is it yours?"
+				],
+				"grieving": [
+					"{keyword} around money can become withdrawal when you're grieving, letting post and paperwork pile up. Letting someone you trust help with it is not a failure.",
+					"If loss has made money feel impossible to think about, {keyword} can wait. Keeping the basics covered is enough for now.",
+					"Sometimes {keyword} is hard to find when there's suddenly so much to sort. You're allowed to take it one envelope at a time."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests financial avoidance, or insisting on going it alone when a second opinion would help. Which is closer to true?",
+					"Use {keyword} as a check: are your money choices the result of your own thinking, or of habits borrowed from someone else without much review?",
+					"No mystery here: {keyword} slips when life is too busy to review anything. When, specifically, could you give your finances one unhurried hour?"
+				],
+				"hopeful": [
+					"{keyword} in money may be ready to turn into action. What you've been mulling over quietly could now become one practical step.",
+					"If you've been alone with money worries, {keyword} can open into support. Nothing is promised, but sharing a problem often makes it more solvable.",
+					"You may have done enough thinking for now. Let what {keyword} has shown you shape one decision, and see how it feels to act on it."
+				],
+				"neutral": [
+					"Reversed, {keyword} in money suggests avoidance, isolation with financial worries, or advice being resisted.",
+					"{keyword} here may be blocked or overdone. It asks whether what you need is more reflection or more help.",
+					"In money matters, {keyword} reversed can point to withdrawing from your finances rather than looking at them clearly."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} may have tipped into isolation, which can make stress weigh more. One small step: tell someone how you've really been feeling, even briefly.",
+					"If you've been too busy to stop at all, {keyword} may feel out of reach. Even five minutes sitting quietly with a warm drink counts as rest.",
+					"When {keyword} turns into going over the same worries, gentle movement can help break the loop. A short walk around the block is enough."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} pushed aside by busyness. What might you notice in your body if you gave yourself one unscheduled hour this week?",
+					"{keyword} may be overdone right now. Have you been withdrawing in a way that leaves you more tired rather than less?",
+					"If {keyword} feels hard to reach, get curious about how you fill quiet moments. Is it rest, or just a different kind of noise?"
+				],
+				"grieving": [
+					"{keyword} can slip into isolation while grieving. You don't have to be sociable, but one small connection, a call or a visit, can ease the weight.",
+					"If you've pulled away from everyone since your loss, that's understandable. {keyword} can continue with a little company woven in.",
+					"Sometimes {keyword} gets lost because grief brings so many tasks and visitors. It's okay to ask for an afternoon to yourself."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests either too much isolation or too little genuine rest. Which describes your past fortnight more accurately?",
+					"Use {keyword} as an honest check: when you withdraw, are you resting, or avoiding something you'd rather not face?",
+					"No mystery: {keyword} slips when every spare moment gets filled. What is one gap in your day you could deliberately leave empty?"
+				],
+				"hopeful": [
+					"{keyword} may be ready to give way to gentle reconnection. A few small steps outward, a walk with a friend, a shared meal, can lift your energy.",
+					"If you've been too much on your own, {keyword} can find a better balance. Nothing is promised, but good company often helps you rest more deeply.",
+					"Finding the middle ground is the hopeful part. {keyword} tends to nourish most when it's balanced with time among people you trust."
+				],
+				"neutral": [
+					"Reversed, {keyword} in health suggests isolation, rest that keeps getting postponed, or withdrawal that has gone on too long.",
+					"{keyword} here may be blocked or overdone. It asks what kind of quiet you need, and how much.",
+					"In health, {keyword} reversed can point to loneliness on one side, or constant stimulation on the other."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{keyword} may have tipped into feeling lost or cut off. That's a common stretch on any inner path; reaching out to one person who shares your questions can help.",
+					"If inner searching has become restless and endless, {keyword} can take a break. You're allowed to put the big questions down for a while.",
+					"When {keyword} feels out of reach, start very small: one quiet breath before bed, noticed fully. That is enough practice for today."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} that's been avoided. What question have you been keeping yourself too busy to hear?",
+					"{keyword} may be overdone. Have you been searching alone so long that you've missed what others could offer you?",
+					"If {keyword} feels blocked, get curious about whose guidance you've been following. Does it still ring true, or has it become habit?"
+				],
+				"grieving": [
+					"{keyword} after a loss can turn into withdrawal from everything. Let your inner life rest, and let one person in when you can.",
+					"If grief has left you feeling spiritually alone, {keyword} doesn't need to be solitary. Shared silence with someone can be its own kind of comfort.",
+					"Sometimes {keyword} goes quiet in grief, and the familiar practices feel empty. That is allowed; they'll be there if you want them later."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests either isolation in your search or avoiding reflection altogether. Which fits your recent months?",
+					"Use {keyword} as a check: are you refusing all outside input out of independence, or out of fear of being wrong?",
+					"No mystery: {keyword} slips when there's never any silence. Where could you find ten quiet minutes a day?"
+				],
+				"hopeful": [
+					"{keyword} may be ready to turn outward. What you've found alone could be worth sharing with someone who's searching too.",
+					"If you've felt spiritually stuck, {keyword} can return gently. Nothing is promised, but small, regular quiet often reopens the way.",
+					"Coming back from a long stretch alone can be its own kind of insight. Let {keyword} travel with you into company."
+				],
+				"neutral": [
+					"Reversed, {keyword} on a spiritual level suggests isolation, avoided reflection, or a search that has lost its light.",
+					"{keyword} here may be blocked or overdone. It asks whether you need more stillness or more connection.",
+					"Spiritually, {keyword} reversed can point to loneliness on the path, or to refusing guidance that might help."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} may have turned into isolation, and that can make worries grow. One small step: reach out to one person today, even with a short message.",
+					"If you've been avoiding quiet because your thoughts feel too loud, {keyword} can start very small. Five minutes of stillness is a fine beginning.",
+					"When {keyword} turns into overthinking, it helps to move your body or talk it through. Thoughts often look different out loud."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} that's been crowded out. What would you hear if you turned everything off for an hour?",
+					"{keyword} may be overdone at the moment. Have you been withdrawing from life in a way that no longer feels restful?",
+					"If {keyword} keeps slipping away, get curious about what fills the space. Is busyness protecting you from something?"
+				],
+				"grieving": [
+					"{keyword} after a loss can slide into isolation without you noticing. Let one person know how you're doing.",
+					"If you've closed off since your loss, that makes sense. {keyword} can remain, with one door left open.",
+					"Sometimes {keyword} gets crowded out by well-meaning people. It's okay to ask for space, and okay to ask for company."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests either too much isolation or too little reflection. Which describes your life right now?",
+					"Use {keyword} as a check: are you avoiding advice because you trust yourself, or because you're afraid of what you'd hear?",
+					"No mystery: {keyword} slips when every moment is filled. What could you leave empty this week?"
+				],
+				"hopeful": [
+					"{keyword} may be ready to give way to reconnection. What you've learned alone can come with you back into the world.",
+					"If you've felt lost or isolated, {keyword} can find balance again. Nothing is promised, but small steps outward help.",
+					"There's hope in noticing the imbalance. {keyword} works best when it's a retreat you return from, not a place you hide."
+				],
+				"neutral": [
+					"Reversed, {keyword} suggests isolation, avoided reflection, or withdrawal that has gone on too long.",
+					"{keyword} here may be blocked or overdone. It asks whether you need more stillness or more connection.",
+					"In general, {keyword} reversed can point to loneliness, or to noise that drowns out your inner voice."
+				]
+			}
+		}
+	}
+}

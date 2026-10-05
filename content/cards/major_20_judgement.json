@@ -1,0 +1,412 @@
+{
+	"id": "major_20_judgement",
+	"name": "Judgement",
+	"facets": [
+		{
+			"id": "calling",
+			"keywords": ["an inner calling", "a wake-up call", "an awakening"]
+		},
+		{
+			"id": "reckoning",
+			"keywords": ["an honest reckoning", "a clear-eyed look back", "self-evaluation"]
+		},
+		{
+			"id": "rebirth",
+			"keywords": ["a fresh start", "rebirth", "a second chance"]
+		},
+		{
+			"id": "absolution",
+			"keywords": ["forgiveness", "a clean slate", "release from old guilt"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"In love, {keyword} can feel like being asked to answer for everything at once. You don't have to. Pick one thing you'd like to do differently with someone, and let that be the whole of it for now.",
+					"If {keyword} has you replaying old moments in a relationship, notice that you're looking back in order to choose, not to be sentenced. What is one kind thing you could say to yourself about the past?",
+					"{keyword} between you and someone else doesn't need to be settled tonight. Write down what you'd want them to understand, then sleep on it before deciding whether to share it."
+				],
+				"curious": [
+					"{keyword} in love asks who you've become since your last real look at your relationships. Which old patterns still fit, and which have you quietly outgrown?",
+					"Here {keyword} invites you to listen for what you've been called toward in love. More honesty? More freedom? More commitment? Which word makes you sit up?",
+					"What might {keyword} reveal if you looked at a relationship as though meeting it for the first time? It could be an interesting exercise in a quiet hour."
+				],
+				"grieving": [
+					"After a loss, {keyword} may come as a long look back at what you shared. Let the memories rise at their own pace; there's nothing you need to conclude from them.",
+					"{keyword} in grief can bring up things you wish had been said or done differently. Those thoughts are a sign of how much you cared, not a verdict on you.",
+					"If {keyword} is stirring in you, it can wait until you're ready. Mourning comes first, and it isn't on anyone's schedule."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is a prompt to review a relationship honestly: what's working, what isn't, and what you've been avoiding saying. No signs required.",
+					"No mystery: {keyword} in love often comes after a moment of clarity about what you want. What did you realise recently, and have you acted on it?",
+					"Use {keyword} as a question: if you could reset one dynamic with someone close to you, which would it be, and what's the first practical step?"
+				],
+				"hopeful": [
+					"{keyword} in love suggests a chance to begin again on more honest terms. It doesn't promise how anyone else will respond, but it does make room for something truer.",
+					"With {keyword} present, this could be a good time to clear the air, apologise or simply say what you've learned. Openness tends to invite openness back.",
+					"Your hope can meet {keyword} halfway. Let what you've learned from the past shape how you show up now, with more wisdom and less weight."
+				],
+				"neutral": [
+					"In love, {keyword} points to a moment of reflection and renewal, when old patterns are reviewed and new choices become possible.",
+					"{keyword} here suggests a relationship at a turning point, asking for honesty about the past and clarity about what comes next.",
+					"With {keyword} present, the emphasis is on understanding what has been, and choosing with intention what you carry forward."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can feel like a performance review you didn't ask for. Take it one piece at a time: list what you've done well, then one thing you'd like to improve.",
+					"If {keyword} has you questioning your whole career, slow down. You don't need to decide everything today. What's one small step that feels right this week?",
+					"{keyword} doesn't mean you've failed. It means you're paying attention. Name one skill you've grown recently and let it steady you."
+				],
+				"curious": [
+					"{keyword} in your career asks what work you're truly drawn to now, not years ago. What has changed in what you want from your days?",
+					"Here {keyword} invites you to listen for a pull you've been ignoring. Is there a field, a project or a role that keeps calling your name?",
+					"What would you do with {keyword} if no one were watching or judging? Picture the first step, just for interest's sake."
+				],
+				"grieving": [
+					"If you've lost a job or a sense of purpose at work, {keyword} may feel too soon. Let yourself grieve before you start rebuilding.",
+					"{keyword} at work may stir up memories of how things used to be. You can honour them without needing to know what's next.",
+					"After a loss, {keyword} doesn't have to be acted on quickly. Keep things simple and let your sense of direction return in its own time."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to review your career honestly. What has paid off, what hasn't, and what are you still doing out of habit?",
+					"No calling from the sky needed: {keyword} here is about noticing what you've outgrown. Which part of your job no longer fits?",
+					"Use {keyword} as a planning tool. If you were starting your career today, with what you know now, what would you do differently?"
+				],
+				"hopeful": [
+					"{keyword} suggests your work may be ready for a new chapter. It isn't a guarantee, but it's a good moment to make your next move with intention.",
+					"With {keyword} present, consider what you'd like to be known for. Let that guide the next opportunity you pursue.",
+					"Your hope at work can draw on {keyword}. Let past experience become a foundation, not a weight, as you step forward."
+				],
+				"neutral": [
+					"At work, {keyword} points to a moment of evaluation and possible redirection, when past effort is weighed and new choices open up.",
+					"{keyword} here suggests responding to a deeper sense of purpose in your career, or reviewing your path honestly.",
+					"In your career, {keyword} invites reflection on what you've learned and how it shapes the next step."
+				]
+			},
+			"money": {
+				"anxious": [
+					"{keyword} with money can feel daunting if you've been avoiding the numbers. Start small: look at one account, once, and let that be today's task.",
+					"If {keyword} has you worried about past financial choices, remember they're done. What matters now is the next one, and you can make it calmly.",
+					"{keyword} around money doesn't require fixing everything. Choose one habit you'd like to change and begin there."
+				],
+				"curious": [
+					"{keyword} in your finances asks what you've learned about money from experience. Which lesson would you pass on to a younger version of yourself?",
+					"Here {keyword} invites a fresh look at your values. Does your spending reflect what you care about most?",
+					"What would {keyword} look like with your money? A new budget, a cleared debt, a different way of thinking about worth? Explore the possibilities."
+				],
+				"grieving": [
+					"After a loss, {keyword} with money may involve reviewing things you'd rather not face. Take only what's urgent, and let the rest wait.",
+					"{keyword} in your finances may stir up regret or memories. Be gentle with yourself; the practical side can be handled slowly.",
+					"If a loss has changed your financial picture, {keyword} doesn't have to happen all at once. Accept help where you can."
+				],
+				"skeptical": [
+					"Plainly, {keyword} with money is a prompt to audit. What's working, what isn't, and what have you been putting off?",
+					"No mystery: {keyword} here often means learning from a past mistake. What would you do differently, and what's the first step?",
+					"Use {keyword} as a question: if you started your finances fresh today, what would you keep and what would you drop?"
+				],
+				"hopeful": [
+					"{keyword} suggests your finances may be ready for a new chapter. A clear plan can help you make the most of it.",
+					"With {keyword} present, this could be a good time to set a goal that reflects who you are now, not who you were.",
+					"Your hope about money can build on {keyword}. Let what you've learned guide better choices."
+				],
+				"neutral": [
+					"Financially, {keyword} points to a review of past choices and an opportunity to begin again with more wisdom.",
+					"{keyword} here suggests honest assessment and a fresh approach to resources.",
+					"With money, {keyword} invites you to weigh what's been and choose what comes next deliberately."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} for your wellbeing can start very small. Choose one habit you'd like to begin fresh, and try it today without needing it to be perfect.",
+					"If {keyword} has you thinking about how you've treated your body, try not to turn it into blame. Notice, gently, then choose one caring act.",
+					"{keyword} doesn't have to be dramatic. A regular bedtime, a glass of water, a short walk: these are real fresh starts you can make."
+				],
+				"curious": [
+					"{keyword} invites you to notice what your body has been asking for. What would you do differently if you listened more closely?",
+					"Here {keyword} asks which routines still serve you and which you've simply kept out of habit. It could be interesting to experiment.",
+					"What would {keyword} feel like in your daily rhythms? More rest, more movement, more quiet? You could try one change and see."
+				],
+				"grieving": [
+					"Grief can be exhausting, and {keyword} doesn't ask you to start anything new. Rest is enough for now.",
+					"{keyword} may bring up thoughts about what you could have done differently. Be gentle with yourself; your body is carrying a lot.",
+					"If {keyword} stirs in you, let it wait until you have more energy. There's no rush."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is a prompt to review your habits honestly. Which one would make the biggest difference if you changed it?",
+					"No mysticism: {keyword} here is about learning from experience. What has helped you feel well before, and could you return to it?",
+					"Use {keyword} as a check-in: are you running on old routines that no longer fit how you live now?"
+				],
+				"hopeful": [
+					"{keyword} suggests a good time to begin caring for yourself in a new way. Small, consistent steps can make a real difference.",
+					"With {keyword} present, you might choose one habit that reflects how you want to feel, and let it grow.",
+					"Your hope for feeling well can draw on {keyword}. Let past experience guide kinder choices."
+				],
+				"neutral": [
+					"For wellbeing, {keyword} points to reviewing habits and choosing fresh routines that support how you want to feel.",
+					"{keyword} here suggests a turning point in how you care for your energy and rest.",
+					"With {keyword} present, the invitation is to listen to your body and respond with care."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"Spiritually, {keyword} can feel like a loud summons. You don't have to answer it all at once. Sit quietly for a minute, and let the next small step be enough.",
+					"If {keyword} stirs fear of judgment, remember that reflection is meant to free you, not condemn you. What would you forgive yourself for, if you could?",
+					"{keyword} in your inner life can be gentle. Choose one simple practice to return to, and let it hold you steady."
+				],
+				"curious": [
+					"{keyword} invites you to listen for what's calling you now. What practice, question or belief keeps tugging at your attention?",
+					"Here {keyword} asks who you are becoming. What would it mean to let that version of yourself step forward?",
+					"What might {keyword} reveal if you set aside an evening to reflect on how your beliefs have changed? It could be illuminating."
+				],
+				"grieving": [
+					"In grief, {keyword} may bring deep questions about meaning. Let them be there without needing answers yet.",
+					"{keyword} can stir memories and regrets. Be gentle with yourself; these are signs of love, not failure.",
+					"If {keyword} feels too much right now, let it wait. Your inner life can rest."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is a prompt to reflect on how your values have changed. No belief system required.",
+					"No supernatural claim: {keyword} here is about honest self-assessment. What have you learned, and what do you want to carry forward?",
+					"Use {keyword} as a question: what part of your life feels most in need of renewal, and what would that look like?"
+				],
+				"hopeful": [
+					"{keyword} suggests a spiritual turning point. Let yourself rise to meet it, at your own pace.",
+					"With {keyword} present, your practice may feel renewed. What would you like to explore next?",
+					"Your hope for inner growth fits well with {keyword}. Let it guide you toward what feels true."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to awakening, reflection and a sense of being called toward something more.",
+					"{keyword} here suggests a moment of inner reckoning, when an old self is set down and a truer one steps forward.",
+					"With {keyword} present, the invitation is to listen deeply and respond with intention."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} can feel like a lot. You don't have to rethink your whole life today. Pick one small thing you'd like to do differently, and start there.",
+					"If {keyword} has you looking back with worry, remember that the past is for learning, not for punishing yourself. What's one lesson you'd keep?",
+					"{keyword} doesn't need to be answered all at once. Let today be about noticing, and tomorrow about choosing."
+				],
+				"curious": [
+					"{keyword} invites you to step back and see your life as a whole. What stands out when you do?",
+					"Here {keyword} asks what you've been called toward lately. Is there a direction you keep coming back to?",
+					"What would {keyword} look like if you treated it as an adventure rather than a test? It could be interesting to find out."
+				],
+				"grieving": [
+					"{keyword} may stir up the past while you're grieving. Let it come gently; there's nothing you need to resolve.",
+					"If {keyword} brings regret, be kind to yourself. Hindsight is clearer than the moment ever was.",
+					"{keyword} can wait until you're ready. Mourning has its own time, and nobody else gets to set the pace of it."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is a prompt for honest review. What's working in your life, and what are you ready to change?",
+					"No prediction: {keyword} here is about learning from experience. Which lesson have you been slow to apply?",
+					"Use {keyword} as a question: if you could begin one area of your life again, which would it be?"
+				],
+				"hopeful": [
+					"{keyword} suggests a meaningful turning point. Let it guide you toward choices that reflect who you've become.",
+					"With {keyword} in view, this could be a good time to begin again with more wisdom and less weight.",
+					"Your hope fits well with {keyword}. Let the past inform, not limit, what comes next."
+				],
+				"neutral": [
+					"{keyword} points to reflection, renewal and a moment when the past is weighed and new choices open up.",
+					"Overall, {keyword} suggests responding to a deeper sense of purpose or direction.",
+					"With {keyword} present, the focus is on honest assessment and intentional change."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} in a relationship may be waiting while you're caught up in self-blame. One small thing in your control: write down one thing you did well for someone you love, and read it twice.",
+					"If you're bracing to be judged by someone close to you, {keyword} may be stuck behind that fear. Their verdict isn't the only one; what's your own fair view of how you've acted?",
+					"{keyword} may be slower in love than you'd like, and that's not a failure. You can take the next honest step when you're steadier, not before."
+				],
+				"curious": [
+					"{keyword} in love may be calling quietly, and you may be letting it ring. What do you suspect you need to change, if you're honest with yourself?",
+					"Here {keyword} might have turned into a harsh inner critic. What would you say about your part in a relationship if you were talking about a friend instead?",
+					"What's holding {keyword} back between you and someone else? Pride, fear of repeating the past, waiting for them to move first? Each answer points somewhere different."
+				],
+				"grieving": [
+					"After a loss in love, {keyword} may feel impossible right now, and that's understandable. Regret can be loud in grief. You don't owe anyone, including yourself, a verdict.",
+					"If you're going over and over what you might have done differently, {keyword} can wait. Those thoughts come from caring, and they can be set down for a while.",
+					"{keyword} may come later, when grief has eased a little. For now, you only need to be gentle with the person you were."
+				],
+				"skeptical": [
+					"Plainly, when {keyword} stalls in a relationship, it's often because the same conversation keeps being avoided. Which one is it here?",
+					"Use {keyword} as a check on self-criticism: is your view of your role in a relationship fair, or harsher than the facts support?",
+					"No fortune-telling: {keyword} delayed often reflects a lesson not yet applied. What pattern in love have you noticed but not yet changed?"
+				],
+				"hopeful": [
+					"{keyword} in love may be closer than it feels, just held back by doubt. A small step toward honesty could help it arrive.",
+					"If {keyword} has been postponed, be patient with yourself and others. Old patterns take time to loosen.",
+					"Your hope for a better way of loving is valid. Let {keyword} grow from self-understanding rather than self-blame."
+				],
+				"neutral": [
+					"In love, {keyword} suggests a chance for change that's being delayed by doubt, avoidance or excessive self-criticism.",
+					"{keyword} here points to lessons from past relationships not yet fully taken in, or a conversation still waiting to happen.",
+					"When {keyword} turns harsh, reflection becomes self-punishment. A gentler review may serve you and others better."
+				]
+			},
+			"career": {
+				"anxious": [
+					"{keyword} at work may be stuck behind a fear of being found wanting. One steady step: ask for specific feedback on one piece of work, so you're dealing with facts rather than dread.",
+					"If you've been doubting your whole path, {keyword} may simply need more time. Focus on what you can do well this week, and let the bigger question rest.",
+					"{keyword} can feel blocked when you're tired. Before judging your career, give yourself a proper break and see how things look after."
+				],
+				"curious": [
+					"{keyword} in your career may be calling while you keep busy. What would you hear if you stopped long enough to listen?",
+					"Here {keyword} might be overdone, every decision second-guessed. What would happen if you trusted a choice and stopped reviewing it?",
+					"What's keeping {keyword} at arm's length at work? Comfort, money, someone else's expectations? It's worth naming."
+				],
+				"grieving": [
+					"If a loss has shaken your working life, {keyword} may feel too heavy to approach. Getting through the days is enough for now.",
+					"{keyword} at work may stir regret about roads not taken. Be gentle with yourself; you made choices with what you knew.",
+					"After a loss, {keyword} doesn't need to happen on schedule. Let your sense of purpose return slowly."
+				],
+				"skeptical": [
+					"Practically, when {keyword} stalls at work, it's often because a decision is being avoided. Which one have you postponed longest?",
+					"Use {keyword} as a check on self-assessment. Are you underrating your progress because you're measuring against an impossible standard?",
+					"No calling required: {keyword} delayed in a career often means the same lesson keeps returning. What does yours seem to be?"
+				],
+				"hopeful": [
+					"{keyword} at work may be delayed rather than denied. Keep your options open and keep learning, and the next step may become clearer.",
+					"If {keyword} has been slow to come, small changes can build toward it. Which one could you make this month?",
+					"Your hope for your career is still well placed. Let {keyword} grow from honest reflection rather than harsh judgment."
+				],
+				"neutral": [
+					"At work, {keyword} suggests hesitation, self-doubt or a calling that hasn't yet been answered.",
+					"{keyword} here points to a career review that's either being avoided or done too harshly.",
+					"Held inward, {keyword} may be stirring in your working life before you're ready to act on it."
+				]
+			},
+			"money": {
+				"anxious": [
+					"{keyword} with money may be blocked by worry about past choices. Those choices are done. Look at one current figure today and let the next decision be the one that matters.",
+					"If you've been avoiding your finances out of shame, {keyword} can begin with a single small look. You don't need to face everything at once.",
+					"{keyword} around money may feel far off. Choose one tiny habit, checking your balance on the same day each week, and let that be a start."
+				],
+				"curious": [
+					"{keyword} in money matters may be held back by an old story about yourself and money. Where did it come from, and is it still true?",
+					"Here {keyword} might be overdone: so much self-criticism about spending that it's hard to plan. What would a fair review look like?",
+					"What's keeping {keyword} from happening with your finances? Exploring the reasons could be more useful than another budget."
+				],
+				"grieving": [
+					"After a loss, {keyword} with money may feel too much to think about. Handle what's urgent and let the rest wait.",
+					"If financial regret is mixed into your grief, {keyword} can wait. Be gentle with yourself about the past.",
+					"{keyword} doesn't have to happen now. Let others help with the practical side if they can."
+				],
+				"skeptical": [
+					"Plainly, when {keyword} stalls with money, the same mistake is often being repeated. Which one is it for you?",
+					"Use {keyword} as a check: are you too harsh about past financial choices, or not honest enough? Both get in the way.",
+					"No mystery: {keyword} delayed with money often means a review keeps getting postponed. Could you schedule it?"
+				],
+				"hopeful": [
+					"{keyword} with money may be closer than it seems, held back mainly by hesitation. A small, clear step could help.",
+					"If {keyword} has been slow, steady habits can build toward it. Which one would you like to start?",
+					"Your hope about money is still valid. Let {keyword} grow from honest learning rather than regret."
+				],
+				"neutral": [
+					"With money, {keyword} suggests lessons not yet applied, or reviews postponed out of discomfort.",
+					"{keyword} here points to financial self-doubt or excessive self-criticism, which can make the next step harder to see.",
+					"Held back for now, {keyword} may be easier to approach once the fear of judgment eases."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} for your wellbeing may be blocked by worry about what you should have done. Let that go for today. Choose one caring act now: water, a short walk, an early night.",
+					"If you're being hard on yourself about your habits, {keyword} may be easier once the criticism softens. Speak to yourself as you would to a friend.",
+					"{keyword} doesn't require a perfect plan. One small change, made kindly, is a fine place to begin."
+				],
+				"curious": [
+					"{keyword} may be calling through your body, and you may be too busy to hear it. What has your energy been telling you?",
+					"Here {keyword} might be overdone: constant self-monitoring that becomes its own stress. What would a lighter touch feel like?",
+					"What's holding {keyword} back in how you care for yourself? Time, habit, belief? It could be interesting to explore."
+				],
+				"grieving": [
+					"Grief is tiring, and {keyword} doesn't need to be started now. Rest is enough.",
+					"If you're blaming yourself for how you've been coping, {keyword} can wait. Be as gentle with yourself as you'd be with anyone grieving.",
+					"{keyword} may come later. For now, small comforts and steady routines are plenty."
+				],
+				"skeptical": [
+					"Plainly, when {keyword} stalls with your health habits, it's often because the plan was too big. What's a smaller version?",
+					"Use {keyword} as a check on self-criticism: is your view of your habits fair, or harsher than needed?",
+					"No mysticism: {keyword} delayed often reflects a habit you know isn't serving you. What's the first step to changing it?"
+				],
+				"hopeful": [
+					"{keyword} for your wellbeing may be closer than it feels. Small, kind steps can help it arrive.",
+					"If {keyword} has been slow, patience and consistency can build toward it, one ordinary day at a time.",
+					"Your hope for feeling well is valid. Let {keyword} grow from gentleness rather than pressure."
+				],
+				"neutral": [
+					"For wellbeing, {keyword} suggests hesitation, self-criticism or a change in habits that's being postponed.",
+					"{keyword} here points to a need for kinder self-assessment, so that care for yourself isn't driven by blame.",
+					"Held inward, {keyword} may be stirring in how you feel before you're ready to act on it."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{keyword} in your inner life may be blocked by fear of judgment. You don't have to be perfect to grow. Sit quietly for a minute and let that be enough.",
+					"If you're afraid you've missed your calling, {keyword} may simply be waiting. There's no deadline for meaning.",
+					"{keyword} doesn't require you to have all the answers. One simple practice, returned to daily, can steady you."
+				],
+				"curious": [
+					"{keyword} may be calling quietly while you look elsewhere. What keeps tugging at your attention when things are still?",
+					"Here {keyword} might have turned into spiritual perfectionism. What would it be like to grow without grading yourself?",
+					"What's keeping {keyword} at a distance? Doubt, busyness, fear of change? Exploring that could be its own practice."
+				],
+				"grieving": [
+					"In grief, {keyword} may feel far away, or tangled with regret. Let your inner life be quiet for now.",
+					"If you're judging yourself for how you're coping, {keyword} can wait. Grief is not a test.",
+					"{keyword} may return when the weight lifts a little. There's no rush, and no right way to wait."
+				],
+				"skeptical": [
+					"Plainly, when {keyword} stalls, it may be because you're waiting for certainty that won't come. What could you try without it?",
+					"Use {keyword} as a check: is your inner critic offering useful insight, or just noise?",
+					"No supernatural claim: {keyword} delayed often means a value you hold isn't yet reflected in how you live. Which one?"
+				],
+				"hopeful": [
+					"{keyword} may be gathering quietly. Keep listening, and let it come in its own time.",
+					"If {keyword} has been slow, gentle reflection, a journal, a walk, a quiet hour, can help it surface.",
+					"Your hope for inner growth is valid. Let {keyword} unfold without self-judgment."
+				],
+				"neutral": [
+					"Spiritually, {keyword} suggests a calling unheard, a review avoided, or reflection turned into self-criticism.",
+					"{keyword} here points to doubt and hesitation in your inner life, a call heard but not yet trusted.",
+					"Held inward, {keyword} may be stirring before it's ready to be named, asking for patience rather than verdicts."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} may be blocked by fear of getting it wrong. You don't have to settle the big questions today. Choose one small thing that feels right, and let that be enough until tomorrow.",
+					"If you've been judging yourself harshly, {keyword} may come more easily once that voice softens. Name one thing you've handled well lately, and say it out loud.",
+					"{keyword} can wait until you're steadier. For now, keep to simple routines, sleep, meals, a short walk, and let them hold you up."
+				],
+				"curious": [
+					"{keyword} may be calling while you keep looking the other way. What thought keeps returning when the house is quiet and your hands are still?",
+					"Here {keyword} might be overdone: so much looking back that moving forward stalls. What would you do this week if you declared the review finished?",
+					"What's holding {keyword} back for you? Pride, fear, waiting for permission? Try finishing the sentence \"I'll be ready when...\" and see what you write."
+				],
+				"grieving": [
+					"{keyword} may feel like too much while you're grieving. Let it wait; there is nothing you need to resolve or decide right now.",
+					"If regret is loud, {keyword} can be set gently aside for a while. The person you were did what they could with what they knew.",
+					"{keyword} may come later, perhaps much later, and that's fine. Mourning keeps its own time, and rest is enough until then."
+				],
+				"skeptical": [
+					"Plainly, when {keyword} stalls, a decision is usually being avoided. Which one have you been carrying around the longest?",
+					"Use {keyword} as a check on your inner critic: if a friend described your situation, would you judge them this harshly?",
+					"No prediction here: {keyword} delayed often means the same lesson keeps coming round. What situation feels familiar in an unwelcome way?"
+				],
+				"hopeful": [
+					"{keyword} may be closer than it feels, held back mostly by hesitation. One small, honest step could help it along.",
+					"If {keyword} has been slow, that doesn't make it any less possible. Patience and a fair look at yourself can open the way.",
+					"Your hope for change is valid. Let {keyword} grow from kindness toward yourself rather than from a sense of having to make up for something."
+				],
+				"neutral": [
+					"{keyword} suggests hesitation, self-doubt or a call that hasn't yet been answered.",
+					"Overall, {keyword} points to reflection either avoided or overdone, and a change waiting on a fairer self-assessment.",
+					"Held inward, {keyword} may be stirring quietly before it's ready to show itself in what you do."
+				]
+			}
+		}
+	}
+}

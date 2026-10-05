@@ -1,0 +1,412 @@
+{
+	"id": "major_21_world",
+	"name": "The World",
+	"facets": [
+		{
+			"id": "completion",
+			"keywords": ["completion", "a cycle closing", "a finished chapter"]
+		},
+		{
+			"id": "wholeness",
+			"keywords": ["wholeness", "a sense of integration", "a feeling of belonging"]
+		},
+		{
+			"id": "accomplishment",
+			"keywords": ["accomplishment", "a goal fulfilled", "hard-won success"]
+		},
+		{
+			"id": "wider_world",
+			"keywords": ["a wider perspective", "an expanding horizon", "a world opening up"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"In love, {keyword} can make you wonder what comes after. You don't have to know yet. For now, notice one way you and someone close to you have grown, and let that be steadying.",
+					"If {keyword} in a relationship feels unsettling, remember that an ending of one phase isn't the end of care. One thing you can do: tell someone what this time together has meant.",
+					"{keyword} between people can bring a strange quiet, like the moment after a long journey. You're allowed to rest in it without planning the next step."
+				],
+				"curious": [
+					"{keyword} in love invites you to look at the whole arc of a relationship. What has it taught you that you couldn't have learned alone?",
+					"Here {keyword} asks what you'd like your next chapter with someone to explore. New places, new habits, new ways of being together?",
+					"What might {keyword} show you about yourself as a partner or friend? It could be interesting to notice how differently you show up now compared with before."
+				],
+				"grieving": [
+					"After a loss, {keyword} may feel bittersweet or simply heavy. You don't have to see the shape of what was shared yet. Let it rest as it is.",
+					"{keyword} can bring a relationship's whole story into view, the good and the hard together. Hold as much of it as you can, and set the rest down for now.",
+					"If something in love has come to an end, {keyword} doesn't ask you to be at peace with it. Grieve as long as you need to."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is a prompt to recognise what a relationship has achieved. We rarely mark these things. What's worth acknowledging?",
+					"No cosmic plan: {keyword} in love often follows a period of real effort. What did each of you put in, and what has it built?",
+					"Use {keyword} as a question: is a relationship in a stable, satisfying place, or have you stopped asking? Both are worth knowing."
+				],
+				"hopeful": [
+					"{keyword} in love is a lovely thing to notice. It doesn't decide what comes next, but it does suggest something solid to build from.",
+					"With {keyword} present, this could be a good moment to celebrate what you've made together, and to dream about what's next.",
+					"Your hope fits well with {keyword}. Let it encourage you to honour the journey so far, and to step into the next part with open hands."
+				],
+				"neutral": [
+					"In love, {keyword} points to a relationship reaching a meaningful point: a phase completed, a bond matured, or a new horizon in view.",
+					"{keyword} here suggests closeness that feels whole and settled, with room for what comes next.",
+					"With {keyword} present, the emphasis is on recognising what has been built and choosing how to carry it forward."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can bring a 'now what?' feeling. You don't need the next step mapped out. Take a moment to note what you've finished, and let that be today's anchor.",
+					"If {keyword} has you worried about what follows, remember that endings at work often make room. What's one thing you'd like to learn next?",
+					"{keyword} in your career doesn't require you to know everything. Celebrate one piece of work you're proud of, even quietly."
+				],
+				"curious": [
+					"{keyword} at work invites you to step back and see the whole project, role or career so far. What pattern do you notice?",
+					"Here {keyword} asks where your skills might take you next. Is there a field, place or team you've been curious about?",
+					"What would you do with {keyword} if you treated it as a launch pad rather than a finish line? It could be fun to imagine."
+				],
+				"grieving": [
+					"If a working chapter has closed with a loss, {keyword} may feel empty rather than triumphant. That's understandable. Let yourself feel it.",
+					"{keyword} at work can stir memories of people and places you've left behind. You can honour them without needing to move on yet.",
+					"After a loss, {keyword} doesn't have to be celebrated. Simply getting through is enough for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to document what you've achieved. Could you describe your recent results in a few clear sentences?",
+					"No luck involved: {keyword} at work usually follows sustained effort. What made the difference, and could you repeat it?",
+					"Use {keyword} as a planning moment. What's finished, what's left, and what would you like to take on next?"
+				],
+				"hopeful": [
+					"{keyword} suggests your work may be reaching a satisfying point. It isn't a guarantee of what's next, but it's a fine foundation.",
+					"With {keyword} present, this could be a good time to share your results and explore new opportunities.",
+					"Your hope at work fits with {keyword}. Let it give you confidence to aim a little wider next time."
+				],
+				"neutral": [
+					"At work, {keyword} points to a project or phase reaching completion, and new possibilities coming into view.",
+					"{keyword} here suggests a sense of accomplishment and readiness for a new challenge.",
+					"In your career, {keyword} invites you to recognise what you've achieved before moving on."
+				]
+			},
+			"money": {
+				"anxious": [
+					"{keyword} with money can feel uncertain if you're not sure what comes next. Look at what you've managed so far, and let that steady you.",
+					"If {keyword} in your finances brings worry, remember that reaching a milestone is worth noticing. What have you handled well?",
+					"{keyword} around money doesn't mean you have to plan the next decade. Choose one small next step, and let that be enough."
+				],
+				"curious": [
+					"{keyword} in your finances invites you to look at the whole picture. What's changed since you last really looked?",
+					"Here {keyword} asks what your resources might open up for you next. A trip, a course, a new venture? Explore the possibilities.",
+					"What would you like your money to make possible once {keyword} has had its moment? It's a question worth sitting with for a while."
+				],
+				"grieving": [
+					"After a loss, {keyword} with money may feel hollow. Handle what's urgent, and let the bigger picture wait.",
+					"{keyword} in your finances may bring up memories or regrets. Be gentle with yourself; the practical side can be handled slowly.",
+					"If a financial chapter has closed through loss, {keyword} doesn't have to feel like progress. Rest where you can."
+				],
+				"skeptical": [
+					"Plainly, {keyword} with money is a prompt to review. What goal have you reached, and what's the next sensible one?",
+					"No mystery: {keyword} here often follows consistent effort. Which habit made the difference?",
+					"Use {keyword} as a check-in: is your financial picture complete, or are there loose ends to tidy?"
+				],
+				"hopeful": [
+					"{keyword} suggests your finances may be reaching a satisfying point. Celebrate it, and set the next goal thoughtfully.",
+					"With {keyword} present, notice what in your spending already broadens your life, and what only fills the time.",
+					"Your hope about money fits well with {keyword}. Let it encourage you to keep building."
+				],
+				"neutral": [
+					"Financially, {keyword} points to a milestone reached, a goal met, or a new chapter in how you use your resources.",
+					"{keyword} here suggests stability and readiness for a new financial direction.",
+					"With money, {keyword} invites you to acknowledge what you've achieved and plan what comes next."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} for your wellbeing can be noticed in small ways: a routine that's become second nature, a better night's sleep. Let one of those steady you today.",
+					"If you're worried about how you feel, {keyword} invites you to notice what you've already built. Which caring habit has stuck?",
+					"{keyword} doesn't require you to feel perfect. One small sense of balance today is enough."
+				],
+				"curious": [
+					"{keyword} invites you to notice how your body and mind feel when they're working together. What helps that happen?",
+					"Here {keyword} asks what new ways of moving or resting you might explore. Is there something you've been curious to try?",
+					"What would {keyword} feel like in your daily rhythm? You could notice the moments when you feel most at ease."
+				],
+				"grieving": [
+					"Grief can be tiring in a way that's hard to describe, and {keyword} may feel far away from how you are now. Rest as much as you need; nothing has to be completed.",
+					"{keyword} may come only in brief moments of ease, a full night's sleep, a meal you enjoyed. Let them be there without needing them to last.",
+					"If {keyword} feels out of reach, that's understandable. Your body is carrying a loss. Warmth, water and quiet company are plenty."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is a prompt to notice what's working in your routines. Which habit has paid off?",
+					"No mysticism: {keyword} here is about balance. Which area, sleep, food, movement, rest, feels most in place?",
+					"Use {keyword} as a check: what would a well-rounded week look like for you?"
+				],
+				"hopeful": [
+					"{keyword} suggests your wellbeing may be in a good place. Enjoy it, and keep the habits that help.",
+					"With {keyword} present, this could be a good time to explore a new way of caring for yourself.",
+					"Your hope for feeling well fits with {keyword}. Let it encourage steady, kind routines."
+				],
+				"neutral": [
+					"For wellbeing, {keyword} points to balance, integration and routines that feel settled.",
+					"{keyword} here suggests a sense of being at home in your body, with energy, rest and habit pulling the same way.",
+					"With {keyword} present, the invitation is to appreciate what's working and stay open to new ways of feeling well."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"Spiritually, {keyword} doesn't require big answers. Notice one moment today when you felt part of something larger than your worries, and let that be enough.",
+					"If {keyword} brings uncertainty about what comes next, you can rest in what you've already learned. One quiet minute, sitting still, is plenty of practice for today.",
+					"{keyword} in your inner life can be gentle. Return to a simple, familiar practice and let it hold you while you find your footing."
+				],
+				"curious": [
+					"{keyword} invites you to look at your spiritual journey as a whole. What has changed in what you believe, and what has stayed quietly constant?",
+					"Here {keyword} asks what new practices or questions might be calling now that one stage feels complete. What would you like to explore?",
+					"What does {keyword} feel like from the inside? You might spend a week noticing the moments when you feel most connected, and what they share."
+				],
+				"grieving": [
+					"In grief, {keyword} may feel distant or hard to trust. Let your inner life be exactly as it is; it doesn't need to feel whole yet.",
+					"{keyword} may bring a sense of the whole of someone's life, and of yours alongside it. Hold what you can, and let the rest wait.",
+					"If {keyword} feels out of reach, that's all right. Meaning can be quiet for a long time and still be there."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is a prompt to reflect on what you've learned about yourself. No belief system needed, just an honest look.",
+					"No supernatural claim: {keyword} here is about integration. Do your values and your daily actions line up, or is there a gap worth closing?",
+					"Use {keyword} as a question: what feels finished in your inner life, and what seems to be just beginning?"
+				],
+				"hopeful": [
+					"{keyword} suggests a sense of spiritual fulfilment may be within reach. Let yourself enjoy it without needing to hold on.",
+					"With {keyword} present, your practice may feel both complete and wide open. What would you like to carry into the next stage?",
+					"Your hope for inner growth fits well with {keyword}. Let it guide your next step with gratitude for the ground already covered."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to integration, fulfilment and a sense of belonging in the world.",
+					"{keyword} here suggests a cycle of inner growth reaching completion, with a wider view opening beyond it.",
+					"With {keyword} present, the invitation is to honour what you've learned and stay open to what's next."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} can bring an unexpected 'what now?' feeling. You don't have to know yet. Write down three things you've seen through to the end this year, and let that list steady you.",
+					"If {keyword} feels unsettling, it may be because a familiar stage is ending. Nothing has to start tomorrow. Let yourself rest in what's done before you plan what's next.",
+					"{keyword} doesn't require you to have everything figured out. One small, finished task today, a drawer sorted, a message answered, can echo the larger sense of closing well."
+				],
+				"curious": [
+					"{keyword} invites you to step back and see your life as a whole, the way a traveller looks at a map after the trip. What route did you actually take?",
+					"Here {keyword} asks where you'd like to go from this vantage point. Is there a place, a skill or a kind of life you've been circling for a while?",
+					"What would {keyword} look like if you treated it as a doorway rather than a finish line? Try sketching the first room on the other side."
+				],
+				"grieving": [
+					"{keyword} may feel bittersweet, or simply sad, while you're grieving. There's no need to make it into a lesson. Let it be what it is.",
+					"If {keyword} brings back the shape of someone's whole life, or a whole chapter of yours, hold the memories as gently as you can, a few at a time.",
+					"Others may talk about moving on. {keyword} doesn't ask that of you. Rest is enough, for as long as you need it."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is a prompt to recognise what you've actually achieved. Most people move to the next goal without noticing the last one. What did you finish?",
+					"No prediction here: {keyword} points to integration, the work of fitting experience into a coherent picture. What have recent years taught you, in one sentence?",
+					"Use {keyword} as a practical review: what is genuinely complete, what has loose ends, and what are you ready to take on next?"
+				],
+				"hopeful": [
+					"{keyword} suggests you may be reaching a satisfying point. It doesn't promise what follows, but it's a good reason to pause and celebrate.",
+					"With {keyword} in view, new possibilities may be opening. Let yourself look at them with the confidence of someone who has already come a long way.",
+					"Your hope fits well with {keyword}. Let it remind you that you've finished hard things before, and that the next chapter can be chosen with care."
+				],
+				"neutral": [
+					"{keyword} points to completion, a sense of wholeness, and new horizons coming into view.",
+					"Overall, {keyword} suggests a meaningful stage reaching its natural end, with what you've learned carried forward.",
+					"With {keyword} present, the focus is on recognising what has been achieved and stepping into what's next with intention."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} in a relationship may feel just out of reach, like a sentence left unfinished. One thing in your control: name the single loose end that bothers you most, and decide whether it needs a conversation or simply time.",
+					"If {keyword} keeps slipping away between you and someone, that doesn't mean it won't come. Slow, steady care often finishes what a big push can't.",
+					"{keyword} may be delayed in love, and waiting can feel unsettling. You don't have to tie everything up today; let one kind gesture be enough."
+				],
+				"curious": [
+					"{keyword} in love may be held back by something unfinished from before. What old chapter keeps reopening when you'd like to move on?",
+					"Here {keyword} might be overdone: holding on to a relationship's past shape after it has changed. What would it look like to let it be different?",
+					"What's standing between you and {keyword} with someone close? A conversation, an apology, a decision? It's worth getting curious about."
+				],
+				"grieving": [
+					"After a loss, {keyword} may feel impossible, as if the story was cut off mid-page. That's an honest feeling, and it doesn't need resolving.",
+					"If you're longing for closure, {keyword} may not come in a neat form. You're allowed to carry the unfinished parts gently, for as long as you need.",
+					"{keyword} may come slowly, if it comes at all in the way you imagine. Be patient with yourself; grief doesn't close on schedule."
+				],
+				"skeptical": [
+					"Plainly, when {keyword} stalls in a relationship, it's often because something important hasn't been said. What is it here?",
+					"Use {keyword} as a prompt: are you looking for a shortcut past a difficult conversation? Shortcuts tend to leave loose ends.",
+					"No fortune-telling: {keyword} delayed in love often means two people want different endings. Do you know what the other person wants?"
+				],
+				"hopeful": [
+					"{keyword} in love may be closer than it looks, just not finished yet. A little more patience and honesty could help it come together.",
+					"If {keyword} has been slow, small, consistent care may do more than a grand gesture. What would that look like this week?",
+					"Your hope in love is still valid. Let {keyword} unfold in its own time, without forcing the last piece into place."
+				],
+				"neutral": [
+					"In love, {keyword} suggests something nearly complete but not quite: a loose end, a delay, or a chapter that hasn't closed.",
+					"{keyword} here points to a relationship that needs one more step, or a little more time, before it feels settled.",
+					"When {keyword} is clung to, a finished chapter can be kept open too long. Noticing that may free both people."
+				]
+			},
+			"career": {
+				"anxious": [
+					"{keyword} at work may feel stuck at the last stretch. One steady step: list what's left to finish, then pick the smallest item and do it today.",
+					"If {keyword} keeps getting delayed, it may be a matter of timing rather than ability. Focus on what's within your control this week.",
+					"{keyword} in your career may need more patience than you'd like. You don't have to rush; a steady pace still gets you there."
+				],
+				"curious": [
+					"{keyword} at work may be held back by a project that never quite closed. What would it take to finish it, or to let it go?",
+					"Here {keyword} might be overdone: perfecting something that's already good enough. What would happen if you called it done?",
+					"What's keeping {keyword} just out of reach in your career? A skill gap, a decision, someone else's timeline? Each points somewhere different."
+				],
+				"grieving": [
+					"If a loss has interrupted your work, {keyword} may feel far off. It's all right to leave things unfinished for a while.",
+					"{keyword} at work may stir regret about what didn't get completed. Be gentle with yourself; circumstances changed.",
+					"After a loss, {keyword} doesn't have to happen on time. Let others help carry the load if they can."
+				],
+				"skeptical": [
+					"Practically, when {keyword} stalls at work, it's usually a few unfinished tasks. Which three would close the loop?",
+					"Use {keyword} as a check: are you avoiding the final step because finishing means facing what comes next?",
+					"No mysticism: {keyword} delayed in a career often reflects a shortcut taken earlier. Is there a foundation to shore up?"
+				],
+				"hopeful": [
+					"{keyword} at work may be delayed rather than denied. Keep going, and the last pieces may fall into place.",
+					"If {keyword} has been slow, finishing one small thing can rebuild momentum. Which one?",
+					"Your hope for your career is still well placed. Let {keyword} come through steady effort rather than a last-minute rush."
+				],
+				"neutral": [
+					"At work, {keyword} suggests a project or phase not quite complete, or progress slowed by loose ends.",
+					"{keyword} here points to a need for patience, follow-through, or a decision about what to let go.",
+					"Held back for now, {keyword} may need one more push or one honest look at what's blocking it."
+				]
+			},
+			"money": {
+				"anxious": [
+					"{keyword} with money may feel just out of reach. Look at one figure today, and name one small step that would move you closer.",
+					"If {keyword} keeps slipping, it may be a matter of time rather than failure. Keep to the essentials and let progress build.",
+					"{keyword} in your finances may need patience. Choose one loose end, an unopened letter, a forgotten subscription, and tidy it."
+				],
+				"curious": [
+					"{keyword} in money matters may be held back by an unfinished plan. What would it take to see it through?",
+					"Here {keyword} might be overdone: saving or planning so carefully that you never enjoy what you've built. Where's the balance?",
+					"What's standing between you and {keyword} financially? Exploring that could be more useful than a new budget."
+				],
+				"grieving": [
+					"After a loss, {keyword} with money may feel distant. Handle what's urgent and let the rest wait.",
+					"If financial matters were left unfinished by a loss, {keyword} can come slowly. Accept help where you can.",
+					"{keyword} doesn't have to happen now. Keep the basics going, let paperwork wait where it can, and rest."
+				],
+				"skeptical": [
+					"Plainly, when {keyword} stalls with money, small loose ends are often the cause. Which ones could you close this week?",
+					"Use {keyword} as a check: are you taking shortcuts that might cost more later?",
+					"No mystery: {keyword} delayed in your finances often means a goal was set without a plan. What's the missing step?"
+				],
+				"hopeful": [
+					"{keyword} with money may be closer than it looks. Steady effort can bring it within reach.",
+					"If {keyword} has been slow, a clearer plan may help. What's one step you could take now?",
+					"Your hope about finances is still valid. Let {keyword} come through patience and follow-through."
+				],
+				"neutral": [
+					"With money, {keyword} suggests a goal almost reached, loose ends to tidy, or progress delayed.",
+					"{keyword} here points to a need for follow-through rather than new plans: finishing what's already started.",
+					"Held back for now, {keyword} may need patience and a few practical steps before it feels within reach."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} in how you feel may seem just out of reach. One small, steadying thing: keep the routine that's helped most, even on days it feels pointless.",
+					"If you're frustrated that a change in your habits hasn't stuck, {keyword} may need more time. Be patient with the parts that are still forming.",
+					"{keyword} doesn't have to arrive all at once. A regular bedtime, a short walk, a glass of water: small finished things count."
+				],
+				"curious": [
+					"{keyword} may be held back by a habit you started but didn't quite settle into. What would make it easier to keep?",
+					"Here {keyword} might be overdone: chasing a perfect routine instead of a workable one. What would good enough look like?",
+					"What's keeping {keyword} just out of reach in how you care for yourself? Time, energy, an all-or-nothing approach? It's worth exploring."
+				],
+				"grieving": [
+					"Grief can leave everything feeling unfinished, and {keyword} may seem very far away. Rest without needing to complete anything.",
+					"If you feel scattered or incomplete, that's part of carrying a loss. {keyword} can wait; small comforts are enough.",
+					"{keyword} may return slowly. For now, let your body set the pace, and let tiredness be allowed."
+				],
+				"skeptical": [
+					"Plainly, when {keyword} stalls with your wellbeing, consistency is usually the missing piece. Which habit keeps slipping?",
+					"Use {keyword} as a check: are you looking for a shortcut rather than a sustainable routine?",
+					"No mysticism: {keyword} delayed often reflects too many changes at once. Could you focus on one?"
+				],
+				"hopeful": [
+					"{keyword} for your wellbeing may be closer than it feels. Keep going gently, and let the routine settle.",
+					"If {keyword} has been slow, small daily kindnesses can help it come together over time.",
+					"Your hope for feeling well is valid. Let {keyword} arrive through patience rather than pressure."
+				],
+				"neutral": [
+					"For wellbeing, {keyword} suggests routines not yet settled, or balance that's close but not quite there.",
+					"{keyword} here points to a need for patience and consistency rather than another fresh start.",
+					"Held back for now, {keyword} may come with steady, gentle care rather than a push to finish."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{keyword} in your inner life may feel incomplete. You don't have to finish anything today. A minute of quiet is enough practice.",
+					"If you feel spiritually stuck, {keyword} may simply be in its last, slowest stretch. Return to one simple practice and let it steady you.",
+					"{keyword} doesn't require every question answered. Let one small moment of peace count."
+				],
+				"curious": [
+					"{keyword} may be held back by an old belief you haven't quite released. What would happen if you let it go?",
+					"Here {keyword} might be overdone: clinging to a sense of arrival when you're ready to begin again. What's next?",
+					"What's keeping {keyword} at a distance in your spiritual life? Exploring that could open something."
+				],
+				"grieving": [
+					"In grief, {keyword} may feel impossible. Let your inner life be unfinished for now.",
+					"If you're longing for spiritual closure, {keyword} may come slowly or in unexpected forms. Be gentle with yourself.",
+					"{keyword} can wait as long as it needs to. There's no deadline for meaning to return, and no wrong way to carry what's unfinished."
+				],
+				"skeptical": [
+					"Plainly, when {keyword} stalls, it may be because a value isn't yet reflected in how you live. Which one?",
+					"Use {keyword} as a check: are you seeking a shortcut to peace rather than doing the slower work?",
+					"No supernatural claim: {keyword} delayed often means a lesson still being learned. What might it be?"
+				],
+				"hopeful": [
+					"{keyword} may be closer than you think. Keep your practice going gently, even when it feels unfinished.",
+					"If {keyword} has been slow, patience and reflection can help it come together.",
+					"Your hope for inner wholeness is valid. Let {keyword} unfold in its own time."
+				],
+				"neutral": [
+					"Spiritually, {keyword} suggests a cycle not quite closed, or a sense of incompleteness that's asking for attention rather than hurry.",
+					"{keyword} here points to inner work that's nearly done, with one last thing still to be faced or released.",
+					"When {keyword} is clung to, a sense of arrival can stop you from beginning again. Held back, it may simply need more time."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} may feel just out of reach, and that can be frustrating after so much effort. One steady step: list what's left, and do the smallest item today.",
+					"If {keyword} keeps getting delayed, remember that slow isn't the same as stuck. Focus on the one thing you can actually finish this week, and let the rest wait its turn.",
+					"{keyword} doesn't have to happen all at once. When one small task is done, pause long enough to notice it before reaching for the next."
+				],
+				"curious": [
+					"{keyword} may be held back by something you haven't quite let go of: a plan, a role, an old version of yourself. What comes to mind first?",
+					"Here {keyword} might be overdone, a finished chapter kept open out of habit. What would it feel like to mark its ending, even with a small ritual?",
+					"What's standing between you and {keyword}? Try naming it in a single plain sentence. Sometimes the obstacle shrinks once it's written down."
+				],
+				"grieving": [
+					"{keyword} may feel far away while you grieve, as if life stopped mid-sentence. Let things be unfinished for now; nothing needs tying up.",
+					"If you're longing for closure, {keyword} may come slowly or in a shape you don't expect. Be gentle with the parts of you still waiting.",
+					"Others may want things settled. {keyword} can wait as long as it needs to; there's no schedule for this."
+				],
+				"skeptical": [
+					"Plainly, when {keyword} stalls, a few loose ends are usually to blame rather than anything large. Which three would make the biggest difference?",
+					"Use {keyword} as a check: are you avoiding the final step because finishing means facing whatever comes after?",
+					"No prediction here: {keyword} delayed often traces back to a shortcut taken earlier. Is there something to go back and do properly?"
+				],
+				"hopeful": [
+					"{keyword} may be closer than it looks. Keep going steadily; the last stretch is often the slowest and the least visible.",
+					"If {keyword} has been slow, patience and plain follow-through can bring it together more surely than a final sprint.",
+					"Your hope is still valid. Let {keyword} come in its own time, and notice each small piece as it falls into place."
+				],
+				"neutral": [
+					"{keyword} suggests something nearly complete, with loose ends still to tie or a delay to wait out.",
+					"Overall, {keyword} points to unfinished business, a chapter that hasn't quite closed, or a reluctance to let it.",
+					"Held back for now, {keyword} may need one more step, or simply a little more time, before it settles."
+				]
+			}
+		}
+	}
+}

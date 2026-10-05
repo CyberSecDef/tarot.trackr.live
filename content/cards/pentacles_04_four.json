@@ -1,0 +1,412 @@
+{
+	"id": "pentacles_04_four",
+	"name": "Four of Pentacles",
+	"facets": [
+		{
+			"id": "security",
+			"keywords": ["security", "a need for stability", "a safe foundation"]
+		},
+		{
+			"id": "holding_on",
+			"keywords": ["holding on tightly", "a tight grip", "a reluctance to let go"]
+		},
+		{
+			"id": "thrift",
+			"keywords": ["careful saving", "thrift", "a conserving instinct"]
+		},
+		{
+			"id": "boundaries",
+			"keywords": ["a firm boundary", "self-protection"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you fear losing someone, {keyword} may be how that fear shows up. One thing in your control: notice when you reach to check or hold on, and take one slow breath first.",
+					"{keyword} in love can come from wanting to keep something precious safe. That is understandable; you can protect what matters without gripping it.",
+					"When love feels fragile, {keyword} may tempt you to keep your heart closed. Try opening it a crack with one honest sentence to someone you trust."
+				],
+				"curious": [
+					"{keyword} asks an interesting question: what are you guarding most carefully in love, your time, your heart, or your independence?",
+					"What if {keyword} were telling you something useful about what you value? Notice what you would never want to share, and why.",
+					"{keyword} hints at the shape of your comfort zone. Where does closeness feel safe, and where does it start to feel like a risk?"
+				],
+				"grieving": [
+					"When you are missing someone, {keyword} may be how you keep them near: their things, their words, the way you used to do things. That is all right.",
+					"{keyword} can be a way of protecting a heart that has already been hurt. There is no need to loosen it before you are ready.",
+					"Grief can make you hold close what is left. {keyword} is a very human response, and it deserves gentleness rather than judgement."
+				],
+				"skeptical": [
+					"Practically, {keyword} in love is about control. Is there anything in your relationship you keep a firm hold on, like money, plans or your feelings?",
+					"Treat {keyword} as a prompt to look at how much you share. Healthy relationships usually involve some give, as well as some keep.",
+					"No mystery needed: {keyword} points to the trade-off between safety and closeness. Which one are you favouring right now, and on purpose?"
+				],
+				"hopeful": [
+					"{keyword} can give love a steady base to grow from. Hope is reasonable when you feel safe enough to stay open.",
+					"If you are hoping for a lasting bond, {keyword} suggests knowing what you need to feel secure, and saying it aloud.",
+					"{keyword} invites you to protect what is good in your relationships while still leaving room for it to change and grow."
+				],
+				"neutral": [
+					"In love, {keyword} points to stability, protectiveness, and sometimes a reluctance to open up or share.",
+					"{keyword} speaks of guarding what you value in relationships, for better and for worse.",
+					"{keyword} suggests looking at the balance between keeping love safe and letting it breathe."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If your job feels uncertain, {keyword} may be your instinct to protect what you have. That makes sense. One thing in your control: note down what you contribute that would be hard to replace.",
+					"{keyword} at work can feel like bracing against change. You don't have to let go of anything today; just notice where you are tense.",
+					"When work worries rise, {keyword} invites you to focus on what is stable: your skills, your track record, the people who know your work."
+				],
+				"curious": [
+					"{keyword} poses a question: what are you holding onto at work, a role, a title, a way of doing things, and does it still serve you?",
+					"What if {keyword} were a sign that you've built something worth protecting? Notice what you are proud of in your working life.",
+					"{keyword} hints at control. Which tasks do you find hard to hand over, and what would happen if you did?"
+				],
+				"grieving": [
+					"When you are carrying a loss, {keyword} at work may simply mean keeping things steady. Familiar routines can be a comfort.",
+					"{keyword} might be how you protect your energy right now. It is all right to say no to new responsibilities.",
+					"If grief has touched your working life, {keyword} need not be loosened yet. Keep what helps you get through the day."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work is about risk. Are you staying where you are because it is right, or because change feels costly?",
+					"Treat {keyword} as a prompt to check whether you are hoarding information or tasks that others could share.",
+					"No mysticism required: {keyword} points to caution, which can be wise. The useful question is whether it is still in proportion."
+				],
+				"hopeful": [
+					"{keyword} suggests you have built a solid base at work. Hope is reasonable if you let that base support new steps.",
+					"If you are hoping for stability, {keyword} encourages you to value what you've secured while staying open to growth.",
+					"{keyword} invites you to protect your time and energy, so you have something left for the work you care about."
+				],
+				"neutral": [
+					"In your working life, {keyword} points to security, caution and a wish to protect what you have built.",
+					"{keyword} speaks of stability at work, and perhaps a reluctance to delegate or take risks.",
+					"{keyword} suggests weighing the comfort of the familiar against the cost of standing still."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money worries keep you up, {keyword} may be how you try to feel safe. One thing in your control: look at one figure, just one, and notice that you can face it.",
+					"{keyword} can feel steadying when things are uncertain. It is also fine to notice whether it is bringing you calm or only more worry.",
+					"When finances feel fragile, {keyword} invites you to name what you already have, however modest. Seeing it can quiet the fear a little."
+				],
+				"curious": [
+					"{keyword} poses a question: what does money mean to you beyond the numbers, safety, freedom, control or something else?",
+					"What if {keyword} were telling you about an old story with money? Notice where that story began, and whether it still fits.",
+					"{keyword} hints at what you value most. If you could keep only a few things, what would they be, and why?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may be a way of holding onto steadiness when so much has shifted. That is understandable.",
+					"{keyword} might mean keeping things exactly as they are for a while. You don't need to make any money decisions before you're ready.",
+					"If grief has changed your circumstances, {keyword} can be a source of comfort. Let it be, without judging it."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about your relationship with security. Does holding more feel safer, or does the feeling of not-enough persist anyway?",
+					"Treat {keyword} as a prompt to notice how you feel when you spend on yourself or others. That feeling often says more than the amount.",
+					"No prediction here: {keyword} simply points to caution with resources. Ask whether it reflects your values or an old fear."
+				],
+				"hopeful": [
+					"{keyword} suggests you have built some steadiness. Hope is reasonable when you can enjoy what you've secured.",
+					"If you are hoping for more security, {keyword} encourages you to notice what is already in place before focusing on what is missing.",
+					"{keyword} invites you to feel safe enough with money that it serves your life, rather than the other way round."
+				],
+				"neutral": [
+					"Around money, {keyword} points to saving, caution and a strong wish for financial safety.",
+					"{keyword} speaks of holding resources close, sometimes wisely and sometimes out of fear.",
+					"{keyword} suggests looking at whether your approach to money brings you peace or only control."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} may show up as tension: clenched jaw, tight shoulders. One small thing in your control: let one of them soften.",
+					"{keyword} can be a way of protecting your energy. That is wise; choose one thing to say no to this week.",
+					"When stress is high, {keyword} invites you to notice where you are holding on physically. Breathe into that place for a moment."
+				],
+				"curious": [
+					"{keyword} poses a question: where in your body do you carry the urge to hold on, and what happens when you notice it?",
+					"What if {keyword} were about conserving energy for what matters? Which habits drain you, and which restore you?",
+					"{keyword} hints at routine. Which habits are you protective of, and do they still feel good?"
+				],
+				"grieving": [
+					"Grief lives in the body, and {keyword} may be a natural response. You don't need to let go of anything before you're ready.",
+					"{keyword} might mean protecting your rest and quiet. It is all right to keep the world at a distance for a while.",
+					"When you are grieving, {keyword} can be a kind of self-care. Let yourself hold what comforts you."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about energy. Are you conserving it wisely, or holding back from things that might help you feel better?",
+					"Treat {keyword} as a prompt to check for rigid routines. Some structure helps; too much can feel tight.",
+					"No mysticism needed: {keyword} simply points to the link between stress and physical tension. Noticing it is the first step."
+				],
+				"hopeful": [
+					"{keyword} suggests you know how to protect your wellbeing. Hope is reasonable if you also allow some ease.",
+					"If you are hoping to feel steadier, {keyword} encourages routines that make you feel safe in your body.",
+					"{keyword} invites you to guard your rest as carefully as you guard your time."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to protecting your energy, keeping routines and sometimes holding tension.",
+					"{keyword} speaks of a careful approach to your body, with an eye on what feels safe.",
+					"{keyword} suggests checking whether your habits bring comfort or only control."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsteady, {keyword} may be how you try to stay grounded. One step in your control: rest your hands on your chest and breathe slowly.",
+					"{keyword} can come from wanting certainty in uncertain times. It is all right to want that; notice it without judging.",
+					"When your mind clings, {keyword} invites you to hold one thing lightly today, a plan, a worry, a belief."
+				],
+				"curious": [
+					"{keyword} poses a question: what are you most attached to, and what would it feel like to hold it more loosely?",
+					"What if {keyword} were showing you where your sense of safety comes from? Is it inside you, or in what you possess?",
+					"{keyword} hints at the tension between keeping and releasing. Which one feels harder for you right now?"
+				],
+				"grieving": [
+					"In grief, {keyword} may be a way of keeping someone close. That is not something to fix.",
+					"{keyword} need not be released yet. Hold what helps you carry the loss.",
+					"When loss has shaken your sense of meaning, {keyword} can be a shelter. Let it be one for now."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about attachment. Which beliefs or habits do you keep simply because they feel familiar?",
+					"Treat {keyword} as a prompt: are your values guiding what you hold onto, or is fear doing that job?",
+					"No mystical claim here: {keyword} simply points to the cost of rigid thinking. Openness can be practised."
+				],
+				"hopeful": [
+					"{keyword} suggests you have a strong foundation to grow from. Hope is reasonable if you also leave room for change.",
+					"If you are hoping for inner peace, {keyword} encourages you to notice what you can safely let go of.",
+					"{keyword} invites you to feel secure enough to explore new ideas."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to attachment, security and the question of what to keep and what to release.",
+					"{keyword} speaks of holding close what feels safe, and the limits that can come with it.",
+					"{keyword} suggests reflecting on whether your grip on things brings peace or tension."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels uncertain, {keyword} may be your instinct to protect what you have, and that is understandable. One step in your control: name one thing in your life that is genuinely secure today.",
+					"{keyword} can be steadying when the ground feels loose. It is worth noticing, gently, whether it is helping you rest or keeping you braced.",
+					"When worry rises, {keyword} invites you to focus on what you can keep safe today, your sleep, your evening, one boundary, and let the rest be."
+				],
+				"curious": [
+					"{keyword} opens a question: what are you holding onto most tightly right now, and what would you be afraid of if you loosened your hold a little?",
+					"What if {keyword} were showing you what you value most? Notice what you would protect at any cost, and what you guard only out of habit.",
+					"{keyword} hints at the edge of your comfort zone. What lies just beyond it that you have been curious about but kept at arm's length?"
+				],
+				"grieving": [
+					"When you are carrying loss, {keyword} may be how you keep yourself steady. It is all right to hold on, to things, routines and memories alike.",
+					"{keyword} might mean keeping things exactly as they are for now: the room, the chair, the way the day goes. There is no rush to change anything.",
+					"{keyword} can be a shelter in grief. Let it be one for as long as you need, without anyone else's timetable."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about control and risk. Is holding on helping you right now, or mainly keeping you where you are?",
+					"Treat {keyword} as a prompt to check whether a sensible caution has quietly hardened into a default answer of no.",
+					"No forecasting here: {keyword} simply points to a familiar trade-off between safety and growth. Neither side is wrong; the question is the balance."
+				],
+				"hopeful": [
+					"{keyword} suggests you have built something solid. Hope is reasonable if you let that foundation support a new step rather than only guard the old ones.",
+					"If you are hoping for stability, {keyword} encourages you to notice how much you already have in place before reaching for more.",
+					"{keyword} invites you to feel safe enough to open up a little, to a person, an idea or an invitation you'd usually turn down."
+				],
+				"neutral": [
+					"Overall, {keyword} points to stability, caution and a strong wish to protect what matters.",
+					"{keyword} speaks of holding close what you value, sometimes wisely and sometimes out of fear of loss.",
+					"{keyword} suggests weighing the comfort of safety against the cost of staying closed."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} in love is loosening, it can feel frightening, as if something precious might slip. One thing in your control: tell someone you trust what you are afraid of losing.",
+					"{keyword} may have tipped into clinging, and that is exhausting for everyone, you included. Try giving yourself one evening without checking in, and notice what happens to the worry.",
+					"When {keyword} slips, it helps to remember that letting a little go is not the same as losing everything. Love can hold more space than fear suggests."
+				],
+				"curious": [
+					"{keyword} may be shifting. What would it be like to share a little more of yourself than you usually allow, a feeling, a plan, a key to your door?",
+					"What if {keyword} has crept toward possessiveness? Notice the moments when you reach to control rather than to connect, and what you are hoping that control will protect.",
+					"{keyword} seems turned inward here. Are you holding back feelings to protect yourself from a hurt that hasn't actually happened?"
+				],
+				"grieving": [
+					"{keyword} may be loosening as time passes, and even that can feel like another loss. Be gentle with yourself about it.",
+					"If {keyword} has given way since your loss, it is all right to feel unsteady in your relationships. Nothing needs to be repaired right now.",
+					"{keyword} can be released slowly, or not at all for now. Grief keeps its own pace, and so can you."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be drifting toward either too much control or too little care. Which way does your relationship lean at the moment?",
+					"Treat {keyword} as a prompt to check for jealousy or possessiveness, in yourself or in the other person. Naming it plainly tends to shrink it.",
+					"Read plainly, {keyword} might be about fear of loss driving how you act. A calm, frank conversation usually helps more than tightening your grip."
+				],
+				"hopeful": [
+					"{keyword} may be easing, and that could make room for more closeness. Hope is reasonable here, especially if you keep sharing a little at a time.",
+					"If {keyword} is loosening, it may be a sign you feel safer with someone than you used to. That is worth noticing.",
+					"{keyword} could give way to generosity in love. Small, open gestures, an unasked-for favour, a shared secret, tend to build trust."
+				],
+				"neutral": [
+					"In love, {keyword} may be shifting: loosening control, or tightening into possessiveness.",
+					"{keyword} appears overdone or newly released, with fear of loss shaping how you connect with others.",
+					"{keyword} suggests looking honestly at what you are holding onto in your relationships, and why."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} at work is slipping, it can feel unsettling. One step in your control: list what stays with you whatever happens, your skills, your contacts, your experience.",
+					"{keyword} may have become so tight that change at work feels impossible. Try handing over one small task today and see how it goes.",
+					"When {keyword} gives way, try not to read it as failure. Shifts at work often open something as well as closing something."
+				],
+				"curious": [
+					"{keyword} may be shifting. What would you try at work if you weren't so concerned about losing what you already have?",
+					"What if {keyword} has turned into micromanagement, of others or of yourself? Notice where trust could save you time and energy.",
+					"{keyword} seems turned inward. Are you keeping ideas to yourself to protect your position, and what might sharing them make possible?"
+				],
+				"grieving": [
+					"During grief, {keyword} at work may loosen, and you may care less about things that once felt essential. That is all right; do what you can.",
+					"If {keyword} has slipped since your loss, be gentle with yourself. Steadiness at work can be rebuilt when you have more to give.",
+					"{keyword} doesn't need to be restored yet. Getting through each working day is enough for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be causing friction because you are holding on too tightly. Which responsibilities could reasonably be shared?",
+					"Treat {keyword} as a prompt to check whether fear, rather than judgement, is shaping your decisions at work.",
+					"Read plainly, {keyword} might be a way of resisting change that is happening anyway. Ask what you would gain by adapting early."
+				],
+				"hopeful": [
+					"{keyword} may be easing, and that could make room for new opportunities you couldn't reach while holding on. Hope is reasonable here.",
+					"If {keyword} is loosening, it may be a sign you feel secure enough in your abilities to try something new.",
+					"{keyword} could give way to more openness at work. Saying yes to one unfamiliar project is a modest place to start."
+				],
+				"neutral": [
+					"In your working life, {keyword} may be shifting: loosening control, or tightening into rigidity.",
+					"{keyword} appears overdone or newly released, with fear of change shaping your choices at work.",
+					"{keyword} suggests reviewing what you are holding onto at work, and whether it still serves you."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} around money is slipping, it can feel frightening. One step in your control: look at one account and simply note what is there.",
+					"{keyword} may have become too tight, leaving no room for joy. Notice one small pleasure you have been denying yourself, without acting on it yet.",
+					"When {keyword} gives way, try not to spiral. Most people's finances go through tighter and looser seasons."
+				],
+				"curious": [
+					"{keyword} poses a question: is your relationship with money driven by fear or by values?",
+					"What if {keyword} has swung the other way, into spending to feel better? Notice what triggers it.",
+					"{keyword} seems shifting. What would generosity look like for you, in a form that still feels safe?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may loosen or tighten in ways that surprise you. Both are understandable.",
+					"If {keyword} has slipped since your loss, be gentle with yourself. Only the essentials matter now.",
+					"{keyword} can wait. There is no need to make any money decisions before you're ready."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be off balance, either hoarding or overspending. Which way are you leaning?",
+					"Treat {keyword} as a prompt to notice whether fear of loss is shaping your choices.",
+					"Read plainly, {keyword} might be about control. A clear picture of the numbers often eases it."
+				],
+				"hopeful": [
+					"{keyword} may be easing, which could make room for more freedom with money. Hope is reasonable here.",
+					"If {keyword} is loosening, it may be a sign you feel more secure than before.",
+					"{keyword} could give way to generosity that feels good. Small gestures count."
+				],
+				"neutral": [
+					"Around money, {keyword} may be shifting: loosening into generosity or overspending, or tightening into fear.",
+					"{keyword} appears overdone or released, with insecurity shaping how you handle resources.",
+					"{keyword} suggests looking at what money means to you beyond the numbers."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} has tipped into tension, your body may be asking you to soften. One small thing in your control: unclench your jaw, drop your shoulders and let your next breath out be slow.",
+					"{keyword} may have turned into a routine so strict that missing one step feels alarming. Try allowing one gentle, unplanned moment today and see that nothing falls apart.",
+					"When {keyword} gives way and you feel less protected, it can be unsettling. Notice what would help you feel safe in your body right now, a blanket, a warm drink, a quiet room, and offer it."
+				],
+				"curious": [
+					"{keyword} poses a question: where in your body do you hold on long after the stress has passed, and what happens when you notice it?",
+					"What if {keyword} has become a set of rules rather than a form of care? Try loosening one routine for a week and simply observe how you feel.",
+					"{keyword} seems turned inward here. Is there some kind of help or comfort you keep refusing because accepting it feels like losing control?"
+				],
+				"grieving": [
+					"Grief can loosen {keyword} without asking you, so that habits fall away and the body feels unguarded. That is a natural response to loss, not a failing.",
+					"If the routines that once held you have slipped since your loss, {keyword} can wait. Eating something, sleeping when you can and staying warm are enough.",
+					"{keyword} may be shifting in ways you didn't choose. Be gentle with your body; it is carrying something heavy, and it is allowed to rest."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be off balance in one of two directions: routines so rigid they cause stress, or so loose they no longer support you. Which is closer to true?",
+					"Treat {keyword} as a prompt to check for tension you've stopped noticing. A quick scan from forehead to feet once a day costs nothing and often reveals a lot.",
+					"Read plainly, {keyword} is about control. Some structure helps energy and rest; beyond a point, it becomes one more thing to worry about."
+				],
+				"hopeful": [
+					"{keyword} may be easing, and that could make room for more comfort and less strain. Hope is reasonable if you let the loosening be gradual.",
+					"If {keyword} is relaxing, it may be a sign you feel safer in yourself than you did. Notice that and let it count.",
+					"{keyword} could give way to a kinder relationship with your body, one built more on listening than on rules."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} may be shifting: either releasing long-held tension or tightening into rigid habits.",
+					"{keyword} appears overdone or newly released, affecting how freely you rest, move and accept care.",
+					"{keyword} suggests noticing where you hold on physically, and whether that holding still protects you."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} in your inner life is slipping, it can feel as though the ground has moved. One step in your control: one slow breath, and the plain reminder that you are still here.",
+					"{keyword} may have hardened into needing every answer settled. Try holding one belief a little more lightly today, just to see how that feels.",
+					"When {keyword} gives way and certainty fades, it is easy to feel lost. Notice what remains steady anyway, a value, a person, a place."
+				],
+				"curious": [
+					"{keyword} poses a question: if you opened your hand around one belief or habit, what might it make room for?",
+					"What if {keyword} has become attachment to certainty? Notice what opens up when you allow yourself to say, I don't know yet.",
+					"{keyword} seems turned inward. Are you guarding your beliefs from any challenge, or from the people who might gently question them?"
+				],
+				"grieving": [
+					"In grief, {keyword} may loosen, and faith or meaning you relied on can feel thinner. That can be its own loss, and it deserves gentleness.",
+					"If {keyword} has shifted since your loss, it is all right to feel unmoored. You don't need to rebuild your beliefs on any timetable.",
+					"{keyword} can stay as it is for now. Hold whatever comforts you, whether a ritual, an object, or a memory."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be off balance, too rigid to take in new ideas or too loose to give you any footing. Which describes you right now?",
+					"Treat {keyword} as a prompt to ask whether your beliefs serve you or mainly protect you from discomfort. Both are human; only one helps you grow.",
+					"Read plainly, {keyword} might be about fear of change. Openness is a skill, and like any skill it can be practised in small doses."
+				],
+				"hopeful": [
+					"{keyword} may be easing, making room for growth that couldn't fit before. Hope is reasonable here.",
+					"If {keyword} is loosening, it may be a sign of a quieter kind of freedom, less about having and more about being.",
+					"{keyword} could give way to curiosity. What might you explore once you no longer need to defend every position?"
+				],
+				"neutral": [
+					"Spiritually, {keyword} may be shifting: loosening attachment, or tightening into rigid belief.",
+					"{keyword} appears overdone or newly released, shaping how firmly you hold your sense of meaning.",
+					"{keyword} suggests reflecting on what is worth keeping in your inner life and what you are ready to set down."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} is slipping, it can feel frightening. One step in your control: write down three things that are still secure, however small.",
+					"{keyword} may have become so tight that it's tiring to maintain. Try letting go of one small thing today, a task, a worry, a rule, and notice what happens.",
+					"When {keyword} gives way, try not to read it as collapse. Loosening your grip a little is not the same as losing everything."
+				],
+				"curious": [
+					"{keyword} poses a question: what are you ready to release, and what are you still not ready to?",
+					"What if {keyword} has quietly become control? Notice the places where trusting others, or chance, might lighten your load.",
+					"{keyword} seems turned inward. Are you holding back from people or plans mainly to keep yourself from being disappointed?"
+				],
+				"grieving": [
+					"When you are grieving, {keyword} may loosen without your permission, and that can feel like a second loss. Be gentle with yourself.",
+					"If {keyword} has slipped since your loss, that is understandable. Holding on to anything at all takes energy you may not have.",
+					"{keyword} can wait. Keep close whatever comforts you, and let the rest be."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be off balance. Is fear of loss, rather than your own judgement, making the decisions at the moment?",
+					"Treat {keyword} as a prompt to check whether caution has hardened into habit. Habits can be revisited.",
+					"Read plainly, {keyword} might be about resisting change. A useful question: what does holding on cost you, and what would letting go cost?"
+				],
+				"hopeful": [
+					"{keyword} may be easing, making room for something new. Hope is reasonable here.",
+					"If {keyword} is loosening, it may be a sign you feel safer than you once did. That is worth acknowledging.",
+					"{keyword} could give way to generosity, with yourself as well as others. Small, open gestures are a good place to start."
+				],
+				"neutral": [
+					"Overall, {keyword} may be shifting: loosening control, or tightening into fear of loss.",
+					"{keyword} appears overdone or newly released, changing how freely you give, share and receive.",
+					"{keyword} suggests looking honestly at what you are holding onto, and why."
+				]
+			}
+		}
+	}
+}

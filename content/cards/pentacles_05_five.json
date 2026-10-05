@@ -1,0 +1,408 @@
+{
+	"id": "pentacles_05_five",
+	"name": "Five of Pentacles",
+	"facets": [
+		{
+			"id": "hardship",
+			"keywords": ["hardship", "a lean season", "material strain"]
+		},
+		{
+			"id": "exclusion",
+			"keywords": ["feeling left out in the cold", "a sense of exclusion", "isolation"]
+		},
+		{
+			"id": "insecurity",
+			"keywords": ["insecurity", "a fear of scarcity", "worry about getting by"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you feel shut out in love, {keyword} names that cold place honestly. It says nothing about your worth. One thing in your control: let one warm person know you could use some company.",
+					"{keyword} can make it seem as if everyone else is inside and you are not. That feeling is real and painful, and it is also not the whole picture. Who has opened a door to you before?",
+					"When love feels scarce, {keyword} may sharpen every worry. Keep it small tonight: eat something warm, rest, and leave the big questions for a steadier morning."
+				],
+				"curious": [
+					"{keyword} asks a quiet question: when you are struggling, do you let the people who love you see it, or do you walk past their door?",
+					"What if {keyword} in love is pointing at a door you haven't tried? Notice who has offered warmth lately, even in small ways, and what it might mean to accept it.",
+					"{keyword} hints that two people can go through a hard time side by side and still feel alone. What would it look like to face it together rather than in parallel?"
+				],
+				"grieving": [
+					"When you are grieving, {keyword} may describe exactly how the world feels: cold, and a little far away. You don't have to pretend otherwise.",
+					"{keyword} can sit alongside a loss without needing to be solved. If someone offers you shelter, a meal, a sofa, an evening, you are allowed to say yes.",
+					"Grief can make you feel outside of ordinary life. {keyword} doesn't ask you to come back in before you are ready; only to know the door is not locked."
+				],
+				"skeptical": [
+					"Practically, {keyword} in love often comes down to support. When times are hard, who could you actually call, and when did you last talk to them?",
+					"Treat {keyword} as a prompt to check whether money or stress is quietly straining a relationship. Naming the pressure often eases it more than avoiding it.",
+					"No mystery needed: {keyword} reflects a common pattern. People under strain tend to withdraw just when connection would help most."
+				],
+				"hopeful": [
+					"{keyword} is not a final word on love. Hard seasons can bring people closer, especially if you let someone see what you are carrying.",
+					"If you are hoping for warmth, {keyword} suggests looking for it in people who have already shown kindness, not only in the ones you wish would.",
+					"{keyword} invites you to keep a small light on. Hope can be modest and still be real."
+				],
+				"neutral": [
+					"In love, {keyword} points to a difficult season: feeling unsupported, shut out, or facing hardship together.",
+					"{keyword} speaks of struggle in relationships, and of support that may be closer than it seems.",
+					"{keyword} suggests noticing where warmth is available, and whether you feel able to reach for it."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels precarious, {keyword} names that strain without judging you for it. One thing in your control today: write down one person or service you could ask for guidance.",
+					"{keyword} at work can make you feel like an outsider. That feeling is heavy, and it is not a verdict. Focus on the next task you can do well.",
+					"When job worries crowd in, {keyword} invites you to take one practical step, however small, and to let that be enough for today."
+				],
+				"curious": [
+					"{keyword} poses a question: what help exists in your working world that you haven't yet used, a mentor, a network, a union, an old colleague?",
+					"What if {keyword} were showing you where the doors are? Notice who has offered a lead or a kind word, even briefly.",
+					"{keyword} hints at feeling outside the circle at work. What would it take to step a little closer, or to find a different circle altogether?"
+				],
+				"grieving": [
+					"When you are carrying a loss, {keyword} at work may feel like one weight too many. It is all right to ask for time, flexibility or simply understanding.",
+					"{keyword} might describe a working life that has become hard to face. You don't have to fix it now; getting through the day is enough.",
+					"If grief has touched your livelihood, {keyword} can be met slowly. Let someone you trust help with one practical step."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work is about resources and support. What concrete help, advice or entitlement might be available that you haven't checked?",
+					"Treat {keyword} as a prompt to look at isolation at work. People who feel cut off often struggle more than the facts alone would explain.",
+					"No mysticism required: {keyword} points to a hard patch. The useful question is which single problem, if eased, would ease the rest."
+				],
+				"hopeful": [
+					"{keyword} is a hard card to meet, and it doesn't describe forever. Hope is reasonable when you keep looking for open doors.",
+					"If you are hoping for things to improve at work, {keyword} suggests reaching out, even when pride or fatigue tells you not to.",
+					"{keyword} invites you to notice support you may have overlooked. Sometimes the help is nearer than it looked from the cold."
+				],
+				"neutral": [
+					"In your working life, {keyword} points to hardship, insecurity or feeling left out of opportunities.",
+					"{keyword} speaks of struggle at work, and of help that may be available if it can be found and accepted.",
+					"{keyword} suggests looking for support rather than enduring alone."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money is tight, {keyword} names a real hardship, and there is no shame in it. One thing in your control: find out what help or advice is available near you, just one source.",
+					"{keyword} can make every bill feel like a threat. Choose one to look at today, calmly, and let the others wait their turn.",
+					"When finances are hard, {keyword} may tempt you to hide. Telling one trusted person what is going on can make it feel less lonely."
+				],
+				"curious": [
+					"{keyword} poses a question: what kinds of support exist that you have never thought to look into, community groups, advice services, shared resources?",
+					"What if {keyword} were not only about lack? Notice what still sustains you, people, skills, small comforts, even in a lean time.",
+					"{keyword} hints at the gap between needing help and asking for it. What makes that gap wide for you, and what might narrow it?"
+				],
+				"grieving": [
+					"After a loss, {keyword} can deepen everything, and money worries may feel unbearable. Handle only what is urgent, and let someone help.",
+					"{keyword} may describe circumstances that changed with your grief. You are not failing; you are carrying a great deal.",
+					"If a loss has left you struggling, {keyword} does not ask you to be strong about it. Accepting help is allowed, and it is not a debt of honour."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about need and support. Have you checked what assistance, discounts or advice you might be entitled to?",
+					"Treat {keyword} as a prompt to look at the whole picture without judgement. Facts written down are usually easier to face than vague dread.",
+					"No prediction here: {keyword} reflects a hard patch many people go through. Planning for the next few weeks is often more useful than planning for the year."
+				],
+				"hopeful": [
+					"{keyword} is a hard season, not a permanent identity. Hope is reasonable when it is paired with seeking help.",
+					"If you are hoping for relief, {keyword} suggests that some of it may come from places you haven't looked yet.",
+					"{keyword} invites you to keep looking for the lit window. There is no guarantee, but help is often closer than it seems from outside."
+				],
+				"neutral": [
+					"Around money, {keyword} points to hardship, insecurity and the need for support.",
+					"{keyword} speaks of material struggle, and of resources that may be available if sought.",
+					"{keyword} suggests attending to immediate needs and not facing them entirely alone."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels depleted, {keyword} names that tiredness honestly. One small thing in your control: get warm, eat something simple, and rest for a while.",
+					"{keyword} can make you feel alone with how you feel. Tell one person how you are actually doing, even briefly.",
+					"When stress and strain pile up, {keyword} invites you to lower the bar for today. Doing less is a valid form of care."
+				],
+				"curious": [
+					"{keyword} poses a question: which kinds of support for your wellbeing have you not yet reached for, and what has held you back?",
+					"What if {keyword} were pointing at how hard times live in the body? Notice where you feel the strain, without needing to fix it.",
+					"{keyword} hints at care you might accept from others. What would it be like to let someone look after you for an afternoon?"
+				],
+				"grieving": [
+					"Grief can leave the body cold and tired, and {keyword} may describe that exactly. Warmth, food and rest are enough right now.",
+					"{keyword} might mean you feel cut off from your usual comforts. Let others bring them to you if they can.",
+					"When you are grieving, {keyword} doesn't ask anything of you. Getting through the day is plenty."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about strain and support. Are stress, money worries or isolation affecting your sleep and energy?",
+					"Treat {keyword} as a prompt to look at basic needs: warmth, food, rest, company. Which one is most lacking right now?",
+					"No mysticism needed: {keyword} reflects how hardship wears on the body. Small, steady care often helps more than big plans."
+				],
+				"hopeful": [
+					"{keyword} is a hard place to be, and it may not last. Hope is reasonable when you let others help.",
+					"If you are hoping to feel better, {keyword} suggests starting with warmth and rest, and with one person who cares.",
+					"{keyword} invites you to accept support. Being cared for is part of caring for yourself."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to strain, depletion and the need for warmth and support.",
+					"{keyword} speaks of a hard season for body and energy, with help that may be closer than it seems.",
+					"{keyword} suggests attending to basic needs and letting others help."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels cold and empty, {keyword} names that honestly. One step in your control: sit somewhere warm, wrap your hands around a hot drink, and breathe slowly for a minute.",
+					"{keyword} can make faith or meaning feel far away. That happens to many people in hard times, and it is not a failure of belief or character.",
+					"When you feel spiritually alone, {keyword} invites you to reach toward one person, place or practice that once brought you comfort, even if it feels a little awkward now."
+				],
+				"curious": [
+					"{keyword} poses a question: where have you looked for meaning lately, and where haven't you thought to look?",
+					"What if {keyword} were showing you a door you keep walking past? Notice what quietly invites you in, however modest it looks.",
+					"{keyword} hints at the difference between feeling outside and actually being shut out. Which one is true for you right now, and how can you tell?"
+				],
+				"grieving": [
+					"In grief, {keyword} may describe a kind of spiritual winter. You don't need to find meaning in it or turn it into a lesson.",
+					"{keyword} can sit alongside loss without any explanation. If a community, a friend or a familiar place offers shelter, you are allowed to come in and sit down.",
+					"When loss has shaken your sense of meaning, {keyword} doesn't ask you to rebuild anything. Rest, warmth and quiet company are enough."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about feeling cut off from what usually sustains you. Do you have anyone to talk with about what matters to you?",
+					"Treat {keyword} as a prompt to check whether self-reliance, however admirable, is keeping you from support you would gladly give someone else.",
+					"No mystical claim here: {keyword} simply points to how hardship narrows attention. It is hard to think about meaning when you are cold, tired or worried."
+				],
+				"hopeful": [
+					"{keyword} is a hard season, not a permanent state of the soul. Hope is reasonable when you look for the small lights that are already on.",
+					"If you are hoping for renewed meaning, {keyword} suggests it may come through other people: a kindness received, a conversation, a shared silence.",
+					"{keyword} invites you to notice small comforts without dismissing them. A warm room and a kind word can be the beginning of something."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to feeling outside, unsupported or depleted, and to the possibility of shelter nearby.",
+					"{keyword} speaks of a lean time for the spirit, when comfort may be closer than it looks from the cold.",
+					"{keyword} suggests seeking connection and warmth rather than enduring alone."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels hard right now, {keyword} names that honestly and without blame. One step in your control: reach out to one person or service that could help with one thing.",
+					"{keyword} can make you feel alone with your troubles, as if everyone else has it handled. Many people are quietly struggling too; let one person know what is going on.",
+					"When things are difficult, {keyword} invites you to narrow your focus to what is immediate: warmth, food, rest, the next small task."
+				],
+				"curious": [
+					"{keyword} opens a question: what help is already around you that you haven't let yourself notice or use?",
+					"What if {keyword} were showing you a door you keep walking past out of habit or pride? Look around, slowly, before deciding there is none.",
+					"{keyword} hints at the gap between needing help and asking for it. What makes that gap wide for you, and what might narrow it a little?"
+				],
+				"grieving": [
+					"When you are carrying loss, {keyword} may describe exactly how life feels right now. You don't need to pretend otherwise or find the bright side.",
+					"{keyword} can sit alongside grief without needing to be fixed. If help comes, a meal, a lift, an hour of company, you can simply accept it.",
+					"{keyword} doesn't ask you to be strong or capable right now. Getting through each day, one part at a time, is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about need and support. What concrete help might exist that you haven't checked yet, and who could tell you?",
+					"Treat {keyword} as a prompt to look at the whole situation on paper, without judging yourself. Written-down facts are usually easier to face than a vague dread.",
+					"No forecasting here: {keyword} reflects a hard patch that a great many people go through at some point. It describes a situation, not who you are."
+				],
+				"hopeful": [
+					"{keyword} is a hard season, not a permanent identity. Hope is reasonable, especially when it is paired with asking for help.",
+					"If you are hoping for relief, {keyword} suggests looking for support you may have overlooked. Doors are sometimes open that look closed from the street.",
+					"{keyword} invites you to keep looking for the lit window. Nothing is guaranteed, and warmth is still worth walking toward."
+				],
+				"neutral": [
+					"Overall, {keyword} points to hardship, feeling left out, and the question of where support might be found.",
+					"{keyword} speaks of a difficult season, with help that may be closer than it seems.",
+					"{keyword} suggests attending to immediate needs and not facing them entirely alone."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} has been part of your love life, it may be starting to ease, even if it doesn't feel that way yet. One thing in your control: accept the next small kindness offered without explaining it away.",
+					"{keyword} may have turned inward, so that you feel alone even with people around you. Try telling one person, plainly, that you'd like more closeness.",
+					"When {keyword} lingers in a relationship, it helps to remember that hard times don't erase love. Choose one warm gesture you can make today."
+				],
+				"curious": [
+					"{keyword} may be lifting. Who has been quietly holding a door open for you, and what would it mean to walk through it?",
+					"What if {keyword} has been kept going by a reluctance to be seen struggling? Notice what you hide from the people closest to you.",
+					"{keyword} seems to be shifting here. Is the cold coming from outside, or from a habit of keeping your heart guarded?"
+				],
+				"grieving": [
+					"{keyword} may be easing slowly, though grief still has its own pace. There is no rush to feel warm again.",
+					"If {keyword} has been with you since your loss, it is all right if it fades only a little at a time. Small moments of connection count.",
+					"{keyword} may linger inward even as others reach out. You can let them sit with you without needing to feel better."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be lifting as circumstances change. Are you still acting as though you're on your own when you no longer have to be?",
+					"Treat {keyword} as a prompt to check whether pride or self-protection is keeping you from support in love.",
+					"Read plainly, {keyword} might be ending, or it might have become a habit of withdrawal. Which looks closer to true?"
+				],
+				"hopeful": [
+					"{keyword} may be easing, and warmth may be returning in your relationships. Hope is reasonable here, without needing a promise.",
+					"If {keyword} is lifting, let yourself notice the people who stayed. Their presence is worth honouring.",
+					"{keyword} could give way to closeness again. Accepting care is a good place to start."
+				],
+				"neutral": [
+					"In love, {keyword} may be easing, with support returning, or lingering inwardly as a habit of withdrawal.",
+					"{keyword} appears to be lifting or turned inward, asking whether you are ready to come back in from the cold.",
+					"{keyword} suggests noticing help that is now available, and whether you feel able to accept it."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} at work has been weighing on you, it may be starting to lift. One step in your control: follow up on one lead or offer, however small.",
+					"{keyword} may linger in how you see yourself at work, even as things improve. Write down one recent sign that you are valued.",
+					"When {keyword} feels slow to ease, it helps to focus on the next practical step rather than the whole climb."
+				],
+				"curious": [
+					"{keyword} may be easing. What opportunities or allies have appeared that you haven't fully noticed yet?",
+					"What if {keyword} has become a story you tell about your working life? Notice whether it still matches the facts.",
+					"{keyword} seems turned inward. Are you keeping yourself on the outside of things you'd be welcome to join?"
+				],
+				"grieving": [
+					"During grief, {keyword} at work may ease slowly. There is no need to rush back to full strength.",
+					"If {keyword} has been with you since your loss, small improvements still count. Be gentle with your pace.",
+					"{keyword} may lift a little at a time. Let others help where they can."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be lifting as circumstances shift. Are you still acting on old assumptions about where you stand?",
+					"Treat {keyword} as a prompt to check whether you are turning down help that would make a real difference.",
+					"Read plainly, {keyword} might be easing, but rebuilding takes time. Plan in weeks, not days."
+				],
+				"hopeful": [
+					"{keyword} may be easing, and new footholds may be appearing. Hope is reasonable here.",
+					"If {keyword} is lifting, notice who helped. Thanking them can strengthen a connection that matters.",
+					"{keyword} could give way to steadier ground. Take the support that is on offer."
+				],
+				"neutral": [
+					"In your working life, {keyword} may be easing, with help arriving, or lingering as a habit of feeling on the outside.",
+					"{keyword} appears to be lifting or turned inward, asking whether you are ready to accept support.",
+					"{keyword} suggests noticing the doors that are opening, and whether you feel able to walk through them."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} around money has been heavy, it may be starting to ease. One step in your control: write down one thing that has improved, however small.",
+					"{keyword} may linger as worry even when circumstances shift. Look at the real numbers once, gently, and see what they actually say.",
+					"When {keyword} feels slow to lift, it helps to accept the help that is available without apology. That is not weakness."
+				],
+				"curious": [
+					"{keyword} may be easing. Where has help or relief come from lately, and did you expect it from there?",
+					"What if {keyword} has outlasted the situation that caused it? Notice whether old fears still shape how you feel about money.",
+					"{keyword} seems turned inward. Is there support you've been reluctant to ask for, and what makes asking hard?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may ease slowly. There is no rush to feel secure again.",
+					"If {keyword} has been with you since your loss, small steps still matter. Let someone help with one practical task.",
+					"{keyword} may lift a little at a time. Be gentle with yourself in the meantime."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be lifting as circumstances change. Do your habits still reflect a harder time than the one you're in?",
+					"Treat {keyword} as a prompt to check whether pride is keeping you from help you are entitled to.",
+					"Read plainly, {keyword} might be easing, but steadiness takes a while to rebuild. That is normal."
+				],
+				"hopeful": [
+					"{keyword} may be easing, and relief may be arriving. Hope is reasonable here, even if nothing is certain yet.",
+					"If {keyword} is lifting, let yourself notice it. Acknowledging improvement can make it feel more real.",
+					"{keyword} could give way to steadier ground. Accepting help can speed the way."
+				],
+				"neutral": [
+					"Around money, {keyword} may be easing, with support arriving, or lingering as a mindset of scarcity.",
+					"{keyword} appears to be lifting or turned inward, asking whether old fears still fit present circumstances.",
+					"{keyword} suggests noticing improvement and accepting the help that is available."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} has been wearing on you, it may be starting to ease. One small thing in your control: rest somewhere warm and let your body settle.",
+					"{keyword} may linger as tiredness even as things improve. Be patient with how slowly energy returns.",
+					"When {keyword} feels slow to lift, try accepting one offer of practical help. Let someone carry a little."
+				],
+				"curious": [
+					"{keyword} may be easing. What has helped you feel a little more like yourself lately?",
+					"What if {keyword} has left habits behind, like skipping meals or rest, that no longer need to continue? Notice them gently.",
+					"{keyword} seems turned inward. Are you holding back from care you'd welcome if it were offered differently?"
+				],
+				"grieving": [
+					"Grief can keep {keyword} close even as other things shift. Rest and warmth are enough.",
+					"If {keyword} has been with you since your loss, small improvements count. There is no timetable.",
+					"{keyword} may lift a little at a time. Let others look after you where they can."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be lifting as circumstances change. Are your routines catching up with that?",
+					"Treat {keyword} as a prompt to check whether you're still running on survival mode when you no longer need to.",
+					"Read plainly, {keyword} might be easing, but energy often lags behind. Allow it time."
+				],
+				"hopeful": [
+					"{keyword} may be easing, and energy may be returning. Hope is reasonable here.",
+					"If {keyword} is lifting, notice what has helped. Doing a little more of it is a gentle next step.",
+					"{keyword} could give way to more ease. Accept care, and let it count."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} may be easing, with warmth and support returning, or lingering as habits of self-neglect.",
+					"{keyword} appears to be lifting or turned inward, asking whether you are ready to accept care.",
+					"{keyword} suggests noticing what helps and letting it in."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} has left your inner life feeling bare, it may be starting to ease. One step in your control: return to one small practice or place that once felt like shelter, even briefly.",
+					"{keyword} may linger even as life improves. That is all right; a sense of meaning often returns more slowly than circumstances do.",
+					"When {keyword} feels slow to lift, try noticing one moment of warmth today, a kind word, sunlight on a wall, and simply let it be there."
+				],
+				"curious": [
+					"{keyword} may be easing. What has quietly begun to feel meaningful again, perhaps somewhere you didn't expect?",
+					"What if {keyword} has hardened into a belief that you are always on the outside? Notice whether that story still matches what is actually happening.",
+					"{keyword} seems turned inward. Is there a community, tradition or practice you would be welcome in but haven't let yourself approach?"
+				],
+				"grieving": [
+					"In grief, {keyword} may ease only slowly, and faith or meaning may stay thin for a while. There is no need to find answers before you are ready.",
+					"If {keyword} has been with you since your loss, small moments of comfort still count, even when they don't last.",
+					"{keyword} may lift a little at a time. Let others hold you where they can, without needing to explain how you feel."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be lifting. Are you still keeping yourself apart from support out of habit rather than need?",
+					"Treat {keyword} as a prompt to check whether old stories about not belonging still fit the life you have now.",
+					"Read plainly, {keyword} might be easing, but trust in people and in meaning takes time to rebuild. That is normal, not a setback."
+				],
+				"hopeful": [
+					"{keyword} may be easing, and a sense of meaning may be returning. Hope is reasonable here, even if it comes in small pieces.",
+					"If {keyword} is lifting, notice who or what helped. Gratitude, even unspoken, can deepen the warmth.",
+					"{keyword} could give way to belonging. Accepting a welcome, rather than waiting until you feel you have earned it, is a good first step."
+				],
+				"neutral": [
+					"Spiritually, {keyword} may be easing as shelter is found, or lingering as an inner sense of being apart.",
+					"{keyword} appears to be lifting or turned inward, asking whether you are ready to come in from the cold.",
+					"{keyword} suggests noticing the support and meaning that are now within reach."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} has been heavy, it may be starting to ease, even if slowly. One step in your control: write down one thing that has improved this month, however small.",
+					"{keyword} may linger as worry even as circumstances shift. Look at what is actually true today, one fact at a time, rather than what was true at the hardest point.",
+					"When {keyword} feels slow to lift, try accepting one offer of help without apology or explanation. Receiving is allowed."
+				],
+				"curious": [
+					"{keyword} may be easing. Where has help or relief come from lately, and was it where you expected to find it?",
+					"What if {keyword} has outlasted its cause? Notice whether fears from a harder time are still making choices for you.",
+					"{keyword} seems turned inward. Are you keeping yourself on the outside of things you would actually be welcome to join?"
+				],
+				"grieving": [
+					"When you are grieving, {keyword} may ease only slowly. There is no rush, and no right speed.",
+					"If {keyword} has been with you since your loss, small improvements still count, even if they come and go.",
+					"{keyword} may lift a little at a time. Let others help where they can, and let that help be enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be lifting. Are your habits still shaped by a harder time than the one you are in now?",
+					"Treat {keyword} as a prompt to check whether pride or habit is keeping you from help that would make a real difference.",
+					"Read plainly, {keyword} might be easing, but rebuilding takes time. Measuring progress in months rather than days can be kinder and more accurate."
+				],
+				"hopeful": [
+					"{keyword} may be easing, and steadier ground may be near. Hope is reasonable here, without needing a guarantee.",
+					"If {keyword} is lifting, notice who helped along the way. Their kindness is worth honouring, and staying close to them is worth something too.",
+					"{keyword} could give way to warmth again. Accepting support is a good first step, not a last resort."
+				],
+				"neutral": [
+					"Overall, {keyword} may be easing as support arrives, or lingering inwardly as a habit of going without.",
+					"{keyword} appears to be lifting or turned inward, asking whether you are ready to come in from the cold.",
+					"{keyword} suggests noticing improvement and accepting the help that is available."
+				]
+			}
+		}
+	}
+}

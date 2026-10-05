@@ -1,0 +1,412 @@
+{
+	"id": "major_13_death",
+	"name": "Death",
+	"facets": [
+		{
+			"id": "transformation",
+			"keywords": ["transformation", "a deep change", "a shedding of the old"]
+		},
+		{
+			"id": "endings",
+			"keywords": ["a chapter closing", "a season drawing to a close", "an old pattern ending"]
+		},
+		{
+			"id": "transition",
+			"keywords": ["a transition", "a threshold", "a crossing into something new"]
+		},
+		{
+			"id": "release",
+			"keywords": ["letting go", "a clearing away", "release"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"Despite its name, {card} speaks of change in how people relate, not of harm. If {keyword} is touching a relationship, you only need to take the next honest step, not see the whole road.",
+					"{keyword} in love can feel like losing your footing. Put a hand on your chest and feel it rise and fall; the way you and another person relate can shift and you can still be steady in yourself.",
+					"If {keyword} is happening between you and someone close, it doesn't have to be decided tonight. Write down what you hope stays the same, and let that list keep you company."
+				],
+				"curious": [
+					"{keyword} in a relationship can be surprisingly alive. What part of how you love has quietly outgrown itself, and what might grow in its place?",
+					"What if {keyword} were less a door shutting and more a skin being shed? Ask which habits between you and someone close no longer fit either of you.",
+					"Here {keyword} invites you to notice the version of yourself that shows up in love now. How is it different from the one that showed up five years ago?"
+				],
+				"grieving": [
+					"{card} here is about the slow way any relationship changes shape over time, not about what you've lost. Let {keyword} be a quiet word in the background while you rest.",
+					"You don't have to do anything with {keyword} right now. Love changes form in its own time, and the bond you carry can stay as close to you as you need it to be.",
+					"{keyword} can sit alongside your sorrow without asking anything of it. There's no lesson to find and no step to take; only gentleness toward yourself today."
+				],
+				"skeptical": [
+					"Read plainly, {card} is about change rather than anything literal. {keyword} in a relationship asks a practical question: which routine or role between you has stopped working?",
+					"Treat {keyword} as a prompt to look at a pattern that keeps repeating in your love life. What would it take to stop that loop, deliberately, this time?",
+					"No omens here. {keyword} simply points to the fact that relationships move through phases. Which phase are you in, honestly, and does your behaviour match it?"
+				],
+				"hopeful": [
+					"{keyword} in love can clear room for something more honest. It doesn't promise what comes next, but it may leave space for a connection that fits who you are now.",
+					"If you're hoping for renewal, {keyword} invites you to release one old expectation of a partner, a friend, or yourself. What becomes possible without it?",
+					"{keyword} can be the turning of a season rather than the end of the story. What would you like to plant in the space it leaves?"
+				],
+				"neutral": [
+					"In relationships, {keyword} points to one phase giving way to another and to a change in how people relate.",
+					"{keyword} suggests releasing an old dynamic so a truer one can take shape.",
+					"Here {keyword} speaks to transformation in love: letting a familiar form fall away and allowing a new one."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can feel unsettling, as if the ground is moving. You don't need the whole new picture yet. Focus on the one task in front of you and do it well.",
+					"{card} names change, not catastrophe. If {keyword} is touching your job, write down the skills you'll carry with you whatever shape the work takes next.",
+					"If {keyword} in your career is making your chest tight, slow down for a moment. What is one thing about your working week that is still steady and yours?"
+				],
+				"curious": [
+					"{keyword} at work invites you to ask which part of your role you've outgrown. What would you be glad to hand on to someone else?",
+					"What if {keyword} in your career were a chance to redesign rather than repair? Sketch the job you'd build if you were starting from scratch.",
+					"Here {keyword} might be about identity as much as work. Who are you becoming professionally, and who are you ready to stop being?"
+				],
+				"grieving": [
+					"If work has shifted alongside a hard season in your life, {keyword} can be a gentle word for it. You don't need to make any big choices while you're carrying so much.",
+					"{keyword} at work doesn't ask you to be ambitious right now. Doing what you can, and letting the rest wait, is enough.",
+					"Your working life may be changing shape in ways you didn't choose. Let {keyword} be slow; there's no deadline for feeling settled again."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work points to a role, project or method that has run its course. Which one are you keeping alive out of habit?",
+					"Read as a prompt, {keyword} asks what you'd stop doing if you were honest about its value. Sunk cost is a poor reason to continue.",
+					"Nothing ominous here: {keyword} is the ordinary turnover of working life. The useful question is what you want to carry forward and what you're done with."
+				],
+				"hopeful": [
+					"{keyword} in your career may clear the way for work that suits you better. It can't promise the next role, but it can make you more ready for it.",
+					"If you're hoping for a fresh start, {keyword} invites you to close one loop properly: finish, hand over, or say no. Clean endings make room.",
+					"{keyword} can turn a stale stretch into a beginning. What have you learned in this chapter that you'd want to bring into the next?"
+				],
+				"neutral": [
+					"At work, {keyword} points to a phase finishing and another beginning, often through a change of role or approach.",
+					"{keyword} suggests that a professional pattern or position is giving way to something new.",
+					"Here {keyword} speaks to change in your working life that asks you to release what is complete."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} can feel frightening, but {card} speaks of change, not ruin. Look at one number you're sure of, and let it anchor you for today.",
+					"If {keyword} is reshaping your finances, you don't have to plan everything at once. Choose one bill, one budget line, one small thing to settle this week.",
+					"{keyword} in money matters can make you brace. Unclench your jaw, breathe out slowly, and remember that changes in money tend to happen in steps, not all at once."
+				],
+				"curious": [
+					"{keyword} invites you to look at your relationship with money. Which old belief about earning or spending could you let fall away?",
+					"What if {keyword} with your resources were a chance to start fresh? Imagine building a budget around what you value now, not what you valued then.",
+					"Here {keyword} asks which financial habit has quietly outlived its purpose. What would you gain by retiring it?"
+				],
+				"grieving": [
+					"If money matters have shifted in a heavy time, {keyword} doesn't ask you to sort it all out now. Let the practical things move slowly, with help if you can find it.",
+					"{keyword} can mean that how you handle resources is changing shape. Let that happen gently; covering today's needs is enough.",
+					"There's no need to make meaning of {keyword} in your finances. Rest, and let someone you trust look at the details alongside you."
+				],
+				"skeptical": [
+					"Practically, {keyword} with money points to a cost, account or arrangement that no longer serves you. Which one could you close or change?",
+					"Read plainly, {keyword} asks you to stop funding a plan that's already over. What are you still paying for out of habit?",
+					"No magic here: {keyword} is a prompt to clear out the financial clutter, old subscriptions, old goals, old assumptions, and see what's left."
+				],
+				"hopeful": [
+					"{keyword} with money can open space for a steadier footing. It doesn't guarantee abundance, but clearing the old makes room to build.",
+					"If you hope for financial renewal, {keyword} invites you to release one costly habit. What could that freed-up money become?",
+					"{keyword} may make your finances simpler and more honest. What's the first thing you'd build on that cleared ground?"
+				],
+				"neutral": [
+					"With money, {keyword} points to a financial phase ending and the restructuring that follows.",
+					"{keyword} suggests clearing out old arrangements so resources can flow in a new direction.",
+					"Here {keyword} speaks to letting go of a financial pattern that has run its course."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{card} here is about change in your daily rhythms, nothing more literal. If {keyword} has you on edge, rest your feet on the floor and take three slow breaths.",
+					"If {keyword} is reshaping your habits, choose one small, kind routine to keep steady, such as a regular bedtime or a morning glass of water.",
+					"{keyword} can stir restlessness in the body. You don't need to change everything; notice where you're holding tension and let that one place soften."
+				],
+				"curious": [
+					"{keyword} invites you to ask which habit no longer fits the person you're becoming. What might you put in its place?",
+					"What would {keyword} look like in your energy? Try letting one draining routine go for a week and notice what changes.",
+					"Here {keyword} asks how your relationship with your body has been shifting. What does it need now that it didn't before?"
+				],
+				"grieving": [
+					"{card} speaks of the ordinary ways our days change shape, not of loss. If you're tired and heavy, let {keyword} be permission to rest more than usual.",
+					"Grief lives in the body, and {keyword} doesn't ask you to push through it. Warmth, food, sleep when it comes; small care is enough.",
+					"{keyword} here is gentle. Let your routines change as they need to, and don't hold yourself to how things used to be."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is about habits. Which routine are you keeping only because you've always kept it?",
+					"Treat {keyword} as a prompt to change one variable in your day and observe the effect. That's a simple, testable step.",
+					"No omens here: {keyword} points to the fact that what worked for your energy a few years ago may not work now. What needs updating?"
+				],
+				"hopeful": [
+					"{keyword} can make space for habits that suit you better. Small changes, kept steadily, can make a real difference to how you feel.",
+					"If you're hoping for more energy, {keyword} invites you to release one thing that drains you. What would you do with what's freed up?",
+					"{keyword} in your daily life may feel like spring after winter, slow at first. Let the change take root at its own pace."
+				],
+				"neutral": [
+					"In health, {keyword} points to changing routines and releasing habits that no longer serve your energy.",
+					"{keyword} suggests a shift in how you care for yourself as one phase of life gives way to another.",
+					"Here {keyword} speaks to making room for new rhythms of rest and effort."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{card} is one of the most misunderstood cards; here it points to inner change, not anything to fear. If {keyword} is unsettling you, return to one practice that still feels like home.",
+					"If {keyword} is shaking what you believe, you don't have to rebuild everything at once. A single quiet minute is enough of a practice today.",
+					"{keyword} in your inner life can feel like standing at an edge. Feel your breath, feel your feet, and let understanding come slowly."
+				],
+				"curious": [
+					"{keyword} invites you to ask which old version of yourself you're ready to put down. What might rise in its place?",
+					"What if {keyword} were a quiet rebirth? Notice which beliefs feel thinner lately, and which new ones are taking shape.",
+					"Here {keyword} asks what you're becoming. Who would you be without the story you've told about yourself for years?"
+				],
+				"grieving": [
+					"{card} here speaks to slow inner change, the kind that happens to everyone over a lifetime, not to your loss. Let {keyword} rest gently beside you, asking nothing.",
+					"In a tender season, {keyword} doesn't need to mean anything yet. Your practice can simply be breathing and being kind to yourself.",
+					"{keyword} can be very quiet and very slow. You don't have to find a lesson; let whatever is shifting inside you take its time."
+				],
+				"skeptical": [
+					"Read without mysticism, {keyword} is about identity changing over time. Which part of how you see yourself is out of date?",
+					"Treat {keyword} as a prompt to drop one belief you no longer hold but still repeat. What happens when you stop saying it?",
+					"{keyword} needs no special belief to be useful. Simply ask what you'd stop doing if you were starting your life's practice fresh."
+				],
+				"hopeful": [
+					"{keyword} on your inner path can feel like renewal. Letting the old self loosen may leave room for something more honest.",
+					"If you hope to grow, {keyword} invites you to release one inner story that keeps you small. What would you write instead?",
+					"{keyword} may be the start of a quieter, truer way of being. Notice where you already feel lighter."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to inner transformation: one self-understanding giving way to another.",
+					"{keyword} suggests releasing an outgrown belief or identity so something new can form.",
+					"Here {keyword} speaks to the natural cycle of endings and renewal in your inner life."
+				]
+			},
+			"general": {
+				"anxious": [
+					"Despite its reputation, {card} speaks of change, not harm. If {keyword} is in your life, ground yourself in one ordinary thing you can do today, and do just that.",
+					"If {keyword} is making you uneasy, notice that you have moved through changes before. What helped you then that you could lean on now?",
+					"{keyword} can feel big, but it usually unfolds in small steps. Choose the smallest one and let the rest wait."
+				],
+				"curious": [
+					"{keyword} invites you to ask what's ready to be finished in your life. What would you be relieved to let go?",
+					"What if {keyword} were an opening rather than a closing? Imagine the space it leaves and what you'd like to fill it with.",
+					"Here {keyword} asks which version of your life you're outgrowing. Who are you becoming?"
+				],
+				"grieving": [
+					"{card} here is about the turning of life's seasons in a broad sense, not about the loss you carry. Let {keyword} be gentle and far off for now.",
+					"In a heavy time, {keyword} asks nothing of you. Rest, be held, and let change happen at whatever pace it needs.",
+					"{keyword} doesn't come with a silver lining or a reason. It's simply a word for life changing shape, slowly, in its own time."
+				],
+				"skeptical": [
+					"Read plainly, {card} is about change, not anything literal. {keyword} asks what in your life has quietly run its course.",
+					"Treat {keyword} as a prompt to close one open loop: a project, a commitment, a plan. Finishing frees attention.",
+					"No omens here; {keyword} is the ordinary turnover of life. The useful question is what to carry forward."
+				],
+				"hopeful": [
+					"{keyword} can clear the way for something new. It doesn't promise what comes next, but it makes room for it.",
+					"If you're hoping for a fresh start, {keyword} invites you to release one thing deliberately. What would you choose?",
+					"{keyword} may be the turning point you've been waiting for. What would you like to grow in the space it leaves?"
+				],
+				"neutral": [
+					"{keyword} points to transformation: one phase ending and another beginning.",
+					"In general, {keyword} suggests letting what is complete fall away so something new can take shape.",
+					"Here {keyword} speaks to change, release, and the threshold between chapters."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} in love may be arriving slowly, which gives you time. You don't need to rush; one honest, gentle step is enough for now.",
+					"If you've been holding on tightly against {keyword} in a relationship, notice where your body is braced. Let that one place soften for a moment.",
+					"{keyword} may be stuck rather than coming. That's alright. Name, privately, one thing you'd like to be different, without needing to act yet."
+				],
+				"curious": [
+					"{keyword} reversed in love might show up as holding on to a dynamic that no longer fits. What keeps you from loosening your grip?",
+					"What if {keyword} were happening quietly inside you, long before anyone else notices? Explore how your sense of love has been changing.",
+					"Here {keyword} might be resisted out of comfort. What would you discover if you let it in?"
+				],
+				"grieving": [
+					"{keyword} may feel far away, and holding on is part of loving. There's no rush to change anything.",
+					"If you've been keeping things exactly as they were, that's understandable. Let {keyword} come only when you're ready, and not before.",
+					"{keyword} may be moving very slowly inside you. Be gentle with yourself; there's no right pace for this."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often looks like a relationship pattern repeating because no one has called time on it. What would calling time look like?",
+					"Read plainly, {keyword} delayed may mean avoiding a conversation that would change things. What does the avoidance cost?",
+					"Treat {keyword} as a prompt: are you staying in a dynamic because it's good, or because changing it feels harder?"
+				],
+				"hopeful": [
+					"{keyword} may be gathering slowly in love. A gentle, gradual change can last longer than a sudden one.",
+					"If you hope for renewal, {keyword} invites you to loosen your grip on one old expectation. Small releases count.",
+					"{keyword} may be ready to begin. Notice where you feel a little readier than you did."
+				],
+				"neutral": [
+					"Reversed in love, {keyword} may be resisted, delayed, or happening quietly within.",
+					"{keyword} suggests holding on to a relationship pattern that is ready to change.",
+					"Here {keyword} points to transformation in love that is slow, inward, or stalled."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} may be arriving gradually rather than all at once, and that gives you room. One steady task done well today is enough to keep your footing.",
+					"If you've been bracing against {keyword} in your job, notice what you fear would happen if you let go. Write the fear down, then ask how likely it really is.",
+					"{keyword} may be stalled for now. Steady yourself with what is plainly yours: your skills, your effort, the next small decision."
+				],
+				"curious": [
+					"{keyword} reversed at work might look like staying in a role you've quietly outgrown. What keeps you there: comfort, loyalty, or not yet knowing what's next?",
+					"What if {keyword} were already happening inside you before it shows up on paper? Explore which parts of your job you've stopped caring about.",
+					"Here {keyword} might be resisted because what comes after is unknown. What would you try if you knew a misstep wouldn't be the end of the world?"
+				],
+				"grieving": [
+					"If work has shifted alongside a hard season, {keyword} may be more than you can take on right now. Holding still is allowed.",
+					"{keyword} may be slow in your working life, and that's alright. Let familiar routine carry you for as long as it helps.",
+					"When everything feels heavy, {keyword} doesn't ask you to make changes. Doing what you can, and no more, is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often shows up as sunk-cost thinking. Are you staying with something because of what it offers, or because of what you've already put in?",
+					"Read plainly, {keyword} delayed can mean keeping a project alive long past its usefulness. Which one would you cancel if it were your call?",
+					"Treat {keyword} as a prompt to tell stability from stagnation. When did you last learn something new in this role?"
+				],
+				"hopeful": [
+					"{keyword} may be gathering at work, slowly. A gradual change is still a real one, and it can be easier to steer.",
+					"If you're hoping for a new direction, {keyword} invites one small step toward it this month: a course, a conversation, a draft application.",
+					"{keyword} may be closer than it feels. Notice the small signs that you're already more ready than you were."
+				],
+				"neutral": [
+					"Reversed at work, {keyword} may be resisted, postponed, or held back by fear of the unknown.",
+					"{keyword} suggests staying in a role or pattern past its natural end.",
+					"Here {keyword} points to slow, inward change in your career that hasn't yet surfaced."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} may be unfolding slowly, which means you have time to adjust. Look at one figure today and let that be all.",
+					"If you've been holding on tightly against {keyword} in your finances, notice your shoulders and let them drop. You can make changes one at a time.",
+					"{keyword} may be stuck while you wait for certainty. One small, safe step, like cancelling a single unused payment, can loosen things."
+				],
+				"curious": [
+					"{keyword} reversed with money might show up as clinging to an old plan or an old way of spending. What does it still give you?",
+					"What if {keyword} were happening inside you first, a shift in what you value before your spending catches up? Explore that gap.",
+					"Here {keyword} might be resisted because the old arrangement feels safe. Is it actually safe, or just familiar?"
+				],
+				"grieving": [
+					"If money has become tangled with a hard season, {keyword} may be too much to face right now. Let the practical things wait where they can.",
+					"{keyword} may be slow, and you don't have to hurry it. Covering today's needs is enough for now.",
+					"When everything feels heavy, {keyword} with money can be put down for a while. Ask someone you trust to help with what can't wait."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often looks like paying for things you no longer use. Run through last month's statement and see what turns up.",
+					"Read plainly, {keyword} delayed may mean holding on to an investment, a plan or a purchase out of attachment rather than value.",
+					"Treat {keyword} as a prompt: what financial habit are you protecting because changing it feels like admitting something?"
+				],
+				"hopeful": [
+					"{keyword} with money may be gathering slowly. Gradual changes to your finances tend to stick better than sudden ones.",
+					"If you're hoping for a fresh financial start, {keyword} invites you to release one small drain this week. Small clearings add up.",
+					"{keyword} may be ready to begin. Notice where you already feel less attached to an old way of handling money."
+				],
+				"neutral": [
+					"Reversed with money, {keyword} may be resisted, delayed, or happening slowly.",
+					"{keyword} suggests holding on to a financial arrangement that has already run its course.",
+					"Here {keyword} points to change in your resources that is gradual or stalled."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} in your daily rhythms may be slow and gentle rather than sudden. You can adjust one small habit at a time, at a pace that feels safe.",
+					"If you've been bracing against {keyword}, notice where in your body you're holding tight. Let that spot soften with a long, slow breath.",
+					"{keyword} may feel stuck. One kind act for your body today, a short walk, an early night, is enough."
+				],
+				"curious": [
+					"{keyword} reversed might show up as keeping a routine that drains you because it's familiar. What would you try in its place?",
+					"What if {keyword} were already happening quietly in your energy? Explore what your body has been asking for lately.",
+					"Here {keyword} might be resisted because changing a habit means changing a bit of who you are. What part of you is resisting?"
+				],
+				"grieving": [
+					"{keyword} may feel far off while you're carrying so much. Let your body rest; nothing needs to change today.",
+					"If familiar routines feel steadying right now, keep them as long as they help. {keyword} can wait until you have more room.",
+					"{keyword} may come slowly, and that's alright. Small comforts are enough for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means a habit you know isn't working but haven't replaced. What would a realistic replacement be?",
+					"Read plainly, {keyword} delayed may mean waiting for motivation. Try changing one small thing without waiting to feel ready.",
+					"Treat {keyword} as a prompt to notice which routine you defend most strongly, and ask why."
+				],
+				"hopeful": [
+					"{keyword} may be gathering slowly in your daily life. Small, gentle changes can build into something lasting.",
+					"If you hope to feel more like yourself, {keyword} invites you to let go of one draining habit, gently.",
+					"{keyword} may be beginning. Notice any small shift in your energy and let it encourage you."
+				],
+				"neutral": [
+					"Reversed in health, {keyword} may be resisted, delayed, or unfolding gradually.",
+					"{keyword} suggests holding on to routines that no longer suit your energy.",
+					"Here {keyword} points to slow change in how you care for yourself."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{keyword} in your inner life may be slow and quiet rather than dramatic. You can keep whatever practice steadies you while it unfolds.",
+					"If you've been holding on to old beliefs against {keyword}, there's no rush to let go. Questions can be explored a little at a time.",
+					"{keyword} may feel stuck. One quiet moment of noticing your breath is enough to stay connected to yourself."
+				],
+				"curious": [
+					"{keyword} reversed might show up as clinging to a belief you've outgrown because it's comfortable. What would you find if you set it down?",
+					"What if {keyword} were stirring under the surface of your practice? Explore the small doubts and new curiosities that have been gathering.",
+					"Here {keyword} might be resisted because a new view would ask you to change. What part of you is ready, and what part isn't?"
+				],
+				"grieving": [
+					"{keyword} may feel far away in a heavy season. Hold on to whatever beliefs comfort you, for as long as you need.",
+					"If your inner life feels frozen, that's alright. {keyword} can wait until you have room for it.",
+					"{keyword} may be moving very slowly inside you. You don't need to name it or understand it yet."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means holding a belief out of habit rather than conviction. Test one.",
+					"Read plainly, {keyword} delayed may mean avoiding questions you suspect would change things. What are they?",
+					"Treat {keyword} as a prompt to notice which part of your identity you're protecting from change."
+				],
+				"hopeful": [
+					"{keyword} may be gathering quietly in your inner life. Slow change often goes deeper than sudden change.",
+					"If you hope to grow, {keyword} invites you to loosen your grip on one old certainty. Small openings count.",
+					"{keyword} may be beginning. Notice moments when you feel less bound by old stories."
+				],
+				"neutral": [
+					"Reversed spiritually, {keyword} may be resisted, delayed, or unfolding inwardly.",
+					"{keyword} suggests holding on to an outgrown belief or identity.",
+					"Here {keyword} points to inner transformation that is slow or stalled."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} may be arriving slowly rather than all at once, which gives you room to breathe. One small, steady step today is enough.",
+					"If you've been bracing against {keyword}, notice where you're holding tight and let that soften a little. You can move at your own pace.",
+					"{keyword} may be stalled. Focus on what you can control right now, and let the rest wait."
+				],
+				"curious": [
+					"{keyword} reversed might show up as holding on to something you've outgrown. What does it still give you?",
+					"What if {keyword} were already happening quietly inside you? Explore what has changed that you haven't acknowledged.",
+					"Here {keyword} might be kept at arm's length because the current shape of things is easy to live in. Easy for whom, and for how much longer?"
+				],
+				"grieving": [
+					"{keyword} may feel far off, and there's no need to reach for it. Rest where you are.",
+					"If you've been keeping things just as they are, that's understandable. Let {keyword} wait until you're ready for it.",
+					"{keyword} may move slowly, in its own time. Be gentle with yourself meanwhile."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed usually means something kept going past its natural end. What is it?",
+					"Read plainly, {keyword} delayed can mean avoiding a decision that would close a chapter. What would closing it cost, and what would it free?",
+					"Treat {keyword} as a prompt to check whether you're choosing stability or avoiding change."
+				],
+				"hopeful": [
+					"{keyword} may be gathering slowly. Gradual change can be gentle and lasting.",
+					"If you hope for a fresh start, {keyword} invites you to let go of one small thing first.",
+					"{keyword} may be closer than it seems. Notice where you already feel lighter."
+				],
+				"neutral": [
+					"Reversed, {keyword} may be resisted, delayed, or happening quietly within.",
+					"{keyword} suggests holding on to something that is ready to change.",
+					"Here {keyword} points to change that is moving slowly, quietly, or not yet at all."
+				]
+			}
+		}
+	}
+}

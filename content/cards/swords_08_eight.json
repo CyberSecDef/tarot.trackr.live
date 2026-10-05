@@ -1,0 +1,412 @@
+{
+	"id": "swords_08_eight",
+	"name": "Eight of Swords",
+	"facets": [
+		{
+			"id": "restriction",
+			"keywords": ["feeling trapped", "a self-made cage", "a narrow room"]
+		},
+		{
+			"id": "limiting_belief",
+			"keywords": ["a limiting belief", "a story you tell yourself", "a fear dressed as fact"]
+		},
+		{
+			"id": "powerlessness",
+			"keywords": ["a sense of powerlessness", "waiting to be rescued", "feeling helpless"]
+		},
+		{
+			"id": "blind_spot",
+			"keywords": ["a blind spot", "a narrow view", "tunnel vision"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you feel stuck in how things are with someone, {keyword} suggests the walls may be looser than they look. One small step in your control: name one thing you'd like, out loud or on paper.",
+					"{keyword} in love can make every option seem closed. Try loosening your grip on the worst version of events, and look only at what has actually happened.",
+					"When your heart feels hemmed in, {keyword} invites you to take one breath and move one inch. You don't need the whole way out today, just the first step."
+				],
+				"curious": [
+					"{keyword} raises a question: which rule about love did you learn so long ago that you forgot it was a choice?",
+					"What if {keyword} is partly a habit of mind? Imagine, just for a moment, that you were free to ask for exactly what you want. What would you say?",
+					"{keyword} hints that a relationship pattern may be holding you more than the person is. Where do you notice yourself shrinking?"
+				],
+				"grieving": [
+					"After a loss, {keyword} can feel like being unable to move toward anything. That stillness is understandable; you don't need to force your way out of it.",
+					"{keyword} may describe how heavy grief makes the days. You are not failing by staying still for a while.",
+					"If love has ended or been lost, {keyword} doesn't ask you to break free yet. It only notes that there is space around you, when you're ready to feel for it."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} points to feeling stuck in a relationship. Which of the constraints are real, and which are assumptions you haven't tested?",
+					"{keyword} is a useful prompt: list what's actually stopping you from changing something between you and someone else. Some items may surprise you.",
+					"No mystical reading needed: {keyword} describes how worry narrows our options. Ask one person you trust what they see that you don't."
+				],
+				"hopeful": [
+					"{keyword} suggests the way forward may be closer than it looks. A small change in how you see things could open more than you expect.",
+					"If you are hoping for more freedom in love, {keyword} encourages you to test one belief that's been holding you back. Nothing is promised, but you can learn something.",
+					"{keyword} invites you to remember that you have more say in your relationships than fear suggests. Start with one honest request."
+				],
+				"neutral": [
+					"In love, {keyword} points to feeling restricted, often more by fear or assumption than by actual circumstance.",
+					"{keyword} speaks to being caught in a pattern or a situation that seems to have no exit, though the bindings may be loose.",
+					"{keyword} suggests examining what is really keeping you where you are in a relationship."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels like a trap, {keyword} suggests there may be more room than it seems. One step: write down three options you haven't ruled out yet, however small.",
+					"{keyword} at work can make you feel frozen. Pick one task that's entirely in your hands and finish it; movement helps loosen the feeling.",
+					"When you can't see a way forward in your job, {keyword} invites you to ask for perspective. One conversation with someone outside the situation may help."
+				],
+				"curious": [
+					"{keyword} opens a question: what assumption about your career have you never actually checked?",
+					"What if {keyword} is a story you've been telling about what you're allowed to do? Try rewriting one line of it.",
+					"{keyword} hints that the barrier might be partly in how you see the job. What would someone new to your role notice first?"
+				],
+				"grieving": [
+					"If you've lost a role or a sense of purpose, {keyword} may describe how stuck it feels. It's okay to stay still while you grieve.",
+					"{keyword} might show up as being unable to make decisions at work. Do only what's needed for now; the rest can wait.",
+					"At work, {keyword} can be heavy when your heart is elsewhere. Let someone know you're finding it hard."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to separate real constraints from assumed ones at work. Which ones could you test this week?",
+					"{keyword} describes a familiar pattern: feeling stuck because the next step hasn't been named. What is it?",
+					"Read plainly, {keyword} suggests asking for information you've been assuming you can't get."
+				],
+				"hopeful": [
+					"{keyword} encourages you to look again at your options. There may be more paths open than you've allowed yourself to see.",
+					"If you are hoping for a change at work, {keyword} suggests that small actions can loosen big feelings of being stuck.",
+					"{keyword} invites you to trust your ability to find a way. You may already have more skills than you're giving yourself credit for."
+				],
+				"neutral": [
+					"In career matters, {keyword} points to feeling restricted, often by assumptions, fear or a narrow view of the options.",
+					"{keyword} speaks to a working situation that feels confining, though the limits may be less solid than they appear.",
+					"{keyword} suggests checking which barriers at work are real and which are habits of thought."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money feels like a cage, {keyword} suggests looking for the gap in the bars. One step: list every small resource you have, even the ones that seem minor.",
+					"{keyword} can make finances feel hopeless. Choose one practical question and ask someone who knows more, like a friend or a free advice service.",
+					"When money worries freeze you, {keyword} invites you to take one tiny action. Movement often loosens fear more than thinking does."
+				],
+				"curious": [
+					"{keyword} raises a question: what belief about money did you inherit, and does it still fit your life?",
+					"What if {keyword} is partly a story about what you can't afford? Look at it again with fresh eyes.",
+					"{keyword} hints that options may exist outside your usual thinking. What would you try if you weren't afraid of looking foolish?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may describe feeling unable to deal with money at all. Let someone help, and do only what's urgent.",
+					"{keyword} can make financial decisions feel impossible while grieving. There's no need to decide everything now.",
+					"If a loss has changed your finances, {keyword} doesn't ask you to fix it all. Just notice where there might be a little room."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to separate real financial limits from assumed ones. Which have you tested?",
+					"{keyword} describes how money stress narrows thinking. A fresh look, or a second opinion, can widen it again.",
+					"Read plainly, {keyword} suggests making a plan rather than staying frozen. What's the first line of that plan?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to look again for options. A way forward with money may be nearer than fear allows you to see.",
+					"If you are hoping for more freedom, {keyword} suggests small changes can loosen big constraints.",
+					"{keyword} invites you to trust that you can find room to move, step by step."
+				],
+				"neutral": [
+					"Around money, {keyword} points to feeling restricted, often more by worry or assumption than by fact.",
+					"{keyword} speaks to financial constraints that may be partly real and partly a habit of thought.",
+					"{keyword} suggests examining what's actually limiting your resources."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel caught in worry about your body, {keyword} suggests coming back to what you can feel right now. Notice your feet on the floor and take three slow breaths.",
+					"{keyword} can make stress feel inescapable. One thing in your control: step outside for a few minutes and let your eyes rest on something far away.",
+					"When tension feels like a trap, {keyword} invites you to loosen one small thing: your shoulders, your jaw, your grip on the day."
+				],
+				"curious": [
+					"{keyword} raises a question: which habit feels like a rule you can't break, and what would happen if you tried a gentler version?",
+					"What if {keyword} is partly how you're thinking about your energy? Try noticing it without the usual story attached.",
+					"{keyword} hints that rest may be available in places you haven't looked. Where could you find five minutes of quiet?"
+				],
+				"grieving": [
+					"Grief can make the body feel heavy and stuck, and {keyword} may describe that. Rest is allowed, without needing to move on.",
+					"{keyword} may be how loss feels in your body right now. Be gentle; there's no rush to feel freer.",
+					"If you feel frozen, {keyword} doesn't ask you to break out. Just let someone bring you something warm."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to look at stress patterns. Which ones feel fixed, and which could you change?",
+					"{keyword} describes how worry can narrow attention. What would a friend notice about your routines that you can't?",
+					"Read plainly, {keyword} suggests one small change in routine can loosen a feeling of being stuck."
+				],
+				"hopeful": [
+					"{keyword} encourages you to look for small openings in your day for rest and ease.",
+					"If you are hoping to feel freer, {keyword} suggests trying a gentle new habit and seeing how it fits.",
+					"{keyword} invites you to trust that stuckness can loosen, a little at a time."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to feeling restricted by stress, habit or worry, more than by fixed limits.",
+					"{keyword} speaks to tension that seems inescapable but may loosen with attention.",
+					"{keyword} suggests examining what is keeping you from rest."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If you feel spiritually stuck, {keyword} suggests the bindings may be thought rather than fact. One step: sit quietly and notice one thought without believing it.",
+					"{keyword} can make your inner life feel closed. Return to one simple practice that has helped before, even for a few minutes.",
+					"When you feel trapped inside your own head, {keyword} invites you to come back to your senses: what can you hear, see and touch right now?"
+				],
+				"curious": [
+					"{keyword} raises a question: which belief about yourself feels most like a wall, and where did it come from?",
+					"What if {keyword} is partly a lesson in seeing? Try looking at your situation as if for the first time.",
+					"{keyword} hints that freedom may begin with a shift in perspective. What would you see if you took the blindfold off?"
+				],
+				"grieving": [
+					"{keyword} may describe how grief closes in on meaning. You don't need to find a way out yet; just breathe.",
+					"If loss has made the world feel smaller, {keyword} doesn't ask you to expand it. Let it be as it is for now.",
+					"{keyword} can be part of mourning. The space around you hasn't gone anywhere; it can wait for you."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is a prompt to examine beliefs that limit you. Which one would you most like to test?",
+					"{keyword} describes how thoughts can feel like facts. Write one down and ask what evidence supports it.",
+					"Read practically, {keyword} suggests that perspective is a big part of feeling trapped."
+				],
+				"hopeful": [
+					"{keyword} encourages you to trust that inner freedom is possible, and that it often starts small.",
+					"If you are hoping for a breakthrough, {keyword} suggests loosening one belief rather than overturning everything.",
+					"{keyword} invites you to imagine yourself freer, and to take one step toward that picture."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to limiting beliefs, inner restriction, or a narrow view of what's possible.",
+					"{keyword} speaks to being bound more by thought than by circumstance.",
+					"{keyword} suggests examining which inner walls are real."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you feel stuck, {keyword} suggests the walls may be thinner than they look. Choose one small action that's fully in your control.",
+					"{keyword} can make everything feel closed. Take three slow breaths and look again for one option you might have missed.",
+					"When you feel trapped, {keyword} invites you to ask for help. Someone outside the situation may see a way out you can't."
+				],
+				"curious": [
+					"{keyword} raises a question: which of your limits have you actually tested?",
+					"What if {keyword} is partly a story you've outgrown? Try telling it differently.",
+					"{keyword} hints that the way out may be simpler than you think. What would you do if you weren't afraid?"
+				],
+				"grieving": [
+					"{keyword} may describe how stuck grief can feel. There's no need to move before you're ready.",
+					"If you feel frozen, {keyword} doesn't ask you to break free. Just let yourself be held.",
+					"{keyword} can be part of loss. You can rest inside it for now, and reach for the edges only when you want to."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to separate real constraints from assumed ones.",
+					"{keyword} describes how worry narrows options. Ask someone else what they see.",
+					"Read plainly, {keyword} suggests naming the first step out, however small."
+				],
+				"hopeful": [
+					"{keyword} encourages you to look again for options. There may be more room than you think.",
+					"If you are hoping for freedom, {keyword} suggests small steps can loosen big constraints.",
+					"{keyword} invites you to trust that you can find a way, one move at a time."
+				],
+				"neutral": [
+					"{keyword} points to feeling restricted, often more by fear or assumption than by fact.",
+					"In general, {keyword} speaks to a situation that seems closed but may have more room than it appears.",
+					"{keyword} suggests examining which limits are real."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you've started to loosen an old pattern in love, {keyword} may feel unfamiliar, even shaky. That's normal; take one step at a time and let yourself adjust.",
+					"{keyword} may be easing, and freedom can feel strange at first. One thing you can do: notice one moment today when you felt a little lighter.",
+					"When you're stepping out of something that held you, {keyword} invites you to go slowly. You don't need to know what comes next to keep breathing."
+				],
+				"curious": [
+					"{keyword} may be loosening. What would you like to try in love now that you have a little more room?",
+					"What if {keyword} is falling away because you've outgrown it? Notice what you're drawn toward now.",
+					"{keyword} might be turning inward, a quiet shift in how you see yourself. How does it change the way you show up with others?"
+				],
+				"grieving": [
+					"{keyword} may ease slowly in grief. Freedom from heaviness isn't something to rush; let it come when it comes.",
+					"If you're beginning to move again after a loss, {keyword} doesn't ask you to stop missing anyone. You can feel both.",
+					"{keyword} may soften around the edges. Be gentle with yourself in this in-between place."
+				],
+				"skeptical": [
+					"Practically, {keyword} easing often means you've started to question an old assumption about relationships. Keep going.",
+					"Read plainly, {keyword} loosening suggests clearer thinking about what you want. What's the next practical step?",
+					"{keyword} is a prompt to notice progress. What feels less stuck than it did a month ago?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to more freedom in love. Nothing is guaranteed, but the room to choose is growing.",
+					"If you're hoping to move forward, {keyword} suggests you already have. Notice the steps you've taken.",
+					"{keyword} could ease further as you keep trusting yourself. Stay curious about what you want."
+				],
+				"neutral": [
+					"In love, {keyword} easing can point to release, new perspective, or old fears losing their hold.",
+					"{keyword} appears to be easing: what felt restrictive may be opening up.",
+					"{keyword} suggests a shift toward freedom, though sometimes the hold tightens inward before it lets go."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If you're starting to move again at work, {keyword} may feel unfamiliar. One step: name one option that wasn't visible to you before.",
+					"{keyword} may be loosening, and that can feel exposing. You don't need a perfect plan; just a next step.",
+					"When you're finding your way out of a stuck situation, {keyword} invites you to celebrate small progress."
+				],
+				"curious": [
+					"{keyword} may be easing. What possibilities at work are you noticing now that you couldn't see before?",
+					"What if {keyword} is falling away because you've started thinking differently? Follow that thread.",
+					"{keyword} might be turning inward. Are you holding yourself back more than anyone else is?"
+				],
+				"grieving": [
+					"If grief has kept you stuck at work, {keyword} may be easing slowly. There's no need to rush.",
+					"{keyword} may soften as you find your footing. Be gentle with yourself.",
+					"{keyword} can loosen at its own pace. For now, small steps are enough."
+				],
+				"skeptical": [
+					"Plainly, {keyword} easing often means you've tested an assumption and found it weaker than you thought. What's next?",
+					"{keyword} is a prompt to notice which constraints at work have shifted. Act on the ones that have.",
+					"Read practically, {keyword} loosening suggests it's a good time to make a move you've been considering."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to more choice at work. That's worth noticing, even if the outcome isn't certain.",
+					"If you're hoping for change, {keyword} suggests you already have more room than before.",
+					"{keyword} could ease further as you keep taking small, steady steps."
+				],
+				"neutral": [
+					"In career matters, {keyword} easing can point to release from restriction, clearer thinking, or new options.",
+					"{keyword} appears to be loosening its hold on your working life.",
+					"{keyword} suggests that the limits you felt may be shifting, or that you are starting to test them."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money has felt like a locked room, {keyword} may be starting to ease. One step in your control: write down one option you have now that you didn't see a month ago.",
+					"{keyword} may be loosening, and that can feel oddly unsettling after a long time braced. Keep the next decision small and specific, like one bill or one call.",
+					"Sometimes {keyword} tightens inward before it lets go, and the worry gets louder for a while. Put one number on paper today; facts tend to quieten it."
+				],
+				"curious": [
+					"{keyword} may be losing its grip on your finances. What would you try with money if you trusted yourself a little more?",
+					"What if {keyword} is fading because you have quietly changed how you think about security? It might be worth tracing when that started.",
+					"{keyword} might now live more in your head than in your bank balance. Which money rule are you ready to test rather than obey?"
+				],
+				"grieving": [
+					"If a loss has left your finances tangled, {keyword} may ease only slowly. Let someone you trust handle a piece of it, and let that be enough for this week.",
+					"{keyword} may soften as the first heavy weeks pass. There is no deadline for feeling capable with money again.",
+					"Grief can make every form feel like a wall. As {keyword} loosens, you can still take things one envelope at a time."
+				],
+				"skeptical": [
+					"Practically, {keyword} easing usually means a plan has started working, or an assumption turned out to be wrong. Which one is it for you?",
+					"{keyword} is a prompt to update your picture of your finances. Old worries sometimes outlive the circumstances that caused them.",
+					"Read plainly, {keyword} loosening is a good moment to check the figures again. Decisions made in a panic may deserve a calmer second look."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to more room with money. It isn't a guarantee, but it is a reason to keep going with what's helping.",
+					"If you are hoping for steadier finances, {keyword} easing suggests you have more choices than you did. Pick the one that feels most sustainable.",
+					"{keyword} could keep loosening as small habits add up. Notice the progress, even when the total still looks modest."
+				],
+				"neutral": [
+					"Around money, {keyword} easing can point to release from financial fear, options coming back into view, or worry turned inward and overthought.",
+					"{keyword} appears to be shifting: limits around resources may be less fixed than they felt.",
+					"{keyword} suggests revisiting money decisions made under pressure, now that there may be more room to think."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If stress has felt inescapable, {keyword} may be easing. One thing you can do today: notice one moment when your shoulders dropped, and remember what you were doing.",
+					"{keyword} may be loosening, and the body sometimes takes longer than the mind to believe it. Let yourself adjust slowly, with plenty of rest.",
+					"When worry turns inward, {keyword} can feel tighter for a while before it lets go. Try a slow breath out, longer than the breath in, and repeat it a few times."
+				],
+				"curious": [
+					"{keyword} may be losing its hold. What gentle habit feels possible now that didn't before?",
+					"What if {keyword} is fading because you've started treating yourself more kindly? It may be worth noticing what changed.",
+					"{keyword} might be shifting. How does your body feel on a day when you stop arguing with what it needs?"
+				],
+				"grieving": [
+					"{keyword} may ease only slowly while you grieve. Let your body rest as long as it asks, without needing a reason.",
+					"If grief has felt like a weight on your chest, {keyword} doesn't ask you to feel lighter yet. Warmth, food and sleep are enough to tend to.",
+					"{keyword} may soften at its own pace. Some days will feel freer than others, and that unevenness is part of it."
+				],
+				"skeptical": [
+					"Practically, {keyword} easing may mean a change in routine is working. What is it, and can you protect it?",
+					"{keyword} is a prompt to notice which stresses have actually shrunk, and which you are still bracing for out of habit.",
+					"Read plainly, {keyword} loosening suggests that tension is less fixed than it felt. Keep doing what helped, and drop what didn't."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to more ease in your days. Celebrate it quietly, without pushing for more too fast.",
+					"If you are hoping to feel freer in yourself, {keyword} easing suggests you are already moving in that direction.",
+					"{keyword} could keep loosening with patience. Small kindnesses to your body tend to add up."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} easing can point to tension lifting, a calmer outlook, or worry that has turned inward and needs gentle attention.",
+					"{keyword} appears to be shifting, as habits of strain begin to loosen.",
+					"{keyword} suggests noticing what has helped you feel less hemmed in, and keeping more of it."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If you've felt spiritually stuck, {keyword} may be easing. One small step: return to a practice that once made you feel spacious, even for five minutes.",
+					"{keyword} may be loosening, and that can feel like losing your footing. You don't need new certainty straight away; openness is enough for now.",
+					"When the inner walls start to move, {keyword} can feel unsettling. Come back to your breath and to one thing you can see right now."
+				],
+				"curious": [
+					"{keyword} may be losing its hold. What understanding is opening up that you couldn't reach before?",
+					"What if {keyword} is fading because you've seen through an old belief? Follow the thread and see where it leads.",
+					"{keyword} might be shifting inside you. What are you discovering about yourself now that the room feels bigger?"
+				],
+				"grieving": [
+					"{keyword} may ease slowly in grief. There's no need to rush toward meaning or peace.",
+					"If loss has narrowed your world, {keyword} doesn't ask you to widen it yet. Let it open when it opens.",
+					"{keyword} may soften around a loss over time. For now, being gentle with yourself is the practice."
+				],
+				"skeptical": [
+					"Plainly, {keyword} easing suggests a belief has been questioned and found weaker than it seemed. That is ordinary growth, not magic.",
+					"{keyword} is a prompt to notice how your perspective has shifted, and what evidence moved it.",
+					"Read practically, {keyword} loosening means you may be thinking more freely. What would you like to examine next?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to inner freedom. Trust the small signs of it.",
+					"If you are hoping for clarity, {keyword} easing suggests it may be beginning, quietly and in its own time.",
+					"{keyword} could keep loosening as you stay open. Curiosity tends to widen what fear narrows."
+				],
+				"neutral": [
+					"Spiritually, {keyword} easing can point to release from limiting beliefs, new perspective, or a struggle turned inward.",
+					"{keyword} appears to be shifting its hold on your inner life.",
+					"{keyword} suggests that inner walls may be coming down, or that you are starting to test them."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you've felt trapped, {keyword} may be easing. Notice one thing that feels less stuck today than it did last week.",
+					"{keyword} may be loosening, and freedom can feel unfamiliar after a long time braced. Let yourself take it slowly.",
+					"Sometimes {keyword} tightens inward before it lets go. If worry is louder right now, choose one small step you can take today and let that be enough."
+				],
+				"curious": [
+					"{keyword} may be losing its grip. What becomes possible now that wasn't before?",
+					"What if {keyword} is fading because you have changed? Explore what that change is.",
+					"{keyword} might be shifting from the outside to the inside. What are you seeing differently about your own part in it?"
+				],
+				"grieving": [
+					"{keyword} may ease slowly. There's no need to rush, and no need to feel freer than you do.",
+					"If grief has held you still, {keyword} doesn't ask you to move yet. Stillness is allowed.",
+					"{keyword} may soften with time. There is no schedule for reaching toward the open space around you."
+				],
+				"skeptical": [
+					"Practically, {keyword} easing often means an assumption has been tested and found weaker than you thought.",
+					"{keyword} is a prompt to notice what has shifted, and to update the plan you made when you felt stuck.",
+					"Read plainly, {keyword} loosening suggests clearer thinking. Use it to make one decision you've been putting off."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to more freedom. Nothing is promised, but you have room to choose.",
+					"If you're hoping for change, {keyword} easing suggests some of it has already begun.",
+					"{keyword} could keep loosening with patience and small, steady steps."
+				],
+				"neutral": [
+					"{keyword} easing can point to release, new perspective, or fears turned inward and overthought.",
+					"In general, {keyword} appears to be shifting, and limits may be less fixed than they felt.",
+					"{keyword} suggests checking which constraints still hold, now that some may have moved."
+				]
+			}
+		}
+	}
+}

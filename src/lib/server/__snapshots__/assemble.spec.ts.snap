@@ -1,0 +1,16 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`assemble > matches the snapshot for a fixed draw, classification and seed 1`] = `
+"Take this slowly.
+
+Past · Nine of Cups (reversed)
+Earlier: the Nine of Cups. Beta thing opens rev-gen-neutral three.
+
+Present · Two of Cups
+Here and now, the Two of Cups. Love-anxious two: beta thing again.
+
+Future · Death
+Ahead lies Death. Beta thing opens love-anxious three.
+
+Hold the Nine of Cups (reversed) beside Death."
+`;

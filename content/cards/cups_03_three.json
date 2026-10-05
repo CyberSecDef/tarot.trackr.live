@@ -1,0 +1,412 @@
+{
+	"id": "cups_03_three",
+	"name": "Three of Cups",
+	"facets": [
+		{
+			"id": "friendship",
+			"keywords": ["friendship", "a circle of friends", "chosen family"]
+		},
+		{
+			"id": "celebration",
+			"keywords": ["celebration", "a toast among friends", "a small festivity"]
+		},
+		{
+			"id": "community",
+			"keywords": ["community", "the group you belong to", "a place among others"]
+		},
+		{
+			"id": "shared_joy",
+			"keywords": ["shared joy", "good news passed around", "laughter among friends"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are worried about where you stand with someone, {keyword} is a gentle reminder that love is not carried by one person alone. Reach out to one friend this week, just to say hello.",
+					"{keyword} suggests your heart has more support around it than fear lets you see. One small thing you can do today: answer the message you have been leaving for later.",
+					"When love feels uncertain, {keyword} invites you to lean on the people who already know you well. You don't need to solve the relationship tonight; you only need not to carry it alone."
+				],
+				"curious": [
+					"{keyword} opens a playful question: who in your life makes you laugh the most, and when did you last tell them? Love may be wider here than romance alone.",
+					"What if {keyword} is the real romance of this season? Notice who you light up around, and what that says about the kind of closeness you want.",
+					"{keyword} hints that attraction can grow out of friendship, or that a partnership grows richer with friends woven around it. Which of those feels more alive for you?"
+				],
+				"grieving": [
+					"{keyword} may feel far away when you are missing someone. It is all right if joy feels borrowed right now; you can sit at the edge of the table and still be welcome.",
+					"When love has been lost, {keyword} does not ask you to celebrate. It may simply mean letting one friend sit with you, without needing to be cheerful for them.",
+					"{keyword} can hold grief too. The people who loved alongside you may want to remember together, and sharing a story or two is its own quiet kind of gathering."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to your support network. Healthy relationships rarely exist in isolation; who outside the partnership knows how you are really doing?",
+					"Take {keyword} as a simple prompt: are your friendships getting the time they need, or has one relationship swallowed the rest? That question is worth answering honestly.",
+					"No mystery is needed to read {keyword}. People who feel connected to friends tend to bring more ease into their closest bonds. Where could you put a little effort this month?"
+				],
+				"hopeful": [
+					"{keyword} is a warm sign to carry into love. Hope tends to grow in good company, so let the people who root for you know what you are hoping for.",
+					"If you are hoping for closeness, {keyword} suggests it could come through people you already know, or the ones they introduce you to. Saying yes to the invitation is a fine start.",
+					"{keyword} encourages you to celebrate the love that is already here rather than waiting for a bigger moment. Honouring what you have can make room for more."
+				],
+				"neutral": [
+					"In matters of the heart, {keyword} speaks of warmth shared among several people rather than held tightly between two. Friendship may matter as much as romance here.",
+					"{keyword} points to ease, laughter and mutual care. It asks how much your relationships feel like a place where you can relax and be yourself.",
+					"{keyword} brings the focus to the circle around your closest relationships: the friends, family and companions who make love feel supported."
+				]
+			},
+			"career": {
+				"anxious": [
+					"Work may feel uncertain, but {keyword} reminds you that you are not alone in it. Pick one colleague you trust and talk the worry through over coffee.",
+					"{keyword} suggests that support at work is closer than it seems. One thing in your control: ask for help with the task that keeps you up at night.",
+					"If you are bracing for bad news at work, {keyword} invites you to remember the wins you have shared with others. Write down one recent thing your team did well."
+				],
+				"curious": [
+					"{keyword} asks a fun question about your working life: which collaborations leave you energised rather than drained? There may be a clue there about where to head next.",
+					"What could {keyword} look like at work? Maybe a project shared with people you like, or a network that turns into real friendships. It is worth exploring.",
+					"{keyword} hints that your next step could come through people rather than paperwork. Who might you get to know better if you simply showed up more often?"
+				],
+				"grieving": [
+					"If you are mourning a job, a team or a colleague, {keyword} may simply mean the people who worked beside you. Staying in touch with them is allowed to be enough for now.",
+					"{keyword} may feel out of reach while you are grieving, and work can carry on noisily around you. You can join in quietly, or not at all, and still belong.",
+					"When something at work has ended, {keyword} can look like a farewell drink or a shared memory in the corridor. Let others hold some of the remembering with you."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is about teamwork and morale. When did your team last acknowledge something that went right? Marking progress tends to keep people going.",
+					"{keyword} is a plain prompt about relationships at work. Careers are often shaped by who knows your work, so consider whether yours is visible to the right people.",
+					"There is nothing mystical here: {keyword} points to collaboration. Ask yourself whether you are trying to do something alone that would go better with two or three others."
+				],
+				"hopeful": [
+					"{keyword} suggests momentum that others can share in. If something good is building at work, let your colleagues be part of it; shared wins tend to last longer.",
+					"If you are hoping for a breakthrough, {keyword} encourages you to lean on your network. Good openings often arrive through people who already like working with you.",
+					"{keyword} invites you to pause and mark a milestone, even a small one. Noticing progress can make the next stretch feel lighter, whatever it brings."
+				],
+				"neutral": [
+					"At work, {keyword} points to collaboration, good morale and people pulling together. It asks how connected you feel to the people you work with.",
+					"{keyword} highlights the social side of your working life: teams, partnerships and the small rituals that make a job feel shared.",
+					"{keyword} suggests a time to recognise what has gone well at work and who helped make it happen."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money worries are pressing, {keyword} is a reminder that you can ask for advice or simply for company. Talk through one bill or plan with someone you trust this week.",
+					"{keyword} doesn't need to be costly. One thing in your control: suggest a get-together that costs little, like a walk or a shared pot of soup.",
+					"When finances feel tight, {keyword} may point to people who can share resources, swap skills or keep you company while you sort things out. Start with one conversation."
+				],
+				"curious": [
+					"{keyword} asks a playful question about money: what do you genuinely enjoy spending on with others, and what do you spend on out of habit?",
+					"What if {keyword} were part of how you think about resources? Sharing, swapping and pooling could stretch further than you expect.",
+					"{keyword} hints at a kind of value that isn't measured in money. Which shared moments felt rich to you recently, and what did they actually cost?"
+				],
+				"grieving": [
+					"Money can feel heavy after a loss, and {keyword} may seem very far away. Letting a friend help with one practical task is allowed.",
+					"{keyword} may look like the people who show up with a meal or a lift when things are hard. Receiving that help is not a debt you need to settle right now.",
+					"If a loss has changed your circumstances, {keyword} does not ask you to feel festive. It only gently notes that you need not handle every number on your own."
+				],
+				"skeptical": [
+					"Practically, {keyword} raises a budgeting question: how much of your spending goes on social life, and does it feel worth it? There's no right answer, only an honest one.",
+					"{keyword} is a prompt to look at shared costs. Splitting, pooling or hosting instead of going out are plain, sensible ways to keep connection affordable.",
+					"Treat {keyword} as a reminder that support networks have real economic value. People often find work, housing and sound advice through the people they know."
+				],
+				"hopeful": [
+					"{keyword} suggests that good fortune feels better when it is shared. If things are improving, consider how to mark it in a way that still respects your budget.",
+					"If you are hoping for more security, {keyword} encourages you to lean on others: pooled knowledge, shared tips, people who have been where you are now.",
+					"{keyword} invites you to enjoy what you have built without waiting for a bigger number. A modest celebration can still be a real one."
+				],
+				"neutral": [
+					"Around money, {keyword} points to sharing, generosity and spending on experiences with others. It asks whether your resources reflect the people you value.",
+					"{keyword} speaks to the social side of money: gifts, shared meals, group plans and the give-and-take between friends.",
+					"{keyword} suggests a balance between enjoying your resources with others and keeping enough steady ground beneath you."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry right now, {keyword} reminds you that care can be shared. Let one person know how you are really doing.",
+					"{keyword} suggests that ease often comes in company. One small thing you can choose today: a short walk or a phone call with someone who makes you laugh.",
+					"When stress is high, {keyword} invites you to notice who leaves you feeling calmer. Spending a little more time with them is a simple, gentle step."
+				],
+				"curious": [
+					"{keyword} poses a lively question: how does your body feel after time with good friends, compared with time alone? Notice it without judging it.",
+					"What might {keyword} add to your habits? Shared walks, dancing, a regular meal together. Movement and rest can both be more fun in company.",
+					"{keyword} hints that laughter and connection are part of how you look after yourself. Which kind of get-together leaves you feeling most like yourself?"
+				],
+				"grieving": [
+					"Grief lives in the body too, and {keyword} may feel tiring rather than nourishing right now. It is fine to rest instead of showing up.",
+					"{keyword} may simply look like one friend sitting beside you, not needing you to talk. Quiet company can be its own kind of care.",
+					"When you are carrying loss, {keyword} can mean letting others bring the food, fill the kettle and keep the lights on. You don't have to hold yourself up alone."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to the part social connection plays in how you feel day to day. Are you getting enough time with people who leave you rested rather than drained?",
+					"{keyword} is a plain prompt to look at your routines. Do get-togethers help you unwind, or do they come with late nights that cost you energy the next day?",
+					"No mystical reading needed: {keyword} is about the link between company and wellbeing. Pick one habit you could share with a friend to make it easier to keep."
+				],
+				"hopeful": [
+					"{keyword} encourages you to let good company be part of how you care for yourself. Energy often lifts when you feel you belong somewhere.",
+					"If you are hoping to feel stronger, {keyword} suggests inviting others into the effort. Shared routines are often easier to keep than solitary ones.",
+					"{keyword} invites you to celebrate small gains in how you feel, out loud and with others. Being witnessed can make progress feel more real."
+				],
+				"neutral": [
+					"In matters of wellbeing, {keyword} points to the energy that comes from connection, laughter and feeling at home among others.",
+					"{keyword} highlights how rest and enjoyment can be shared. It asks whether your social life feeds you or tires you.",
+					"{keyword} suggests paying attention to the people and rituals that help you feel at ease in your own body."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsteady, {keyword} reminds you that meaning is often held in common. Sit for a while with one person who shares your sense of what matters.",
+					"{keyword} suggests you need not find every answer by yourself. One small step: return to a circle, gathering or practice that once felt steadying.",
+					"When doubt or worry crowds in, {keyword} invites you to notice where you feel accompanied. Even a single kindred voice can quiet the noise."
+				],
+				"curious": [
+					"{keyword} asks an intriguing question: where do you feel most spiritually alive, alone or with others? The answer may surprise you.",
+					"What could {keyword} teach you about the sacred? Some traditions find it in shared meals, songs and laughter as much as in silence.",
+					"{keyword} hints that joy itself can be a practice. Try noticing the moments when happiness passes between people, like something handed across a table."
+				],
+				"grieving": [
+					"{keyword} may seem at odds with grief, yet many traditions gather people precisely so they can mourn together. You can let others hold the ritual while you simply attend.",
+					"When loss has shaken what you believe, {keyword} does not ask you for answers. It may only offer a place to sit among people who remember too.",
+					"{keyword} can be very quiet: a candle lit beside a friend, a song someone else sings for you. Meaning can wait until you are ready to look for it."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about belonging. Whatever you believe, people tend to find meaning in shared values and shared time. Where do you find that now?",
+					"{keyword} needn't be mystical at all. It is a prompt to ask which communities reflect your values and which you attend out of habit.",
+					"Treat {keyword} as a question about practice: is your search for meaning entirely solitary, and would talking it over with others help or hinder it?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to share what you are discovering inwardly. Growth often deepens when someone else is there to witness it.",
+					"If you are hoping for a sense of connection, {keyword} suggests seeking out people who are asking the same questions you are.",
+					"{keyword} invites gratitude, the simple practice of noticing what is good and saying so together. It is a modest and honest place to begin."
+				],
+				"neutral": [
+					"On the inner path, {keyword} points to fellowship, shared ritual and the meaning that grows between people.",
+					"{keyword} treats joy as part of spiritual life, not a distraction from it. It asks where you feel connected to something larger alongside others.",
+					"{keyword} suggests a season for gathering, giving thanks and recognising the people who share your path."
+				]
+			},
+			"general": {
+				"anxious": [
+					"Whatever is worrying you, {keyword} is a reminder that you have people. Choose one of them and let them know you could use some company.",
+					"{keyword} suggests that the ground under you includes other people. One small thing in your control: make a plan, however simple, to see a friend.",
+					"When things feel uncertain, {keyword} invites you to remember the last time you laughed with others. That ease is still available, even now."
+				],
+				"curious": [
+					"{keyword} opens a playful question: what would you celebrate right now if you allowed yourself to? Start there and see what follows.",
+					"What might change if you treated {keyword} as a priority rather than a reward? Some joys don't need to be earned first.",
+					"{keyword} hints that the answer you are looking for might turn up in conversation. Who haven't you talked to in a while?"
+				],
+				"grieving": [
+					"{keyword} may feel distant while you are grieving, and that is all right. Joy can wait at the door until you are ready to open it.",
+					"When you are carrying a loss, {keyword} can be as small as one friend who remembers with you. You don't have to be good company to deserve company.",
+					"{keyword} does not ask you to feel better. It only notes, gently, that the people who care about you are still nearby whenever you want them."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to your social world. How connected do you feel right now, and is that a choice or something that drifted?",
+					"{keyword} is a simple prompt: when did you last mark something good with other people? Small rituals of celebration help people notice their own progress.",
+					"There is no magic in {keyword}, only the ordinary truth that people tend to do better with others around them. What would make that easier for you this week?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image to sit with. Share your hopes with people who care, and let their support carry some of the weight.",
+					"If you are hoping for something good, {keyword} suggests getting ready to share it. Joy tends to grow when it has somewhere to go.",
+					"{keyword} invites you to celebrate the steps already taken, not only the result you are waiting for. That is honest, and it is enough for today."
+				],
+				"neutral": [
+					"{keyword} speaks of friendship, celebration and the ease of being among people who are glad you are there.",
+					"In life as a whole, {keyword} points to connection, shared good feeling and the value of marking moments together.",
+					"{keyword} brings attention to community: who you gather with, how you celebrate, and what you share."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you feel on the outside of {keyword}, that ache is real, but it is not a verdict on your worth. One step you can take: reach out to the one person who has always made room for you.",
+					"{keyword} may feel crowded or uneasy here, perhaps around a third person in the picture. Before assuming the worst, ask one calm, direct question and listen to the answer.",
+					"When {keyword} seems to be slipping away, it helps to name what you can control. You can choose who you spend this weekend with, and how kindly you treat yourself."
+				],
+				"curious": [
+					"{keyword} might be asking for a closer look. Who do you share yourself with freely, and who only ever gets the party version of you?",
+					"What if {keyword} has grown too big or too busy for real closeness? It could be worth wondering what a quiet evening with one person might reveal.",
+					"{keyword} feels a little tangled here, perhaps with a third person involved, or a friendship blurring into something else. What do you actually want from it?"
+				],
+				"grieving": [
+					"If {keyword} has thinned since your loss, that can be a second grief. You are allowed to miss the gatherings as well as the person.",
+					"{keyword} may feel like something happening without you right now. Stepping back is not a failure; the door can stay open for when you are ready.",
+					"Grief can make {keyword} feel like noise. You don't owe anyone your presence at every gathering, and one honest message saying so may be enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance. Is one relationship being crowded out by a busy social life, or a social life by one relationship?",
+					"{keyword} is a prompt to check for triangles. When a third person keeps coming up between you and a partner or friend, it usually deserves a direct conversation.",
+					"No mysticism required: {keyword} that leans on drinks and late nights can hide what is really going on between people. Notice what the relationship is like on an ordinary Tuesday."
+				],
+				"hopeful": [
+					"{keyword} may be on pause rather than gone. If you are hoping to feel close again, a small, sincere invitation is a good place to start.",
+					"If you have felt left out, {keyword} encourages you to look for people who make room without being asked. They may be nearer than you think.",
+					"{keyword} might simply need resetting, with fewer people and more honesty. Hope is reasonable here, as long as you are willing to say what you need."
+				],
+				"neutral": [
+					"In love, {keyword} can point to feeling excluded, a third person complicating things, or so much socialising that intimacy gets crowded out.",
+					"{keyword} appears blocked or overdone: gatherings that feel hollow, friendships that have drifted, or closeness that needs a quieter setting.",
+					"{keyword} may be delayed or turned inward, asking you to notice whether you feel truly included among the people closest to you."
+				]
+			},
+			"career": {
+				"anxious": [
+					"Feeling left out of {keyword} at work can sting. One thing in your control: ask to join the next meeting, lunch or project that matters to you.",
+					"If office politics are unsettling you, {keyword} may have turned cliquey or closed. Focus on one working relationship that is solid and steady it further.",
+					"{keyword} may be on hold while work is under pressure. That doesn't mean things are going wrong; plan one small thing to look forward to once the push is over."
+				],
+				"curious": [
+					"{keyword} feels a bit off at work. A curious question: is the team socialising more than it is collaborating, or the other way round?",
+					"What would happen if you stepped outside {keyword} for a while? A little distance from the group can show you what you actually want from your work.",
+					"{keyword} might be turning inward. Could this be a season for quieter, solo work that the busy group never quite made room for?"
+				],
+				"grieving": [
+					"{keyword} at work may feel hard to bear right now, all that cheer while you are hurting. It is fine to slip out early, or to skip it entirely.",
+					"If grief has kept you apart from {keyword}, colleagues may not know how to reach you. You can let one person know what kind of contact helps.",
+					"When a loss touches your working life, {keyword} can feel postponed indefinitely. There is no schedule for when you should feel part of things again."
+				],
+				"skeptical": [
+					"Plainly, {keyword} may have tipped into excess, whether long lunches or plenty of talk and little output. Is the team's time being spent well?",
+					"{keyword} is a prompt to notice in-groups. Who gets invited, who gets overlooked, and does that affect the work? It is worth checking honestly.",
+					"Treat {keyword} as a question about visibility. If you have drifted from your colleagues, your work may be less seen than it deserves."
+				],
+				"hopeful": [
+					"{keyword} may simply be postponed. If you are hoping for recognition, keep the work steady and let the celebration arrive in its own time.",
+					"If you have felt outside the team, {keyword} encourages you to find one or two allies. A small circle at work can be enough to feel at home.",
+					"{keyword} might be waiting until a project lands. Hope is fair, but stay honest about what still needs doing first."
+				],
+				"neutral": [
+					"At work, {keyword} can point to cliques, exclusion, celebrations put off, or socialising that has started to crowd out the work itself.",
+					"{keyword} appears overdone or delayed: a team out of step, a win not yet marked, or someone feeling outside the group.",
+					"{keyword} suggests looking at the balance between belonging at work and doing work that matters to you."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If social spending has run ahead of you, {keyword} may be part of it. One step in your control: look at the last month and trade one outing for a cheaper plan.",
+					"{keyword} may be adding pressure to keep up with others. You can turn down one expensive invitation without losing the friendship.",
+					"When money is tight, {keyword} can feel out of reach, and that can be lonely. Tell one friend honestly, and suggest something free you could do together."
+				],
+				"curious": [
+					"{keyword} raises an interesting question: how much of your spending happens simply because others are spending? Try noticing for a week.",
+					"What would {keyword} look like on a smaller budget? You might find some of the best evenings cost almost nothing.",
+					"{keyword} hints at money tangled up with friendship: a loan, a shared bill, a group trip. Is there something there worth untangling?"
+				],
+				"grieving": [
+					"{keyword} may cost more than money right now; it may cost energy you simply don't have. It is all right to keep things very small for a while.",
+					"If a loss has changed your finances, {keyword} may feel like something meant for other people. You can be gentle with yourself about what you can and can't join.",
+					"{keyword} can be postponed. There is no need to spend, host or show up anywhere before you are ready."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to overspending on nights out, gifts or group plans. Add it up; the number is usually more useful than guilt.",
+					"{keyword} is a prompt about money between friends. Unspoken shared costs or unpaid loans tend to sour things, and a clear conversation is usually cheaper.",
+					"Read plainly, {keyword} may be about spending that has quietly grown to match a social circle. Ask whether it still matches your own priorities."
+				],
+				"hopeful": [
+					"{keyword} may be on hold while you rebuild. That is a sensible pause, not a permanent one, and hope can live alongside a careful budget.",
+					"If you are hoping to get ahead, {keyword} encourages you to celebrate cheaply and set the rest aside. Joy has no minimum spend.",
+					"{keyword} might return once things are steadier. For now, a small, deliberate treat can mark progress without undoing it."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to social overspending, tension over shared costs, or a celebration put off until resources allow.",
+					"{keyword} appears overdone or held back: generosity stretched too thin, or a sense of being priced out of the group.",
+					"{keyword} suggests looking at how money moves between you and the people around you, and whether that flow feels fair."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you have been running on late nights and too much of everything, {keyword} may be asking for a pause. One thing you can do tonight is go to bed a little earlier.",
+					"{keyword} may feel overwhelming at the moment. You are allowed to leave early, drink some water, and choose quiet when your body asks for it.",
+					"When you feel cut off, {keyword} can seem far away, and that can weigh on you. Reach out to one person, even with a short message."
+				],
+				"curious": [
+					"{keyword} poses a question: what does your body say the morning after a big night? It might be worth listening closely.",
+					"What would {keyword} look like with less excess and more ease? Try a version that still leaves you feeling good the next day.",
+					"{keyword} might be turning inward. How does solitude feel in your body, restful or lonely? Both are worth knowing."
+				],
+				"grieving": [
+					"{keyword} may feel too loud for a grieving body. Rest is not withdrawal; it is care, and you can choose it.",
+					"If you have pulled away from {keyword} since your loss, be gentle with that. Your energy is going where it is needed.",
+					"{keyword} can wait. When you feel ready, a short visit with one friend may feel far more manageable than a crowd."
+				],
+				"skeptical": [
+					"Practically, {keyword} can point to overdoing it: food, drink, late nights. Notice the pattern without moralising, then decide what, if anything, you want to change.",
+					"{keyword} is a prompt about isolation. Long stretches without company tend to affect mood and energy; how is your balance at the moment?",
+					"No mysticism here: {keyword} out of balance usually means too much social time or too little. Which way are you leaning right now?"
+				],
+				"hopeful": [
+					"{keyword} may be paused while you look after yourself. That pause can be an investment in feeling well enough to enjoy it later.",
+					"If you are hoping to feel better, {keyword} encourages gentler gatherings: earlier evenings, shared walks, fewer extras.",
+					"{keyword} could come back in a form that suits you better. Hope is reasonable, especially if you listen to what your body is telling you."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to overindulgence, social fatigue, or feeling cut off from the people who usually lift you.",
+					"{keyword} appears out of balance, either too much revelry or too little contact. It asks you to look honestly at both.",
+					"{keyword} suggests checking whether your social life is restoring your energy or quietly draining it."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If you feel outside a group or tradition, {keyword} may be shifting rather than lost. One steady step: keep a small private practice while things settle.",
+					"{keyword} may feel strained in a community you once trusted. You can step back to breathe without deciding anything final.",
+					"When belonging feels shaky, {keyword} invites you to look for one kindred person rather than the approval of a whole crowd."
+				],
+				"curious": [
+					"{keyword} might be turning inward. What do you believe when no one else is in the room?",
+					"What if stepping back from {keyword} is part of your path right now? Solitude can show you which shared practices you truly miss.",
+					"{keyword} hints at a question about conformity: are there beliefs you hold mostly because the people around you do?"
+				],
+				"grieving": [
+					"{keyword} may feel hollow while you grieve, even in places that once comforted you. That emptiness is not a failing of faith.",
+					"If you have withdrawn from {keyword}, you may need solitude with your loss for a while. The people who matter can wait.",
+					"{keyword} may come back slowly, perhaps in a different shape. For now, it is enough simply to be honest about what you feel."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to group pressure. Is a community asking for more conformity or time than feels right to you?",
+					"{keyword} is a prompt to look at where you seek meaning. If a group has become more about socialising than substance, it's fair to notice.",
+					"Read plainly, {keyword} can be about distance from a community. Does that distance feel like a loss, or like relief?"
+				],
+				"hopeful": [
+					"{keyword} may be on hold while you grow in private. The hope here is that you could return to others with more of yourself.",
+					"If you are hoping to belong somewhere, {keyword} encourages patience. The right circle may look quite different from the last one.",
+					"{keyword} might deepen once it is less about the crowd and more about real kinship. That is worth looking for."
+				],
+				"neutral": [
+					"On the inner path, {keyword} can point to feeling apart from a community, indulgence used as distraction, or a season of solitary practice.",
+					"{keyword} appears turned inward, asking what you believe when the group falls quiet.",
+					"{keyword} suggests examining which shared rituals still feed you and which you keep from habit."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you feel left out of {keyword}, that is painful but not permanent. One thing in your control: send one message today to someone you miss.",
+					"{keyword} may be in a lull right now. You don't have to fix your whole social life; just plan one simple thing to look forward to.",
+					"When things have tipped into too much, {keyword} can feel more stressful than fun. Give yourself permission to step back for a quiet night."
+				],
+				"curious": [
+					"{keyword} feels a little off-kilter. What would happen if you swapped one big gathering for a small, honest conversation?",
+					"What if {keyword} is postponed rather than lost? When the time comes, what would you most want to celebrate?",
+					"{keyword} hints at something to notice: who is inside the circle, who is outside it, and where you actually stand."
+				],
+				"grieving": [
+					"{keyword} may feel like something that belongs to other people right now. You don't have to join in to stay loved.",
+					"If grief has kept you apart from {keyword}, there is no rush. The invitations can wait, and so can you.",
+					"{keyword} may be set aside for a while, and that is all right. Some seasons are for small company and quiet rooms."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance: too much going out, or too little contact. Look at your last two weeks and see which it is.",
+					"{keyword} is a prompt about group dynamics. Is there a clique, a rivalry or an unspoken third person shaping how things feel?",
+					"Read plainly, {keyword} can point to a celebration put off or a social life that has drifted. Neither needs a mystical explanation, only attention."
+				],
+				"hopeful": [
+					"{keyword} may simply be delayed. Hope is fair here, so keep the door open and the invitations warm.",
+					"If you have felt on the edges, {keyword} encourages you to seek out smaller, kinder circles where you are easily welcomed.",
+					"{keyword} might be gathering slowly. Notice the small moments of connection; they could be the beginning of something."
+				],
+				"neutral": [
+					"Overall, {keyword} can point to overindulgence, exclusion, distance from the group, or a celebration put off for now.",
+					"{keyword} appears blocked or overdone, asking you to notice where you belong and where you feel outside.",
+					"{keyword} suggests a pause in the good times, or a version of them that has grown too loud to feel real."
+				]
+			}
+		}
+	}
+}

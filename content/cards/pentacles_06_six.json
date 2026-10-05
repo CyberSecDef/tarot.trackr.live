@@ -1,0 +1,412 @@
+{
+	"id": "pentacles_06_six",
+	"name": "Six of Pentacles",
+	"facets": [
+		{
+			"id": "generosity",
+			"keywords": ["generosity", "an open hand", "a gift freely given"]
+		},
+		{
+			"id": "reciprocity",
+			"keywords": ["give and take", "a fair exchange", "a balance of giving and receiving"]
+		},
+		{
+			"id": "receiving_support",
+			"keywords": ["a helping hand", "support from others", "help that arrives when needed"]
+		},
+		{
+			"id": "sharing",
+			"keywords": ["sharing what you have", "an even share", "kindness passed along"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are worried you give more than you get, {keyword} asks you to look at the last few weeks rather than the worst moments. One small step: notice one thing your person did for you recently, and say thank you for it.",
+					"{keyword} suggests that care in your relationships can flow both ways. You don't have to earn your place by giving constantly; let someone do one kind thing for you today and simply receive it.",
+					"When love feels uncertain, {keyword} invites you to steady yourself with something concrete. Offer one small, real kindness, the kind that asks nothing back, and see how it feels to give without keeping score."
+				],
+				"curious": [
+					"{keyword} asks an interesting question about love: are you more at ease giving or receiving? Most people have a favourite side, and noticing yours can say a lot about how you connect.",
+					"What if {keyword} is the quiet heart of your closest bonds? Try tracking, just for fun, the small favours that pass between you and the people you love over one week.",
+					"{keyword} hints that affection travels in surprising currencies: time, attention, a meal, a lift home. Which of those do you offer most easily, and which do you most like to be given?"
+				],
+				"grieving": [
+					"When you are missing someone, {keyword} may look like the friends who turn up with soup and stay a while. You don't have to repay any of it now. Letting yourself be cared for is enough.",
+					"{keyword} can also be a way of remembering. Think of something the person you lost gave you, a habit, a phrase, a kindness, and let it stay with you without needing to do anything with it.",
+					"Grief can make {keyword} feel lopsided, as though you only take. That is all right for a while. Love has long seasons, and there will be time to give back when you have more to give."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to look at balance. In a healthy relationship, effort, attention and practical tasks tend to even out over time. Do they in yours?",
+					"Read {keyword} as a plain question: who does the remembering, the planning, the checking-in? Patterns like these are easy to miss until someone writes them down.",
+					"There is nothing mystical about {keyword}. People tend to feel closer when kindness is noticed and returned. Is there something you have taken for granted lately that deserves acknowledging?"
+				],
+				"hopeful": [
+					"{keyword} is a warm sign for love. If you are hoping for more closeness, small, steady acts of care offered freely are often what draws people nearer.",
+					"If you are hoping to meet someone, {keyword} suggests that kindness in ordinary places, a favour for a neighbour or help for a friend, keeps you open to the people who notice it.",
+					"{keyword} encourages you to trust that care can be mutual. Hope here is reasonable, as long as you let others give to you as readily as you give to them."
+				],
+				"neutral": [
+					"In love, {keyword} speaks of generosity between people and a healthy flow of giving and receiving. It asks whether care moves freely in your relationships.",
+					"{keyword} points to kindness, fairness and the small exchanges that keep a bond alive. It invites you to notice who gives what, and how it feels.",
+					"{keyword} brings attention to balance in your closest relationships, where neither person is always the giver or always the one in need."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels precarious, {keyword} reminds you that asking for help is a normal part of working life. Pick one task you are stuck on and ask one colleague for ten minutes.",
+					"{keyword} suggests support may be closer than worry lets you see. One small thing you control: write down who has helped you before, and who you have helped. Those ties still count.",
+					"When work pressure rises, {keyword} invites you to share the load. You don't need to prove you can carry everything; offering or accepting a little help can steady a whole week."
+				],
+				"curious": [
+					"{keyword} asks a lively question about your working life: who taught you the most, and who are you quietly teaching now? Mentoring tends to run in both directions.",
+					"What if {keyword} were part of how you measure a good job? Notice which roles or teams let you both give your skill and receive support, and what they have in common.",
+					"{keyword} hints at the hidden economy of favours at work: the cover shift, the honest feedback, the shared shortcut. Which of those do you value most, and which do you offer?"
+				],
+				"grieving": [
+					"If you have lost a job, a mentor or a working partner, {keyword} may simply look like former colleagues checking in. Accepting that care does not oblige you to do anything yet.",
+					"{keyword} can be part of mourning a working life that has ended. Think of what that role or person gave you, the skills and the steadiness, and let yourself be grateful without rushing on.",
+					"When work holds grief, {keyword} may mean letting a colleague take a task off your plate. You can pay that kindness forward later, once you are on firmer ground."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is about fair contribution. Are credit, workload and reward roughly balanced on your team, or has it drifted? A quick honest look is worth it.",
+					"Treat {keyword} as a prompt about networks. Careers are often shaped by who helps whom. Is there someone you could support now, or someone whose advice you have not yet sought?",
+					"Plainly put, {keyword} asks whether your pay and your effort match. You don't need the cards for that question, but it may be worth answering with real numbers."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign at work. If you are hoping for a break, it may come through someone willing to vouch for you, so let people know what you are aiming for.",
+					"If things are going well, {keyword} invites you to share the benefit. Lifting a newer colleague can make your own progress feel steadier and more meaningful.",
+					"{keyword} suggests support for your ambitions is possible. Hope is reasonable here; keep giving good work and be ready to accept the hand when it is offered."
+				],
+				"neutral": [
+					"At work, {keyword} points to mentorship, fair reward and the support colleagues give one another. It asks whether giving and receiving feel balanced in your role.",
+					"{keyword} speaks of help offered and taken in a working setting: sponsorship, shared knowledge, fair pay for fair effort.",
+					"{keyword} highlights the way resources and opportunities move through a workplace, and where you currently sit in that flow."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money is worrying you, {keyword} is a reminder that needing help is not a failure. One small step you control: write down one question about your situation and bring it to someone you trust.",
+					"{keyword} suggests resources can move toward you as well as away. Notice one form of support you might be overlooking, whether practical help, a shared cost or a kind offer.",
+					"When finances feel tight, {keyword} can be quietly steadying. Even a small kindness given or received reminds you that security is not only a number in an account."
+				],
+				"curious": [
+					"{keyword} raises a thoughtful question: what does generosity look like on your budget? It might be time, skill or attention rather than money, and that counts too.",
+					"What if {keyword} were part of how you think about value? Try noticing, for a week, every exchange that leaves both people better off, paid or not.",
+					"{keyword} hints at the flow of money through your life, in and out and between people. Where does it move freely for you, and where does it catch?"
+				],
+				"grieving": [
+					"Money can feel heavy after a loss, and {keyword} may look like people offering practical help. Receiving it is allowed, and you need not keep a ledger right now.",
+					"{keyword} may also touch on what someone left behind, whether things, habits or care. There is no hurry to decide what any of it means.",
+					"If a loss has shifted your circumstances, {keyword} gently notes that you can lean on others for a while. Letting someone handle one practical task is not a weakness."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about how money moves between you and others. Loans, gifts and shared bills all work better when the terms are spoken out loud.",
+					"Treat {keyword} as a simple check: does what you give away, in money or effort, feel chosen or pressured? The answer is often clearer once it is written down.",
+					"No mystery here: {keyword} points to fairness in exchange. If something you pay for or provide seems out of proportion, it is worth looking at the numbers calmly."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image for money. If you are hoping for more stability, support may come through people as much as through income, so stay open to it.",
+					"If things are improving, {keyword} invites you to share a little of that ease in ways that suit your means. Generosity at any size can feel like abundance.",
+					"{keyword} suggests that fair exchange is possible here. Hope for steadier ground is reasonable, especially if you are willing to both ask and offer."
+				],
+				"neutral": [
+					"Around money, {keyword} points to generosity, fair exchange and resources flowing where they are needed. It asks how balanced your giving and receiving feel.",
+					"{keyword} speaks of charity, mutual aid and the ordinary give-and-take of shared costs. It invites you to look at money as something that moves between people.",
+					"{keyword} highlights the relationship between having and sharing, and asks where you currently stand on that line."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry right now, {keyword} reminds you that care can come from others as well as yourself. Let one person know what kind of help would actually be useful.",
+					"{keyword} suggests that you don't need to carry every stress alone. One small thing you can do today: accept an offer you would usually wave away.",
+					"When stress builds, {keyword} invites you to notice the people who leave you steadier. Giving them a little of your time, or taking a little of theirs, can be its own kind of rest."
+				],
+				"curious": [
+					"{keyword} poses an interesting question: how does your body feel after helping someone, compared with after being helped? Notice the difference without judging it.",
+					"What might {keyword} look like in your daily habits? Sharing a meal, swapping childcare, walking with a friend. Care can be a two-way routine.",
+					"{keyword} hints that energy is something you give and receive. Which people or places top you up, and which quietly draw on your reserves?"
+				],
+				"grieving": [
+					"Grief lives in the body, and {keyword} may look like someone else doing the shopping or bringing a meal. Accepting that is a way of looking after yourself.",
+					"{keyword} may mean letting others care for you without having to explain how you feel. Rest is allowed, and so is being looked after.",
+					"When you are carrying loss, {keyword} can be as simple as a hand on your shoulder. You do not have to give anything back for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to the balance between caring for others and caring for yourself. Are you spending more energy on others than you are replacing?",
+					"{keyword} is a plain prompt about support. People generally find habits easier to keep when someone else is involved. Is there a routine you could share?",
+					"No mystical reading needed: {keyword} asks whether you let others help with the practical side of looking after yourself, or whether you insist on doing it all."
+				],
+				"hopeful": [
+					"{keyword} encourages you to let care flow in both directions. Energy often lifts when you feel supported and useful at the same time.",
+					"If you are hoping to feel stronger, {keyword} suggests that help offered by others may be part of the path. Saying yes to it is a hopeful act.",
+					"{keyword} invites you to notice the small acts of care that keep you going, given and received, and to trust they can add up."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to mutual care, support from others and a balanced flow of energy between you and the people around you.",
+					"{keyword} highlights how you share your time and energy, and whether you leave enough for yourself.",
+					"{keyword} suggests paying attention to both sides of care: what you offer others, and what you allow yourself to receive."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsteady, {keyword} offers a simple anchor: one act of kindness, done quietly. Giving can settle the mind as much as any practice.",
+					"{keyword} reminds you that you don't have to find meaning alone. Let one person who shares your values hold some of what you are carrying.",
+					"When you feel spiritually adrift, {keyword} invites you to notice what has been given to you, a teaching, a kindness, a place. Gratitude can be a steady floor to stand on."
+				],
+				"curious": [
+					"{keyword} asks an intriguing question: what have you received in life that you could never repay? Sitting with that can open something unexpected.",
+					"What if {keyword} were a spiritual practice in itself? Many traditions treat giving and receiving as a way of loosening the grip of the self.",
+					"{keyword} hints that wisdom moves between people like a gift. Who passed something important on to you, and what are you passing on?"
+				],
+				"grieving": [
+					"{keyword} may feel tender in grief. Many traditions gather people to give food, time and presence to those who mourn; you are allowed simply to receive.",
+					"When you have lost someone, {keyword} can be a way of carrying them forward. A kindness they would have done, done by you, can be a quiet remembrance.",
+					"{keyword} does not ask you to feel grateful right now. It only notes that others may want to help hold what you cannot hold alone."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about values in action. Whatever you believe, what you give and how you receive say a lot about what you actually hold dear.",
+					"Treat {keyword} as a prompt: does your sense of meaning show up in how you treat people, or mostly in what you think? Both matter, but one is easier to see.",
+					"No mystical claim is needed here. {keyword} simply asks whether your inner life includes other people, and whether that feels true to you."
+				],
+				"hopeful": [
+					"{keyword} encourages you to let your inner growth spill outward. Hope often deepens when it is shared in practical ways.",
+					"If you are hoping for a deeper sense of meaning, {keyword} suggests looking at small acts of service. Purpose sometimes grows from what you offer.",
+					"{keyword} invites you to trust that you are part of a wider exchange of care. That trust can be hopeful without needing any promise about the outcome."
+				],
+				"neutral": [
+					"On the inner path, {keyword} points to charity, humility, gratitude and the balance between giving and receiving.",
+					"{keyword} speaks of generosity as a practice and of receiving with grace. It asks how open your hands are, in both directions.",
+					"{keyword} highlights the spiritual side of exchange: what you offer freely, and what you are willing to accept."
+				]
+			},
+			"general": {
+				"anxious": [
+					"Whatever is worrying you, {keyword} is a reminder that support exists. Choose one person and let them help with one specific thing this week.",
+					"{keyword} suggests that things may be more balanced than they feel right now. One small step in your control: offer someone a kindness, and notice how it steadies you too.",
+					"When life feels uncertain, {keyword} invites you to remember what has been given to you before. Help arrived then, and it is fair to let yourself ask again."
+				],
+				"curious": [
+					"{keyword} opens a playful question: if you could give one thing away this week, time, skill, attention, what would it be, and to whom?",
+					"What if {keyword} were the theme of your month? Notice every exchange, big or small, and see which ones leave you feeling richer.",
+					"{keyword} hints at a quiet flow running through your life. Where are you the one giving, and where are you the one being given to?"
+				],
+				"grieving": [
+					"{keyword} may look like the people who show up while you grieve. You don't need to repay them now. Letting them help is a gift to them as well.",
+					"When you are carrying loss, {keyword} can simply mean receiving. There is no score being kept, and you can take what you need for as long as you need it.",
+					"{keyword} can feel strange in grief, as if kindness belongs to another life. It is all right to let it in slowly, one small offer at a time."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about balance. Across your relationships, work and money, do giving and receiving roughly even out?",
+					"Treat {keyword} as a check-in: is there help you need and have not asked for, or help you could offer and have not? Both are easy to put off.",
+					"No mystery here: {keyword} is about fairness. Pick one area of your life where things feel uneven and look at it with clear eyes."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image. If you are hoping for a turn in your fortunes, support from others may play a real part, so let people know where you stand.",
+					"If things are going well, {keyword} invites you to share some of that ease. Generosity often keeps good times feeling grounded.",
+					"{keyword} suggests that help may meet you halfway. Hope is reasonable here, especially if you are open to both asking and offering."
+				],
+				"neutral": [
+					"Overall, {keyword} speaks of generosity, fair exchange and help moving between people. It asks how balanced that flow is in your life now.",
+					"{keyword} points to giving and receiving, charity and support. It invites you to notice where you stand in the exchange.",
+					"{keyword} highlights the ways resources, kindness and attention pass between you and others, and whether that feels fair."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} feels one-sided right now, that is worth noticing calmly rather than fearing. One step in your control: name, to yourself first, one thing you need and have not asked for.",
+					"{keyword} may come with strings attached here, a favour that feels like a debt or kindness that seems to expect something. You can thank someone and still keep your own boundaries.",
+					"When {keyword} feels uneven, it is easy to over-give to hold things together. Tonight, try giving a little less and resting a little more, and see what actually changes."
+				],
+				"curious": [
+					"{keyword} might be tangled up with power. Who in your relationships tends to hold the purse, the plans or the final say, and how does that shape the way kindness moves?",
+					"What if {keyword} has turned inward for a while? It could be worth asking what you would give yourself if you treated your own needs as generously as other people's.",
+					"{keyword} feels a little lopsided here. Is it harder for you to receive than to give? That question can open up more than you might expect."
+				],
+				"grieving": [
+					"{keyword} may feel strained after a loss, with old debts, unsaid thanks or help that never came. You don't have to settle any of that now; it can wait until you have more breath.",
+					"If {keyword} has been missing from the people around you, that absence is its own ache. You are allowed to feel let down and still keep your heart open to the ones who do show up.",
+					"Grief can make {keyword} feel impossible to return. You owe no one a thank-you card this week. Being looked after without keeping count is allowed."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance. If one person consistently gives more time, money or effort, resentment tends to follow. It is worth a calm, specific conversation.",
+					"{keyword} is a prompt to check for strings. Is any gift or favour in your relationship quietly being used as leverage? Naming it plainly usually helps more than stewing on it.",
+					"No mystery needed: {keyword} reversed often describes over-giving. If you are always the one who helps, ask whether that habit is serving the relationship or just keeping you busy."
+				],
+				"hopeful": [
+					"{keyword} may be paused rather than broken. If you are hoping for a fairer balance, a simple, honest request is often the first step toward it.",
+					"If you have been giving too much, {keyword} encourages you to let others step up. Hope is reasonable here; people often rise when they are given room to.",
+					"{keyword} could return in a healthier form once expectations are said out loud. Hoping for that is fair, as long as you are willing to say what you need."
+				],
+				"neutral": [
+					"In love, {keyword} can point to a one-sided relationship, gifts with strings attached, or difficulty letting yourself receive care.",
+					"{keyword} appears blocked or overdone: someone giving too much, someone taking too much, or kindness used to keep the upper hand.",
+					"{keyword} may be delayed or turned inward, asking you to look honestly at whether care moves fairly between you and the people closest to you."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} at work feels conditional, as though help comes with a catch, slow down before agreeing to anything. One step you control: ask exactly what is expected in return.",
+					"{keyword} may feel out of reach on your team right now. Rather than carrying it all alone, choose one person outside the situation to talk things through with this week.",
+					"When {keyword} turns uneven at work, you may be quietly doing more than your share. Pick one task this week to hand back or decline, kindly and clearly."
+				],
+				"curious": [
+					"{keyword} might be caught up in hierarchy. Who at work gets to decide who is helped, promoted or credited? It is interesting to trace how that power actually moves.",
+					"What if {keyword} reversed is asking you to notice the favours you never get thanked for? Make a quiet list, and see what it tells you about your role.",
+					"{keyword} feels a little tangled here. Is a mentor, manager or client giving support that keeps you dependent rather than growing? That is worth exploring with an open mind."
+				],
+				"grieving": [
+					"{keyword} may feel absent while you are grieving at work, with too few people noticing what you carry. It is all right to ask plainly for a lighter week.",
+					"If a workplace you loved did not give back what you gave it, {keyword} may be part of what you are mourning. That loss is real, and it deserves time.",
+					"Grief can make {keyword} at work feel like one more thing to manage. You don't have to return every favour right now; people who care will understand."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance: unpaid extra work, credit going upward, or help that is really obligation. Write down what you give and what you get.",
+					"{keyword} is a prompt to look for strings attached. Is any offer of help at work tied to loyalty, silence or unpaid time? Clarity tends to protect everyone.",
+					"Read plainly, {keyword} reversed often describes the person who always says yes. If that is you, the useful question is which yes you could turn into a no this month."
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than denied. If you are hoping for fairer recognition, gathering clear evidence of your contribution is a hopeful and practical step.",
+					"If you have been over-giving at work, {keyword} encourages you to let the balance correct itself. Stepping back a little can show others what you were holding up.",
+					"{keyword} could come back once expectations are clearer. Hope is fair here, especially if you are ready to ask directly for what would feel even."
+				],
+				"neutral": [
+					"At work, {keyword} can point to unequal reward, help with strings attached, or a power gap between the person giving and the one receiving.",
+					"{keyword} appears blocked or overdone: over-giving, under-recognition, or favours that have turned into expectations.",
+					"{keyword} may be delayed or held back at work, asking you to look at whether effort, credit and reward are flowing fairly."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} has left you stretched, perhaps from lending or helping more than you can afford, pause before the next yes. One step you control: decide your limit before anyone asks.",
+					"{keyword} may come with conditions you did not expect. Before accepting or offering money, it is fine to ask for the terms in writing, plainly and without embarrassment.",
+					"When {keyword} feels out of reach, money worries can grow louder. Write down the one figure that matters most this month and let that be enough to look at today."
+				],
+				"curious": [
+					"{keyword} raises an interesting question: is there money between you and someone else that neither of you talks about? Curiosity may be gentler than confrontation here.",
+					"What if {keyword} reversed is pointing at the gifts you find hard to accept? Notice what happens in you when someone offers to pay.",
+					"{keyword} hints that money and power may be linked in your life. Who gives, who receives, and who feels they owe? It is worth turning that over."
+				],
+				"grieving": [
+					"{keyword} may feel complicated after a loss, especially where money or belongings are involved. It is all right to set those questions aside until you feel steadier.",
+					"If help has not come the way you hoped, {keyword} may be part of the hurt. You are allowed to feel that without deciding what it says about anyone.",
+					"{keyword} can be tender ground in grief. You don't need to settle debts, gifts or shares this week; let the practical questions wait their turn."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to lending without terms, giving beyond your means, or debt held over someone. Clear agreements usually protect relationships.",
+					"{keyword} is a prompt to check for strings. Has a gift or loan changed how freely you can say no to someone? That is worth noticing plainly.",
+					"Read plainly, {keyword} reversed often shows up as generosity that is really guilt. Add up what you have given this year and ask whether it felt chosen."
+				],
+				"hopeful": [
+					"{keyword} may be on hold while you rebuild. That pause is sensible, and hoping for a fairer balance later is perfectly reasonable.",
+					"If you have been giving too much, {keyword} encourages you to let your own needs come first for a while. That is not selfish; it may be what makes future giving possible.",
+					"{keyword} could return in a steadier form once terms are clear. Hope can sit alongside careful boundaries without contradiction."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to debt, unequal exchange, strings attached to help, or giving more than you can sustain.",
+					"{keyword} appears blocked or overdone: lending without limits, gifts that create obligation, or difficulty accepting support.",
+					"{keyword} may be delayed or turned inward, asking you to look at whether money between you and others moves fairly."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you have been giving your energy away faster than it comes back, {keyword} may be asking for a pause. One thing in your control tonight: say no to one request and rest instead.",
+					"{keyword} may feel hard to come by right now. Reach out to one person with a specific, small ask, like a walk together or a call, rather than waiting to be noticed.",
+					"When {keyword} feels uneven, stress can settle in the body. Take three slow breaths and ask what you would offer a friend in your position, then offer it to yourself."
+				],
+				"curious": [
+					"{keyword} poses a question: what happens in your body when you are asked for one more favour? Tension, ease, a sigh? It may be worth listening.",
+					"What would {keyword} look like if you were on the receiving end for once? Try letting someone take care of one small thing and notice how it feels.",
+					"{keyword} might be turning inward. How generous are you with your own rest, compared with how generous you are with others' needs?"
+				],
+				"grieving": [
+					"{keyword} may feel strained while you grieve, perhaps too much care offered or too little. It is all right to say what you need, even if it is simply quiet.",
+					"If you have been looking after everyone else since your loss, {keyword} gently asks who is looking after you. Rest is not something you have to earn.",
+					"{keyword} can wait. For now, letting the body be tired and the to-do list stay unfinished is its own form of care."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often describes over-giving: caring for others at the expense of sleep, food or downtime. Look at your last week and see where the energy went.",
+					"{keyword} is a prompt about support that comes with pressure. Is anyone's help making you feel more tired rather than less? That is worth noticing.",
+					"No mysticism here: {keyword} out of balance usually means one person doing too much of the caring. If that is you, which task could someone else take?"
+				],
+				"hopeful": [
+					"{keyword} may be paused while you restore your energy. That pause can make it possible to give again later from a fuller place.",
+					"If you are hoping to feel better, {keyword} encourages you to ask clearly for help. People often want to support you but don't know how.",
+					"{keyword} could find a healthier rhythm, with less over-giving and more receiving. Hoping for that is reasonable, especially if you take one small step toward it."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to caregiver fatigue, difficulty accepting help, or energy spent unevenly between yourself and others.",
+					"{keyword} appears out of balance, either too much giving or too little receiving. It asks you to look honestly at both.",
+					"{keyword} suggests checking whether your care for others is leaving enough over for your own rest and ease."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} feels distorted, as if you must give to be worthy, gently set that belief down for today. One small step: offer yourself the patience you offer others.",
+					"{keyword} may feel strained in a community or practice that asks a lot. You are allowed to step back and keep a small private practice while you sort out what fits.",
+					"When {keyword} feels out of balance, your inner life can feel like a debt. Try one quiet minute of simply receiving, breath, light, a cup of tea, before giving anything else."
+				],
+				"curious": [
+					"{keyword} might be turning inward. What would it mean to be generous with yourself in the way you are with others?",
+					"What if {keyword} reversed is asking about pride? Sometimes refusing help is a way of staying in control. It is interesting to wonder whether that fits.",
+					"{keyword} feels a little tangled here. Is there a teacher, group or tradition where giving has quietly become obligation? Curiosity can untangle it slowly."
+				],
+				"grieving": [
+					"{keyword} may feel hollow while you grieve, even in places that once fed you. That emptiness is not a spiritual failing.",
+					"If help from your community has felt thin since your loss, {keyword} may be part of the ache. You can feel let down and still keep your own faith in kindness.",
+					"{keyword} can rest for a while. Grief does not owe anyone service or gratitude; simply being present is enough for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to giving driven by guilt or by wanting to be seen as good. Neither makes you a bad person, but both are worth noticing.",
+					"{keyword} is a prompt about power in groups. Does anyone in your community hold others in their debt, financially or emotionally? That pattern is worth naming.",
+					"Read plainly, {keyword} reversed can mean struggling to receive. If accepting kindness makes you uneasy, it may be worth asking where that came from."
+				],
+				"hopeful": [
+					"{keyword} may be on hold while you rebalance. The hope here is that you could return to giving from fullness rather than from duty.",
+					"If you have felt spiritually depleted, {keyword} encourages you to let something be given to you first. Hope often begins with being filled.",
+					"{keyword} could find a truer form once the strings are gone. Hoping for that is reasonable, and it begins with honesty about why you give."
+				],
+				"neutral": [
+					"On the inner path, {keyword} can point to giving out of guilt, generosity tied to status, or a reluctance to receive.",
+					"{keyword} appears blocked or overdone: charity that serves the giver's image, or service that has become exhausting.",
+					"{keyword} may be delayed or turned inward, inviting you to look at the motives behind your giving and your openness to receiving."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} feels uneven right now, that is something you can look at calmly. One step in your control: name one place you have been giving too much, and ease off a little.",
+					"{keyword} may come with strings attached. Before you accept or offer anything this week, it is fine to ask what is expected in return.",
+					"When {keyword} seems out of reach, it can feel lonely. Send one clear, small request to someone you trust, and let that be enough for today."
+				],
+				"curious": [
+					"{keyword} feels a little off-balance. Is it harder for you to give or to receive right now? Your answer may point somewhere useful.",
+					"What if {keyword} reversed is about power? Notice who in your life holds the resources and how that shapes what people feel free to say.",
+					"{keyword} might be turning inward. What would change if you treated your own needs with the generosity you show other people?"
+				],
+				"grieving": [
+					"{keyword} may feel complicated while you grieve, with help that came with conditions or did not come at all. You don't have to make sense of it yet.",
+					"If you have been holding everyone else up since your loss, {keyword} gently asks who is holding you. It is all right to step back.",
+					"{keyword} can wait. There is no need to return favours or settle what is owed until you have the energy for it."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance: over-giving, debt, or help that keeps someone dependent. Look at one relationship and see which applies.",
+					"{keyword} is a prompt to notice strings. Has a kindness from someone made it harder to disagree with them? That is a pattern worth naming.",
+					"Read plainly, {keyword} reversed often means one side of an exchange is getting the better deal. Is that you, or the other person?"
+				],
+				"hopeful": [
+					"{keyword} may simply be delayed. If you are hoping for a fairer balance, a direct conversation could be the start of it.",
+					"If you have been over-giving, {keyword} encourages you to let the scales settle. Others may step forward once you step back a little.",
+					"{keyword} could return in a healthier shape. Hope is reasonable here, as long as you are clear about what you need."
+				],
+				"neutral": [
+					"Overall, {keyword} can point to one-sided exchanges, debt, strings attached to help, or difficulty receiving.",
+					"{keyword} appears blocked or overdone: generosity stretched thin, or help used to hold power over someone.",
+					"{keyword} may be delayed or turned inward, asking you to look at whether giving and receiving feel fair in your life now."
+				]
+			}
+		}
+	}
+}

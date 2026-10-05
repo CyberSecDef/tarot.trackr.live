@@ -1,0 +1,110 @@
+/* Night-sky purple, gilt, and emerald. Dark by default; parchment in light mode. */
+:root {
+	--bg: #140b22;
+	--bg-deep: #0b0614;
+	--surface: rgb(38 21 62 / 0.72);
+	--surface-solid: #26153e;
+	--ink: #f1e8d4;
+	--ink-soft: #c9bcdc;
+	--muted: #9c8db6;
+	--gold: #d8b25a;
+	--gold-bright: #f3d98b;
+	--gold-dim: #8f7232;
+	--emerald: #34b38a;
+	--emerald-deep: #12553f;
+	--violet: #7d4fc0;
+	--violet-deep: #3a1f63;
+	--ring: rgb(243 217 139 / 0.55);
+	--shadow: 0 18px 40px rgb(0 0 0 / 0.45);
+	--glow: 0 0 24px rgb(216 178 90 / 0.25);
+
+	--font-display: 'Cinzel Decorative', 'Cinzel', Georgia, serif;
+	--font-head: 'Cinzel', Georgia, serif;
+	--font-body: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+
+	--card-ratio: 0.578;
+	--radius: 14px;
+	color-scheme: dark;
+}
+
+@media (prefers-color-scheme: light) {
+	:root {
+		--bg: #f5eedf;
+		--bg-deep: #ebe0c8;
+		--surface: rgb(255 250 238 / 0.82);
+		--surface-solid: #fffaee;
+		--ink: #2a1740;
+		--ink-soft: #46305f;
+		--muted: #6f5d86;
+		--gold: #9c7218;
+		--gold-bright: #b8891f;
+		--gold-dim: #c9ad6b;
+		--emerald: #12704f;
+		--emerald-deep: #0d4a35;
+		--violet: #5b2d93;
+		--violet-deep: #3d1a6b;
+		--ring: rgb(156 114 24 / 0.5);
+		--shadow: 0 14px 30px rgb(61 26 107 / 0.18);
+		--glow: 0 0 18px rgb(156 114 24 / 0.18);
+		color-scheme: light;
+	}
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	-webkit-text-size-adjust: 100%;
+}
+
+body {
+	margin: 0;
+	min-height: 100dvh;
+	background: var(--bg);
+	color: var(--ink);
+	font-family: var(--font-body);
+	font-size: 1.2rem;
+	line-height: 1.6;
+	-webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3 {
+	font-family: var(--font-head);
+	font-weight: 700;
+	letter-spacing: 0.04em;
+	line-height: 1.2;
+}
+
+a {
+	color: var(--gold-bright);
+}
+
+:focus-visible {
+	outline: 2px solid var(--ring);
+	outline-offset: 3px;
+	border-radius: 6px;
+}
+
+.visually-hidden {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+	clip: rect(0 0 0 0);
+	white-space: nowrap;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	*,
+	*::before,
+	*::after {
+		animation-duration: 0.01ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: 0.01ms !important;
+	}
+}

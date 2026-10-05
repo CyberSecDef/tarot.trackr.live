@@ -1,0 +1,412 @@
+{
+	"id": "cups_10_ten",
+	"name": "Ten of Cups",
+	"facets": [
+		{
+			"id": "harmony",
+			"keywords": ["harmony at home", "a peaceful household", "family harmony"]
+		},
+		{
+			"id": "belonging",
+			"keywords": ["belonging", "a sense of home", "a place where you are loved"]
+		},
+		{
+			"id": "fulfilment",
+			"keywords": ["emotional fulfilment", "a full heart"]
+		},
+		{
+			"id": "lasting_love",
+			"keywords": ["lasting love", "a shared vision of the good life"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are worried about love, {keyword} is a reminder of what you are already building. Name one moment this month when you felt completely at ease with someone.",
+					"{keyword} can feel almost too much to hope for when you're anxious. You don't need the whole picture; one warm evening together is a real piece of it.",
+					"When doubts about a relationship press in, {keyword} invites you to look at how you actually treat each other day to day. Kindness in small things counts for a lot."
+				],
+				"curious": [
+					"{keyword} raises a warm question: what does a happy home look like to you, and is it the same picture the people you love would draw?",
+					"What if {keyword} is less a destination than a habit? Notice the little rituals that make you and the people close to you feel like a team.",
+					"{keyword} invites you to imagine your relationships ten years on. Who is around the table, and what are you laughing about?"
+				],
+				"grieving": [
+					"{keyword} may bring an ache when someone is missing from the picture. Their place can stay set at the table for as long as you need it to be.",
+					"After a loss, {keyword} might feel like something from a photograph of another time. You are allowed to miss it without trying to rebuild it yet.",
+					"When you are grieving, {keyword} can look like the people who gather round, bring food, and sit with you in the quiet. Let them in, if you can."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to the everyday health of your closest bonds. How do disagreements get handled, and does everyone feel heard?",
+					"Read plainly, {keyword} is about shared values. Do you and the people you love want broadly the same things from life? That matters more than grand gestures.",
+					"No magic here: {keyword} describes relationships where people feel safe and appreciated. Which of yours feel like that, and what makes them so?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign to carry into your hopes. Keep tending the relationships that feel like home; they are where lasting warmth tends to grow.",
+					"If you are hoping for a happy partnership or family, {keyword} invites you to describe what that looks like, then notice where pieces of it already exist.",
+					"{keyword} suggests that the closeness you want is a reasonable thing to hope for. It isn't promised, but it is worth building toward, together."
+				],
+				"neutral": [
+					"In love, {keyword} points to contentment, mutual care and a sense of being at home with the people closest to you.",
+					"{keyword} speaks to relationships built on shared values, everyday kindness and the feeling that you belong together.",
+					"{keyword} brings the focus to family in its widest sense: the people, chosen or given, who make life feel complete."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels shaky, {keyword} reminds you that your worth isn't only your job. Spend some time this week with the people who love you regardless.",
+					"Under work stress, {keyword} may seem far off. One thing in your control: protect one evening a week for home and rest, and keep that promise.",
+					"When career worries follow you home, {keyword} invites you to set them down at the door for an hour. They will still be there, and you'll be steadier."
+				],
+				"curious": [
+					"{keyword} asks a curious question: what would your work look like if it fitted around the life you want, rather than the other way round?",
+					"What might {keyword} mean in a workplace? Perhaps a team where people look out for each other. Where have you felt that, and could you create more of it?",
+					"{keyword} invites you to wonder how your ambitions serve the people you care about. Which goals would they cheer for most?"
+				],
+				"grieving": [
+					"If you are grieving, {keyword} may mean letting work take a back seat while you stay close to home. That is a reasonable choice.",
+					"{keyword} may feel distant when a loss has changed the people around you at work. You can honour what that team meant without pretending it's the same.",
+					"After a loss, {keyword} might simply look like colleagues who cover for you, check in, and ask nothing. Let that be enough for now."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is a prompt about work-life balance. How many evenings last week were really yours?",
+					"{keyword} raises a plain question: does your job support the life you want at home, or compete with it? The answer can guide your next decision.",
+					"Without mysticism, {keyword} points to the value of a supportive team. Good working relationships tend to matter as much as the work itself."
+				],
+				"hopeful": [
+					"{keyword} suggests your work could support a life you feel good about. Hope is reasonable; keep aligning your choices with what matters at home.",
+					"If you are hoping for success, {keyword} encourages you to define it to include the people you love. A good career can leave room for them.",
+					"{keyword} can be a sign that your efforts are building toward stability. Celebrate that with the people who've supported you."
+				],
+				"neutral": [
+					"At work, {keyword} points to balance between career and home life, and to supportive relationships with colleagues.",
+					"{keyword} highlights work that serves a fulfilling life rather than consuming it.",
+					"{keyword} suggests noticing how your working life affects the people closest to you."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money worries are weighing on you, {keyword} reminds you that a home is built from more than spending. One small thing: plan a free evening together.",
+					"{keyword} can feel far away when finances are tight. One thing in your control: talk honestly with the people you share costs with about one shared goal.",
+					"When financial stress rises, {keyword} invites you to remember what you'd keep even if everything else changed. Usually it's the people."
+				],
+				"curious": [
+					"{keyword} raises a question about money: what does a comfortable, happy home actually cost, and how much of your spending goes toward it?",
+					"What if {keyword} were a budget category? Notice what you'd put in it: shared meals, trips, time off together, a better bed.",
+					"{keyword} invites you to imagine financial security as something shared. Who would you most want to feel safe alongside you?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may feel complicated around money: shared accounts, a home with memories. Take each decision slowly.",
+					"{keyword} may mean the people who help you with practical things when grief makes them hard. Accepting help is not a burden on them.",
+					"If a loss has changed your household, {keyword} doesn't need to be rebuilt quickly. Let the essentials be covered and the rest wait."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about shared finances. Do the people you live with agree on spending and saving? A calm conversation can prevent friction.",
+					"Read plainly, {keyword} points to long-term stability. Do you have a simple plan for the next few years that everyone at home understands?",
+					"No magic: {keyword} describes a household where money isn't a source of conflict. What would help yours get there?"
+				],
+				"hopeful": [
+					"{keyword} suggests that financial security for you and those you love is a reasonable thing to work toward. Start with one shared goal.",
+					"If you are hoping for more comfort, {keyword} encourages planning together. Pooling ideas often makes resources stretch further.",
+					"{keyword} can be a reminder that the richest parts of home life often cost little. Invest in those as well."
+				],
+				"neutral": [
+					"In money matters, {keyword} points to stability, shared resources and security for the people you care about.",
+					"{keyword} speaks to finances that support a happy, settled home life.",
+					"{keyword} suggests aligning spending and saving with the life you want to share."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If worry about your wellbeing is loud, {keyword} invites you to lean on the people around you. Let someone you trust know how you're really feeling.",
+					"{keyword} can be a source of steadiness. One thing in your control: spend some unhurried time with someone who makes you feel safe.",
+					"When you feel tense, {keyword} reminds you that comfort is close. A familiar room, a shared meal, a hug can ease the body more than you'd think."
+				],
+				"curious": [
+					"{keyword} asks a curious question: how does your body feel after time with the people you love, compared with time apart?",
+					"What could {keyword} teach you about rest? Notice where in your home you feel most relaxed, and spend more time there.",
+					"{keyword} invites you to make care a shared activity: a walk together, an early night agreed by the whole household."
+				],
+				"grieving": [
+					"In grief, {keyword} may feel both comforting and painful. Let the people who love you look after you a little.",
+					"{keyword} may look like a friend who brings soup, or someone who sits beside you without talking. These are real kinds of care.",
+					"When you are grieving, {keyword} doesn't need to feel happy. It can simply mean not being alone with the tiredness."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about the link between connection and wellbeing. Strong relationships tend to help people cope with stress.",
+					"Read plainly, {keyword} points to your home environment. Is it restful? One small change, like less clutter or more light, can make a difference.",
+					"No mysticism: {keyword} reflects the ordinary truth that feeling supported affects energy and mood. How supported do you feel?"
+				],
+				"hopeful": [
+					"{keyword} suggests that feeling well is supported by the people around you. Lean on them, and let them lean on you.",
+					"If you are hoping to feel better, {keyword} encourages you to build care into your home life: shared meals, rest, gentle routines.",
+					"{keyword} can be a sign that comfort and connection are within reach. Make time for both."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to the comfort of home, the support of loved ones, and feeling at ease in your life.",
+					"{keyword} speaks to the restorative power of connection and a settled environment.",
+					"{keyword} suggests that care for yourself and care for others can support each other."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsettled, {keyword} invites you to notice the love already around you. Write down the names of three people who care about you.",
+					"{keyword} can be a steady anchor. One thing in your control: a moment of quiet gratitude each evening for the people in your life.",
+					"When worry crowds in, {keyword} reminds you that you belong somewhere. Let that knowledge settle you."
+				],
+				"curious": [
+					"{keyword} invites you to explore where you feel most at home in yourself. Is it a place, a practice, a person?",
+					"What if {keyword} is a spiritual state rather than a situation? What would it feel like to carry that sense of home wherever you go?",
+					"{keyword} raises a question: what does wholeness mean to you, and when have you felt closest to it?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel incomplete without someone. Let your inner life hold that absence as part of the love.",
+					"{keyword} may arrive as gratitude for what you shared with someone you've lost. That gratitude can sit beside the ache.",
+					"When you are grieving, {keyword} can be the quiet sense that love continues, even when someone is gone."
+				],
+				"skeptical": [
+					"Treat {keyword} as a prompt: what gives your life a sense of completeness, and does it come from within or from others?",
+					"Read practically, {keyword} points to belonging as a human need. Where do you feel you truly belong, and where do you feel you're performing?",
+					"{keyword} needs no supernatural reading. Reflecting on what makes you feel whole is useful in its own right."
+				],
+				"hopeful": [
+					"{keyword} suggests a sense of wholeness is within reach. Nurture it through connection and gratitude.",
+					"If you are hoping for inner peace, {keyword} encourages you to find it in the love you give and receive.",
+					"{keyword} can be a sign of spiritual fulfilment rooted in relationship. Let yourself rest in it."
+				],
+				"neutral": [
+					"In your inner life, {keyword} points to wholeness, gratitude and a deep sense of belonging.",
+					"{keyword} speaks to the spiritual richness of love and connection.",
+					"{keyword} suggests that fulfilment may come from feeling at home with yourself and others."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you're bracing for bad news, {keyword} invites you to notice the good already in your life. Name the people who would show up for you.",
+					"{keyword} can feel fragile when you're anxious. You don't have to protect it from every threat; just enjoy it today.",
+					"When worry rises, {keyword} reminds you that you have a place to return to. Spend a little time there."
+				],
+				"curious": [
+					"{keyword} asks a lovely question: what would your ideal ordinary day look like, and who would be in it?",
+					"What if {keyword} is already here, in small moments you overlook? Spend a day noticing them.",
+					"{keyword} invites you to explore what home means to you. Is it a place, a feeling, or a group of people?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel incomplete. Let the absence be part of the picture; it doesn't need to be filled.",
+					"{keyword} may arrive as the people who gather round you. Let them hold some of the weight.",
+					"When you're carrying a loss, {keyword} may simply be a familiar room, a known voice, a place to rest."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about what makes life feel complete. Is it people, achievements, or something else?",
+					"Read plainly, {keyword} points to contentment with your home life. What would make it feel more settled?",
+					"No mysticism: {keyword} describes emotional fulfilment and belonging. These are worth noticing and nurturing."
+				],
+				"hopeful": [
+					"{keyword} suggests happiness is possible and worth building. Hope is fair; tend to what matters most.",
+					"If you're hoping for contentment, {keyword} encourages you to invest in the people who make life feel full.",
+					"{keyword} can be a sign that life is offering warmth and belonging. Let yourself receive it."
+				],
+				"neutral": [
+					"Overall, {keyword} points to emotional fulfilment, harmony at home and the joy of belonging.",
+					"{keyword} speaks to a life that feels whole and shared.",
+					"{keyword} suggests a time to appreciate the love and stability around you."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} may feel strained right now, with small tensions building between you and someone close. One steady step: ask one gentle question and really listen to the answer.",
+					"If {keyword} seems further away than it used to, you don't have to fix everything at once. Start with one shared meal where nobody checks a phone.",
+					"When {keyword} feels shaky, remember that every close bond has rough patches. What is one thing that still feels good between you?"
+				],
+				"curious": [
+					"Here {keyword} may be living more in your head than in your days. Whose picture of the perfect family or partnership have you been measuring yourself against?",
+					"What if {keyword} looks different from the version you were raised to expect? Notice which kinds of closeness actually make you feel at home.",
+					"{keyword} may be turning inward. How at home do you feel with yourself, apart from anyone else?"
+				],
+				"grieving": [
+					"When you are grieving, {keyword} may feel broken, as though the circle has a gap that won't close. You don't have to close it. Let it be what it is.",
+					"{keyword} may be harder to find while everyone grieves differently. Be patient with the people around you, and with yourself.",
+					"If {keyword} has slipped away since someone left, that sense of loss is real. Small comforts and familiar faces can be enough for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} under strain can point to mismatched values. Do you and the people closest to you still want the same things?",
+					"Read plainly, {keyword} here suggests that harmony may be on the surface only. Is something going unsaid at home?",
+					"No magic needed: {keyword} slipping usually comes from neglect, not disaster. What small habit of care has fallen away?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. Hope is fair here, especially if everyone is willing to keep showing up.",
+					"If you are hoping to reconnect, {keyword} may return through patience and plain kindness rather than big gestures.",
+					"{keyword} could be rebuilt in a form that suits who you are all becoming. Let the old picture change."
+				],
+				"neutral": [
+					"In love, {keyword} appears strained or delayed: tension at home, values drifting apart, or an ideal that doesn't match reality.",
+					"{keyword} here suggests a gap between the family or partnership you hoped for and the one you have.",
+					"With {keyword} turned inward, the work may be in finding home within yourself before seeking it in others."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} is suffering because of work pressures, choose one boundary this week, like a set time to stop, and keep it.",
+					"{keyword} may feel strained when work spills into home. One thing in your control: tell the people you live with what's happening, so they don't have to guess.",
+					"When {keyword} seems lost in the busyness, plan one small thing to look forward to together. It helps more than you'd think."
+				],
+				"curious": [
+					"Here {keyword} may be asking whether your career goals and home life are pulling in different directions. Where's the tension?",
+					"What if {keyword} is being postponed for a future that keeps moving? What could you enjoy now rather than later?",
+					"{keyword} may be turning inward. What would make you feel at home in your work, not just at home?"
+				],
+				"grieving": [
+					"If you are grieving, {keyword} may feel impossible to balance with work. Let work be the thing that gives, if anything has to.",
+					"{keyword} may be strained after a loss at work or at home. Let yourself step back where you can.",
+					"After a loss, {keyword} may simply mean getting through the week. That's enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} under strain can point to overwork. How many hours are going to the job that you'd rather give to home?",
+					"Read plainly, {keyword} here suggests a conflict between ambition and family life. Which matters more right now, honestly?",
+					"No mysticism: {keyword} slipping often comes from small compromises that add up. Which one could you reverse?"
+				],
+				"hopeful": [
+					"{keyword} may be within reach with a few changes. Hope is reasonable; start with one adjustment to your schedule.",
+					"If you are hoping for balance, {keyword} may come through clearer boundaries between work and home.",
+					"{keyword} could return when you align your ambitions with what matters most to you."
+				],
+				"neutral": [
+					"At work, {keyword} appears strained: work and home in conflict, or a sense that success isn't bringing fulfilment.",
+					"{keyword} here suggests reassessing how your career fits with the life you want.",
+					"With {keyword} turned inward, the focus may be on what truly makes you feel fulfilled."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} is strained by money worries, talk openly with the people you share costs with. A problem named together tends to feel lighter than one carried alone.",
+					"{keyword} may feel fragile while finances are tight. One thing in your control: agree on a single small saving as a household, and notice how it feels to pull together.",
+					"When money stress seems to threaten {keyword}, remember that the best evenings at home rarely cost much. Plan one this week and keep it simple."
+				],
+				"curious": [
+					"Here {keyword} may raise a question: are you spending to create the image of a happy home rather than the feeling of one?",
+					"What if {keyword} is being tugged apart by different money values in the same household? What does each person quietly want money to do for them?",
+					"{keyword} may be turning inward. If no one could see your home, your car or your holidays, what would make you feel secure?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may be strained by practical worries that arrive too soon. Let someone you trust help with the paperwork.",
+					"{keyword} may feel far away when shared accounts and shared belongings keep reminding you of someone gone. Go as slowly as you need.",
+					"If grief has unsettled {keyword}, cover the essentials and let the bigger decisions about home and money wait."
+				],
+				"skeptical": [
+					"Practically, {keyword} under strain can point to financial conflict at home. Is there a disagreement about spending that keeps resurfacing?",
+					"Read plainly, {keyword} here suggests money and values are out of step. Where does your spending say something your household wouldn't agree with?",
+					"No magic needed: {keyword} slipping often comes from unspoken expectations about who pays for what. A plain conversation can clear a lot."
+				],
+				"hopeful": [
+					"{keyword} may be rebuilt through honest conversation. Hope is reasonable; begin with one goal everyone at home can get behind.",
+					"If you are hoping for stability, {keyword} may grow from simpler living and clearer agreements rather than from earning more.",
+					"{keyword} could return as money starts serving what matters to the people you share it with."
+				],
+				"neutral": [
+					"In money matters, {keyword} appears strained: financial tension at home, spending out of step with shared values, or security postponed.",
+					"{keyword} here suggests looking at how money shapes the mood among the people you live with.",
+					"With {keyword} turned inward, the question may be what security means to you personally, beyond what the household shows."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} feels strained, look after your own basics first. Rest, eat, and let the people around you know you need a little space.",
+					"{keyword} may be affected by tension at home. One thing in your control: find one quiet corner and make it yours for ten minutes a day.",
+					"When {keyword} feels shaky, reach out to one person who makes you feel safe. Even a short call can settle your body."
+				],
+				"curious": [
+					"Here {keyword} may be asking how your home affects your energy. Which rooms do you relax in, and which make your shoulders rise?",
+					"What if {keyword} is turning inward? What would it take to feel at home in your own body, apart from anyone else's needs?",
+					"{keyword} may be on pause. What one change at home, a softer light or a quieter evening, could help you rest more easily?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel broken, and the house may feel too quiet or too full. Let your body rest wherever it can.",
+					"{keyword} may be strained while everyone at home grieves in their own way. You don't have to match anyone's pace.",
+					"If {keyword} has slipped away since your loss, be patient with yourself. Tiredness is part of carrying something heavy."
+				],
+				"skeptical": [
+					"Practically, {keyword} under strain can point to friction at home draining your energy. What is the smallest change that would ease it?",
+					"Read plainly, {keyword} here suggests your surroundings may not be restful. Noise, clutter or late nights are worth looking at without blame.",
+					"No mysticism: {keyword} slipping often shows up in sleep and mood first. Notice the pattern before deciding what to change."
+				],
+				"hopeful": [
+					"{keyword} may return as tensions ease. Hope is reasonable; keep protecting rest and the people who help you feel calm.",
+					"If you are hoping to feel better, {keyword} may grow from creating one calmer space or routine at home.",
+					"{keyword} could be rebuilt slowly, through gentle habits that everyone in the household can share."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} appears strained: tension at home, disconnection from others, or too little real rest.",
+					"{keyword} here suggests looking at how relationships and surroundings are affecting your energy.",
+					"With {keyword} turned inward, the focus may be on feeling at ease in yourself, whatever is happening around you."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} feels blocked, return to one practice that grounds you, however small. Familiar rituals can hold you steady.",
+					"{keyword} may feel distant just now. One thing in your control: a few minutes each evening to name what you're thankful for, even one thing.",
+					"When {keyword} seems out of reach, remember that belonging can begin with belonging to yourself. Start there."
+				],
+				"curious": [
+					"Here {keyword} may ask whether you've been looking for wholeness mainly in other people. What would it mean to find some of it within?",
+					"What if {keyword} has been shaped by an ideal you inherited? Which beliefs about family and happiness are truly yours?",
+					"{keyword} may be on pause while you redraw the picture. What would a complete life look like if you designed it from scratch?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel broken, as if the circle can never be whole again. Let your inner life hold the gap gently.",
+					"{keyword} may be delayed by loss. That's natural; you don't need to feel complete now, or soon.",
+					"If {keyword} has slipped away, don't chase it. Sometimes the sense of belonging returns quietly, through small kindnesses."
+				],
+				"skeptical": [
+					"Practically, {keyword} under strain can point to seeking acceptance where it isn't offered. Where do you actually feel accepted as you are?",
+					"Read plainly, {keyword} here suggests an ideal of togetherness that real life can't match. What would good enough look like?",
+					"No supernatural claim needed: {keyword} slipping often comes from disconnection. Which relationship would be worth reconnecting with first?"
+				],
+				"hopeful": [
+					"{keyword} may return in a quieter, more honest form. Hope is fair; keep nurturing the connections that feel real.",
+					"If you are hoping for wholeness, {keyword} may come from within before it shows up in your relationships.",
+					"{keyword} could grow from accepting your family and yourself as they are, rather than as the picture says they should be."
+				],
+				"neutral": [
+					"In your inner life, {keyword} appears strained: disconnection, ideals that don't fit, or belonging sought only outside yourself.",
+					"{keyword} here suggests looking for wholeness within, as well as among others.",
+					"With {keyword} turned inward, the focus may be on feeling at home with yourself."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} feels strained, focus on one small act of connection today: a message, a shared cup of tea. It can steady you.",
+					"{keyword} may feel further off than usual. One thing in your control: reach out to the person you feel safest with.",
+					"When {keyword} seems shaken, remember that homes and families go through rough seasons and come through them. Take today as it comes."
+				],
+				"curious": [
+					"Here {keyword} may ask whether the picture of happiness you carry is really yours. Whose voice is describing it?",
+					"What if {keyword} is turning inward? What makes you feel at home in your own life, apart from anyone's approval?",
+					"{keyword} may be on hold while things rearrange. What would make life feel whole to you now, not years ago?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel broken, and that's all right. You don't need to feel whole now.",
+					"{keyword} may be delayed by loss. Let the people who care about you sit close, even without words.",
+					"If {keyword} has slipped away, be gentle. It may return, slowly, in a shape you don't expect."
+				],
+				"skeptical": [
+					"Practically, {keyword} under strain can point to unspoken tension or expectations that are too high. Which fits your situation?",
+					"Read plainly, {keyword} here suggests harmony that exists on the surface only. What isn't being said?",
+					"No mysticism: {keyword} slipping usually comes from small neglect over time. What needs a little attention this week?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. Hope is reasonable, especially if people are still willing to try.",
+					"If you are hoping for contentment, {keyword} may grow from within first, and then spread to the people around you.",
+					"{keyword} could be rebuilt in a new form that fits the life you're actually living."
+				],
+				"neutral": [
+					"Overall, {keyword} appears strained or delayed: tension at home, disconnection, or ideals that don't match reality.",
+					"{keyword} here suggests looking at what truly makes you feel at home.",
+					"With {keyword} turned inward, the focus may be on fulfilment that doesn't depend on a perfect picture."
+				]
+			}
+		}
+	}
+}

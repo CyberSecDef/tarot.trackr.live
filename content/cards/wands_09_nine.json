@@ -1,0 +1,412 @@
+{
+	"id": "wands_09_nine",
+	"name": "Nine of Wands",
+	"facets": [
+		{
+			"id": "resilience",
+			"keywords": ["resilience", "the strength to keep going", "a second wind"]
+		},
+		{
+			"id": "vigilance",
+			"keywords": ["vigilance", "a guarded heart", "a watchful stance"]
+		},
+		{
+			"id": "last_stretch",
+			"keywords": ["the last stretch", "a final push", "endurance near the finish"]
+		},
+		{
+			"id": "boundaries",
+			"keywords": ["a firm boundary", "a line drawn from experience"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If love has hurt you before, {keyword} makes sense. One thing in your control: notice one person who has been consistently kind, and let them a little closer.",
+					"{keyword} can feel tiring in a relationship, always braced for the next knock. For tonight, try setting the guard down for one honest conversation.",
+					"When you are worried about being let down again, {keyword} is a reminder that you have come through hard things. You can move slowly and still move."
+				],
+				"curious": [
+					"{keyword} asks an interesting question about love: which of your defences still protect you, and which just keep good people out?",
+					"What would {keyword} look like if it were a gate rather than a wall? Who would you open it for first?",
+					"{keyword} hints that a relationship may be close to coming through a hard patch. What has kept you both going this far?"
+				],
+				"grieving": [
+					"{keyword} may be what is holding you up while you miss someone. You don't need to be strong for anyone else; leaning is allowed.",
+					"When love has been lost, {keyword} can look like simply getting through one more evening. That is enough, and it counts.",
+					"{keyword} does not ask you to open your heart again before you are ready. It may only mean protecting what is tender for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about trust. Are your boundaries based on this person's actions, or on someone from the past?",
+					"Read plainly, {keyword} points to relationship fatigue. Are you still giving effort that isn't being matched? That is worth naming.",
+					"No mystery needed: {keyword} describes the caution people build after being hurt. The useful question is whether it still fits the situation you are in."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign if you have been working through a hard time with someone. It is fair to hope you are nearer the end of it than the start.",
+					"If you are hoping to love again, {keyword} suggests your experience can make you wiser rather than harder. Let it guide you, not stop you.",
+					"{keyword} invites you to keep going in a relationship worth the effort, while remembering that you are allowed to rest along the way."
+				],
+				"neutral": [
+					"In love, {keyword} points to persistence, caution born of experience and the will to see something through.",
+					"{keyword} highlights a heart that has been tested and is still standing, perhaps a little guarded.",
+					"{keyword} asks how much of your caution in love protects you, and how much it costs you."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work has been a long slog, {keyword} reminds you that you have already carried a lot. One thing in your control: identify the single remaining task that matters most.",
+					"{keyword} can feel draining when you are bracing for one more setback. Take a proper break today, even if it is only twenty minutes.",
+					"When you fear one more problem will tip you over, {keyword} invites you to look at how much you have already handled. That record is real."
+				],
+				"curious": [
+					"{keyword} asks a lively question: what has kept you going at work through the hard parts? That answer may say a lot about what you value.",
+					"What might {keyword} look like if you shared the load? Is there someone who would gladly help for this last part?",
+					"{keyword} hints that a project may be nearer completion than it feels. What would finishing actually look like?"
+				],
+				"grieving": [
+					"If you are grieving, {keyword} at work may be all you have left to give. It is fine to do only what is essential for a while.",
+					"{keyword} can feel heavy when you are carrying a loss alongside your job. Let someone know, even briefly, so you are not carrying both in silence.",
+					"When something at work has ended, {keyword} may simply be turning up. That is enough for now."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about endurance. Is this project nearly done, or have you just been tired for so long that it feels that way? Check the facts.",
+					"{keyword} is a prompt to protect your time. Which interruptions or requests could you decline to get this finished?",
+					"Read practically, {keyword} asks whether caution at work is serving you or slowing you. Experience is useful; suspicion of everything is not."
+				],
+				"hopeful": [
+					"{keyword} is a hopeful sign for your working life. If you have been pushing through, it is reasonable to hope the hardest part is behind you.",
+					"If you are hoping to see something through, {keyword} encourages you to pace yourself. Steady beats heroic on the final stretch.",
+					"{keyword} invites you to trust your experience. You have learned a great deal from what you have already faced."
+				],
+				"neutral": [
+					"At work, {keyword} points to persistence, caution and the effort of seeing a hard project through.",
+					"{keyword} highlights experience earned the hard way and the wariness that can come with it.",
+					"{keyword} suggests that you may be closer to the finish than you feel."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money has been tight for a long time, {keyword} reminds you that you have been managing. One thing in your control: protect one small amount and leave it untouched.",
+					"{keyword} around money can feel exhausting. You don't have to solve everything this month; just hold steady on the essentials.",
+					"When you are waiting for the next unexpected cost, {keyword} invites you to set aside a little buffer, however small. It can ease the bracing."
+				],
+				"curious": [
+					"{keyword} poses an interesting question: which money habit has helped you get through the hardest times?",
+					"What might {keyword} reveal about your relationship with risk? Notice where caution helps and where it holds you back.",
+					"{keyword} hints that a long financial effort may be nearing a milestone. What would you like to do when you reach it?"
+				],
+				"grieving": [
+					"{keyword} may be what keeps the lights on after a loss. You are allowed to ask for help while you hold steady.",
+					"If a loss has stretched your finances, {keyword} might simply mean getting through this week. That is real effort.",
+					"{keyword} does not ask you to be strong about money right now. Protect what you can, and let the rest wait."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to review your safety net. How many weeks could you manage if income paused?",
+					"{keyword} raises a plain question: is your caution with money based on today's numbers, or on an old scare?",
+					"Read plainly, {keyword} points to the value of finishing what you started: paying down one debt, filling one savings goal."
+				],
+				"hopeful": [
+					"{keyword} is encouraging around money. If you have been disciplined for a long time, it is fair to hope that effort is close to showing.",
+					"If you are hoping for more security, {keyword} suggests keeping going a little longer. The last part of a plan often matters most.",
+					"{keyword} invites you to protect what you have built while still allowing yourself a small reward."
+				],
+				"neutral": [
+					"Around money, {keyword} points to careful management, protecting resources and pushing through a lean stretch.",
+					"{keyword} highlights financial caution earned from experience.",
+					"{keyword} suggests holding on a little longer while staying alert to what you need."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel worn down, {keyword} reminds you that you have more strength than this moment suggests. One thing in your control: rest before you feel you have earned it.",
+					"{keyword} can mean protecting your energy when it is running low. Say no to one thing today that would drain you.",
+					"When you are bracing for the next hard day, {keyword} invites you to soften your shoulders and take a slow breath. Guarding can be done gently."
+				],
+				"curious": [
+					"{keyword} asks an inviting question: what gives you a lift when you feel you have nothing left?",
+					"What would {keyword} look like as care rather than pushing through? Try one small act of rest and notice what happens.",
+					"{keyword} hints that your body may be holding a lot of watchfulness. Where do you feel it, and what helps it ease?"
+				],
+				"grieving": [
+					"Grief can make {keyword} feel like the only thing holding you up. Leaning on others is allowed.",
+					"{keyword} may simply look like eating something, sleeping when you can and letting the rest go. That is enough.",
+					"When you are carrying a loss, {keyword} doesn't need to be impressive. Getting through the day gently is a real achievement."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about energy reserves. How often do you push through tiredness instead of resting?",
+					"{keyword} raises a plain question: are you protecting good habits, or guarding against change you might actually need?",
+					"No mysticism needed: {keyword} points to the cost of running on willpower alone. What would make your routine easier to sustain?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image for your energy. If you have been looking after yourself through a hard stretch, it is fair to hope easier days are near.",
+					"If you are hoping to feel stronger, {keyword} suggests continuing with what works while making space for rest.",
+					"{keyword} invites you to notice how much you have kept up, even on bad days. That consistency matters."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to endurance, protecting your energy and pushing through a demanding stretch.",
+					"{keyword} highlights the difference between resilience and running on empty.",
+					"{keyword} suggests guarding your reserves and noticing when to rest."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels battered, {keyword} reminds you that you are still searching, which means something still matters. Rest in one simple practice today.",
+					"{keyword} may come from past disappointment. One steadying step: write down a belief that has held you through hard times.",
+					"When doubt is tiring, {keyword} invites you to stop defending your path and simply walk it for a day."
+				],
+				"curious": [
+					"{keyword} opens a question: what has your hardest season taught you that an easy one never could?",
+					"What if {keyword} were a teacher? Notice what your caution is protecting, and whether it still needs protecting.",
+					"{keyword} hints that you may be near the end of a long inner struggle. What would you like to carry forward from it?"
+				],
+				"grieving": [
+					"{keyword} may be what keeps you going while grief shakes everything. You don't have to find meaning yet.",
+					"When loss has worn you down, {keyword} does not ask you to be wise about it. Simply being here is enough.",
+					"{keyword} can be very quiet, a small ritual kept, a candle lit, a moment of stillness. That is practice too."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about the scars experience leaves. Which ones made you wiser, and which made you smaller?",
+					"{keyword} needn't be mystical. It simply asks whether you are still open to new ideas, or guarding old ones out of habit.",
+					"Treat {keyword} as a prompt: what has kept you going when nothing made sense? That may be the closest thing you have to a practice."
+				],
+				"hopeful": [
+					"{keyword} encourages you to trust your own endurance. Growth often happens most in the stretches that feel hardest.",
+					"If you are hoping for peace, {keyword} suggests it may be nearer than it feels. Keep going gently.",
+					"{keyword} invites you to honour what you have survived on the inner path. That honouring is itself a step."
+				],
+				"neutral": [
+					"On the inner path, {keyword} points to persistence, hard-won wisdom and the courage to keep going.",
+					"{keyword} highlights a spirit that has been tested and remains standing.",
+					"{keyword} suggests that the end of a long struggle may be closer than it looks."
+				]
+			},
+			"general": {
+				"anxious": [
+					"Whatever you are facing, {keyword} reminds you how much you have already come through. One thing in your control: rest for a moment before the next step.",
+					"{keyword} can feel exhausting when you are waiting for the next blow. Name one thing that is going all right today, and hold on to it.",
+					"When you are bracing for more, {keyword} invites you to ask for help with the last part. You don't have to finish alone."
+				],
+				"curious": [
+					"{keyword} asks a lively question: what has kept you going through everything so far? That thread may be worth following.",
+					"What might change if you treated {keyword} as wisdom rather than weariness? You know things now that you didn't before.",
+					"{keyword} hints that you may be nearly through. What would you like to do once this stretch is behind you?"
+				],
+				"grieving": [
+					"{keyword} may be what keeps you upright while you grieve. You don't need to be strong for everyone.",
+					"When you are carrying a loss, {keyword} can be as simple as getting out of bed. That is enough.",
+					"{keyword} doesn't ask you to fight on. It only notes, gently, that you are still here, and that matters."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to check how close you really are to the end of something. Measure it rather than feel it.",
+					"{keyword} raises a useful question: is your caution protecting you, or keeping out things you actually want?",
+					"There is nothing magic in {keyword}, only the ordinary strength people find when they have been through a lot. Where are you drawing on it now?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image if you have been pushing through something hard. It is fair to hope you are near the end.",
+					"If you are hoping for a good outcome, {keyword} suggests keeping going while pacing yourself. Endurance is not the same as strain.",
+					"{keyword} invites you to trust that what you have learned will help with what is left."
+				],
+				"neutral": [
+					"{keyword} speaks of resilience, caution and the will to finish what you started.",
+					"In life as a whole, {keyword} points to a hard stretch nearly completed and the wariness it may have left.",
+					"{keyword} brings attention to what you are protecting, and whether you still need to."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you feel exhausted in love, {keyword} may be running low. One thing in your control: tell someone close that you need a little care right now.",
+					"{keyword} may have turned into constant suspicion, and that is tiring. Before assuming the worst, check one fact with the person directly.",
+					"When you feel you can't give any more, {keyword} can seem out of reach. Rest first; decisions can wait until you have more to give."
+				],
+				"curious": [
+					"{keyword} may be overdone here. What would happen if you let one person see you without your guard up?",
+					"What if {keyword} has been protecting you from closeness as well as from hurt? It could be worth noticing which.",
+					"{keyword} hints at a question: are you holding on to a relationship out of hope, or out of habit?"
+				],
+				"grieving": [
+					"{keyword} may feel spent while you grieve. It is all right to stop being strong for a while.",
+					"If {keyword} has worn thin since your loss, be gentle with yourself. Being tired is not the same as giving up.",
+					"{keyword} can rest for now. When you are ready, you can decide what you want to protect."
+				],
+				"skeptical": [
+					"Practically, {keyword} may have become defensiveness. Are you reacting to the person in front of you or to past hurts?",
+					"{keyword} is a prompt to check whether you are carrying a relationship alone. Effort that isn't shared tends to run out.",
+					"Read plainly, {keyword} can point to refusing help. Letting someone support you is not weakness."
+				],
+				"hopeful": [
+					"{keyword} may be resting rather than gone. If you are hoping to feel strong in love again, start with rest.",
+					"If you have been very guarded, {keyword} could soften. Hope is reasonable when you let someone trustworthy in a little.",
+					"{keyword} might return once you stop carrying everything alone."
+				],
+				"neutral": [
+					"In love, {keyword} can point to exhaustion, over-defensiveness, or holding on when you have little left to give.",
+					"{keyword} appears worn down or overdone, asking whether your guard is protecting you or isolating you.",
+					"{keyword} may be faltering, inviting rest and a look at what you truly want to keep."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If you feel at the end of your rope at work, {keyword} may be running out. One step in your control: ask for help with one specific task today.",
+					"{keyword} may feel impossible after a long stretch of pressure. You are allowed to rest before burnout decides for you.",
+					"When you are suspicious of every new request, {keyword} may have tipped into exhaustion. Take stock of what is truly a threat and what is just more work."
+				],
+				"curious": [
+					"{keyword} may be turning into stubbornness. What would you see if you let go of one position?",
+					"What if stepping back from {keyword} is the wiser move right now? Sometimes the last stretch is better walked after a rest.",
+					"{keyword} hints at a question: are you so braced for setbacks that you miss chances?"
+				],
+				"grieving": [
+					"If you are grieving, {keyword} at work may have run dry. It is fine to do less, and to tell someone why.",
+					"{keyword} may be spent since your loss. Colleagues can carry some of the load while you rest.",
+					"When a loss touches your working life, {keyword} can wait. No project is worth your last reserves."
+				],
+				"skeptical": [
+					"Plainly, {keyword} may be costing more than it is worth. Is this project still worth finishing, or is it time to cut losses?",
+					"{keyword} is a prompt to check for paranoia. Not every colleague is a competitor; some may be allies.",
+					"Treat {keyword} as a question about pacing. If you collapse before the finish, the work doesn't get done either."
+				],
+				"hopeful": [
+					"{keyword} may be on hold while you recharge. If you are hoping to finish strong, rest is part of the plan.",
+					"If you have felt worn out, {keyword} could return with support. Hope is fair, especially if you share the load.",
+					"{keyword} might come back once the pressure eases. Use this time to recover your footing."
+				],
+				"neutral": [
+					"At work, {keyword} can point to burnout, suspicion of others, or giving up just before the finish.",
+					"{keyword} appears exhausted or overdone: either the will to continue is fading, or the guard is too high.",
+					"{keyword} suggests reassessing what you can sustain and who could help."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money stress has gone on too long, {keyword} may be wearing thin. One thing in your control: talk through one worry with someone you trust.",
+					"{keyword} may feel impossible after a run of hard months. Be kind to yourself, then choose one small next step.",
+					"When you are braced for every bill, {keyword} can tip into constant worry. Look at the actual numbers once, then set them down for the night."
+				],
+				"curious": [
+					"{keyword} may be overdone. What would you do with money if you weren't expecting the worst?",
+					"What if {keyword} has been stopping you from investing in yourself? It could be interesting to look.",
+					"{keyword} hints at a question: are you holding on to something financially just to avoid admitting it isn't working?"
+				],
+				"grieving": [
+					"{keyword} may feel spent after a loss. It is all right to ask someone to help with money for a while.",
+					"If {keyword} has run low since your loss, there is no need to push. Protect the essentials and rest.",
+					"{keyword} can be set aside for now. Holding steady is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be overdone if fear keeps you from reasonable spending on things you need.",
+					"{keyword} is a prompt about sunk costs. Would you start this financial commitment today, knowing what you know?",
+					"Read plainly, {keyword} can point to exhaustion from managing money alone. Could you share or automate some of it?"
+				],
+				"hopeful": [
+					"{keyword} may be paused rather than gone. If you are hoping to get back on track, rest and a simple plan help.",
+					"If you have been overly cautious, {keyword} could loosen into healthier confidence. Hope is reasonable.",
+					"{keyword} might return once the pressure lifts."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to financial fatigue, excessive caution, or holding on too long.",
+					"{keyword} appears worn thin or overdone, asking where you need rest and where you need courage.",
+					"{keyword} suggests reviewing which financial burdens you can put down."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel completely drained, {keyword} may be running low. One thing in your control: let yourself rest today without guilt.",
+					"{keyword} may feel beyond you right now. You are allowed to stop pushing and let someone else help.",
+					"When you are constantly on edge, {keyword} can wear you out. Try one slow breath and a moment of stillness."
+				],
+				"curious": [
+					"{keyword} may be overdone. What would it feel like to stop bracing, even for an hour?",
+					"What if letting go of {keyword} for a while is the most caring thing you could do for yourself?",
+					"{keyword} hints at a question: where are you pushing through when your body is asking you to stop?"
+				],
+				"grieving": [
+					"Grief can drain {keyword} completely. Rest is not giving up; it is care.",
+					"If {keyword} has run out since your loss, be gentle with yourself. Your body is carrying a lot.",
+					"{keyword} can wait. When you are ready, small steps will be enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} can point to running on empty. When did you last have a full day of rest?",
+					"{keyword} is a prompt about vigilance. Being constantly on alert uses energy; how much is left for everything else?",
+					"No mysticism here: {keyword} out of balance often means pushing too hard for too long. What could you drop?"
+				],
+				"hopeful": [
+					"{keyword} may be resting rather than gone. Hope is reasonable, especially if you let yourself recharge.",
+					"If you are hoping to feel stronger, {keyword} encourages rest first. Strength often follows.",
+					"{keyword} could return once you stop forcing it."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to exhaustion, constant tension, or pushing on past your limits.",
+					"{keyword} appears depleted or overdone, asking where you need rest and support.",
+					"{keyword} suggests checking whether you are guarding your energy or simply spending it."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels exhausted, {keyword} may be wavering. One steady step: rest from seeking for a day.",
+					"{keyword} may feel out of reach after a long struggle. You don't have to keep fighting for meaning right now.",
+					"When doubt has worn you down, {keyword} invites you to lean on something or someone outside yourself."
+				],
+				"curious": [
+					"{keyword} may be overdone. What would open up if you lowered your guard to new ideas?",
+					"What if letting go of {keyword} is part of the path right now? Surrender can be a practice too.",
+					"{keyword} hints at a question: are you protecting your beliefs, or protecting yourself from changing?"
+				],
+				"grieving": [
+					"{keyword} may feel spent while you grieve. That is not a failure of faith; it is the weight of loss.",
+					"If grief has drained {keyword}, be gentle with yourself. Meaning can return slowly.",
+					"{keyword} may simply be resting. For now, honesty about how you feel is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to rigidity, beliefs held so defensively that nothing new can get in.",
+					"{keyword} is a prompt to look at fatigue. Is your practice still nourishing, or has it become a burden?",
+					"Read plainly, {keyword} can mean giving up just before something becomes clear. It is worth one more patient look."
+				],
+				"hopeful": [
+					"{keyword} may be on hold while you rest. The hope here is that you return with more openness.",
+					"If you have been defensive on your path, {keyword} could soften into trust. That is worth looking for.",
+					"{keyword} might deepen once you stop fighting for it."
+				],
+				"neutral": [
+					"On the inner path, {keyword} can point to spiritual fatigue, defensiveness, or giving up near the end.",
+					"{keyword} appears exhausted or overdone, asking where you need rest and openness.",
+					"{keyword} suggests examining what you are guarding and why."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you feel at the end of your strength, {keyword} may be running low. One thing in your control: ask for help with one thing today.",
+					"{keyword} may feel impossible right now. You don't have to keep going alone; rest is allowed.",
+					"When you are braced for the worst, {keyword} can wear you out. Look for one thing that is actually safe, and let yourself notice it."
+				],
+				"curious": [
+					"{keyword} feels a little off-kilter. What would happen if you put your guard down for a day?",
+					"What if {keyword} has turned into stubbornness? It could be interesting to notice where.",
+					"{keyword} hints at something to explore: what are you holding on to that you could set down?"
+				],
+				"grieving": [
+					"{keyword} may feel spent while you are grieving, and that is all right. You don't have to be strong today.",
+					"If loss has worn down {keyword}, be gentle with yourself. Strength can return slowly.",
+					"{keyword} may be set aside for a while. Some seasons are for resting."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance: either exhausted or over-guarded. Look at your last week and see which.",
+					"{keyword} is a prompt about sunk costs. Is this worth continuing, or is it time to stop?",
+					"Read plainly, {keyword} can point to fatigue, suspicion or refusing help. None needs a mystical explanation, only attention."
+				],
+				"hopeful": [
+					"{keyword} may simply be resting. Hope is fair here, especially if you let yourself recharge.",
+					"If you have been very guarded, {keyword} encourages a softer stance. Openness can be a strength.",
+					"{keyword} might return in a wiser form. Notice the small moments of strength; they still count."
+				],
+				"neutral": [
+					"Overall, {keyword} can point to exhaustion, defensiveness, or giving up just before the finish.",
+					"{keyword} appears depleted or overdone, asking you to notice what you can still carry.",
+					"{keyword} suggests a pause to rest, or a chance to lower your guard."
+				]
+			}
+		}
+	}
+}

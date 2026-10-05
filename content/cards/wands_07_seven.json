@@ -1,0 +1,412 @@
+{
+	"id": "wands_07_seven",
+	"name": "Seven of Wands",
+	"facets": [
+		{
+			"id": "defense",
+			"keywords": ["standing your ground", "a position worth defending", "holding the line"]
+		},
+		{
+			"id": "conviction",
+			"keywords": ["conviction", "the courage of your beliefs", "a stand on principle"]
+		},
+		{
+			"id": "challenge",
+			"keywords": ["competition", "a challenge from others", "pressure from several sides"]
+		},
+		{
+			"id": "perseverance",
+			"keywords": ["perseverance", "staying power", "a refusal to back down"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you feel pushed in a relationship, {keyword} reminds you that you are allowed a say. One thing in your control: decide on one boundary and state it simply, without apology.",
+					"{keyword} in love can feel tense, as if every conversation is a test. Take a breath before you reply; you can be firm and still be kind.",
+					"When others have opinions about who you love or how, {keyword} invites you to remember that this is your life. Talk it through with one person who is firmly on your side."
+				],
+				"curious": [
+					"{keyword} asks an interesting question about love: what in your relationships is truly non-negotiable for you? Naming it could surprise you.",
+					"What would {keyword} look like if it meant protecting a relationship rather than winning an argument inside it? The difference is worth exploring.",
+					"{keyword} hints that a bond may be tested by outside voices, from family, friends or circumstance. Which of those voices do you actually want to listen to?"
+				],
+				"grieving": [
+					"{keyword} may look like guarding the memory of someone you have lost, even when others want you to move on faster. You set the pace.",
+					"When love has ended, {keyword} can mean protecting your own tender space for a while. Saying no to well-meant pressure is allowed.",
+					"{keyword} doesn't ask you to fight anyone. It may simply be the quiet decision to grieve in your own way, and to let that be enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about boundaries. Is there something in a relationship you keep conceding that you would rather hold?",
+					"Read plainly, {keyword} asks whether you are defending a relationship or defending your pride within it. They can feel identical in the moment.",
+					"No mystery here: {keyword} describes the ordinary friction of holding a view someone close disagrees with. The useful question is whether this one is worth holding."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign if you have been holding out for what you truly want in love. Patience with a clear head is a strength.",
+					"If you are hoping a relationship can weather outside pressure, {keyword} suggests standing together on what you both care about. That shared ground matters.",
+					"{keyword} invites you to trust your own standards. Holding to them may feel lonely at times, but it tends to lead somewhere truer."
+				],
+				"neutral": [
+					"In love, {keyword} points to boundaries, loyalty under pressure and the courage to say what you need.",
+					"{keyword} highlights a relationship, or a part of yourself, that is being tested and asked to stand firm.",
+					"{keyword} asks what you are willing to protect in your closest bonds, and why."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If you feel under fire at work, {keyword} suggests you have more footing than it seems. Gather the facts behind your position and keep them close.",
+					"{keyword} can be draining when you feel outnumbered. One thing in your control: pick the single issue that matters most and let the smaller ones go.",
+					"When colleagues or competitors press in, {keyword} invites you to steady your breath before you respond. A calm, short answer often holds better than a long defence."
+				],
+				"curious": [
+					"{keyword} asks a lively question: which idea at work are you willing to argue for, even if it is unpopular? That may be where your real interest lies.",
+					"What might {keyword} reveal about the kind of work you care about? Notice where you dig in, and where you let things slide.",
+					"{keyword} hints that a competitive field may sharpen you. Who are you measuring yourself against, and are they the right yardstick?"
+				],
+				"grieving": [
+					"If you are grieving, {keyword} at work may take more out of you than usual. It is fine to defend only what truly needs defending this month.",
+					"{keyword} can feel heavy when you are already carrying a loss. Let a trusted colleague stand with you on the things you can't face alone.",
+					"When a job or team has been lost, {keyword} may mean protecting your reputation and your memories of good work. Both deserve care."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about competition and pushback. Is your position actually strong, or just familiar? Test it against the best counterargument.",
+					"{keyword} is a prompt to check your evidence. If you are going to hold a line at work, make sure the data is on your side.",
+					"Read practically, {keyword} asks whether a fight at work is worth the energy it costs. Some are; some only feel that way."
+				],
+				"hopeful": [
+					"{keyword} is encouraging if you have earned your place. Others may challenge it, but that is often a sign you have something worth wanting.",
+					"If you are hoping to keep a role or project, {keyword} suggests making your value clear and steady rather than loud.",
+					"{keyword} invites you to hold firm on good work. It may take persistence, and persistence is something you can choose each day."
+				],
+				"neutral": [
+					"At work, {keyword} points to competition, defending your role or ideas, and keeping your nerve under pressure.",
+					"{keyword} highlights a time to stand behind your work and not be talked out of what you know.",
+					"{keyword} suggests resilience in a crowded or contested field."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If financial pressure is coming from several directions, {keyword} reminds you to protect the essentials first. List the three costs that matter most and guard them.",
+					"{keyword} around money can feel exhausting. One thing in your control: say no to one request or expense that isn't truly yours to carry.",
+					"When others push you to spend or lend, {keyword} invites you to pause before answering. It is fine to say you need a day to think."
+				],
+				"curious": [
+					"{keyword} poses an interesting question: which of your money choices would you defend to anyone, and which would you rather not explain?",
+					"What might {keyword} teach you about your financial values? Notice which pressures you resist easily and which you give in to.",
+					"{keyword} hints at a negotiation worth having. Is there a price, fee or wage you have accepted without pushing back?"
+				],
+				"grieving": [
+					"{keyword} may be needed if a loss has brought money decisions to your door. You are allowed to take time and to refuse to be rushed.",
+					"If others are pressing you about finances while you grieve, {keyword} can be as simple as saying, not yet.",
+					"{keyword} doesn't ask you to fight every battle now. Protect the basics and let the rest wait."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about financial boundaries. Who asks you for money or favours most often, and how do those requests feel?",
+					"{keyword} raises a plain question: are you holding on to an investment, job or plan because it is sound, or because letting go feels like losing?",
+					"Read plainly, {keyword} points to competition for resources. Is there a cost you could renegotiate or a price you could compare?"
+				],
+				"hopeful": [
+					"{keyword} is encouraging if you have been sticking to a plan under pressure. Steady discipline often pays off in time, though not on a fixed schedule.",
+					"If you are hoping to protect what you have built, {keyword} suggests clear limits and a little backbone. Both are within reach.",
+					"{keyword} invites you to stand by sensible choices, even when others are spending differently."
+				],
+				"neutral": [
+					"Around money, {keyword} points to protecting your resources, resisting pressure and holding to your own priorities.",
+					"{keyword} highlights competition for a share of something, and your right to claim your part.",
+					"{keyword} suggests defending a financial plan that still makes sense, while staying open to evidence."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel stretched thin, {keyword} reminds you that protecting your energy is allowed. Decline one thing this week that would cost more than it gives.",
+					"{keyword} can mean guarding your rest when everything seems to want a piece of you. One small step: keep one evening entirely free.",
+					"When stress comes from all sides, {keyword} invites you to plant your feet and breathe slowly for a minute. Steadiness can start in the body."
+				],
+				"curious": [
+					"{keyword} asks an inviting question: which healthy habit would you defend most fiercely if someone tried to take it from you?",
+					"What would {keyword} look like as a boundary around your sleep, your meals or your quiet time? Try one and notice how it feels.",
+					"{keyword} hints that your body may be holding tension from constant vigilance. Where do you feel it, and what helps it soften?"
+				],
+				"grieving": [
+					"Grief can make {keyword} feel like too much effort. Protecting your rest is enough of a stand for now.",
+					"{keyword} may simply mean saying no to visitors or plans when you are worn out. Your energy is precious right now.",
+					"When you are carrying a loss, {keyword} might be the quiet choice to look after yourself even when it feels pointless. That counts."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about boundaries and energy. Which demands on your time leave you most depleted?",
+					"{keyword} raises a plain question: are you defending a habit because it helps you, or simply because it is yours?",
+					"No mysticism needed: {keyword} points to the cost of being constantly on guard. How often do you get to fully switch off?"
+				],
+				"hopeful": [
+					"{keyword} is encouraging if you have been protecting good routines. Keeping them through busy weeks is where their value shows.",
+					"If you are hoping to feel stronger, {keyword} suggests holding to the basics: rest, water, movement you enjoy.",
+					"{keyword} invites you to defend your wellbeing as you would a friend's. That firmness can be a form of care."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to protecting your energy, holding boundaries and resisting outside pressure.",
+					"{keyword} highlights the effort it takes to keep good habits when life is demanding.",
+					"{keyword} suggests noticing where you are on guard and whether it is helping or wearing you down."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your beliefs feel challenged, {keyword} reminds you that you don't have to defend them to everyone. Hold them quietly for now.",
+					"{keyword} may come with some inner unrest. One steadying step: write down the one value you are most sure of today.",
+					"When others question your path, {keyword} invites you to return to your own practice rather than to the argument."
+				],
+				"curious": [
+					"{keyword} opens a question: what do you believe strongly enough to stand for, even alone? It may be fewer things than you expect, and more important.",
+					"What if {keyword} is less about defending yourself and more about knowing yourself? Notice what you protect without thinking.",
+					"{keyword} hints at a test of faith or values. What might you learn about yourself by staying with it?"
+				],
+				"grieving": [
+					"{keyword} may look like holding on to what you believe while loss shakes everything around it. That is hard, and you don't have to do it perfectly.",
+					"When grief has unsettled your sense of meaning, {keyword} can mean protecting a small daily ritual that keeps you connected.",
+					"{keyword} doesn't ask you to argue with anyone about your grief. It is yours to carry in your own way."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about integrity under pressure. Which of your values do you keep only when it is convenient?",
+					"{keyword} needn't be mystical. It simply asks whether you are holding a belief because you have examined it or because you are used to it.",
+					"Treat {keyword} as a prompt to look at disagreement. Can you stand firm and still listen? That combination is rare and useful."
+				],
+				"hopeful": [
+					"{keyword} encourages you to keep faith with what matters to you. Values held steadily tend to grow stronger roots.",
+					"If you are hoping your path will feel more settled, {keyword} suggests continuing even when it is uphill. Persistence is a practice too.",
+					"{keyword} invites you to trust your inner compass. It may be tested, but tests can also clarify."
+				],
+				"neutral": [
+					"On the inner path, {keyword} points to conviction, integrity and the courage to stand apart.",
+					"{keyword} highlights beliefs being tested and the choice to keep or reconsider them.",
+					"{keyword} suggests that your values may be meeting resistance, and asks how you want to respond."
+				]
+			},
+			"general": {
+				"anxious": [
+					"Whatever is pressing on you, {keyword} reminds you that you have a right to your place. Choose the one thing most worth protecting and focus there.",
+					"{keyword} can feel tiring when challenges keep coming. One thing in your control: rest before the next round, not after.",
+					"When you feel outnumbered, {keyword} invites you to find one ally. Even a single steady voice can change how a situation feels."
+				],
+				"curious": [
+					"{keyword} asks a lively question: what are you willing to stand for right now? The answer may point to what you care about most.",
+					"What might change if you treated {keyword} as a sign that you have something others want? It can be a compliment in disguise.",
+					"{keyword} hints that a challenge may be sharpening you. What have you learned about yourself from holding on?"
+				],
+				"grieving": [
+					"{keyword} may feel exhausting while you are grieving. You don't need to defend anything today except your need for rest.",
+					"When you are carrying a loss, {keyword} can be the simple act of getting through the day on your own terms.",
+					"{keyword} doesn't ask you to be strong for everyone. It may only mean protecting a little space for yourself."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to choose your battles. Which conflicts in your life are worth the energy, and which are habit?",
+					"{keyword} raises a useful question: is your position strong, or just familiar? Testing it against the best objection is cheap and revealing.",
+					"There is nothing magic in {keyword}, only the ordinary work of holding steady under pressure. Where do you need that most this week?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image if you have been holding out for something worthwhile. Steadiness tends to count over time.",
+					"If you are hoping for a good outcome, {keyword} suggests keeping your footing and not giving away ground too easily.",
+					"{keyword} invites you to trust your own judgment. Others may push, but your reasons are still your reasons."
+				],
+				"neutral": [
+					"{keyword} speaks of defending what matters, holding firm under pressure and keeping your nerve.",
+					"In life as a whole, {keyword} points to challenge, competition and the courage to stay put.",
+					"{keyword} brings attention to what you are protecting, and whether it is still worth it."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you feel worn down in a relationship, {keyword} may be slipping because you are tired, not because you are wrong. One step in your control: rest before the next hard conversation.",
+					"{keyword} may feel impossible when you are anxious to keep the peace. You can let small things go while still naming the one thing that matters.",
+					"When you have been giving way again and again, {keyword} can feel out of reach. Talk to one friend who reminds you what you deserve."
+				],
+				"curious": [
+					"{keyword} may have turned into defensiveness. What if a criticism from someone close holds a grain of something useful?",
+					"What would happen if you put {keyword} down for a moment and simply listened? You could pick it back up afterwards if you chose.",
+					"{keyword} hints at a question: are you guarding your heart from real danger, or from closeness itself?"
+				],
+				"grieving": [
+					"{keyword} may feel beyond you while you are grieving. It is all right to let others make some decisions for a while.",
+					"If {keyword} has slipped away since your loss, be gentle with yourself. Tiredness is not weakness, and no one is keeping score.",
+					"{keyword} can wait. When you are ready, you can decide again what you want to protect."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be overdone. Is every disagreement turning into a contest you have to win?",
+					"{keyword} is a prompt to notice where you are giving in to avoid conflict. Peace bought that way often costs more later.",
+					"Read plainly, {keyword} can point to boundaries that have quietly eroded. Which one would you most like back?"
+				],
+				"hopeful": [
+					"{keyword} may be resting rather than gone. If you are hoping to feel stronger in love, start with one small, clear request.",
+					"If you have been too guarded, {keyword} could soften into something more open. Hope is reasonable when you let people in a little.",
+					"{keyword} might return once you are less exhausted. For now, choosing your moments is wisdom, not surrender."
+				],
+				"neutral": [
+					"In love, {keyword} can point to exhaustion from conflict, giving in too easily, or defensiveness that keeps people at a distance.",
+					"{keyword} appears weakened or overdone, asking whether you are protecting yourself or shutting others out.",
+					"{keyword} may be faltering, inviting a look at which boundaries matter and which have become walls."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If you feel overwhelmed at work, {keyword} may be slipping because you are trying to defend everything. One step: pick the one thing that matters most and let the rest go for now.",
+					"{keyword} may feel too hard after a long stretch of pushback. You are allowed to ask for support before you burn out.",
+					"When you fear losing ground, {keyword} can seem out of reach. Write down what is still secure, and start there."
+				],
+				"curious": [
+					"{keyword} may have hardened into stubbornness. What would you see if you argued the other side for five minutes?",
+					"What if stepping back from {keyword} is a strategy rather than a defeat? Sometimes ground given now is ground gained later.",
+					"{keyword} hints at a question: are you still fighting for a project you no longer believe in?"
+				],
+				"grieving": [
+					"If you are grieving, {keyword} at work may simply not be possible right now. It is fine to let someone else carry the argument.",
+					"{keyword} may have faded since your loss. Colleagues can wait; you can return to your causes when you have more to give.",
+					"When a loss touches your working life, {keyword} can feel pointless. You don't need to fight for anything today."
+				],
+				"skeptical": [
+					"Plainly, {keyword} may be costing more than it returns. Weigh the energy you spend defending this against what you would lose by yielding.",
+					"{keyword} is a prompt to check for defensiveness. Is feedback being heard as attack? That habit is easy to miss from the inside.",
+					"Treat {keyword} as a question about strategy. If you are outnumbered, a well-chosen retreat might preserve your position better than a stand."
+				],
+				"hopeful": [
+					"{keyword} may be on hold while you regroup. If you are hoping to come back stronger, use this pause to gather allies and evidence.",
+					"If you have given ground at work, {keyword} could return in a smarter form. Hope is fair, especially with a clearer plan.",
+					"{keyword} might soften into collaboration. Not every challenger has to be an opponent."
+				],
+				"neutral": [
+					"At work, {keyword} can point to feeling overwhelmed by competition, giving up too soon, or defensiveness that blocks good ideas.",
+					"{keyword} appears weakened or rigid: either the will to hold on is fading, or holding on has become the goal itself.",
+					"{keyword} suggests reassessing which positions at work are worth the fight."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If financial demands feel endless, {keyword} may be wearing thin. One thing in your control: list who and what is asking for your money, and choose one to pause.",
+					"{keyword} may feel impossible after giving in to too many requests. You can start again with one small no.",
+					"When money pressure is high, {keyword} can slip. Be kind to yourself, then pick one boundary to put back in place."
+				],
+				"curious": [
+					"{keyword} may have become a stubborn hold on something that no longer pays. What would you do if you were starting fresh?",
+					"What if {keyword} is less needed than you think? Some financial battles end better with a compromise.",
+					"{keyword} hints at a question: whose expectations are you giving in to when you spend?"
+				],
+				"grieving": [
+					"{keyword} may feel beyond you while you grieve. It is all right to ask someone you trust to help with money decisions for a while.",
+					"If {keyword} around money has slipped since your loss, that is understandable. Boundaries can be rebuilt later, when you have more to give.",
+					"{keyword} can wait. Protect the essentials, and leave the rest for another day."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be overdone if you are holding on to a plan that keeps costing you. Check whether you would choose it again today.",
+					"{keyword} is a prompt about giving in. Have you agreed to costs or loans just to avoid an awkward conversation?",
+					"Read plainly, {keyword} can point to fatigue from defending your budget. Automating a few decisions could take some pressure off."
+				],
+				"hopeful": [
+					"{keyword} may be paused rather than lost. If you are hoping to get back on track, start with the boundary that matters most.",
+					"If you have been rigid with money, {keyword} could loosen into something healthier. Flexibility can be wise.",
+					"{keyword} might come back once you have rested. Hope is reasonable when the plan is simple."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to boundaries slipping, giving in to pressure, or holding on to a losing position too long.",
+					"{keyword} appears faltering or overdone, asking which financial stands still make sense.",
+					"{keyword} suggests reviewing where you are defending your resources and where you have quietly given up."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel worn down from constant effort, {keyword} may be fading because you need rest. One thing in your control: take a real break today, however short.",
+					"{keyword} may feel too hard to keep up right now. You are allowed to lower the bar and simply look after the basics.",
+					"When you feel overwhelmed, {keyword} can slip away. Breathe, put your feet on the floor, and ask what your body needs in this minute."
+				],
+				"curious": [
+					"{keyword} may have turned into strain. What would it feel like to stop bracing, just for an evening?",
+					"What if letting go of {keyword} for a while is the healthier choice? Notice what your body says when you stop pushing.",
+					"{keyword} hints at a question: where are you holding tension out of habit rather than need?"
+				],
+				"grieving": [
+					"Grief can make {keyword} feel unreachable. Rest is not giving up; it is care.",
+					"If {keyword} has drained out of your routines since your loss, be gentle about it. Your energy is going where it is needed.",
+					"{keyword} can wait. When you are ready, one small routine will be enough to begin again."
+				],
+				"skeptical": [
+					"Practically, {keyword} can point to burnout from always being on guard. How often do you fully relax?",
+					"{keyword} is a prompt about rigidity. Are you sticking to a routine that no longer suits you simply because you started it?",
+					"No mysticism here: {keyword} out of balance often means either pushing too hard or giving up too easily. Which is closer for you right now?"
+				],
+				"hopeful": [
+					"{keyword} may be resting rather than gone. Hope is reasonable, especially if you let yourself recharge first.",
+					"If you are hoping to feel stronger, {keyword} encourages a gentler form of persistence: steady, not strained.",
+					"{keyword} could come back once you stop fighting your own tiredness. Listening to your body is a good start."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to exhaustion from constant vigilance, boundaries slipping, or tension held too long.",
+					"{keyword} appears worn thin or overdone, asking where you need rest rather than resolve.",
+					"{keyword} suggests checking whether your effort is supporting you or depleting you."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If you feel your beliefs slipping under pressure, {keyword} may be wavering rather than lost. One steady step: return to a simple practice you trust.",
+					"{keyword} may feel shaky if you have been defending your path to others. You can stop explaining for a while.",
+					"When doubt is loud, {keyword} can feel out of reach. Let yourself rest in not knowing for a day."
+				],
+				"curious": [
+					"{keyword} may have become rigid. What belief might grow if you held it more loosely?",
+					"What if letting go of {keyword} for now is part of your growth? Some answers arrive when you stop defending the question.",
+					"{keyword} hints at a question: are you protecting a belief, or protecting yourself from changing?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible while you grieve. That is not a failure of faith; it is the weight of loss.",
+					"If grief has worn down {keyword}, be gentle with yourself. What you hold dear may return, or reshape, in its own time.",
+					"{keyword} may simply be resting. For now, honesty about how you feel is practice enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to dogmatism, holding a view so tightly that nothing new can get in. It is worth noticing.",
+					"{keyword} is a prompt to look at fatigue. Defending your path constantly can drain the meaning out of it.",
+					"Read plainly, {keyword} can mean giving in to others' beliefs to avoid friction. Is that a choice you want to keep making?"
+				],
+				"hopeful": [
+					"{keyword} may be on hold while you rest. The hope here is that your values return clearer for the pause.",
+					"If you have felt defensive about your path, {keyword} could soften into quiet confidence. That is worth looking for.",
+					"{keyword} might deepen once it is less about winning and more about truth."
+				],
+				"neutral": [
+					"On the inner path, {keyword} can point to wavering conviction, spiritual fatigue, or rigidity that blocks growth.",
+					"{keyword} appears weakened or overdone, asking which beliefs you truly hold and which you only defend.",
+					"{keyword} suggests examining where you need to stand firm and where you could let go."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you feel overwhelmed, {keyword} may be slipping because you are trying to hold everything at once. One thing in your control: choose one battle and set the rest down.",
+					"{keyword} may feel too heavy right now. You don't have to win today; you only have to look after yourself.",
+					"When you feel outnumbered, {keyword} can seem out of reach. Find one person to stand with you, even just by phone."
+				],
+				"curious": [
+					"{keyword} feels a little off-kilter. What would happen if you stopped defending one position and simply listened?",
+					"What if {keyword} has turned into a habit rather than a choice? It could be interesting to notice where.",
+					"{keyword} hints at something to explore: what are you afraid would happen if you gave a little ground?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible while you are grieving, and that is all right. You don't need to fight for anything today.",
+					"If loss has worn down {keyword}, be gentle with yourself. Strength can return slowly, and it doesn't need to be hurried.",
+					"{keyword} may be set aside for a while. Some seasons are for resting, not resisting."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance: either too stubborn or too easily worn down. Look at your last few disagreements and see which.",
+					"{keyword} is a prompt about energy. Which conflicts are you sustaining out of pride rather than need?",
+					"Read plainly, {keyword} can point to giving up just before something gets easier, or holding on long after it stopped making sense."
+				],
+				"hopeful": [
+					"{keyword} may simply be resting. Hope is fair here, especially if you regroup before trying again.",
+					"If you have been too defensive, {keyword} encourages a softer stance. Openness can be a strength too.",
+					"{keyword} might return in a wiser form. Notice the small moments when you held firm; they still count."
+				],
+				"neutral": [
+					"Overall, {keyword} can point to feeling overwhelmed, giving up ground, or defensiveness that has gone too far.",
+					"{keyword} appears faltering or overdone, asking you to notice what is truly worth defending.",
+					"{keyword} suggests a pause in the struggle, or a chance to choose your stand more carefully."
+				]
+			}
+		}
+	}
+}

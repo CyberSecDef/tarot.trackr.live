@@ -1,0 +1,412 @@
+{
+	"id": "swords_02_two",
+	"name": "Two of Swords",
+	"facets": [
+		{
+			"id": "indecision",
+			"keywords": ["indecision", "a choice put off", "a mind divided"]
+		},
+		{
+			"id": "stalemate",
+			"keywords": ["a stalemate", "an uneasy truce", "a careful balance"]
+		},
+		{
+			"id": "avoidance",
+			"keywords": ["avoidance", "a blindfold", "looking away"]
+		},
+		{
+			"id": "guarded_heart",
+			"keywords": ["a guarded heart", "careful self-protection", "a closed-off stance"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are stuck between two feelings about someone, {keyword} is understandable, not a flaw. One thing you can do today: write down what each choice would protect, and what each would cost.",
+					"{keyword} suggests you may be holding very still in a relationship, hoping nothing tips. You are allowed to breathe and move a little; balance does not have to mean freezing.",
+					"When love feels like a choice you can't make yet, {keyword} asks only for honesty with yourself. You don't have to decide tonight; you only have to stop pretending there's nothing to decide."
+				],
+				"curious": [
+					"{keyword} opens a quiet question in love: what would you see if you let yourself look at the relationship without hoping or fearing? Try it for a moment.",
+					"What if {keyword} is protecting something tender in you? It could be worth asking what you are afraid to feel if you let your guard down.",
+					"{keyword} hints at two paths in your heart. Instead of weighing them again, try imagining a week inside each one. Which one do you lean toward?"
+				],
+				"grieving": [
+					"In grief, {keyword} can be a way of holding yourself together, and that is all right. You don't have to open every door at once.",
+					"{keyword} may be how your heart is coping right now. There is no deadline for feeling the full weight of what you have lost.",
+					"When love has gone, {keyword} can look like not deciding anything at all for a while. That pause can be a gentle kind of care."
+				],
+				"skeptical": [
+					"Practically, {keyword} in love often means a conversation that keeps being postponed. What is the one topic you both step around?",
+					"Treat {keyword} as a prompt: are you avoiding a decision about a relationship because both options carry a cost? Most real choices do.",
+					"No mystery needed: {keyword} is what happens when keeping the peace matters more than saying what you feel. Is that trade still worth it?"
+				],
+				"hopeful": [
+					"{keyword} may be a pause before something clearer. If you are hoping for closeness, a small, honest step out from behind your guard could help.",
+					"If you are hoping a relationship can move forward, {keyword} encourages you to name what you have been holding back. Saying it gently is a fair start.",
+					"{keyword} suggests that peace between you is possible, though it may ask for more openness than either of you has offered so far."
+				],
+				"neutral": [
+					"In love, {keyword} speaks of a held breath: feelings kept at a distance, a decision waiting, or a peace that rests on not looking too closely.",
+					"{keyword} points to a relationship in careful balance, where honesty and self-protection are weighing against each other.",
+					"{keyword} brings attention to emotional guardedness and to the choices you may be postponing in matters of the heart."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can feel like standing at a fork with no map. Choose one small piece of information that would help you decide, and go get it.",
+					"{keyword} suggests you may be keeping the peace at work at some cost to yourself. One thing in your control: note what you would say if you felt safe to.",
+					"If two options at work both feel risky, {keyword} is a natural response. Give yourself a clear date to decide by, so the worry has an edge."
+				],
+				"curious": [
+					"{keyword} raises an interesting question about your work: what are you choosing not to see because seeing it would require a decision?",
+					"What if {keyword} is telling you something about what you truly want? Notice which option you keep defending when nobody asked.",
+					"{keyword} hints at a standoff, maybe with a colleague or within yourself. What would happen if you simply said what each side needs?"
+				],
+				"grieving": [
+					"If loss is with you at work, {keyword} may be how you are getting through the day. You don't have to make big career choices right now.",
+					"{keyword} can be a reasonable shield while you grieve. Let others know, if you can, that you need things kept simple for a while.",
+					"When work decisions feel impossible after a loss, {keyword} is not a weakness. Postponing what can wait is a sensible kindness to yourself."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work often signals missing information. List what you would need to know to choose, and which of those you can find out.",
+					"Treat {keyword} as a prompt: is a work disagreement stuck because both sides are protecting something? Naming the real stakes may unstick it.",
+					"No mysticism required: {keyword} is the cost of deciding by not deciding. Which option is quietly winning because you haven't acted?"
+				],
+				"hopeful": [
+					"{keyword} may be the pause before a good choice at work. Gather what you need, and trust yourself to know more than you think.",
+					"If you are hoping to move forward in your career, {keyword} encourages you to put both options on paper and look at them honestly. Clarity often follows.",
+					"{keyword} suggests a truce at work could become real cooperation. A calm, direct conversation may be all it takes to begin."
+				],
+				"neutral": [
+					"In work, {keyword} points to a difficult choice, a standoff or a situation held steady by avoiding its harder questions.",
+					"{keyword} speaks of weighing two paths at work and of needing more information or courage before moving.",
+					"{keyword} brings attention to stalled decisions and careful diplomacy in your working life."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If a money decision feels frozen, {keyword} is a very human response. One small step: write both options down with their real costs beside them.",
+					"{keyword} suggests you may be avoiding a statement or a bill. You can open just one today; facing it is often gentler than dreading it.",
+					"When finances feel like a choice between two hard things, {keyword} can ease a little if you ask someone you trust to talk it through."
+				],
+				"curious": [
+					"{keyword} asks an intriguing question about money: what would you choose if neither option had to be perfect?",
+					"What if {keyword} around money is protecting you from a feeling, not a fact? Try naming the feeling first, then look at the numbers.",
+					"{keyword} hints at a financial crossroads. What could you learn by trying a small version of each path before committing?"
+				],
+				"grieving": [
+					"After a loss, {keyword} around money is understandable. Many decisions can wait, and it is fine to let them.",
+					"{keyword} may be the best you can manage right now. Ask for help with anything urgent, and let the rest sit until you are ready.",
+					"Grief can make every financial choice feel heavy. {keyword} is allowed; you don't need to settle everything at once."
+				],
+				"skeptical": [
+					"Practically, {keyword} often means a financial decision is being made by default. What happens if you do nothing for three months?",
+					"Treat {keyword} as a prompt to compare options side by side. A simple table can break a stalemate that thinking alone can't.",
+					"No mystery needed: {keyword} around money often hides one figure you'd rather not see. Which one is it?"
+				],
+				"hopeful": [
+					"{keyword} may be a sensible pause. If you are hoping for a sound choice, use this time to gather what you need, then decide with confidence.",
+					"If you are hoping for financial balance, {keyword} encourages you to look honestly at both sides of the ledger. Balance starts with seeing.",
+					"{keyword} suggests that a fair agreement over money may be within reach, if everyone is willing to put the facts on the table."
+				],
+				"neutral": [
+					"Around money, {keyword} points to a decision on hold, a delicate balance of resources or a reluctance to look at the full picture.",
+					"{keyword} speaks of financial choices weighed but not yet made, and of a truce that holds for now.",
+					"{keyword} brings attention to avoided figures and postponed decisions about value and security."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you are holding tension in your body, {keyword} may be part of it. Drop your shoulders, unclench your jaw and take one slow breath; that much is in your control.",
+					"{keyword} suggests you may be bracing against something rather than resting. Try lying still for five minutes with your eyes closed, just to let go a little.",
+					"When worry keeps you on guard, {keyword} can be tiring. Choose one small comfort tonight, like a warm drink or an earlier bedtime."
+				],
+				"curious": [
+					"{keyword} raises a question about how you carry yourself: where in your body do you hold things in? Notice it without needing to change it.",
+					"What if {keyword} has been costing you energy? Try noticing what happens when you let yourself feel a little more instead of holding steady.",
+					"{keyword} hints at a choice between two habits. Which one leaves you feeling more open by the end of the day?"
+				],
+				"grieving": [
+					"In grief, {keyword} may be how your body is protecting you. Rest is allowed, and so is stillness without any decisions.",
+					"{keyword} can be a gentle way through the hardest days. When you are ready, a little movement or a long bath may help you feel present again.",
+					"If you are carrying loss, {keyword} is understandable. Let your body set the pace, and be kind about how slow it may be."
+				],
+				"skeptical": [
+					"Practically, {keyword} often shows up as tension: tight shoulders, shallow breathing, poor sleep. Which of those do you recognise?",
+					"Treat {keyword} as a prompt to look at a health habit you keep deferring. What would it take to decide, one way or the other?",
+					"No mysticism required: {keyword} is the strain of holding things in. What simple outlet, like walking or writing, might ease it?"
+				],
+				"hopeful": [
+					"{keyword} may be easing. If you are hoping to feel lighter, try letting your guard down in small, safe ways and notice how your energy responds.",
+					"If you are hoping for balance, {keyword} encourages you to find a rhythm between activity and rest that feels steady rather than rigid.",
+					"{keyword} suggests that choosing one clear habit, rather than weighing many, could help you feel more settled."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to held tension, a decision about care put off, or a balance kept by staying very still.",
+					"{keyword} speaks of a body on guard and a mind weighing options, asking whether that stance still serves you.",
+					"{keyword} brings attention to the energy it takes to stay balanced and to the habits you may be avoiding."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels stuck between two beliefs, {keyword} is part of honest searching. Sit quietly for a moment; you don't need to resolve it today.",
+					"{keyword} suggests you may be holding your breath spiritually, waiting for certainty. Small practices can steady you while you wait.",
+					"When doubt feels heavy, {keyword} can be a place of rest rather than failure. Choose one thing you trust, however small, and lean on it."
+				],
+				"curious": [
+					"{keyword} opens a quiet question: what are you not ready to look at in yourself? Approach it gently, with curiosity rather than judgement.",
+					"What if {keyword} is a doorway inward? Closing your eyes to the world for a moment may help you see something within.",
+					"{keyword} hints at two parts of you seeking balance. What does each one want, and could they both be heard?"
+				],
+				"grieving": [
+					"In grief, {keyword} can be a way of keeping the world at a manageable distance. That is allowed while you find your footing.",
+					"{keyword} may be how your spirit is resting. Meaning can wait; for now, quiet presence is enough.",
+					"When loss makes belief feel uncertain, {keyword} does not need to be solved. Let yourself be in between for a while."
+				],
+				"skeptical": [
+					"Practically, {keyword} in your inner life may mean avoiding a question because the answer could ask you to change. What question is that?",
+					"Treat {keyword} as a prompt for honest reflection. Which belief do you keep at arm's length, and why?",
+					"No supernatural claim needed: {keyword} describes the ordinary tension of holding two ideas at once. That tension can be useful."
+				],
+				"hopeful": [
+					"{keyword} may be a pause before insight. If you are hoping for direction, give yourself stillness and let your intuition catch up.",
+					"If you are hoping for peace, {keyword} encourages you to listen to both sides of yourself. Balance can become harmony with patience.",
+					"{keyword} suggests that a clearer sense of meaning may come once you feel safe enough to look."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to inner stillness, a balance of opposing pulls and a truth not yet faced.",
+					"{keyword} speaks of looking inward while keeping the world at bay, and of choices still waiting to be made.",
+					"{keyword} brings attention to the balance between protecting yourself and opening to new understanding."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you feel stuck between two choices, {keyword} is a natural pause. One thing in your control: set a gentle deadline, so you are not waiting forever.",
+					"{keyword} suggests you may be holding everything very still, afraid to tip the balance. You can take one small, safe step without upending it all.",
+					"When the situation feels frozen, {keyword} can ease if you name what you are avoiding. Saying it, even only to yourself, can loosen its grip."
+				],
+				"curious": [
+					"{keyword} opens a question: what might you see if you took the blindfold off for just a moment? Look, without committing to anything yet.",
+					"What if {keyword} is telling you that neither option is quite right? There may be a third path you haven't considered.",
+					"{keyword} hints at a careful standoff. What would it take for both sides, inside you or around you, to feel heard?"
+				],
+				"grieving": [
+					"In a time of loss, {keyword} can be a way to hold yourself together. You don't need to decide anything big right now.",
+					"{keyword} may be how you are coping, and that is understandable. Let the world stay a little distant until you are ready.",
+					"When grief makes every choice feel heavy, {keyword} is allowed. Rest in the pause; it doesn't have to be permanent."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a decision delayed. Ask what it is costing you to wait, and whether that cost is growing.",
+					"Treat {keyword} as a prompt to list what you are not looking at. The things we avoid tend to shape us anyway.",
+					"No mystery required: {keyword} often means both options have downsides. Choosing the one you can live with is still a real choice."
+				],
+				"hopeful": [
+					"{keyword} may be the calm before a clear choice. If you are hoping for movement, gather what you need and trust your own judgement.",
+					"If you are hoping for resolution, {keyword} encourages you to look honestly at both sides. Clarity often follows a brave look.",
+					"{keyword} suggests a fragile peace could become a lasting one, if the hard questions are faced gently."
+				],
+				"neutral": [
+					"In general, {keyword} points to a choice not yet made, a balance carefully held and something you may not be ready to see.",
+					"{keyword} speaks of stalemate and self-protection, asking what lies behind your reluctance to choose.",
+					"{keyword} brings attention to the space between two options, where waiting can be wise or simply avoidant."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} in a relationship is starting to wear thin, that can feel unsettling. One steady step: say one true thing to someone you trust before saying it to the person involved.",
+					"{keyword} may be giving way as feelings rise to the surface. You don't have to sort it all at once; let yourself feel one thing at a time.",
+					"When {keyword} starts to slip, information you avoided may come into view. Breathe, and remember that seeing clearly is not the same as having to act today."
+				],
+				"curious": [
+					"{keyword} seems to be loosening. What have you started noticing about this relationship now that you are not looking away?",
+					"What if {keyword} has run its course, and the decision you postponed is ready to be made? Notice which way you are already leaning.",
+					"{keyword} might be tipping into overwhelm. What would help: more information, or less? It's an interesting thing to wonder."
+				],
+				"grieving": [
+					"In grief, {keyword} may be falling away before you feel ready, letting feelings in all at once. Go gently; it is all right to take them in slowly.",
+					"{keyword} may no longer hold, and sorrow may feel closer. You don't need to be strong for anyone right now.",
+					"If {keyword} has been how you coped with loss and it is softening now, let that be gentle. Tears are not a sign of going backwards."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means the avoided conversation is arriving anyway. Better to choose the time and tone yourself.",
+					"Treat {keyword} as a prompt: has postponing a decision in love turned into a decision in itself? It's worth naming honestly.",
+					"No mysticism needed: {keyword} that has gone on too long tends to create confusion on both sides. What would plain speech look like?"
+				],
+				"hopeful": [
+					"{keyword} may be easing, and that can open the way to real honesty in love. If you are hoping for closeness, this could be a good moment to speak.",
+					"If you are hoping for clarity, {keyword} giving way may help. Things you couldn't see may now be easier to understand.",
+					"{keyword} might be lifting slowly, letting you choose with more confidence. Hope is reasonable, as long as you stay honest about what you see."
+				],
+				"neutral": [
+					"In love, {keyword} may be breaking down: hidden feelings surfacing, a postponed choice pressing, or overwhelm from too much at once.",
+					"{keyword} appears overdone or released, pointing either to paralysis in a relationship or to a decision finally becoming possible.",
+					"{keyword} may be giving way to truth, asking you to see a relationship more clearly than before."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} at work is crumbling and you feel caught in the middle, ground yourself in what you can control: today's tasks, done one by one.",
+					"{keyword} may be giving way to a decision you can't postpone much longer. Ask for one clear piece of information that would help.",
+					"When {keyword} turns into overwhelm, it can help to step back and list the choices you actually have. There are usually fewer than it feels."
+				],
+				"curious": [
+					"{keyword} seems to be lifting at work. What do you see now that you couldn't before, and what does it suggest?",
+					"What if {keyword} has stretched on so long that the choice has made itself? Notice which path you have already started walking.",
+					"{keyword} might be overloaded with too many voices. Whose opinion about your career actually matters most to you?"
+				],
+				"grieving": [
+					"If grief is with you at work, {keyword} may be slipping and making things feel raw. Lean on routine and let decisions wait where they can.",
+					"{keyword} may no longer shield you as it did. It is all right to tell someone you need more time or support.",
+					"When loss and work collide, {keyword} giving way can feel exposing. Go gently; small, steady steps are enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed at work suggests the stalled decision is starting to cost more than deciding would. Is that true for you?",
+					"Treat {keyword} as a prompt: has information come out that makes the choice easier? Look at it plainly.",
+					"No mysticism needed: {keyword} pushed too far becomes paralysis. Pick the option you can best defend and move."
+				],
+				"hopeful": [
+					"{keyword} may be easing at work, letting you see your options clearly. If you are hoping to move forward, this could be a good time to choose.",
+					"If you are hoping for resolution, {keyword} lifting may allow a fresh conversation. Approach it calmly and openly.",
+					"{keyword} might be giving way to clarity. Trust what you now see, and take one confident step."
+				],
+				"neutral": [
+					"In work, {keyword} may be breaking down: a long-stalled choice coming due, hidden information surfacing or overwhelm from competing demands.",
+					"{keyword} appears overdone or released, pointing to either deep indecision or a choice finally coming into view.",
+					"{keyword} may be lifting at work, asking you to look at what you have been avoiding."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} about money is giving way and you are seeing the full picture, take a breath. Seeing it is the first step, and you can take the next one slowly.",
+					"{keyword} may be turning into overwhelm. Choose one financial task in your control today and let that be enough.",
+					"When {keyword} around money can't hold any longer, ask for help sorting the options. You don't have to face the figures alone."
+				],
+				"curious": [
+					"{keyword} seems to be lifting. What have you learned about your finances now that you are looking more directly?",
+					"What if {keyword} has gone on long enough that the default choice is quietly costing you? It might be worth a fresh look.",
+					"{keyword} might be overwhelmed by too many options. Which ones could you simply rule out today?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may be giving way to decisions that feel too soon. Ask whether they truly can't wait; many can.",
+					"{keyword} may no longer hold back the practical side of loss. Let someone help you with what feels most pressing.",
+					"If financial matters are surfacing while you grieve, {keyword} softening can feel heavy. Take only one small step at a time."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests a money decision delayed too long. What is waiting costing you each month?",
+					"Treat {keyword} as a prompt: now that information is surfacing, does one option clearly make more sense?",
+					"No mystery required: {keyword} that turns into paralysis is common with money. Choose a reasonable option rather than a perfect one."
+				],
+				"hopeful": [
+					"{keyword} may be easing, making a financial choice clearer. If you are hoping for stability, now may be a good time to act on what you see.",
+					"If you are hoping to settle something, {keyword} lifting could help. Look at the facts and trust a sensible decision.",
+					"{keyword} might give way to clarity about money. Hope is reasonable, paired with careful steps."
+				],
+				"neutral": [
+					"Around money, {keyword} may be breaking down: decisions coming due, hidden costs surfacing or too many choices at once.",
+					"{keyword} appears overdone or released, pointing to financial paralysis or to a choice finally becoming clear.",
+					"{keyword} may be lifting, asking you to face your resources as they truly are."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} is slipping and feelings are flooding in, ground yourself: feet on the floor, a slow breath, a sip of water. That much is yours to do.",
+					"{keyword} may be giving way to tiredness you have been holding back. Rest is a sensible response, not a failure.",
+					"When {keyword} becomes overwhelm, choose one simple act of care tonight and let everything else wait until morning."
+				],
+				"curious": [
+					"{keyword} seems to be easing. What do you notice in your body now that you're not bracing so hard?",
+					"What if {keyword} has been held so long that your body is ready to let go? Try a gentle stretch and see what shifts.",
+					"{keyword} might be tipping into too much thinking. Could movement or rest help where deciding hasn't?"
+				],
+				"grieving": [
+					"In grief, {keyword} may be falling away, letting tiredness or tears through. That is your body being honest, and it is allowed.",
+					"{keyword} may no longer hold you up as it did. Lean on simple routines and on people who don't need anything from you.",
+					"If {keyword} is softening, let it soften slowly. Rest, warmth and quiet are good company right now."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed may show up as tension released or as fatigue catching up. Which feels closer to your experience?",
+					"Treat {keyword} as a prompt to stop postponing a small habit change you already know would help.",
+					"No mysticism needed: {keyword} carried too long tends to show up in energy and sleep. What would easing it look like?"
+				],
+				"hopeful": [
+					"{keyword} may be easing, and your energy could follow. If you are hoping to feel lighter, let yourself rest as the tension goes.",
+					"If you are hoping for balance, {keyword} lifting may help you choose habits more freely. Pick one that feels good, not just good for you.",
+					"{keyword} might be giving way to relief. Notice it, and let it be enough for today."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} may be breaking down: held tension releasing, tiredness surfacing or overwhelm from too many choices.",
+					"{keyword} appears overdone or released, pointing to strain from holding steady or relief as you let go.",
+					"{keyword} may be lifting, asking you to notice what your body feels when you stop bracing."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} is giving way and you are seeing more than you expected, slow down. You don't have to understand it all at once.",
+					"{keyword} may be lifting, letting difficult questions in. Hold just one of them and let the rest wait.",
+					"When {keyword} turns into inner overwhelm, a simple practice can steady you: breathing, walking, noticing small things."
+				],
+				"curious": [
+					"{keyword} seems to be easing. What truth about yourself is coming into view now that you're not looking away?",
+					"What if {keyword} has run its course, and you are ready to choose what you believe? Notice where your heart already leans.",
+					"{keyword} might be overwhelmed by too many teachings. Which voice feels most like your own?"
+				],
+				"grieving": [
+					"In grief, {keyword} may be lifting before you feel ready, bringing deep feelings to the surface. Let them come slowly; there is no hurry.",
+					"{keyword} may no longer shield you from meaning or its absence. You can rest in not knowing for as long as you need.",
+					"If {keyword} is softening, let your practice be gentle. Remembering, resting and breathing are enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests you may be ready to examine a belief you have avoided. What is it?",
+					"Treat {keyword} as a prompt for honest inner work. What has become harder to ignore lately?",
+					"No supernatural claim needed: {keyword} that has gone on too long tends to leave you feeling stuck. Is that familiar?"
+				],
+				"hopeful": [
+					"{keyword} may be easing, opening the way to fresh insight. If you are hoping for direction, stay attentive.",
+					"If you are hoping for peace, {keyword} lifting could let you choose your path with more confidence.",
+					"{keyword} might give way to clarity. Hope is reasonable, especially if you are willing to look."
+				],
+				"neutral": [
+					"Spiritually, {keyword} may be breaking down: inner truths surfacing, a long pause ending or confusion from too many voices.",
+					"{keyword} appears overdone or released, pointing to spiritual paralysis or to a choice becoming possible.",
+					"{keyword} may be lifting, asking you to face what you have kept out of view."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} is giving way and things feel exposed, ground yourself in one small task. You can take in the rest slowly.",
+					"{keyword} may be turning into overwhelm. Write down the choices in front of you; seeing them on paper can make them feel smaller.",
+					"When {keyword} can't hold anymore, ask one trusted person to help you think. You don't have to sort it alone."
+				],
+				"curious": [
+					"{keyword} seems to be lifting. What are you seeing now that you couldn't before, and what does it change?",
+					"What if {keyword} has gone on long enough that you are ready to choose? Notice where your feet are already pointing.",
+					"{keyword} might be overloaded. What would happen if you stopped gathering opinions and listened to your own?"
+				],
+				"grieving": [
+					"In a time of loss, {keyword} may be falling away and letting feelings in. Go gently; you can take them as slowly as you need.",
+					"{keyword} may no longer protect you as it did. Let others care for you while you find your footing.",
+					"If {keyword} is softening, there is no rush. Grief keeps its own pace, and so can you."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests the cost of waiting is now higher than the cost of choosing. Is that true here?",
+					"Treat {keyword} as a prompt: what information has come out that makes the decision clearer?",
+					"No mystery required: {keyword} pushed too far becomes paralysis. Pick the option you can live with and take one step."
+				],
+				"hopeful": [
+					"{keyword} may be easing, letting you see clearly and choose freely. If you are hoping for movement, this could be your moment to begin.",
+					"If you are hoping for resolution, {keyword} lifting may open a way forward. Trust what you see.",
+					"{keyword} might give way to clarity. Hope is reasonable, alongside honest looking."
+				],
+				"neutral": [
+					"In general, {keyword} may be breaking down: truth surfacing, a delayed decision pressing or overwhelm from too much at once.",
+					"{keyword} appears overdone or released, pointing to paralysis or to a choice finally ready to be made.",
+					"{keyword} may be lifting, asking you to face what you have kept out of sight."
+				]
+			}
+		}
+	}
+}

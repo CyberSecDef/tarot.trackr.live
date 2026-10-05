@@ -1,0 +1,51 @@
+{
+	"past": [
+		"Where things began, {card} appears.",
+		"Looking back, {card} sits behind you.",
+		"{card} speaks to what has already shaped this.",
+		"Further back in the story, you draw {card}.",
+		"The roots of this lie with {card}."
+	],
+	"present": [
+		"Right now, {card} is at the center.",
+		"Here and now, {card} comes forward.",
+		"{card} describes where you stand today.",
+		"This moment belongs to {card}.",
+		"At this moment, the card in front of you is {card}."
+	],
+	"future": [
+		"Looking ahead, {card} comes into view.",
+		"On the road in front of you lies {card}.",
+		"{card} hints at what may be gathering.",
+		"Ahead, {card} appears as a possibility.",
+		"As things unfold, {card} may have something to say."
+	],
+	"self": [
+		"Turning toward you, {card} appears.",
+		"{card} reflects something of who you are in this.",
+		"Held up as a mirror, the spread shows {card}.",
+		"As for you, the card is {card}.",
+		"Looking inward, you find {card}."
+	],
+	"obstacle": [
+		"Standing in your way is {card}.",
+		"The friction here comes through {card}.",
+		"{card} marks what pushes back.",
+		"Asking for your attention here is {card}.",
+		"What complicates things shows up as {card}."
+	],
+	"outcome": [
+		"Where this could lead, {card} appears.",
+		"If things keep their course, {card} is one possible shape.",
+		"{card} suggests where this may settle.",
+		"Where this may lead, the spread offers {card}.",
+		"Further along, {card} waits to be considered."
+	],
+	"advice": [
+		"As a suggestion, {card} steps forward.",
+		"For guidance, consider {card}.",
+		"{card} offers a way to approach this.",
+		"The counsel here comes from {card}.",
+		"If you are looking for a next step, there is {card}."
+	]
+}

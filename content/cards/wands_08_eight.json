@@ -1,0 +1,412 @@
+{
+	"id": "wands_08_eight",
+	"name": "Eight of Wands",
+	"facets": [
+		{
+			"id": "speed",
+			"keywords": ["swift movement", "rapid progress", "a burst of action"]
+		},
+		{
+			"id": "news",
+			"keywords": ["incoming news", "a long-awaited message", "a quick reply"]
+		},
+		{
+			"id": "momentum",
+			"keywords": ["momentum", "a chain of events in motion", "a clear run"]
+		},
+		{
+			"id": "travel",
+			"keywords": ["travel", "a journey", "a change of scene"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If things in love are moving faster than you can follow, {keyword} invites you to slow your own breathing even if events won't slow. You can take one message at a time.",
+					"{keyword} in a relationship can feel dizzying. One thing in your control: before replying to anything important, wait ten minutes and reread it.",
+					"When love suddenly picks up pace, {keyword} may stir up as much worry as excitement. Tell one trusted friend what is happening so you are not holding it alone."
+				],
+				"curious": [
+					"{keyword} asks a lively question about love: if things started moving tomorrow, which direction would you want them to go?",
+					"What might {keyword} bring into your love life? Perhaps a conversation that has been waiting to happen, or a spark that catches quickly.",
+					"{keyword} hints that a connection could gather pace. Are you ready to say yes, or would you like a moment to look before you leap?"
+				],
+				"grieving": [
+					"{keyword} may feel too fast while you are grieving. The world can hurry on without you; you are allowed to move slowly.",
+					"When love has been lost, {keyword} might arrive as messages, plans and decisions all at once. It is fine to answer only the ones that truly need you.",
+					"{keyword} doesn't ask you to keep up. Let others carry some of the motion while you sit with what has changed."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about pace. Is a relationship moving at a speed both people have chosen, or is one person setting it?",
+					"Read plainly, {keyword} points to communication. Is there a message you have been meaning to send that would clear something up quickly?",
+					"No mystery needed: {keyword} describes a phase when things speed up. The useful question is whether you want to steer or simply ride along."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign if you have been waiting for things to move in love. Stay open, and be ready to answer when the moment comes.",
+					"If you are hoping for a reply or a reunion, {keyword} suggests that movement is possible. Keep your side of the conversation warm and clear.",
+					"{keyword} invites you to act on a feeling rather than sitting on it. A simple, honest message can travel further than you think."
+				],
+				"neutral": [
+					"In love, {keyword} points to quickening pace, news between people and connections that gather speed.",
+					"{keyword} highlights a time when what was stuck in a relationship may start to move.",
+					"{keyword} asks how ready you are for things to change quickly between you and someone close."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work is suddenly moving fast, {keyword} can feel overwhelming. One thing in your control: write a short list of what is due first, and work down it in order.",
+					"{keyword} at work may bring a rush of emails and decisions. You don't have to answer everything instantly; acknowledge, then prioritise.",
+					"When the pace picks up, {keyword} invites you to steady yourself with one finished task. Momentum is easier to manage once you are moving with it."
+				],
+				"curious": [
+					"{keyword} asks a playful question: if your next career step arrived next week, what would you want it to be?",
+					"What could {keyword} open up at work? An application answered, a project green-lit, a door that had been stuck swinging open.",
+					"{keyword} hints that ideas may be flowing faster than usual. Which one would you chase first if you let yourself?"
+				],
+				"grieving": [
+					"If you are grieving, {keyword} at work may feel relentless. It is fine to ask for deadlines to shift, or for someone to cover for you.",
+					"{keyword} can carry on noisily around you while you are hurting. You can step in and out of it as your energy allows.",
+					"When a loss touches your working life, {keyword} may feel like it belongs to someone else. Let it wait, or let it carry you, whichever is gentler."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about pace and follow-through. Are you responding quickly enough to the opportunities that are already in front of you?",
+					"{keyword} is a prompt to clear your backlog. Small, quick replies often unblock more than a single big effort.",
+					"Read practically, {keyword} asks whether you are ready to move if something comes through. Is your CV current, your pitch prepared?"
+				],
+				"hopeful": [
+					"{keyword} is a hopeful sign for your working life. If you have been waiting on an answer, it is fair to hope for movement, though the timing isn't yours to set.",
+					"If you are hoping for progress, {keyword} encourages you to keep your energy high and your responses quick.",
+					"{keyword} invites you to ride a good wave while it lasts. Say yes to the opportunities that fit, and keep moving."
+				],
+				"neutral": [
+					"At work, {keyword} points to fast-moving projects, quick decisions and news that shifts the picture.",
+					"{keyword} highlights a time when plans that were stalled may suddenly pick up.",
+					"{keyword} suggests staying alert and responsive while things are in motion."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money matters are moving quickly, {keyword} reminds you to pause before big decisions. One thing in your control: sleep on any purchase over a set amount.",
+					"{keyword} around money may bring bills or payments in a rush. Make a simple list of dates and amounts so nothing catches you by surprise.",
+					"When finances feel like they are speeding past you, {keyword} invites you to focus on today's single task. One payment, one call, one check."
+				],
+				"curious": [
+					"{keyword} poses an interesting question: where could a little quick action improve your finances, like a forgotten refund or an unclaimed benefit?",
+					"What might {keyword} look like with money? Perhaps a decision you have been circling, finally made.",
+					"{keyword} hints that resources may move faster than usual, in or out. Which direction would you like to nudge them?"
+				],
+				"grieving": [
+					"{keyword} may bring paperwork and decisions faster than you can bear after a loss. It is all right to ask for help and to ask for time.",
+					"If money matters are rushing at you while you grieve, {keyword} can be met slowly. Most things can wait a few days.",
+					"{keyword} does not ask you to keep pace. Handle what is urgent and let the rest sit."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to act on things you have been putting off: a switch of provider, a cancelled subscription, a sent invoice.",
+					"{keyword} raises a plain question: are fast decisions saving you money, or costing you through haste?",
+					"Read plainly, {keyword} points to cash flow. Do you know what is coming in and going out over the next month?"
+				],
+				"hopeful": [
+					"{keyword} is encouraging around money. If you have been waiting on a payment or decision, movement is possible, though not promised.",
+					"If you are hoping for a shift, {keyword} suggests being ready to act when it comes. A clear plan makes quick moves safer.",
+					"{keyword} invites you to send the invoice, make the call, ask the question. Small quick actions add up."
+				],
+				"neutral": [
+					"Around money, {keyword} points to quick transactions, decisions made and resources in motion.",
+					"{keyword} highlights a time when financial matters may move faster than usual.",
+					"{keyword} suggests keeping track as things change, so speed works for you rather than against you."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If life is moving fast and your body feels it, {keyword} reminds you that you can still choose a slow breath. Try three long exhales right now.",
+					"{keyword} can leave little room for rest. One small thing in your control: protect your bedtime tonight, whatever else is happening.",
+					"When everything speeds up, {keyword} invites you to notice your shoulders and jaw. Let them drop a little; that is a start."
+				],
+				"curious": [
+					"{keyword} asks an inviting question: what kind of movement makes your body feel lively rather than rushed?",
+					"What would {keyword} look like as a new habit? A brisk morning walk, a quick stretch between tasks, a bike ride you have been meaning to take.",
+					"{keyword} hints that your energy may be running high. Where would you most like to spend it?"
+				],
+				"grieving": [
+					"Grief can make {keyword} feel jarring. Your body may need stillness while everything else rushes; that is allowed.",
+					"{keyword} may simply mean letting the days pass without forcing yourself to do much. Moving gently is enough.",
+					"When you are carrying a loss, {keyword} can wait. Rest is not falling behind."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about pace. Are you moving too fast to notice when you are tired or hungry?",
+					"{keyword} raises a plain question: is your energy steady through the day, or does it spike and crash?",
+					"No mysticism needed: {keyword} points to the value of acting promptly on small habits. Drinking water now beats planning to later."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image for your energy. If you have felt stuck, a little movement could help things start to shift.",
+					"If you are hoping to feel livelier, {keyword} suggests starting today rather than waiting for the perfect plan.",
+					"{keyword} invites you to enjoy a good burst of energy while also leaving room to rest afterwards."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to energy, movement and a quicker pace of life.",
+					"{keyword} highlights how speed affects your body, for better and for worse.",
+					"{keyword} suggests matching your activity to your energy, and noticing when to slow down."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If insights are coming faster than you can absorb, {keyword} reminds you that you don't need to understand everything at once. Write one thing down and let it settle.",
+					"{keyword} may feel unsettling on the inner path. One steadying practice: a few minutes of stillness before you act on anything.",
+					"When your inner life feels like it is racing, {keyword} invites you to return to something simple, like the feeling of your feet on the ground."
+				],
+				"curious": [
+					"{keyword} opens a question: what has been trying to reach you, through a dream, a coincidence, a sudden thought?",
+					"What if {keyword} on the inner path means following an intuition quickly, before doubt talks you out of it?",
+					"{keyword} hints that growth may come in a rush. What would you like to be ready for?"
+				],
+				"grieving": [
+					"{keyword} may feel at odds with grief, which moves slowly. You can let the world rush while you stay where you are.",
+					"When loss has shaken your sense of meaning, {keyword} does not ask you to find answers quickly. They can come in their own time.",
+					"{keyword} can be very small here, a sudden memory, a word from someone, a moment of feeling less alone."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about acting on what you already know. Is there a value you hold but keep postponing?",
+					"{keyword} needn't be mystical. It simply asks whether you make room to notice your own thoughts before they speed past.",
+					"Treat {keyword} as a prompt: which of your recent quick decisions felt right, and what do they have in common?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to trust a sense of movement within. Growth can feel sudden after a long, quiet build-up.",
+					"If you are hoping for clarity, {keyword} suggests staying alert to small signs and acting on the ones that ring true.",
+					"{keyword} invites you to follow an inspiration while it is fresh."
+				],
+				"neutral": [
+					"On the inner path, {keyword} points to sudden insight, inspiration and things aligning quickly.",
+					"{keyword} highlights a time when inner movement may become outer action.",
+					"{keyword} suggests paying attention to what arrives quickly, and deciding what to keep."
+				]
+			},
+			"general": {
+				"anxious": [
+					"Whatever is happening, {keyword} may feel like a lot at once. One thing in your control: pick the next single step and let the rest wait in line.",
+					"{keyword} can be unsettling when you like to plan. Breathe, and remember that moving quickly doesn't mean moving without you.",
+					"When things speed up, {keyword} invites you to write down what you know for sure. It is often more than you think."
+				],
+				"curious": [
+					"{keyword} asks a playful question: if something you have been waiting for suddenly arrived, what would you do first?",
+					"What might {keyword} bring if you let yourself say yes more quickly than usual?",
+					"{keyword} hints that the answer you are looking for may be already on its way. What would help you notice it?"
+				],
+				"grieving": [
+					"{keyword} may feel too fast while you are grieving. You don't have to keep up with anything today.",
+					"When you are carrying a loss, {keyword} can feel like the world moving on without you. You can move at your own pace.",
+					"{keyword} doesn't ask you to hurry. It only notes that life is in motion, and you can join it when you are ready."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to act on what is ready. Which small task, if done today, would unblock several others?",
+					"{keyword} raises a useful question: are you waiting for permission to move on something you could simply start?",
+					"There is nothing magic in {keyword}, only the ordinary fact that some periods move faster. Where do you want to put your attention while it lasts?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image if you have felt stuck. Movement may be closer than it seems, though the timing isn't yours to set.",
+					"If you are hoping for change, {keyword} suggests being ready to act. Keep your plans light enough to move with.",
+					"{keyword} invites you to send the message, make the start, take the trip. Momentum often begins with one small push."
+				],
+				"neutral": [
+					"{keyword} speaks of swift progress, news arriving and events picking up pace.",
+					"In life as a whole, {keyword} points to movement after stillness and things falling into place.",
+					"{keyword} brings attention to timing, speed and how you respond when things begin to move."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you are waiting on someone in love, {keyword} may simply be delayed. One thing in your control: fill the waiting time with something that is yours alone.",
+					"{keyword} may feel stuck, and the silence can be hard. Before reading meaning into it, remember there are many ordinary reasons for a slow reply.",
+					"When things in a relationship have stalled, {keyword} can feel out of reach. Talk it over with a friend instead of rehearsing it alone."
+				],
+				"curious": [
+					"{keyword} may be moving too fast here. What would change if you slowed a connection down on purpose?",
+					"What if {keyword} is waiting because something needs saying first? It could be worth wondering what that is.",
+					"{keyword} hints at crossed wires. Is there a message that might have been misread, on either side?"
+				],
+				"grieving": [
+					"{keyword} may feel frozen while you grieve. It is all right for time to move strangely right now.",
+					"If {keyword} has stopped since your loss, you don't need to restart it. Stillness is allowed.",
+					"{keyword} can wait. When you are ready, small steps toward others will be enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be rushed. Are decisions in this relationship being made faster than either of you can think them through?",
+					"{keyword} is a prompt about communication. If messages keep missing each other, a direct conversation may cut through.",
+					"Read plainly, {keyword} can point to impatience. Is waiting the real problem, or what you are telling yourself while you wait?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than gone. If you are hoping for movement, patience and a clear message are your best tools.",
+					"If things have stalled in love, {keyword} could restart once circumstances shift. Hope is fair; just don't put your life on hold for it.",
+					"{keyword} might arrive more slowly than you wanted. Slow can still be real."
+				],
+				"neutral": [
+					"In love, {keyword} can point to delays, missed messages, or a pace that feels either rushed or stuck.",
+					"{keyword} appears blocked or hurried, asking whether timing between you and someone else is in sync.",
+					"{keyword} may be slowed or scattered, inviting patience and clearer communication."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If a work decision is stuck, {keyword} may simply be delayed by things outside your control. One step you can take: follow up once, politely, then turn to something else.",
+					"{keyword} may feel stalled, and waiting is hard. Use the gap to tidy one loose end so you are ready when things move.",
+					"When work feels frantic and nothing lands, {keyword} can seem scattered. Pick one task and finish it before starting another."
+				],
+				"curious": [
+					"{keyword} may be turning inward. What is happening beneath the surface while the visible progress pauses?",
+					"What if {keyword} has been rushing you past something important? It might be worth slowing down to look.",
+					"{keyword} hints at a question: are you waiting for others, or are they waiting for you?"
+				],
+				"grieving": [
+					"If you are grieving, {keyword} at work may stall, and that is understandable. It is fine to let things sit for a while.",
+					"{keyword} may feel like it belongs to someone else right now. You can return to it when you have more to give.",
+					"When a loss touches your working life, {keyword} can wait. No deadline is more important than taking care of yourself."
+				],
+				"skeptical": [
+					"Plainly, {keyword} may be stuck in a bottleneck. Who or what is the hold-up, and can you go around it?",
+					"{keyword} is a prompt to check for haste. Have mistakes crept in because you are moving too fast?",
+					"Treat {keyword} as a question about focus. Too many things in motion at once can mean none of them arrives."
+				],
+				"hopeful": [
+					"{keyword} may be postponed rather than cancelled. If you are hoping for news, stay ready without waiting idly.",
+					"If progress has stalled, {keyword} could pick up once a blockage clears. Hope is fair; use the pause well.",
+					"{keyword} might return at a steadier pace. That could be better for the work in the long run."
+				],
+				"neutral": [
+					"At work, {keyword} can point to delays, stalled projects, missed messages or rushing that leads to mistakes.",
+					"{keyword} appears blocked or scattered: momentum interrupted, or energy spread across too much.",
+					"{keyword} suggests looking at timing, and whether to push, wait or simplify."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If a payment or decision is delayed, {keyword} may be held up for ordinary reasons. One step in your control: confirm the details once and note the date.",
+					"{keyword} may feel stuck, and that can be stressful. Make a short plan for the gap, even a rough one.",
+					"When money matters drag on, {keyword} can feel out of reach. Focus on the next small thing you can actually do today."
+				],
+				"curious": [
+					"{keyword} may be too fast here. What would happen if you waited a week before your next big purchase?",
+					"What if {keyword} is paused for a reason worth understanding? It might be interesting to trace where the hold-up is.",
+					"{keyword} hints at a question: are you making quick money decisions to escape the discomfort of waiting?"
+				],
+				"grieving": [
+					"{keyword} may stall after a loss, and that can add to the weight. It is all right to ask for help with the paperwork.",
+					"If {keyword} around money has slowed since your loss, there is no need to force it. Most things can wait a little.",
+					"{keyword} can be set aside for a while. Look after the essentials and let the rest move slowly."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be rushed. Impulse spending often looks like speed; a simple waiting rule can help.",
+					"{keyword} is a prompt to chase what is owed. Delays sometimes end with one polite reminder.",
+					"Read plainly, {keyword} can point to cash flow problems. Do you know exactly when money arrives and when it leaves?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping for a payment or change, keep your records tidy and follow up.",
+					"If finances have stalled, {keyword} could restart with a small action. Hope is reasonable with a plan behind it.",
+					"{keyword} might return more slowly than you wanted. Slow and steady is still progress."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to delays, hasty spending, or resources that feel stuck.",
+					"{keyword} appears held back or rushed, asking whether timing is working for you or against you.",
+					"{keyword} suggests checking on what is pending and what is moving too fast."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel stuck or scattered, {keyword} may be slower right now. One thing in your control: choose one gentle movement today, like a short walk.",
+					"{keyword} may feel blocked when your energy is low. You are allowed to rest and wait for it to return.",
+					"When everything feels rushed, {keyword} can tip into strain. Slow down one routine today, like eating without a screen."
+				],
+				"curious": [
+					"{keyword} may be turning inward. What is your body asking for while things slow down?",
+					"What if {keyword} has been overdone? Notice whether you are moving fast to avoid feeling something.",
+					"{keyword} hints at a question: where does your energy go when it has nowhere to go?"
+				],
+				"grieving": [
+					"Grief can make {keyword} feel stalled. Rest is not falling behind; it is care.",
+					"If {keyword} has slowed since your loss, be gentle with yourself. Your energy is going where it is needed.",
+					"{keyword} can wait. When you are ready, small steps will be enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} can point to restlessness. Is your energy scattered across too many things to feel settled?",
+					"{keyword} is a prompt about pace. Rushing through meals, sleep or exercise often shortchanges all three.",
+					"No mysticism here: {keyword} out of balance often means stop-start energy. Which routine could you make steadier?"
+				],
+				"hopeful": [
+					"{keyword} may be paused rather than gone. Hope is reasonable, especially if you let your energy rebuild slowly.",
+					"If you are hoping to feel livelier, {keyword} encourages a gentler pace for now.",
+					"{keyword} could come back once you stop forcing it. Listen to your body's timing."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to low energy, restlessness, or rushing that leaves you depleted.",
+					"{keyword} appears slowed or scattered, asking where you need patience and where you need focus.",
+					"{keyword} suggests noticing your natural pace and respecting it."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels stuck, {keyword} may be quieter rather than gone. One steady step: keep a simple daily practice going.",
+					"{keyword} may feel blocked if you have been pushing for answers. You can stop pushing for a while.",
+					"When insight seems far away, {keyword} invites patience. Some understanding grows slowly."
+				],
+				"curious": [
+					"{keyword} may be turning inward. What is shifting below the surface while nothing seems to happen?",
+					"What if {keyword} is waiting because you are not quite ready? It could be worth asking what would help you be.",
+					"{keyword} hints at a question: are you rushing your growth to reach a destination that doesn't exist?"
+				],
+				"grieving": [
+					"{keyword} may feel stalled while you grieve. That is not a failing; it is the weight of loss.",
+					"If {keyword} has slowed since your loss, let it. There is no deadline for meaning.",
+					"{keyword} may come back slowly. For now, being honest about how you feel is practice enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to restlessness, trying many paths without staying with any one long enough.",
+					"{keyword} is a prompt to look at haste. Are you chasing quick insights instead of doing slower, steadier work?",
+					"Read plainly, {keyword} can mean a pause in growth. Pauses are normal; it is worth noticing them without alarm."
+				],
+				"hopeful": [
+					"{keyword} may be on hold while you consolidate. The hope here is that what you have learned has time to settle.",
+					"If you are hoping for a breakthrough, {keyword} encourages patience. Movement may return when you are ready.",
+					"{keyword} might deepen once you stop forcing it."
+				],
+				"neutral": [
+					"On the inner path, {keyword} can point to stalled growth, scattered focus, or insight delayed.",
+					"{keyword} appears slowed or hurried, asking what pace your inner life truly needs.",
+					"{keyword} suggests patience and attention to what is quietly developing."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If things feel stuck, {keyword} may simply be delayed. One thing in your control: use the waiting time to prepare one small thing.",
+					"{keyword} may feel far away right now. You don't have to force progress; steady effort is enough.",
+					"When life feels rushed and nothing lands, {keyword} can seem scattered. Pick one priority for today and let the rest wait."
+				],
+				"curious": [
+					"{keyword} feels a little off-kilter. What might the pause be showing you?",
+					"What if {keyword} has been rushing you past something worth seeing? It could be interesting to slow down on purpose.",
+					"{keyword} hints at something to notice: where are you waiting, and where are you hurrying?"
+				],
+				"grieving": [
+					"{keyword} may feel frozen while you are grieving. That is all right; time moves differently right now.",
+					"If loss has slowed everything, {keyword} can wait. There is no schedule to keep.",
+					"{keyword} may be set aside for a while. Some seasons are for stillness."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance: either stuck or rushed. Look at your week and see which it is.",
+					"{keyword} is a prompt about bottlenecks. What single thing is holding up the most?",
+					"Read plainly, {keyword} can point to delays, miscommunication or haste. None needs a mystical explanation, only attention."
+				],
+				"hopeful": [
+					"{keyword} may simply be delayed. Hope is fair here, so stay ready and keep your plans flexible.",
+					"If things have stalled, {keyword} could restart with a small push. Notice where a little effort might unblock a lot.",
+					"{keyword} might be gathering slowly. Small signs of movement could be the beginning of something."
+				],
+				"neutral": [
+					"Overall, {keyword} can point to delays, frustration, haste or scattered energy.",
+					"{keyword} appears blocked or overdone, asking you to notice timing and focus.",
+					"{keyword} suggests a pause in momentum, or a pace that needs adjusting."
+				]
+			}
+		}
+	}
+}

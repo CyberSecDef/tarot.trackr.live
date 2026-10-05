@@ -1,0 +1,412 @@
+{
+	"id": "major_18_moon",
+	"name": "The Moon",
+	"facets": [
+		{
+			"id": "illusion",
+			"keywords": ["an illusion", "a misleading appearance", "a half-truth"]
+		},
+		{
+			"id": "intuition",
+			"keywords": ["intuition", "a gut feeling", "an inner knowing"]
+		},
+		{
+			"id": "subconscious",
+			"keywords": ["a dream", "a hidden feeling", "the unconscious mind"]
+		},
+		{
+			"id": "uncertainty",
+			"keywords": ["uncertainty", "a path in half-light", "the unknown"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"In love, {keyword} can make the mind fill gaps with the worst possible story. Try writing down only what you've actually seen and heard this week; the list is usually calmer than the imagining.",
+					"When {keyword} hangs over a relationship, you don't have to resolve it tonight. Night thoughts are rarely the wisest ones. Let a question wait until morning, then ask it plainly.",
+					"{keyword} between you and someone else may feel unsettling, but it isn't proof of anything. One thing in your hands: notice how you are treated, rather than guessing what is meant."
+				],
+				"curious": [
+					"{keyword} in love asks what you see when the lights are low. What do you sense about someone close to you that you haven't yet put into words?",
+					"Here {keyword} invites a look at the stories you tell about a relationship. Which parts are memory, which are hope, and which are fear dressed up as fact?",
+					"What might {keyword} be showing you about what you want from closeness? Dreams and moods sometimes speak before plans do. You could keep a few notes and see what repeats."
+				],
+				"grieving": [
+					"After a loss in love, {keyword} can blur the edges of things. Memory shifts; some nights feel stranger than others. You don't have to make it all clear yet.",
+					"{keyword} may bring someone back to you in quiet moments, in a dream or a passing thought. Let those visits be what they are, without needing to explain them.",
+					"Grief moves in half-light, and {keyword} belongs to that place. Be patient with the confusion; it is part of loving someone who isn't here in the same way."
+				],
+				"skeptical": [
+					"Plainly, {keyword} points to incomplete information in a relationship. What do you actually know, and what are you assuming? The gap between them is worth a direct question.",
+					"No mystery needed: {keyword} describes the ordinary fog of not knowing what someone else is thinking. The practical move is to ask, not to decode.",
+					"Treat {keyword} as a prompt to check your reading of someone. Are you responding to what they did, or to an older pattern you've seen elsewhere?"
+				],
+				"hopeful": [
+					"{keyword} doesn't rule out a good outcome in love; it simply asks you to move slowly while things are unclear. Clarity often comes with time and honest talk.",
+					"Your hope can walk alongside {keyword}. Let it be a lantern rather than a map: enough light for the next step, not a promise of the whole road.",
+					"If {keyword} is part of a new connection, enjoy the mystery without rushing to define it. You can stay open and still keep your footing."
+				],
+				"neutral": [
+					"In love, {keyword} points to a relationship where not everything is visible yet. Feelings and motives may be harder to read than usual.",
+					"{keyword} here suggests that emotion and imagination are shaping how people see each other. It asks for patience before conclusions.",
+					"With {keyword} present, it helps to separate what is felt from what is known, and to give both their due."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can make every silence sound like bad news. Pick one thing you can confirm today, a deadline, a decision, an email, and let that small certainty steady you.",
+					"If {keyword} hangs over your job, remember that unclear doesn't mean bad. Focus on the work in front of you and ask one clarifying question where you can.",
+					"{keyword} at work may stir old worries. Write down what's actually been said, and set aside, for now, what you've only imagined."
+				],
+				"curious": [
+					"{keyword} in your career invites you to notice what you sense but haven't said. Is there a direction your work is quietly pulling you toward?",
+					"Here {keyword} asks what's beneath the surface of your workplace. Which unwritten rules or unspoken tensions shape how things really get done?",
+					"What if {keyword} were information rather than a problem? You might treat your hunches about a project as hypotheses worth testing."
+				],
+				"grieving": [
+					"If you've lost something at work, {keyword} may make the way forward hard to see. It's all right to move slowly and not know yet.",
+					"{keyword} can make work feel dreamlike while you're grieving, as though you're going through the motions. That's understandable. Let it be enough to show up.",
+					"After a loss, {keyword} about your career doesn't need resolving soon. Keep things simple and let the bigger questions wait."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work signals missing information. Who could you ask, and what exactly would you ask them?",
+					"Read plainly, {keyword} is a reminder that rumours and impressions aren't facts. Which decision are you basing on hearsay?",
+					"No mysticism: {keyword} here is about ambiguity. Can you make one plan that works under two or three different outcomes?"
+				],
+				"hopeful": [
+					"{keyword} at work doesn't block progress; it asks for careful steps. Keep your options open and let clarity arrive before you commit.",
+					"With {keyword} in play, your creativity may be more useful than certainty. Which idea could you explore quietly while the picture forms?",
+					"Hope can guide you through {keyword} if you pair it with good questions. Ask what you need to know, then keep moving thoughtfully."
+				],
+				"neutral": [
+					"At work, {keyword} suggests a period of unclear signals, shifting information, or plans not yet settled.",
+					"{keyword} here points to the hidden side of work: unspoken dynamics, unclear goals, or instincts you haven't checked.",
+					"In your career, {keyword} asks for patience and discernment while the full picture is still coming into view."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} can make every number feel ominous. Look at one real figure today, just one, and let the fact replace a little of the fog.",
+					"{keyword} around your finances doesn't mean things are worse than you think. It means you don't yet know. A quiet half hour with your accounts may ease more than it reveals.",
+					"If {keyword} makes money decisions feel risky, it's fine to hold off on anything big. Keep to essentials until you can see more clearly."
+				],
+				"curious": [
+					"{keyword} in money matters invites you to look at your feelings about spending. What do you buy when you're unsettled, and what are you really reaching for?",
+					"Here {keyword} might be pointing to an old belief about money you absorbed long ago. Where did it come from, and does it still serve you?",
+					"What would you notice if you followed {keyword} through your finances for a week? Track not just amounts but moods."
+				],
+				"grieving": [
+					"After a loss, {keyword} about money can feel overwhelming. You don't need to understand everything today; handle only what's urgent.",
+					"{keyword} may make financial matters feel unreal right now. Let someone you trust help you sort the practical details.",
+					"When grief and money tangle, {keyword} is natural. Be gentle with yourself about what you can take in."
+				],
+				"skeptical": [
+					"Plainly, {keyword} with money points to unclear terms or incomplete figures. Read the fine print and ask the question you've been skipping.",
+					"Use {keyword} as a prompt to verify. Is there a deal or promise that sounds better than the details support?",
+					"No fortune-telling: {keyword} is about information gaps. What would you need to know before making the next financial choice?"
+				],
+				"hopeful": [
+					"{keyword} around money doesn't mean things won't work out. It means patience and checking before acting may serve you well.",
+					"Your hopes for your finances can survive {keyword}. Let them guide you to gather facts first, then move.",
+					"With {keyword} in the picture, small, reversible steps may be wiser than big bets. That keeps your hope safe while things clarify."
+				],
+				"neutral": [
+					"Financially, {keyword} suggests unclear information, mixed signals, or decisions better left until the picture sharpens.",
+					"{keyword} here points to money matters shaped by emotion or assumption. It asks for careful verification.",
+					"With money, {keyword} invites caution, curiosity and a close look at what's really being offered."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} can make the body feel restless, especially at night. One small thing: dim the lights a little earlier and give your mind a quieter runway to sleep.",
+					"If {keyword} has you on edge, try grounding through your senses: five things you can see, four you can hear. It's a small practice you can do anywhere.",
+					"{keyword} may stir worry about how you feel. Notice what is actually present in your body right now, and let that be the only thing you attend to for a moment."
+				],
+				"curious": [
+					"{keyword} invites you to notice how your moods and energy shift with the evening, with sleep, with rest. What patterns do you see?",
+					"Here {keyword} might be speaking through dreams or restless nights. Keeping a few notes on how you sleep could be revealing.",
+					"What does your body seem to know before your mind catches up? Exploring {keyword} could start with simply paying attention."
+				],
+				"grieving": [
+					"Grief can unsettle sleep and blur the days, and {keyword} belongs to that. Rest where you can, without judging the restless hours.",
+					"{keyword} may bring heavy or vivid nights. Be patient with yourself; your body is carrying a lot.",
+					"When {keyword} makes you feel foggy, keep your needs simple: warmth, water, quiet company."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here is a prompt to check your sleep and stress. When did you last have a truly restful night?",
+					"No mysticism: {keyword} can reflect tiredness and overthinking. What routine might help you wind down?",
+					"Use {keyword} as a question: are you reacting to how you feel, or to a worry about how you might feel? They're different."
+				],
+				"hopeful": [
+					"{keyword} doesn't have to unsettle your wellbeing. Gentle evening routines can help your mind and body settle.",
+					"With {keyword} present, rest and reflection may serve you well. Let your energy guide you rather than a rigid plan.",
+					"Your hope for feeling well can be supported by small calming habits, especially while {keyword} is part of the picture."
+				],
+				"neutral": [
+					"For wellbeing, {keyword} points to restlessness, vivid dreams, or a sense of not quite knowing how you feel.",
+					"{keyword} here suggests attending to sleep, calm and the quieter signals of your body.",
+					"With {keyword} present, gentle routines and patience may help you feel steadier."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"Spiritually, {keyword} can feel like walking in the dark. You don't need to see the whole path. One slow breath and one honest question are enough for tonight.",
+					"{keyword} may stir up feelings you'd rather not face. You can approach them gently, one at a time, without needing to understand them all.",
+					"If {keyword} unsettles your sense of meaning, return to something simple that grounds you: a familiar prayer, a walk, a quiet cup of tea."
+				],
+				"curious": [
+					"{keyword} is an invitation into the deeper waters of your inner life. What images, dreams or symbols keep returning to you?",
+					"Here {keyword} asks you to sit with mystery rather than solve it. What might you learn by listening instead of explaining?",
+					"What lives in the parts of you that only come out at night? Exploring {keyword} through journaling or quiet reflection could be rich."
+				],
+				"grieving": [
+					"In grief, {keyword} can feel like a strange companion. Let dreams and memories come and go without needing to interpret them.",
+					"{keyword} may bring you close to the person or thing you've lost, in unexpected ways. Be gentle with whatever arises.",
+					"Spiritual life can feel misty during loss. {keyword} doesn't need to be understood right now."
+				],
+				"skeptical": [
+					"Plainly, {keyword} invites you to notice what you feel but can't prove. You don't have to believe anything; just observe.",
+					"No supernatural claim: {keyword} here is about the parts of the mind that work below awareness. What patterns might you be missing?",
+					"Use {keyword} as a prompt to examine your assumptions about meaning. Which ones are well founded, and which are habit?"
+				],
+				"hopeful": [
+					"{keyword} can be a doorway to deeper understanding. Approach it with curiosity, and let insight come in its own time.",
+					"With {keyword} present, your intuition and imagination may be more active. Let them inform your practice.",
+					"Your hope for spiritual growth can be fed by mystery. Let {keyword} invite you to explore rather than conclude."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to mystery and to the parts of yourself that speak in images rather than words.",
+					"{keyword} here suggests a time of inner exploration, when feelings and symbols may carry meaning.",
+					"With {keyword} present, the invitation is to trust slow understanding over quick answers."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} can make things feel more uncertain than they are. Name one thing that is clear and steady in your life right now, and hold on to that.",
+					"If {keyword} is stirring up worry, remember that not knowing is not the same as bad news. Take the next small step and let the rest wait.",
+					"{keyword} may make the night feel long. Try setting a worry aside until morning, when things often look more manageable."
+				],
+				"curious": [
+					"{keyword} invites you to explore what lies just beneath the surface of your days. What have you been sensing but not saying?",
+					"Here {keyword} asks what you might discover if you let things stay unclear a little longer. Sometimes insight needs time to surface.",
+					"What would you learn from {keyword} if you approached it like a riddle rather than a threat? You could try writing it down."
+				],
+				"grieving": [
+					"{keyword} can blur everything when you're carrying a loss. Let the fog be what it is; you don't need to see clearly yet.",
+					"In grief, {keyword} may bring strange dreams or sudden memories. Let them come, and be kind to yourself afterwards.",
+					"{keyword} belongs to the dim stretch of mourning. There's no rush to find your way out."
+				],
+				"skeptical": [
+					"Plainly, {keyword} points to incomplete information. What do you know, what do you assume, and what could you find out?",
+					"No prediction: {keyword} here is about ambiguity. Can you make a decision that holds up under several possible outcomes?",
+					"Use {keyword} as a prompt to check your interpretations. Are you seeing what's there, or what you expect to see?"
+				],
+				"hopeful": [
+					"{keyword} doesn't cancel your hope. It asks you to move carefully, letting clarity grow before you commit.",
+					"With {keyword} in view, patience is your ally. Good things can still unfold, though not on a fixed schedule.",
+					"Your hope doesn't have to wait for {keyword} to resolve. Let it guide one careful step at a time, and let patience set the pace."
+				],
+				"neutral": [
+					"{keyword} points to a time of uncertainty, imagination and things not yet fully visible.",
+					"Overall, {keyword} suggests that feelings, dreams and instincts are shaping your view more than usual.",
+					"With {keyword} present, it helps to move slowly and to separate what you know from what you sense."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} in a relationship may be easier to look at now than it was. If worry has been running the show, write down one thing that has become clearer lately and let that be your footing.",
+					"If you've been pushing {keyword} away because facing it felt too much, you can approach it a little at a time. One honest sentence to yourself is a fine start.",
+					"{keyword} may be loosening its grip on how you see someone. You don't have to trust the new picture straight away; just notice that the night feels slightly less long."
+				],
+				"curious": [
+					"{keyword} in love may be surfacing after a long time underwater. What are you starting to see about a partner, a friend or yourself that you once couldn't?",
+					"Here {keyword} might be something you've kept to yourself in a relationship. What would change if you said it out loud, even just to a journal?",
+					"What happens when {keyword} meets daylight? Some things shrink, some sharpen. You might enjoy watching which is which in your closest bonds."
+				],
+				"grieving": [
+					"After a loss in love, {keyword} may be lifting slowly, and what's left in its place can ache more plainly. There's no hurry to sort through it.",
+					"{keyword} may be something you've held at a distance so you could keep going. That's understandable. It can come closer when you're ready, not before.",
+					"As {keyword} thins, memories of someone may grow sharper for a while. Let them visit. You don't have to decide what any of it means."
+				],
+				"skeptical": [
+					"Plainly, {keyword} coming into view is a chance to check your reading of a relationship against what has actually happened. Where were you right, and where were you guessing?",
+					"Use {keyword} as a prompt: is a misunderstanding between you and someone really resolved, or just quieter? A direct conversation would tell you more than waiting.",
+					"No mystery required: {keyword} turned inward often means a feeling you're avoiding about someone. Which conversation have you been rehearsing instead of having?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to plainer understanding between you and someone close. That isn't a promise of any outcome, but clearer ground is easier to build on.",
+					"With {keyword} easing, honesty may feel less risky. What would you like to say now that you're not speaking through so much fog?",
+					"Your hope in love can lean on what's surfacing. Let {keyword} show you what's real, and choose your next step from there rather than from old fears."
+				],
+				"neutral": [
+					"In love, {keyword} suggests confusion beginning to lift, or a feeling held back that is close to the surface.",
+					"{keyword} here points to a relationship moving from guesswork toward a clearer view, slowly and sometimes unevenly.",
+					"Turned inward, {keyword} may be shaping how you feel about someone more than you've admitted, and it may be ready to be looked at."
+				]
+			},
+			"career": {
+				"anxious": [
+					"{keyword} at work may be settling into something you can actually name. Rather than chasing every rumour, write down what's been confirmed and work from that.",
+					"If {keyword} has made your job feel slippery, the facts may be catching up now. One clarifying question to the right person could save a week of worrying.",
+					"You may have been keeping {keyword} about your work to yourself. Sharing it with one trusted colleague can make it feel more ordinary and more manageable."
+				],
+				"curious": [
+					"{keyword} in your career may be stepping out of the shadows. What have you started to understand about how your workplace really runs?",
+					"Here {keyword} might be a hunch about your work you keep overriding with logic. What would you try if you gave it a fair hearing?",
+					"What if {keyword} were ready to become a plan? You could sketch what you'd do with the clarity you're beginning to have."
+				],
+				"grieving": [
+					"After a loss at work, {keyword} may be lifting enough for you to see what's left. You don't need to act on that view yet.",
+					"{keyword} may be something you've set aside to get through the days. That's a reasonable way to cope. It will still be there when you have more room.",
+					"As {keyword} clears, you may feel the shape of what you lost more distinctly. Go gently; work can wait while you feel it."
+				],
+				"skeptical": [
+					"Practically, {keyword} surfacing at work is an invitation to update your assumptions. Which belief about your role has turned out to be wrong?",
+					"Use {keyword} as a check: are you now acting on information, or still on impressions? Which decision could you revisit with better facts?",
+					"No mysticism needed: when {keyword} is pushed down at work, it tends to show up later as frustration. What have you been not saying?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to clearer direction in your work. Use the improving visibility to choose one concrete next step.",
+					"With {keyword} easing, a plan you've kept in a drawer might be worth taking out again. What would you need to move it forward?",
+					"Your hope at work can grow alongside {keyword} coming to light. Clarity rarely arrives all at once; each conversation helps."
+				],
+				"neutral": [
+					"At work, {keyword} suggests hidden information coming out, doubts easing, or an instinct you've been ignoring asking to be heard.",
+					"{keyword} here points to a career picture becoming easier to read, with some things still not fully in view.",
+					"Held inward, {keyword} may be colouring how you feel about your work without being named. Naming it may help."
+				]
+			},
+			"money": {
+				"anxious": [
+					"{keyword} with money may be clearing. Looking at one real figure today can turn a vague dread into something you can actually plan around.",
+					"If you've been avoiding {keyword} in your finances, the avoidance may be heavier than the facts. Open one statement, read it, and stop there for today.",
+					"{keyword} may be loosening its hold on your money worries. Let what you know replace a little of what you've imagined."
+				],
+				"curious": [
+					"{keyword} in money matters may be surfacing. What pattern in your spending or saving have you recently noticed for the first time?",
+					"Here {keyword} might be a feeling about money you've kept from others, or from yourself. What would happen if you looked at it squarely?",
+					"What could {keyword} teach you about your money habits now that it's easier to see? Try one small experiment with that insight."
+				],
+				"grieving": [
+					"{keyword} around money may be lifting after a loss, showing what needs attention. Take only what's urgent first; the rest can wait.",
+					"If you've been holding {keyword} about finances at arm's length during grief, that's understandable. Ask for help when you're ready to look.",
+					"As {keyword} clears, financial matters may feel painfully practical. Move slowly, and let others carry part of it where they can."
+				],
+				"skeptical": [
+					"Plainly, {keyword} surfacing with money can mean hidden costs or terms coming to light. Read the details now while they're visible.",
+					"Use {keyword} as a check: is a financial situation genuinely clearer, or are you assuming the best because the worry has faded?",
+					"No mystery: pushing {keyword} about money aside tends to make it bigger later. What's one figure you've been avoiding?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to a clearer financial picture. Let what you can now see shape a modest, workable plan.",
+					"With {keyword} easing, it may be a good time to make a careful decision you've postponed. Checking twice is still wise.",
+					"Your hope about money can rest on firmer ground as {keyword} comes into the light. Build on facts, and let optimism follow."
+				],
+				"neutral": [
+					"With money, {keyword} suggests confusion clearing and hidden details surfacing, or worries kept quiet rather than addressed.",
+					"{keyword} here points to finances becoming easier to understand, if you're willing to look.",
+					"Turned inward, {keyword} may be shaping money choices behind the scenes. Bringing it into view may help you decide well."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} may be loosening its hold on how you feel. Notice one way your body feels more settled than it did, and let yourself rest in that.",
+					"If {keyword} has kept your nights restless, calm may be returning bit by bit. Protect tonight's sleep with one small routine: a dimmer room, a slower hour.",
+					"You may have been holding {keyword} in your body as tension. Gently loosening your jaw or shoulders is a small, real thing you can do right now."
+				],
+				"curious": [
+					"{keyword} may be surfacing in your energy. What have you noticed about your moods and rest that you hadn't seen before?",
+					"Here {keyword} might be something your body has been signalling quietly. What would you hear if you checked in with it at the same time each day?",
+					"What if {keyword} were ready to guide a gentler habit? You could try one small change and watch how you feel."
+				],
+				"grieving": [
+					"{keyword} may be lifting slowly, and what's left can still feel heavy. Rest as much as you need; there's no target.",
+					"If you've been keeping {keyword} out of sight to get through each day, your body may still feel it. Small comforts are welcome.",
+					"As {keyword} eases, tiredness can come forward. Be patient with it; it's part of carrying a loss."
+				],
+				"skeptical": [
+					"Plainly, {keyword} coming into view can be a prompt to notice what has helped you feel steadier lately. What was it, specifically?",
+					"Use {keyword} as a check on whether you're responding to how you feel, or to how you fear you might feel.",
+					"No mysticism: holding {keyword} in rather than naming it can wear on sleep and patience. Who could you talk it through with?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to steadier energy. Keep the routines that seem to help, and let the improvement grow at its own pace.",
+					"With {keyword} easing, rest may feel more restoring. Enjoy it without needing to make the most of it.",
+					"Your hope for feeling well may be supported as {keyword} lifts. Build on what's working, gently."
+				],
+				"neutral": [
+					"For wellbeing, {keyword} suggests restlessness easing, or worries held in the body that are ready to be released.",
+					"{keyword} here points to clearer awareness of what your energy and sleep need.",
+					"Held inward, {keyword} may be living in the body as tension. Gentle attention may help it move."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{keyword} may be clearing in your inner life. You don't need a full answer; notice one thing that feels more settled, and rest there.",
+					"If {keyword} has been unsettling you, it may be losing some of its power. A familiar, simple practice can help you feel grounded as it does.",
+					"You may have been keeping {keyword} at bay. You can let it in slowly, with a trusted person or a quiet ritual beside you."
+				],
+				"curious": [
+					"{keyword} may be surfacing from somewhere deep. What insight or image has come to you lately that you'd like to understand better?",
+					"Here {keyword} might be something you've overridden for a long time. What would it feel like to give it room in your practice?",
+					"What does {keyword} look like now that it's closer to the surface? You might explore it through journaling or quiet walks."
+				],
+				"grieving": [
+					"{keyword} may be lifting slowly in your grief, letting something truer show through. You don't need to name it yet.",
+					"If {keyword} has been pushed aside so you could cope, that's allowed. Your inner life can wait for you.",
+					"As {keyword} clears, meaning may feel tender or raw. Go gently; there's no right way to grieve spiritually."
+				],
+				"skeptical": [
+					"Plainly, {keyword} coming into view is an invitation to notice what you've learned about yourself recently. No belief is required.",
+					"Use {keyword} as a check on your assumptions about meaning. Which of them have held up, and which have quietly dissolved?",
+					"No supernatural claim: ignoring {keyword} tends to leave a vague unease. What have you sensed but not taken seriously?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to understanding. Let it come without forcing it, and enjoy the clearer air.",
+					"With {keyword} easing, your practice may feel more alive. What would you like to explore next?",
+					"Your hope for inner growth can be fed by what's now surfacing. Let {keyword} show you where to look."
+				],
+				"neutral": [
+					"Spiritually, {keyword} suggests confusion lifting, fears releasing, or an inner voice you've ignored asking for attention.",
+					"{keyword} here points to insight surfacing after a period of mystery, sometimes in pieces, sometimes all at once.",
+					"Held inward, {keyword} may be quietly shaping your sense of meaning. Bringing it into view could be the next step."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} may be clearing. Notice one thing that feels more certain now than it did a month ago, and let that steady you.",
+					"If {keyword} has been unsettling you, it may be losing some of its grip. Take the next small, clear step and let the rest unfold.",
+					"You may have been holding {keyword} by yourself. Telling one person you trust can make it feel smaller and more manageable."
+				],
+				"curious": [
+					"{keyword} may be surfacing. What are you starting to see about your life that was harder to see before?",
+					"Here {keyword} might be something you've kept private. What would change if you let it be known?",
+					"What if {keyword} were ready to be named? Try describing it in one sentence and see what that reveals."
+				],
+				"grieving": [
+					"{keyword} may be lifting slowly, letting the shape of a loss show more plainly. Take whatever time you need.",
+					"If you've held {keyword} at a distance to get through, that's understandable. It can come closer when you're ready.",
+					"As {keyword} eases, grief may feel clearer and still heavy. There's no rush to move through it."
+				],
+				"skeptical": [
+					"Plainly, {keyword} coming to light invites you to update your picture of things. What have you learned recently?",
+					"Use {keyword} as a check: are you now acting on facts, or still on fears that haven't been updated?",
+					"No prediction: pushing {keyword} down often makes it louder later. What would it cost to look at it now?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way to clarity. Let that guide one decision you've been putting off.",
+					"With {keyword} easing, the way forward may look less shadowed. Enjoy the clearer view, while staying attentive.",
+					"Your hope may be supported as {keyword} comes into the open. Build on what's now visible."
+				],
+				"neutral": [
+					"{keyword} suggests confusion lifting, truths surfacing, or old fears losing their grip.",
+					"Overall, {keyword} points to a shift from uncertainty toward a clearer, if still incomplete, understanding.",
+					"Turned inward, {keyword} may be shaping your days quietly. Giving it attention may help it settle."
+				]
+			}
+		}
+	}
+}

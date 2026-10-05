@@ -1,0 +1,412 @@
+{
+	"id": "cups_06_six",
+	"name": "Six of Cups",
+	"facets": [
+		{
+			"id": "nostalgia",
+			"keywords": ["nostalgia", "a fond memory", "a look back at earlier days"]
+		},
+		{
+			"id": "innocence",
+			"keywords": ["innocence", "a childlike joy", "simple pleasure"]
+		},
+		{
+			"id": "reunion",
+			"keywords": ["reunion", "an old friend", "a familiar face"]
+		},
+		{
+			"id": "simple_kindness",
+			"keywords": ["simple kindness", "a small gift", "a gesture of goodwill"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If love feels uncertain right now, {keyword} offers somewhere soft to rest your attention. One small thing in your control: send a warm, low-stakes message to someone who has always been easy to talk to.",
+					"{keyword} suggests that comfort can come from what is familiar. When worry rises, remember a time someone was simply kind to you, and let that steady your breathing.",
+					"When you are braced for hurt, {keyword} invites you to lower the stakes. A shared joke or an old song can bring two people closer without needing to decide anything big."
+				],
+				"curious": [
+					"{keyword} asks a playful question: what did love look like to you as a child, and how much of that picture do you still carry?",
+					"What if {keyword} is a doorway back to someone you lost touch with? It might be worth wondering what they are doing now.",
+					"{keyword} hints at affection without complication. When did you last do something purely sweet for someone, with no agenda at all?"
+				],
+				"grieving": [
+					"{keyword} may bring someone you've lost very close, which can be both tender and painful. You can hold the memory as long as you like, and set it down when it's too much.",
+					"When you are missing someone, {keyword} might arrive in a smell, a place or a photograph. Let it come; there is no need to rush past it.",
+					"{keyword} can be a quiet way to stay near the person you loved. Telling a story about them, even to yourself, is allowed."
+				],
+				"skeptical": [
+					"Practically, {keyword} in love is a prompt to notice whether you are comparing the present with an idealised past. Is the comparison fair?",
+					"Take {keyword} as a question about patterns: which habits in your relationships go back to how you were raised, and do they still help you?",
+					"No mystery is needed here. {keyword} often points to old ties resurfacing. If someone from your past is reappearing, what do you actually want from that?"
+				],
+				"hopeful": [
+					"{keyword} is a sweet sign for the heart. It cannot promise a reunion or a romance, but it encourages you to let warmth and familiarity guide you.",
+					"If you are hoping for love, {keyword} suggests it may grow from something easy and familiar rather than dramatic. Pay attention to who feels like home.",
+					"{keyword} invites you to bring a little play back into love. Lightness can make room for closeness."
+				],
+				"neutral": [
+					"In love, {keyword} speaks of sweetness, familiarity, and ties that reach back into your past.",
+					"{keyword} points to tenderness and innocence in relationships, and to people who knew you before you were fully grown.",
+					"{keyword} brings the focus to old bonds, shared history and simple acts of affection."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels tense, {keyword} reminds you of what drew you to this kind of work in the first place. One thing in your control: spend ten minutes on the part you still enjoy.",
+					"{keyword} suggests reaching out to someone who knew you earlier in your career. A familiar voice can put today's worries in proportion.",
+					"When you are bracing for bad news at work, {keyword} invites a small act of kindness toward a colleague. It can lower the temperature for both of you."
+				],
+				"curious": [
+					"{keyword} asks what you loved doing before anyone paid you to do it. Is there a thread there worth picking back up?",
+					"What could {keyword} mean for your work? An old contact, an earlier skill, a project you once shelved?",
+					"{keyword} hints at playfulness at work. What would you try if it didn't have to be impressive?"
+				],
+				"grieving": [
+					"If you are mourning a job or a team, {keyword} may bring back the good days, which can sting. Let those memories be what they are.",
+					"{keyword} may look like a former colleague getting in touch. You can accept the warmth without needing to say much.",
+					"When work feels empty after a loss, {keyword} does not ask you to look forward. Remembering the people you worked beside is enough."
+				],
+				"skeptical": [
+					"Read practically, {keyword} at work points to past experience and old networks. Are you using what you already know and who you already know?",
+					"{keyword} is a plain prompt: are you holding onto an old way of working because it is comfortable rather than because it works?",
+					"There is nothing mystical here: {keyword} is about goodwill. Small favours at work tend to build trust over time."
+				],
+				"hopeful": [
+					"{keyword} suggests that something from your past could help you now, whether a skill, a contact or an old idea. Hope fits, so look back with curiosity.",
+					"If you are hoping for a fresh start at work, {keyword} encourages reconnecting with people who once believed in you.",
+					"{keyword} invites you to bring more ease and generosity into how you work. That warmth tends to come back around."
+				],
+				"neutral": [
+					"At work, {keyword} points to past experience, old contacts and goodwill among colleagues.",
+					"{keyword} highlights what is familiar in your working life and whether it is serving you.",
+					"{keyword} suggests looking back for resources, while keeping an eye on whether you are stuck there."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money worries are heavy, {keyword} reminds you that simple pleasures cost little. One step in your control: plan one free thing that makes you happy this week.",
+					"{keyword} suggests leaning on familiar support. Is there someone who has helped you before who could offer advice now?",
+					"When finances feel tight, {keyword} invites you to remember a time you managed with less and were still all right. That memory can steady you."
+				],
+				"curious": [
+					"{keyword} asks what money meant in the home you grew up in. How much of that still shapes your choices?",
+					"What if {keyword} points to a small, thoughtful gift rather than an expensive one? What would mean the most to someone you love?",
+					"{keyword} hints at old resources. Is there something you own, know or once did that could be useful again?"
+				],
+				"grieving": [
+					"Money and memory can be tangled after a loss, and {keyword} may bring that up. Go gently with anything inherited or shared.",
+					"{keyword} may arrive as an object that belonged to someone you miss. There is no need to decide what to do with it yet.",
+					"If a loss has changed your finances, {keyword} does not ask you to plan. Small comforts and familiar routines are enough for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} raises a question about inherited money habits. Which ones are useful, and which are just familiar?",
+					"{keyword} is a prompt to check whether you spend to recreate a feeling from the past. Is that working for you?",
+					"Read plainly, {keyword} points to generosity on a small scale. Giving within your means is sensible and kind."
+				],
+				"hopeful": [
+					"{keyword} suggests that help from familiar people may be available. Hope fits, so don't be shy about asking.",
+					"If you are hoping for more ease, {keyword} encourages enjoying what you already have rather than reaching for more.",
+					"{keyword} invites you to give in small ways. Generosity can feel abundant even on a modest budget."
+				],
+				"neutral": [
+					"Around money, {keyword} points to inherited habits, small gifts and simple pleasures.",
+					"{keyword} speaks to familiarity and generosity in how you use your resources, and to the old lessons about money you still carry.",
+					"{keyword} suggests looking at how your past shapes your present spending and saving."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} invites you to turn to something comforting and familiar. One small thing: make a meal or a drink that reminds you of being looked after.",
+					"{keyword} suggests that ease can come from simple things. A walk in a familiar place or a call to an old friend can settle your nerves.",
+					"When stress is high, {keyword} reminds you that you are allowed to rest like you did as a child, with no reason needed."
+				],
+				"curious": [
+					"{keyword} poses a question: what did you love doing with your body as a child? Running, swimming, climbing? Could you try a grown-up version?",
+					"What might {keyword} add to how you care for yourself? Play, perhaps, rather than discipline.",
+					"{keyword} hints at familiar comforts. Which ones genuinely restore you, and which just feel safe?"
+				],
+				"grieving": [
+					"Grief can make you long for comfort, and {keyword} may be exactly that. Let yourself have the soft things: blankets, warm food, quiet.",
+					"{keyword} may bring back memories that feel heavy in the body. Rest when they do.",
+					"When you are carrying loss, {keyword} can be a small kindness someone does for you. Let it in."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to habits formed early. Which of yours around food, sleep or movement came from childhood?",
+					"{keyword} is a plain prompt about comfort. Comfort can restore you or keep you stuck; which is it at the moment?",
+					"Read without mysticism, {keyword} is about play and ease. Activities you enjoy tend to be the ones you keep doing."
+				],
+				"hopeful": [
+					"{keyword} suggests that gentleness and play could help you feel better. It cannot promise results, but it encourages lightness.",
+					"If you are hoping for more energy, {keyword} encourages returning to an activity you once loved.",
+					"{keyword} invites you to treat yourself with the kindness you'd show a child in your care. Small comforts, repeated, tend to add up."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to comfort, play, familiar routines and gentle care.",
+					"{keyword} speaks to the restorative power of simple pleasures: sunshine, a favourite meal, an afternoon with nothing to prove.",
+					"{keyword} suggests looking at what nourished you in the past and whether it still does."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsettled, {keyword} invites you to return to something simple. One steady step: revisit a place, song or practice that once brought you peace.",
+					"{keyword} suggests that wonder can steady you. Spend a few minutes looking at something beautiful, as you might have as a child.",
+					"When meaning feels far off, {keyword} reminds you that you don't need complicated answers. Kindness is a practice too."
+				],
+				"curious": [
+					"{keyword} asks what you believed as a child, and what you still believe. What has changed, and what has stayed?",
+					"What if {keyword} is an invitation to wonder again? What still surprises you about the world?",
+					"{keyword} hints at the sacred in ordinary things. Where have you found it lately?"
+				],
+				"grieving": [
+					"{keyword} may bring the people you've lost close in memory. Let that closeness be part of your inner life, as gently as you need.",
+					"When you are mourning, {keyword} might be a ritual from your past that feels comforting. There's no need to explain why.",
+					"{keyword} can hold grief and love together in the same breath. Remembering someone gently can be a kind of devotion, if you want it to be."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to look at beliefs you inherited. Which have you chosen, and which simply came with you?",
+					"{keyword} doesn't need faith. It can mean recognising the comfort of familiar rituals without needing them to be true.",
+					"Read plainly, {keyword} points to simplicity. Have you made your inner life more complicated than it needs to be?"
+				],
+				"hopeful": [
+					"{keyword} suggests that returning to simple joys could renew your sense of meaning. Hope fits here.",
+					"If you are hoping for more peace, {keyword} encourages kindness as a daily practice.",
+					"{keyword} invites you to approach your inner life with open, uncomplicated curiosity."
+				],
+				"neutral": [
+					"On the inner path, {keyword} speaks of innocence, wonder and the comfort of familiar practice.",
+					"{keyword} points to memory and simplicity as sources of meaning, and to the wonder you may have felt more easily when you were young.",
+					"{keyword} suggests that what nourished you early on may still have something to give."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If things feel uncertain, {keyword} reminds you of times you were safe and cared for. One thing in your control: do one comforting, familiar thing today.",
+					"{keyword} suggests leaning on people who have known you a long time. Reach out to one of them.",
+					"When you are braced for bad news, {keyword} invites you to notice small kindnesses around you. They are still happening."
+				],
+				"curious": [
+					"{keyword} asks what your younger self would think of your life now. What would surprise them, and what would delight them?",
+					"What if {keyword} is pointing to an old interest worth revisiting? Think of something you used to lose hours to, and wonder what it would feel like now.",
+					"{keyword} hints at sweetness and play. Where could you add a little of both this week?"
+				],
+				"grieving": [
+					"{keyword} may bring back people and places you miss. Let the memories come at their own pace.",
+					"When you are carrying loss, {keyword} can be a comfort and an ache at once. Both are allowed.",
+					"{keyword} may be as small as an old photograph or a familiar song. There is no need to rush past it."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to the pull of the past. Is it helping you understand the present, or keeping you from it?",
+					"{keyword} is a prompt to notice whether you are romanticising how things used to be.",
+					"Read plainly, {keyword} is about familiar comfort and small generosity. Both are useful in moderation."
+				],
+				"hopeful": [
+					"{keyword} suggests that warmth from the past could support you now. Hope fits, so let it.",
+					"If you are hoping for things to feel lighter, {keyword} encourages simple pleasures and old friends.",
+					"{keyword} invites you to bring more play and kindness into everyday life. Hope grows easily in a day that has some sweetness in it."
+				],
+				"neutral": [
+					"Overall, {keyword} speaks of memory, innocence, familiar faces and simple kindness.",
+					"{keyword} points to the past and to the people who have known you longest, and asks how they shape your present.",
+					"{keyword} suggests sweetness and familiarity, along with a gentle check against living in yesterday."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you keep comparing a relationship with how it used to be, {keyword} may be holding you in the past. One small step: notice one thing you appreciate about how things are now.",
+					"{keyword} may feel complicated rather than comforting at the moment. You don't have to resolve old feelings today; just let them be there without acting on them.",
+					"When an old connection resurfaces and unsettles you, {keyword} invites you to go slowly. You are allowed to decide how much of the past you let back in."
+				],
+				"curious": [
+					"{keyword} seems to be pulling at you. What is it about the past that feels better than now, and is that feeling accurate?",
+					"What if {keyword} is asking you to grow up a little in love, in the best sense? What would a more grown-up version of affection look like for you?",
+					"{keyword} hints at rose-tinted memory. What would you see if you looked at that old relationship clearly?"
+				],
+				"grieving": [
+					"{keyword} may feel painful rather than sweet while you grieve. It is all right to put the photos away for a while.",
+					"If memories of someone you lost are too much right now, {keyword} does not ask you to dwell on them. You can come back to them when you are ready.",
+					"{keyword} may be held close, or kept at a distance, depending on the day. Either is a reasonable way to carry love and loss."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often points to idealising the past. Is an old flame or old dynamic shaping how you treat someone now?",
+					"{keyword} is a prompt to check whether childhood patterns are steering your relationships. Which ones would you rather leave behind?",
+					"Read plainly, {keyword} reversed can mean it's time to stop waiting for the past to return. What do you want now?"
+				],
+				"hopeful": [
+					"{keyword} may be ready to be set down so something new can begin. It cannot promise what comes next, but it makes room.",
+					"If you are hoping for love, {keyword} encourages you to look forward rather than back. The best connections may still be ahead.",
+					"{keyword} could become a gentle foundation rather than a place to live. Carry what was good, and leave the rest."
+				],
+				"neutral": [
+					"In love, {keyword} reversed can point to being stuck in the past, idealising old relationships, or growing beyond early patterns.",
+					"{keyword} appears turned backward, asking whether memory is helping or holding you.",
+					"{keyword} suggests that a relationship may be living partly in memory, and asks how much of it is happening now."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If you feel stuck in an old role or way of working, {keyword} may be keeping you there. One step in your control: list one skill you've built since then.",
+					"{keyword} may make change at work feel threatening. You don't have to let go of everything familiar at once; start with one small shift.",
+					"When old colleagues or old habits pull at you, {keyword} invites you to choose what is useful and let the rest go."
+				],
+				"curious": [
+					"{keyword} seems to be holding on. What about the past at work do you miss, and what about it would you never repeat?",
+					"What if {keyword} is asking you to grow beyond the version of yourself you were when you started?",
+					"{keyword} hints at moving on. What would your work look like if you stopped measuring it against how things used to be?"
+				],
+				"grieving": [
+					"{keyword} may feel painful if you are mourning a job or colleague. It's all right to miss how things were.",
+					"If memories of an old workplace are heavy, {keyword} does not ask you to move on quickly.",
+					"{keyword} may need to be set down for a while. You can pick it up again when it feels kinder."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means relying on outdated approaches. Is there a method you use only because it's familiar?",
+					"{keyword} is a prompt about nostalgia at work. 'The way we've always done it' is worth questioning.",
+					"Read plainly, {keyword} reversed can mean it's time to update your skills or network. Where would you start?"
+				],
+				"hopeful": [
+					"{keyword} may be ready to give way to something new at work. Hope fits, so look forward with curiosity.",
+					"If you are hoping for progress, {keyword} encourages you to carry lessons forward without being bound by them.",
+					"{keyword} could become the ground you grow from, rather than the place you stay."
+				],
+				"neutral": [
+					"At work, {keyword} reversed can point to being stuck in old ways, idealising the past, or finally moving forward.",
+					"{keyword} appears turned backward, asking whether the past is helping your career.",
+					"{keyword} suggests it may be time to leave behind the parts of your working past that no longer fit, while keeping the people and lessons that do."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If old money habits are causing stress, {keyword} may be part of what keeps them going. One step in your control: pick one habit and change it slightly this week, nothing more.",
+					"{keyword} may make it hard to accept that your finances aren't what they used to be. Go gently; adjusting to a new reality is a process, not a failure.",
+					"When you feel stuck in an old pattern with money, {keyword} invites you to make one small, forward-looking choice, like setting aside a little for next month."
+				],
+				"curious": [
+					"{keyword} seems to be holding on. Which money beliefs from the home you grew up in still guide you without you noticing?",
+					"What if {keyword} is asking you to update how you think about money, as if you were meeting it fresh as an adult?",
+					"{keyword} hints at spending to recapture a feeling from the past. What feeling is it, and is there a cheaper way to reach it?"
+				],
+				"grieving": [
+					"{keyword} may be tied up with things you inherited or once shared. There is no need to sort through them before you are ready.",
+					"If financial memories are painful, {keyword} does not ask you to face them all now. One small task, then rest, is plenty.",
+					"{keyword} may need to be set aside for a while. Keeping something for its memory rather than its value is a perfectly good reason."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to outdated money habits. Which of yours is quietly costing you the most?",
+					"{keyword} is a prompt about nostalgic spending: collecting, recreating old holidays, buying back childhood. Is it worth what it costs?",
+					"Read plainly, {keyword} reversed can mean your approach to money hasn't kept up with your life. What has changed that your budget hasn't?"
+				],
+				"hopeful": [
+					"{keyword} may be ready to give way to fresher habits. Hope fits, especially if you start with one realistic change.",
+					"If you are hoping for more ease, {keyword} encourages choices that suit your life now rather than the one you had before.",
+					"{keyword} could become a foundation rather than a limit. Keep what your past taught you about money and leave what it got wrong."
+				],
+				"neutral": [
+					"Around money, {keyword} reversed can point to old habits, nostalgic spending, or finally updating how you manage your resources.",
+					"{keyword} appears turned backward, asking whether past patterns still fit your present finances.",
+					"{keyword} suggests a gentle reckoning between how you learned to handle money and how you need to now."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you are clinging to an old routine that no longer suits your body, {keyword} may be part of that. One small thing: try one gentle change to your day and see how it feels.",
+					"{keyword} may make you long for how your energy used to be. That longing is understandable; for today, care for the body you have now.",
+					"When worry pulls you backward, {keyword} invites you to ground yourself in the present. Feel your feet on the floor and take three slow breaths."
+				],
+				"curious": [
+					"{keyword} seems to be holding on. Which habits around food, rest or movement did you inherit, and which did you choose?",
+					"What if {keyword} is asking you to grow out of a comfort that has stopped helping?",
+					"{keyword} hints at comparing yourself with a younger self. What would it be like to stop keeping score?"
+				],
+				"grieving": [
+					"{keyword} may stir up memories that feel heavy in the body while you grieve. Rest when they come; there's nothing to push through.",
+					"If familiar comforts feel hollow right now, {keyword} does not ask you to replace them. They may feel like comfort again another day.",
+					"{keyword} may need some distance for a while. It is all right to take it, and to come back to old places and rituals in your own time."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to habits that have outlived their use. Which one would you drop if no one was watching?",
+					"{keyword} is a prompt about comfort-seeking. Comfort helps in moments; as a constant, it can keep you stuck. How is your balance?",
+					"Read without mysticism, {keyword} reversed can mean measuring yourself against how you used to feel. That comparison rarely helps."
+				],
+				"hopeful": [
+					"{keyword} may be ready to give way to routines that fit you now. Hope fits, so try one that feels genuinely enjoyable.",
+					"If you are hoping to feel better, {keyword} encourages looking forward. Your body now may need different things than it once did.",
+					"{keyword} could become a source of gentle wisdom rather than a standard to meet. Take what helped and leave what doesn't."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} reversed can point to outdated habits, comparing yourself with the past, or moving into routines that fit you better.",
+					"{keyword} appears turned backward, asking whether old comforts still restore you.",
+					"{keyword} suggests caring for the body you have now rather than the one you remember."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your beliefs feel shaken, {keyword} may be pulling you back toward old certainty. One steady step: keep what comforts you, and let questions sit beside it.",
+					"{keyword} may feel complicated now that you have grown. You don't need to settle anything today; just notice what still rings true.",
+					"When the faith or practice you grew up with feels uncomfortable, {keyword} invites patience. Outgrowing something is not the same as losing it."
+				],
+				"curious": [
+					"{keyword} seems to be holding on. Which early beliefs have you kept out of loyalty rather than conviction?",
+					"What if {keyword} is asking you to grow into a more grown-up spirituality, one that you chose?",
+					"{keyword} hints at a longing for simpler times in your inner life. What did that simplicity give you that you miss?"
+				],
+				"grieving": [
+					"{keyword} may feel painful while you grieve, especially if old rituals remind you of someone. You can step back from them for a while.",
+					"If a familiar practice no longer comforts you, {keyword} does not ask you to force it. Grief can change how everything feels.",
+					"{keyword} may need some distance for now. The rituals will still be there if and when you want them."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to inherited beliefs you may be questioning. That's a normal part of growing up.",
+					"{keyword} is a prompt to notice whether nostalgia is keeping you in a practice that no longer fits.",
+					"Read plainly, {keyword} reversed can mean you are ready to choose your own path. What would that look like?"
+				],
+				"hopeful": [
+					"{keyword} may be ready to give way to something more your own. Hope fits, so explore with an open mind.",
+					"If you are hoping for spiritual growth, {keyword} encourages you to carry forward what was good and leave the rest.",
+					"{keyword} could become a root rather than a cage. Growing from where you began, rather than back into it, is a hope worth holding."
+				],
+				"neutral": [
+					"On the inner path, {keyword} reversed can point to outgrowing old beliefs, idealising past certainty, or choosing a path of your own.",
+					"{keyword} appears turned backward, asking what you still believe and what you simply remember believing.",
+					"{keyword} suggests honouring where you began without needing to stay there."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you keep returning to the past for comfort, {keyword} may be holding you there. One step in your control: plan one thing you are looking forward to.",
+					"{keyword} may make change feel like loss. You don't have to let go of everything at once; take one small step toward the present.",
+					"When the past feels safer than now, {keyword} invites you to notice one good thing about today, however small."
+				],
+				"curious": [
+					"{keyword} seems to be pulling at you. What are you really missing: the time, the people, or who you were?",
+					"What if {keyword} is asking you to grow beyond an old story about yourself? What would the new story be?",
+					"{keyword} hints at rose-tinted memory. What would you see if you looked back with clear eyes?"
+				],
+				"grieving": [
+					"{keyword} may feel painful rather than comforting while you grieve. You can set memories aside for a while and come back later.",
+					"If the past is too heavy right now, {keyword} does not ask you to revisit it. Rest in the present as best you can.",
+					"{keyword} may come and go in waves, sweet one day and sharp the next. Both are part of carrying loss."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often points to living in the past. How much of your attention goes backward?",
+					"{keyword} is a prompt to check for idealised memories. Were things really as good as they seem now?",
+					"Read plainly, {keyword} reversed can mean it's time to move forward. What's one concrete step?"
+				],
+				"hopeful": [
+					"{keyword} may be ready to give way to something new. Hope fits, so let the past support rather than steer you.",
+					"If you are hoping for change, {keyword} encourages looking ahead while keeping what was good.",
+					"{keyword} could become a source of strength rather than a place to hide. That is worth working toward."
+				],
+				"neutral": [
+					"Overall, {keyword} reversed can point to being stuck in the past, idealising earlier days, or finally moving forward.",
+					"{keyword} appears turned backward, asking whether memory serves you or holds you.",
+					"{keyword} suggests balancing fondness for the past with presence in the now."
+				]
+			}
+		}
+	}
+}

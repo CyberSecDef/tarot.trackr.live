@@ -1,0 +1,412 @@
+{
+	"id": "swords_04_four",
+	"name": "Four of Swords",
+	"facets": [
+		{
+			"id": "rest",
+			"keywords": ["rest", "a pause", "stillness"]
+		},
+		{
+			"id": "retreat",
+			"keywords": ["a quiet retreat", "time alone", "solitude"]
+		},
+		{
+			"id": "contemplation",
+			"keywords": ["contemplation", "quiet reflection", "a calm mind"]
+		},
+		{
+			"id": "regrouping",
+			"keywords": ["regrouping", "a breather", "gathered strength"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If a relationship has you on edge, {keyword} may be the kindest thing you can offer it right now. You don't need to resolve anything tonight; let the conversation wait until you are rested.",
+					"{keyword} suggests stepping back from the back-and-forth for a little while. One small thing you can do: put your phone in another room for an evening.",
+					"When love feels tiring, {keyword} is allowed. Stepping back to breathe is not the same as stepping away from someone you care about."
+				],
+				"curious": [
+					"{keyword} opens a gentle question in love: what do you notice about a relationship when you stop trying to fix it for a moment?",
+					"What if {keyword} is something you could share with a partner or friend? Try an evening of quiet company, with nothing to achieve.",
+					"{keyword} hints that you may understand your own heart better with a little distance. What becomes clearer when things go quiet?"
+				],
+				"grieving": [
+					"When you are grieving someone you loved, {keyword} is not giving up on them. It is simply letting yourself lie down for a while.",
+					"{keyword} may be all you can manage right now, and that is enough. Others can wait; your heart needs its quiet.",
+					"In loss, {keyword} can be a soft place to land. Let friends know you are resting, and that you'd like them to keep the door open."
+				],
+				"skeptical": [
+					"Practically, {keyword} in a relationship can mean a cooling-off period after a disagreement. A little space often makes the next conversation calmer.",
+					"Treat {keyword} as a prompt: are you giving yourself enough time to recharge between social or emotional demands?",
+					"No mystery needed: {keyword} is simple self-care. People tend to be kinder to each other when they are not exhausted."
+				],
+				"hopeful": [
+					"{keyword} can make room for love to settle and grow. If you are hoping for closeness, a calm, unhurried presence may help more than effort.",
+					"If you are hoping to reconnect, {keyword} encourages you to rest first. You may find you have more to give afterwards.",
+					"{keyword} suggests a gentle season in love, one where quiet care matters more than big gestures."
+				],
+				"neutral": [
+					"In love, {keyword} speaks of stepping back, resting and letting a relationship breathe.",
+					"{keyword} points to a pause in the emotional give-and-take, a time to recharge rather than push.",
+					"{keyword} brings attention to the value of quiet and space in matters of the heart."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work has been relentless, {keyword} may be exactly what you need, not a reward you have to earn. Book one short break into your week and protect it.",
+					"{keyword} suggests that stepping back for a moment won't make everything fall apart. Choose one task you can postpone without harm.",
+					"When pressure is high, {keyword} can steady you. Take five minutes away from your desk, eyes closed, before the next demand."
+				],
+				"curious": [
+					"{keyword} raises a question about your work: what ideas come to you when you are not trying to be productive?",
+					"What if {keyword} is part of doing good work, not a break from it? Try a slow morning and see how the afternoon goes.",
+					"{keyword} hints at a strategic pause. What would you see differently if you stepped back from your career for a week of thinking?"
+				],
+				"grieving": [
+					"If loss is with you at work, {keyword} is a reasonable need. Ask for time, or for a lighter load, if you can.",
+					"{keyword} may look like doing only what is essential for a while. That is enough, and it is allowed.",
+					"In grief, {keyword} at work can mean letting colleagues carry more for now. You can return the favour another time."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work is about avoiding burnout. When did you last take a full day off without checking messages?",
+					"Treat {keyword} as a prompt to plan before you push. A short pause to think often saves time later.",
+					"No mysticism required: {keyword} improves focus and judgement. Which decision would benefit from a night's sleep before you make it?"
+				],
+				"hopeful": [
+					"{keyword} can prepare you for the next step in your career. If you are hoping to move forward, rest now so you can act well later.",
+					"If you are hoping for a breakthrough, {keyword} encourages you to step back and let ideas settle. Clarity often comes in the quiet.",
+					"{keyword} suggests that gathering your strength is a sound plan. The next challenge may feel lighter for it."
+				],
+				"neutral": [
+					"In work, {keyword} points to rest, planning and a pause before the next push.",
+					"{keyword} speaks of stepping back from busyness to recharge and reflect.",
+					"{keyword} brings attention to the need for breaks and quiet thinking in your working life."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money worries are keeping you up, {keyword} may help more than another round of calculations. Set the figures aside until morning.",
+					"{keyword} suggests pausing before any big financial step. One thing in your control: give yourself a day before you commit.",
+					"When finances feel overwhelming, {keyword} is allowed. Rest first, then look at one thing with a calmer mind."
+				],
+				"curious": [
+					"{keyword} asks an interesting question about money: what would you notice if you stopped spending for a few days, just to observe?",
+					"What if {keyword} is the wisest financial move right now? A pause can reveal what you truly need.",
+					"{keyword} hints at a quieter relationship with money. What would it feel like to want a little less?"
+				],
+				"grieving": [
+					"After a loss, {keyword} around money is wise. Most decisions can wait until you feel steadier.",
+					"{keyword} may mean letting someone else handle the paperwork for a while. That is allowed.",
+					"In grief, {keyword} protects you from rushed choices. Give yourself the time you need."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a sensible approach to money when things are uncertain. Waiting before a big decision is rarely a mistake.",
+					"Treat {keyword} as a prompt to review your finances calmly rather than react. Schedule a quiet hour for it.",
+					"No mystery needed: {keyword} reduces impulsive spending. Try a cooling-off rule for any purchase over a certain amount."
+				],
+				"hopeful": [
+					"{keyword} can let your resources settle and grow. If you are hoping for security, patience may be your best ally.",
+					"If you are hoping to get ahead, {keyword} encourages you to plan carefully before acting. A calm plan tends to hold better.",
+					"{keyword} suggests that a quiet season with money could build a stronger base for later."
+				],
+				"neutral": [
+					"Around money, {keyword} points to pausing, planning and avoiding rushed decisions.",
+					"{keyword} speaks of a quiet period for your finances, a time to consolidate rather than expand.",
+					"{keyword} brings attention to the value of waiting and reflecting before financial steps."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel worn thin, {keyword} is a sensible response, not a weakness. One small step in your control: lie down for ten minutes with your eyes closed.",
+					"{keyword} suggests your body may be asking for quiet. Dim the lights tonight and let yourself wind down slowly.",
+					"When stress runs high, {keyword} can steady you. Breathe slowly for a minute; that much is always within reach."
+				],
+				"curious": [
+					"{keyword} opens a question: what kind of rest truly refreshes you, sleep, stillness, nature or quiet company?",
+					"What if {keyword} were part of your daily routine rather than an emergency measure? Try a short pause after lunch and notice the difference.",
+					"{keyword} hints that your energy follows rhythms. When in the day do you most need a break?"
+				],
+				"grieving": [
+					"In grief, {keyword} is essential. Let yourself sleep, sit, or simply be still without guilt.",
+					"{keyword} may be all your body can manage right now. That is enough.",
+					"When you are carrying loss, {keyword} can be a gentle refuge. Let others bring food and quiet company."
+				],
+				"skeptical": [
+					"Practically, {keyword} is basic care. How many hours of sleep are you actually getting, and how many do you need?",
+					"Treat {keyword} as a prompt to build real breaks into your week. Rest tends to work better when it is scheduled.",
+					"No mysticism needed: {keyword} helps your body and mind reset. What gets in the way of it for you?"
+				],
+				"hopeful": [
+					"{keyword} can restore your energy over time. If you are hoping to feel stronger, let rest be part of the plan.",
+					"If you are hoping for balance, {keyword} encourages a gentler pace. Small pauses can add up.",
+					"{keyword} suggests that taking it easy now may help you feel more like yourself later."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to rest, quiet and recharging your energy.",
+					"{keyword} speaks of stepping back from demands to let body and mind settle.",
+					"{keyword} brings attention to the need for stillness and gentle routines."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels restless, {keyword} invites you to stop searching for a moment. Sit, breathe and let yourself simply be.",
+					"{keyword} suggests that quiet, not effort, may help right now. Try five minutes of silence with no goal at all.",
+					"When your thoughts won't settle, {keyword} can begin with one slow breath. You don't have to quiet everything at once."
+				],
+				"curious": [
+					"{keyword} opens a quiet question: what do you hear when you stop talking, even to yourself?",
+					"What if {keyword} is a practice in its own right? Try a short retreat, even an afternoon, and see what arises.",
+					"{keyword} hints at an inner sanctuary. Where do you feel most at peace, and how often do you go there?"
+				],
+				"grieving": [
+					"In grief, {keyword} can be a sacred pause. Let it hold you without asking anything of you.",
+					"{keyword} may be the only practice you can manage, and that is enough. Being still is a way of honouring your loss.",
+					"When loss feels heavy, {keyword} doesn't need words or rituals. Simply resting is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} in your inner life is about creating space to think. When did you last sit quietly without distractions?",
+					"Treat {keyword} as a prompt for reflection. What questions come up when the noise of the day falls away?",
+					"No supernatural claim needed: {keyword} is a well-known way to settle the mind. Try it and see what you notice."
+				],
+				"hopeful": [
+					"{keyword} can deepen your inner life. If you are hoping for insight, give it room to arrive in the quiet.",
+					"If you are hoping for peace, {keyword} encourages regular moments of stillness. They can build on each other.",
+					"{keyword} suggests that rest may lead to renewal. Trust the quiet to do its work."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to meditation, retreat and quiet reflection.",
+					"{keyword} speaks of stepping back from the world to listen inwardly.",
+					"{keyword} brings attention to the role of stillness in inner growth."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If everything feels like too much, {keyword} is a wise response rather than a retreat from life. One thing in your control: clear one hour today and fill it with nothing at all.",
+					"{keyword} suggests that stepping back for a while won't make things fall apart. Rest first, then look again with a little more in the tank.",
+					"When you feel stretched thin, {keyword} can steady you. Let one demand wait until tomorrow, and notice that the world keeps turning."
+				],
+				"curious": [
+					"{keyword} opens a gentle question: what would you notice about your life if you paused for a whole day with no plans?",
+					"What if {keyword} is the next step rather than a delay? Sometimes stillness shows the way forward more clearly than effort does.",
+					"{keyword} hints at the value of a quiet room. When did you last let yourself be truly still, and what came to mind when you were?"
+				],
+				"grieving": [
+					"In a time of loss, {keyword} is not optional; it is part of how you carry on. Let yourself rest without needing to explain why.",
+					"{keyword} may be all you can do right now, and that is enough. The rest of life can wait at the door for a while.",
+					"When grief is heavy, {keyword} can be a gentle shelter. Let others carry what they can while you sit quietly."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about avoiding burnout and thinking clearly before your next move. When did you last take a real break?",
+					"Treat {keyword} as a prompt to plan before you act. A pause to think often saves more time than it costs.",
+					"No mystery needed: {keyword} lets your mind sort through what has happened. What tends to get in the way of it for you?"
+				],
+				"hopeful": [
+					"{keyword} can prepare you for what comes next. If you are hoping for change, rest now so you can meet it with energy.",
+					"If you are hoping for clarity, {keyword} encourages stillness. Answers often surface in the quiet rather than in the rush.",
+					"{keyword} suggests that gathering yourself is time well spent. The next step may feel lighter because of it."
+				],
+				"neutral": [
+					"In general, {keyword} points to rest, reflection and recharging before the next stage of life.",
+					"{keyword} speaks of stepping back from the noise to restore energy and think things through.",
+					"{keyword} brings attention to the value of a deliberate pause, taken before you are forced to stop."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} has been hard to find in a relationship, you may be giving more than you have. One small step: keep one evening this week entirely for yourself, and say so kindly.",
+					"{keyword} may be slipping away while worry keeps you checking your phone. Try putting the questions down for one night; they will still be there in the morning, and you may meet them better rested.",
+					"When {keyword} feels out of reach, notice whether you are trying to hold a relationship together single-handed. You are allowed to sit down too."
+				],
+				"curious": [
+					"{keyword} seems hard to come by in love right now. What keeps pulling you back into the thick of things, even when part of you wants quiet?",
+					"What if {keyword} has gone on a little too long, and someone is waiting for you to come back out? It might be worth sending the first message.",
+					"{keyword} might be overdue in your closest bonds. How differently would you listen to a partner or friend if you were properly rested?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel impossible, with restless nights and over-full days. Be gentle with yourself; this is a common part of carrying loss.",
+					"{keyword} may be hard to find while you look after everyone else's sadness. Let someone look after yours, even for an hour.",
+					"If you have been withdrawing in grief and {keyword} has begun to feel lonely, you can reach out to one person whenever you feel able. There is no deadline."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed in love can point two ways: exhaustion from never stepping back, or distance that has gone on too long. Which fits you better?",
+					"Treat {keyword} as a prompt: is time apart still helping the relationship, or has it quietly become a way of avoiding a conversation?",
+					"No mysticism needed: tired people tend to be short with each other, and {keyword} skipped for weeks makes that worse. Where could you build in a real break?"
+				],
+				"hopeful": [
+					"{keyword} may be returning slowly. If you are hoping to reconnect with someone, rest first, then reach out when you have something to give.",
+					"If you are hoping for closeness, {keyword} coming to an end could mean you are ready to step back into the warmth of company. Take it gently.",
+					"{keyword} might be giving way to renewed connection. It's reasonable to hope, as long as you move at a pace that feels kind to you."
+				],
+				"neutral": [
+					"In love, {keyword} may be blocked by restlessness and over-giving, or stretched into distance and withdrawal.",
+					"{keyword} appears delayed or disrupted, pointing to tiredness in a relationship or to a readiness to re-engage after time apart.",
+					"{keyword} may be out of balance, asking whether you need more space from the people you love, or a little less."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} has been missing from your working life, you may be closer to burnout than you think. One step in your control: take a proper lunch break today, away from the screen.",
+					"{keyword} may feel impossible with so much on your plate. Choose one task to drop or delay this week; the others may go more smoothly for it.",
+					"When {keyword} is out of reach at work, it can help to say so out loud. Let one colleague or manager know you are stretched thin."
+				],
+				"curious": [
+					"{keyword} seems missing at work. What is it about stepping back that feels risky to you, and is that feeling based on anything real?",
+					"What if {keyword} has run its course, and the career plans you shelved are ready to be picked up? Notice whether you feel a flicker of energy toward them.",
+					"{keyword} might be overdue. If you came back to your job after a fortnight of real rest, what would you see differently?"
+				],
+				"grieving": [
+					"If grief is with you at work, {keyword} may be hard to come by. Ask for the time or flexibility you need, if you can; it is a fair request.",
+					"{keyword} may be crowded out by busyness that keeps the sadness at arm's length. When you are ready, it is all right to slow down and let it in.",
+					"In loss, {keyword} can feel out of reach during the working day. Even ten quiet minutes with the door closed counts."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed at work suggests a burnout risk. Count the weeks since you last had time off with no messages; the number may be telling.",
+					"Treat {keyword} as a prompt: has a long pause in your career started to turn into drift? Sometimes the useful move is simply to begin again.",
+					"No mystery needed: work done without {keyword} tends to slip in quality. Rest is part of doing the job well, not a break from it."
+				],
+				"hopeful": [
+					"{keyword} may be ending at work, and you could be ready to step back in. If you are hoping to move forward, start with one small, energising task.",
+					"If you are hoping for fresh energy at work, {keyword} returning to your week may help. Protect your breaks as carefully as your deadlines.",
+					"{keyword} might give way to renewed focus. It's reasonable to hope for momentum, paired with a pace you can sustain."
+				],
+				"neutral": [
+					"In work, {keyword} may be crowded out by busyness, or stretched into stagnation and drift.",
+					"{keyword} appears delayed or disrupted, pointing to burnout or to a readiness to return to your goals.",
+					"{keyword} may be out of balance, asking whether your career needs more pause right now, or more action."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} around money is hard to find, worry may be pushing you to act in a hurry. One step in your control: wait one full day before any purchase or decision.",
+					"{keyword} may feel impossible when bills are pressing. Look at only the most urgent one today and let the rest wait their turn.",
+					"When {keyword} is out of reach, it helps to talk money through with someone calm. You don't have to decide alone or at speed."
+				],
+				"curious": [
+					"{keyword} seems missing in your financial life. What is driving the rush: a real deadline, or a feeling that you must do something?",
+					"What if {keyword} has gone on long enough, and the plan you have been mulling over is ready to be acted on? Notice whether you feel ready.",
+					"{keyword} might be overdue. What would you decide about money if you felt calm and rested rather than pressed?"
+				],
+				"grieving": [
+					"After a loss, {keyword} with money may be hard to find as practical demands pile up. Let urgent things be handled and everything else wait.",
+					"{keyword} may be crowded out by forms and phone calls. Ask someone to share the load so you can rest.",
+					"In grief, {keyword} matters. Most financial decisions can wait until you feel steadier, and it is wise to let them."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests either rushed financial choices or a pause that has gone on too long. Which describes you right now?",
+					"Treat {keyword} as a prompt: has waiting to decide turned into avoiding the decision? The cost of drift is worth calculating.",
+					"No mysticism needed: skipping {keyword} tends to lead to impulse spending. A simple cooling-off rule can do a lot of good."
+				],
+				"hopeful": [
+					"{keyword} may be ending, and you could be ready to act on a financial plan. Take it one considered step at a time.",
+					"If you are hoping for stability, {keyword} returning to your routine could help you decide more calmly and with fewer regrets.",
+					"{keyword} might give way to renewed momentum with money. It's reasonable to hope, especially if you plan before you move."
+				],
+				"neutral": [
+					"Around money, {keyword} may be blocked by haste, or overdone into inaction and avoidance.",
+					"{keyword} appears delayed or disrupted, pointing to rushed choices or to a readiness to put a plan into motion.",
+					"{keyword} may be out of balance, asking whether your finances need a pause right now or a decision."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} has been hard to come by, your body may be feeling it. One small step in your control: go to bed half an hour earlier tonight.",
+					"{keyword} may feel impossible when your mind won't settle. Try writing your thoughts down before sleep, so they have somewhere to wait until morning.",
+					"When {keyword} is out of reach, choose one simple comfort. A warm drink, a dim room or a short walk at dusk can all help."
+				],
+				"curious": [
+					"{keyword} seems hard to find. What keeps you restless, and is any of it something you could set down for an evening?",
+					"What if {keyword} has gone on long enough and your body is ready to move again? Try something gentle and notice how it feels.",
+					"{keyword} might be overdue. How might your days change if rest were something you planned, not something you squeezed in?"
+				],
+				"grieving": [
+					"In grief, {keyword} may be elusive. Restless nights are common when you are carrying loss; be gentle with yourself about them.",
+					"{keyword} may be crowded out by keeping busy. When you are ready, let yourself slow down, even for a few minutes at a time.",
+					"If {keyword} feels impossible, even lying still with your eyes closed counts. Your body takes what rest it can."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to one of two things: not enough rest, or so much inactivity that you feel sluggish. Which fits you?",
+					"Treat {keyword} as a prompt to look honestly at your sleep and downtime. What, specifically, gets in the way?",
+					"No mystery needed: going without {keyword} tends to affect mood and energy. What one change to your evenings could help?"
+				],
+				"hopeful": [
+					"{keyword} may be returning, and your energy could follow. If you are hoping to feel stronger, protect your rest as it comes back.",
+					"If you are hoping to get moving again, {keyword} drawing to a close could mean you are ready. Start gently and build slowly.",
+					"{keyword} might give way to a livelier spell. It's reasonable to hope, with patience for your own pace."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} may be blocked by restlessness, or overdone into sluggishness and low energy.",
+					"{keyword} appears delayed or disrupted, pointing to depleted reserves or to a readiness to be active again.",
+					"{keyword} may be out of balance, asking whether you need more rest right now or more movement."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} in your inner life is hard to find, start with one breath. You don't need a whole practice; one quiet moment counts.",
+					"{keyword} may feel impossible with so much noise around you. Step outside for a few minutes, even just to look at the sky.",
+					"When {keyword} is out of reach, be gentle with yourself. Restless seasons are part of every inner life, and they pass."
+				],
+				"curious": [
+					"{keyword} seems missing. What keeps you from slowing down inwardly, and what are you afraid you might hear if you did?",
+					"What if {keyword} has gone on long enough, and it's time to bring what you have learned out into the world? Notice whether you feel ready.",
+					"{keyword} might be overdue. What would you find if you stepped away from all your teachers and books for a week?"
+				],
+				"grieving": [
+					"In grief, {keyword} may be hard to find, and the mind may feel restless or scattered. Let that be all right.",
+					"{keyword} may be crowded out by sorrow. Even a single quiet moment by a window is enough.",
+					"If {keyword} has turned into withdrawal from everyone, reach out when you can. Connection is part of the inner life too."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests either no time for reflection or reflection that has become a way of hiding. Which fits?",
+					"Treat {keyword} as a prompt: are you too busy to think about what actually matters to you? Busy is not the same as meaningful.",
+					"No supernatural claim needed: people deprived of {keyword} often feel scattered. A few minutes of daily quiet is a simple experiment."
+				],
+				"hopeful": [
+					"{keyword} may be returning slowly. If you are hoping for peace, keep your practice small and steady rather than ambitious.",
+					"If you are hoping for renewal, {keyword} drawing to a close could mean you are ready to live out what you have learned.",
+					"{keyword} might give way to fresh energy for your path. It's reasonable to hope, with patience."
+				],
+				"neutral": [
+					"Spiritually, {keyword} may be blocked by restlessness, or overdone into withdrawal from the world.",
+					"{keyword} appears delayed or disrupted, pointing to a need for quiet or a readiness to re-emerge.",
+					"{keyword} may be out of balance, asking whether you need more stillness right now or more engagement."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} has been hard to find, you may be running close to empty. One step in your control: cancel or postpone one thing this week.",
+					"{keyword} may feel impossible right now. Start with five minutes of doing nothing at all, and let that be a real achievement.",
+					"When {keyword} is out of reach, be kind to yourself. Restlessness is a signal that you need care, not a sign that you are failing."
+				],
+				"curious": [
+					"{keyword} seems missing. What keeps you moving when part of you is asking to stop?",
+					"What if {keyword} has gone on long enough and it's time to re-engage with the world? Notice whether you feel curious about what's out there.",
+					"{keyword} might be overdue. What would change in your life if you rested properly for a week?"
+				],
+				"grieving": [
+					"In grief, {keyword} may be elusive. Be patient with restless days and wakeful nights; they are part of carrying loss.",
+					"{keyword} may be crowded out by busyness that keeps the sadness away. Let yourself slow down when you are ready.",
+					"If {keyword} has turned into isolation, reach out to one person when you feel able. They may be glad to hear from you."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests either burnout or stagnation. Which describes your situation more honestly?",
+					"Treat {keyword} as a prompt: is the time you take off actually restoring you, or has it become a way of avoiding something?",
+					"No mystery needed: skipping {keyword} tends to wear people down. Where in your week could a real break fit?"
+				],
+				"hopeful": [
+					"{keyword} may be ending, and you could be ready to move again. Take the first steps gently.",
+					"If you are hoping for more energy, {keyword} returning to your days could help. Protect your quiet time as it comes back.",
+					"{keyword} might give way to renewed momentum. It's reasonable to hope, at a pace that suits you."
+				],
+				"neutral": [
+					"In general, {keyword} may be blocked by restlessness, or overdone into stagnation.",
+					"{keyword} appears delayed or disrupted, pointing to burnout or a readiness to re-engage.",
+					"{keyword} may be out of balance, asking whether you need more rest or more action."
+				]
+			}
+		}
+	}
+}

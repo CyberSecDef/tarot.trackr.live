@@ -1,0 +1,412 @@
+{
+	"id": "major_02_high_priestess",
+	"name": "The High Priestess",
+	"facets": [
+		{
+			"id": "intuition",
+			"keywords": ["intuition", "an inner voice", "a quiet knowing"]
+		},
+		{
+			"id": "hidden_knowledge",
+			"keywords": ["a hidden truth", "something not yet revealed", "a mystery"]
+		},
+		{
+			"id": "stillness",
+			"keywords": ["stillness", "patient silence", "a pause before acting"]
+		},
+		{
+			"id": "subconscious",
+			"keywords": ["the subconscious", "a recurring dream", "a pattern beneath awareness"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"When you're unsure where you stand with someone, {keyword} may be quieter than the worry, but it is there. Sit for a minute without your phone and notice what you sense before you think.",
+					"You don't have to decode another person tonight. {keyword} asks only that you listen to yourself: how do you actually feel after time with them, calmer or more tense?",
+					"Worry fills silence with stories. Let {keyword} be the gentler companion here; write down what you know for certain about this relationship, and nothing else."
+				],
+				"curious": [
+					"{keyword} in love invites you to notice what goes unspoken between you and someone else. What do pauses, glances and habits say that words don't?",
+					"What if you treated {keyword} as a guide in a new connection, without rushing to explain it? Let attraction stay a little mysterious for a while.",
+					"{card} sits at a threshold, veiled. In your closest bonds, where might {keyword} be inviting you to wait and see rather than ask and fix?"
+				],
+				"grieving": [
+					"Missing someone can make the world go very quiet. {keyword} doesn't ask you to fill that quiet; it can simply keep you company in it.",
+					"{keyword} may hold memories you aren't ready to look at directly. That's all right. They can rest there until you choose to visit them.",
+					"In grief, you may sense things about the one you've lost that you can't explain to anyone else. {keyword} lets those feelings be private, and still real."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about the information you already have but haven't put into words. What do you notice about this relationship that you keep dismissing?",
+					"No mysticism needed: {keyword} here points to gut feeling, which is often pattern recognition. What pattern have you seen more than once with this person?",
+					"Treat {keyword} as a prompt to slow down before deciding what someone meant. What would you need to observe to feel sure?"
+				],
+				"hopeful": [
+					"{keyword} suggests that what you're hoping for in love may need patience more than pursuit. Trust what feels true, and let it unfold at its own pace.",
+					"There's something tender in {keyword}: a sense that a connection matters before you can say why. Honour that, without needing it to be certain.",
+					"If you hope to be understood more deeply, {keyword} invites you to understand yourself first. What do you most want someone to see in you?"
+				],
+				"neutral": [
+					"In love, {keyword} points to what is felt but not yet said. It invites listening, to the other person and to yourself, before acting.",
+					"{keyword} here suggests that a relationship has layers not yet visible. Patience and attention may reveal more than questions would.",
+					"With {keyword} present, the emphasis is on inner sensing: how a bond actually feels, beneath what is shown on the surface."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} may be telling you something your to-do list can't. Take five quiet minutes before your next decision and notice which option feels lighter.",
+					"If you're braced for bad news at work, remember that not knowing yet is not the same as bad. {keyword} asks you to hold steady and gather facts slowly.",
+					"{keyword} can be a steadying thing. You don't have to react to every message today; pick one that truly needs you and let the others wait an hour."
+				],
+				"curious": [
+					"{keyword} in your working life asks what you know about your job that never shows up in meetings. Where does your quiet expertise live?",
+					"What if {keyword} were the missing piece in a decision you've been analysing to death? Try asking yourself which choice you'd be relieved to make.",
+					"{card} keeps her knowledge close. At work, where might {keyword} be worth keeping to yourself a little longer, while you learn more?"
+				],
+				"grieving": [
+					"If loss has followed you into work, {keyword} may be the permission you need to be quieter than usual. Do what's necessary, and let the rest stay still.",
+					"{keyword} can hold what you aren't ready to say to colleagues. You don't owe anyone an explanation for being slower right now.",
+					"Grief can make the noise of work feel unbearable. Let {keyword} be a small refuge: a walk at lunch, a closed door, a few unhurried breaths."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work points to observation before action. What would you learn by watching how decisions are really made for a week?",
+					"Read plainly, {keyword} is a reminder that not everything relevant has been said out loud. What questions about this role haven't been asked yet?",
+					"Use {keyword} as a check against haste. Is this a decision that needs more data, or one where you already know the answer and are stalling?"
+				],
+				"hopeful": [
+					"{keyword} suggests your instincts about your work may be sounder than you think. Nothing is certain, but trusting them could point you somewhere worthwhile.",
+					"If you're hoping for a new direction, {keyword} invites you to listen for what draws you, quietly and repeatedly. That pull can be worth following.",
+					"There's encouragement in {keyword}: some of the best career moves begin as a feeling you can't yet justify. Give it room to become clearer."
+				],
+				"neutral": [
+					"In your career, {keyword} points to insight that comes from quiet observation rather than action. It suggests waiting until things are clearer.",
+					"{keyword} here suggests that not all the relevant information is visible yet. Discretion and patience may serve you well.",
+					"With {keyword} present, instinct and reflection matter as much as effort. The card invites you to trust what you sense."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} can help you pause before reacting. If a decision feels urgent and frightening, give it one night before you act.",
+					"{keyword} doesn't ask you to know everything about your finances today. Look at just one account or bill, calmly, and let that be enough.",
+					"When money worries are loud, notice what {keyword} says underneath them. Is there one expense your gut has been questioning for a while?"
+				],
+				"curious": [
+					"{keyword} with money invites you to look beneath the numbers. What feelings come up when you spend, save, or check your balance?",
+					"What might {keyword} reveal about the way you value things? Get curious about the purchases you regret and the ones you never do.",
+					"{card} holds what isn't on the surface. If {keyword} sat beside your bank statement, which quiet detail, a fee, a habit, a hope, would it point to?"
+				],
+				"grieving": [
+					"When loss touches money, decisions can feel heavy and cold. {keyword} gives you permission to wait before making any large choice.",
+					"{keyword} may hold more than numbers right now: memories, worries, things left unsaid. Let yourself go slowly.",
+					"If finances have become tangled with grief, there's no rush to untangle them. Let {keyword} be a time of rest before action."
+				],
+				"skeptical": [
+					"Plainly, {keyword} with money is about the information you haven't looked at yet. What statement or contract have you avoided reading closely?",
+					"No mystery: {keyword} here points to gut unease, which is often worth checking with facts. What would confirm or dispel your doubt?",
+					"Use {keyword} as a prompt to read the fine print. Is there something in a deal or arrangement that hasn't been fully disclosed?"
+				],
+				"hopeful": [
+					"{keyword} suggests that a quieter, more patient approach to money might suit you now. Let a good opportunity show itself fully before you commit.",
+					"If you hope for more security, {keyword} invites you to trust your sense of what feels sound, and to check it against the details.",
+					"There's hope in {keyword}: you may know more about what you need than you've admitted. What would feel genuinely enough?"
+				],
+				"neutral": [
+					"With money, {keyword} points to caution and discretion. It suggests that not everything about a financial matter is visible yet.",
+					"{keyword} here suggests looking beneath the surface of a deal or habit before acting on it.",
+					"With {keyword} present, intuition and patience may serve your finances better than haste."
+				]
+			},
+			"health": {
+				"anxious": [
+					"When you feel on edge, {keyword} can begin with stillness. Sit, put a hand on your chest, and let your breath slow on its own for a minute.",
+					"{keyword} asks you to listen to your body without alarm. Notice one place that feels tense, and simply let your attention rest there kindly.",
+					"If worry has you scanning every sensation, let {keyword} be gentler: a quiet room, dim light, and permission to do nothing for a few minutes."
+				],
+				"curious": [
+					"{keyword} invites you to notice how your body responds to different rhythms. When do you feel most rested, and what came just before?",
+					"What does your energy tell you when you stop and listen? {keyword} suggests your body may be speaking more softly than your schedule.",
+					"Get curious about {keyword} in your daily habits. What would change if you checked in with yourself before, rather than after, a long day?"
+				],
+				"grieving": [
+					"Grief lives in the body as well as the heart. {keyword} invites you to rest as much as you need, without explanation.",
+					"{keyword} may show up as a need for quiet, for sleep, for fewer people. Those needs are real, and allowed.",
+					"If you feel heavy and slow, be patient with yourself. {keyword} asks for nothing more than gentle care right now."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about attention. What signals of tiredness or stress have you been overriding lately?",
+					"No mystique needed: {keyword} points to noticing your own patterns. When does your energy dip, and what's usually going on?",
+					"Use {keyword} as a prompt to pause. Are you pushing through when your body is clearly asking for rest?"
+				],
+				"hopeful": [
+					"{keyword} suggests that listening to yourself may help you find a rhythm that feels good. Trust what restores you.",
+					"There's encouragement here: {keyword} invites you to notice what supports your energy and give it more room.",
+					"If you hope to feel more balanced, {keyword} invites a quieter routine. Small pauses may make a real difference."
+				],
+				"neutral": [
+					"For your wellbeing, {keyword} points to rest, reflection and listening to the body rather than pushing it.",
+					"{keyword} here suggests quiet attention to your energy and what it is telling you.",
+					"With {keyword} present, stillness and self-observation may be the most useful forms of care."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels uncertain, {keyword} doesn't require answers. Sit quietly for a minute and let not-knowing be enough.",
+					"{keyword} can feel elusive when you're worried about getting it right. There's no wrong way to listen inward.",
+					"When fear crowds your thoughts, try a small ritual of {keyword}: a candle, a breath, a moment of silence before sleep."
+				],
+				"curious": [
+					"{keyword} invites you to explore what lies beneath your everyday thoughts. What symbols, dreams, or images keep returning?",
+					"What might you discover if you gave {keyword} more space in your practice? Try journaling without editing yourself.",
+					"{card} guards the doorway between known and unknown. Where is {keyword} inviting you to step closer?"
+				],
+				"grieving": [
+					"Loss can bring you close to mystery. {keyword} may offer a quiet place to feel your grief without explaining it.",
+					"{keyword} doesn't ask you to find meaning in what happened. It simply honours what you feel, privately and deeply.",
+					"If you sense a connection to what you've lost, let {keyword} hold that gently, without needing proof."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about introspection. What do you believe when you're not trying to convince anyone?",
+					"No supernatural claims required: {keyword} points to the mind's quieter processes, the ones that notice before you think.",
+					"Use {keyword} as a prompt to sit with a question rather than answer it. What happens if you leave it open for a week?"
+				],
+				"hopeful": [
+					"{keyword} suggests that your inner wisdom may be stronger than you realise. Trust it to guide you gently.",
+					"There's hope in {keyword}: insight often comes when you stop chasing it. Let your practice be patient.",
+					"If you seek deeper connection, {keyword} invites you into stillness, where understanding can grow."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to intuition, mystery and inner knowledge revealed through stillness.",
+					"{keyword} here suggests that deeper understanding may come from listening rather than seeking.",
+					"With {keyword} present, the invitation is to trust what you sense beneath the surface of things."
+				]
+			},
+			"general": {
+				"anxious": [
+					"When things feel uncertain, {keyword} reminds you that you don't need every answer today. Notice what you know, and let the rest wait.",
+					"{keyword} can be steadying: a pause, a breath, a moment to listen to yourself before reacting.",
+					"If worry is loud, try {keyword} in a small way: ten quiet minutes with no input, just noticing how you feel."
+				],
+				"curious": [
+					"{keyword} invites you to look beneath the surface of your situation. What do you sense that you haven't put into words?",
+					"What if {keyword} were already pointing somewhere? Pay attention to what draws you, even if you can't explain why.",
+					"{card} sits at the edge of the known. What questions is {keyword} inviting you to hold open a little longer?"
+				],
+				"grieving": [
+					"In a season of loss, {keyword} offers quiet company. There's nothing to figure out; just let yourself be.",
+					"{keyword} may hold what you're not ready to say aloud. That's all right; it can stay private for now.",
+					"Grief often asks for stillness. Let {keyword} be a place to rest, without any need to explain yourself."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about what you've noticed but not yet acknowledged. What's one observation you keep pushing aside?",
+					"No mysticism needed: {keyword} points to reflection before action. What would waiting a little longer reveal?",
+					"Use {keyword} as a prompt: are you making this decision from information or from impatience?"
+				],
+				"hopeful": [
+					"{keyword} suggests that what you're hoping for may become clearer with patience. Trust what you sense, and let it unfold.",
+					"There's hope in {keyword}: some answers arrive quietly, when you stop pushing for them.",
+					"If you're seeking direction, {keyword} invites you to listen inward. Your own sense of things may be wiser than you think."
+				],
+				"neutral": [
+					"Overall, {keyword} points to intuition, mystery and patience. Not everything is visible yet.",
+					"{keyword} here suggests quiet reflection and trusting your inner sense of a situation.",
+					"With {keyword} present, the invitation is to wait, listen and observe before acting."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you've been ignoring a feeling about someone, {keyword} may be trying to reach you. You don't need to act on it today; just let yourself admit it's there.",
+					"{keyword} can get drowned out by worry in love. Take one quiet moment, away from texts and theories, and ask what you actually feel.",
+					"When you're second-guessing every message, {keyword} may be buried under noise. Put the phone down for an evening; clarity often returns in quiet."
+				],
+				"curious": [
+					"Reversed, {card} asks whether {keyword} in love is being overlooked in favour of what someone says. What does your body notice that your mind explains away?",
+					"What if something unspoken between you and another person is shaping things more than you realise? Get curious about where {keyword} might be hiding.",
+					"{keyword} may be turned inward right now. Are you keeping your feelings so private that no one can meet you in them?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel muffled or far away. That's all right; you don't need to sense anything clearly right now.",
+					"{keyword} can feel lost after a loss in love. Be patient with yourself; quiet understanding often comes back slowly.",
+					"If you can't trust your own feelings at the moment, that's understandable. Let {keyword} rest; you'll hear it again when you're ready."
+				],
+				"skeptical": [
+					"Plainly, {card} reversed suggests {keyword} is being dismissed. Is there a pattern in this relationship you keep explaining away?",
+					"Use {keyword} as a question: is something being kept secret, by you or another, that's affecting how you relate?",
+					"Practically, {keyword} here points to information you have but don't want. What would you do if you trusted it?"
+				],
+				"hopeful": [
+					"{keyword} may be returning slowly in love. Give it space, and you may find you know more than you thought.",
+					"If you've lost touch with your feelings about someone, {keyword} may come back through stillness. Be gentle with the process.",
+					"There's hope in listening again. Let {keyword} guide you toward what feels true, rather than what you think you should want."
+				],
+				"neutral": [
+					"In love, {card} reversed shows {keyword} ignored, hidden, or drowned out by noise.",
+					"{keyword} here may be blocked or kept back, leaving feelings between people unspoken or misread.",
+					"Reversed, the card invites a return to {keyword}, so that what a relationship feels like matters as much as what it looks like."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} may be hard to hear over the pressure. Take one quiet break today and notice what your instincts say.",
+					"If you're overthinking a decision, {keyword} may be buried under analysis. Write down your first instinct before you weigh the options.",
+					"{keyword} can feel unreachable when you're busy reacting. Choose one task to slow down on, and notice what you learn."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} at work is being ignored because it doesn't fit the plan. What does your gut say about this project?",
+					"What isn't being said in your workplace? {keyword} may be pointing to undercurrents worth noticing.",
+					"Get curious about {keyword} you've set aside. Is there a quiet ambition you haven't admitted, even to yourself?"
+				],
+				"grieving": [
+					"If grief has clouded your sense of direction at work, {keyword} can wait. Do what's needed and rest when you can.",
+					"{keyword} may feel distant after a loss. Be patient with yourself; clarity tends to return gradually.",
+					"There's no need to trust your instincts right now if they feel muddled. Let {keyword} come back in its own time."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to signals you may be overriding at work. What have you noticed that you're choosing not to act on?",
+					"Use {keyword} as a check: is important information being withheld, or are you keeping something back yourself?",
+					"Practically, {card} reversed suggests {keyword} is being drowned out by noise. What would a quieter look at this situation reveal?"
+				],
+				"hopeful": [
+					"{keyword} may return as the pressure eases. Give yourself small pauses, and insight could follow.",
+					"If you've lost your sense of direction, {keyword} may still be there, quietly. Listen for what genuinely interests you.",
+					"There's hope in reconnecting with your instincts. Let {keyword} guide one small decision this week."
+				],
+				"neutral": [
+					"In your career, {card} reversed shows {keyword} ignored or obscured by noise, pressure or secrecy.",
+					"{keyword} here may be blocked by pressure or haste, leaving useful insight about your work unacknowledged.",
+					"Reversed, the card asks you to slow down enough for {keyword} to inform your next professional move."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} may be drowned out by worry. Before any decision, take one quiet breath and ask what feels sound.",
+					"If you've been avoiding a financial truth, {keyword} invites you to look gently. Open one statement, read it once, and that's enough.",
+					"{keyword} can feel lost under pressure. Slow down; there's no decision that needs to be made in the next five minutes."
+				],
+				"curious": [
+					"Reversed, {card} asks whether {keyword} about money is being ignored because the numbers look fine. What feels off?",
+					"What might you find if you looked at the parts of your finances you avoid? {keyword} may be waiting there.",
+					"Get curious about secrets in money: things you don't tell others, or yourself. What does {keyword} say about them?"
+				],
+				"grieving": [
+					"In grief, {keyword} about money may be hard to trust. Keep things simple and avoid big decisions if you can.",
+					"{keyword} can feel muffled after loss. Let others help with the details, and rest when you need to.",
+					"There's no need to sort everything out now. Let {keyword} return before you make important choices."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to information you're overlooking. What detail in your finances have you been avoiding?",
+					"Use {keyword} as a caution: is something about a deal or arrangement being kept from you?",
+					"Practically, {card} reversed suggests {keyword} is being ignored in favour of hope. What do the numbers actually say?"
+				],
+				"hopeful": [
+					"{keyword} may come back as you slow down. A calmer look at your finances could reveal what you need.",
+					"If you've felt disconnected from your sense of what's sound, {keyword} may return through small, patient checks.",
+					"There's hope in looking honestly. Let {keyword} guide you toward choices that feel genuinely right."
+				],
+				"neutral": [
+					"With money, {card} reversed shows {keyword} ignored, hidden, or overridden by haste.",
+					"{keyword} here may be pushed aside, leaving some financial truths unexamined.",
+					"Reversed, the card invites you to let {keyword} slow you down before money changes hands."
+				]
+			},
+			"health": {
+				"anxious": [
+					"When your mind is racing, {keyword} can be hard to hear. Before anything else, let one breath out be longer than the breath in, and do it twice.",
+					"If you've been scanning yourself for trouble, {keyword} may be lost in the static. Try naming three neutral things you can feel right now: the chair, the air, your sleeves.",
+					"Worry can talk over everything gentler. Give {keyword} a small opening tonight: lights low, screens away, ten minutes where nothing is asked of you."
+				],
+				"curious": [
+					"Reversed, {card} asks whether {keyword} has been outvoted by your calendar. When did you last stop because you felt like stopping?",
+					"What would you notice about your energy if you kept a few lines of notes each evening for a week? {keyword} often shows itself in patterns, not moments.",
+					"Get curious about the gap between how you say you feel and how you actually feel. {keyword} may live right in that gap."
+				],
+				"grieving": [
+					"Grief can leave you numb, or flooded, or both in one afternoon. {keyword} doesn't need to make sense of that; warmth and rest are enough.",
+					"If you feel far from your own body right now, that's a common part of loss. Let {keyword} stay quiet while you simply eat, sleep and breathe.",
+					"{keyword} may come back in small flickers, a moment of hunger, a wish for fresh air. Follow those when they come, and don't chase them when they don't."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here is about signals you've learned to override. Which one do you ignore most often: tiredness, hunger, or the need for quiet?",
+					"Use {keyword} as a practical prompt. If a friend described your week to you, would you tell them to slow down?",
+					"No mystique needed: {card} reversed often points to busyness drowning out {keyword}. What is one commitment you could drop to hear yourself again?"
+				],
+				"hopeful": [
+					"{keyword} may be easier to reach once you make a little room. One unhurried morning could tell you more about what you need than a month of rushing.",
+					"If you've felt out of step with your body, {keyword} can return gradually. Begin with one habit that feels kind rather than one that feels impressive.",
+					"There's real hope in paying attention again. As {keyword} grows louder, it may guide you toward a rhythm that genuinely suits you."
+				],
+				"neutral": [
+					"For your wellbeing, {card} reversed shows {keyword} drowned out by busyness, so the body's quieter requests go unheard.",
+					"{keyword} here may be present but overridden, as routine and pressure take precedence over rest.",
+					"Reversed, the card suggests reconnecting with {keyword} through quiet, so that care follows what you feel rather than what you expect."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels silent, that silence isn't a judgement. {keyword} may simply be resting; one quiet minute without expectation is enough for today.",
+					"{keyword} can feel out of reach when you're anxious about doing it properly. Drop the method for now and simply sit somewhere you feel safe.",
+					"When doubt is loud, hold onto something small and familiar: a prayer, a phrase, a view from a window. {keyword} often returns through the ordinary."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} has been handed over to books, teachers or apps. What would you sense if you asked yourself first?",
+					"What if {keyword} isn't absent, only shy? Notice the small moments, music, weather, a stranger's kindness, when something in you stirs.",
+					"Get curious about dreams or images you've brushed aside. {keyword} sometimes speaks in symbols before it speaks in words."
+				],
+				"grieving": [
+					"After loss, {keyword} may go very quiet, as if a door has closed. You don't have to knock; sitting near it is enough.",
+					"If faith or practice feels empty in grief, you're not failing. Let {keyword} keep its silence, and let yourself keep yours.",
+					"{keyword} may return as a memory, a feeling of presence, or not for a long while. Each of those is allowed."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to inner reflection being crowded out. When did you last think something through without input from anyone else?",
+					"Use {keyword} as a check on borrowed certainty. Which of your beliefs have you examined, and which did you simply absorb?",
+					"No claims about the unseen required: {card} reversed is a prompt to notice whether you trust others' conclusions more than {keyword}."
+				],
+				"hopeful": [
+					"{keyword} may be gathering again beneath the surface. A short, regular practice, even five minutes, gives it somewhere to come back to.",
+					"If you've felt spiritually adrift, there's hope in simplicity. Let {keyword} grow from one quiet habit rather than a grand search.",
+					"Your longing to reconnect is itself a sign of life. Trust that {keyword} can become clearer as the noise around you settles."
+				],
+				"neutral": [
+					"Spiritually, {card} reversed shows {keyword} obscured, either by outside voices or by a reluctance to look inward.",
+					"{keyword} here may be suppressed or kept so private that it no longer guides anything.",
+					"Reversed, the card points to {keyword} waiting beneath distraction, ready to be heard when there is quiet enough."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you feel cut off from your own sense of things, {keyword} may be closer than it seems. Sit somewhere quiet and ask yourself one simple question: what do I need today?",
+					"{keyword} can disappear under a flood of other people's opinions. For the next hour, let your own view be the only one you consult.",
+					"When everything feels urgent, {keyword} gets drowned out. Choose one decision that can wait until tomorrow, and let it."
+				],
+				"curious": [
+					"Reversed, {card} wonders whether {keyword} is being kept behind a locked door. What would happen if you let yourself look?",
+					"What have you noticed lately that didn't fit the story you're telling yourself? {keyword} often lives in those small mismatches.",
+					"Get curious about what's being kept secret, by you or around you. {keyword} may be asking for a little more light."
+				],
+				"grieving": [
+					"In grief, {keyword} may feel muffled, and the world may seem far away. Nothing needs to be understood right now.",
+					"{keyword} can sit quietly while you carry this. You don't have to trust your instincts, or anything else, until you feel steadier.",
+					"If you can't tell what you feel from one hour to the next, that's grief, not a flaw. Let {keyword} return when it's ready."
+				],
+				"skeptical": [
+					"Plainly, {keyword} here points to something you've noticed and then talked yourself out of. What was it?",
+					"Use {keyword} as a check: are you avoiding a quiet look at your situation because you suspect what you'd find?",
+					"Practically, {card} reversed suggests that {keyword} is being overruled by outside opinion. Whose view are you weighing above your own, and why?"
+				],
+				"hopeful": [
+					"{keyword} may become clearer as you make room for quiet. Even a short daily pause can help it come forward.",
+					"If you've lost touch with your own sense of direction, {keyword} hasn't gone. It may be waiting for you to stop and ask.",
+					"There's hope in trusting yourself again, slowly. Let {keyword} weigh in on one small choice and see how it feels."
+				],
+				"neutral": [
+					"Overall, {card} reversed shows {keyword} ignored, suppressed, or hidden behind noise and outside voices.",
+					"{keyword} here may be kept too private, or dismissed too quickly, to guide what happens next.",
+					"Reversed, the card suggests returning to {keyword} through quiet and honest observation of what you already know."
+				]
+			}
+		}
+	}
+}

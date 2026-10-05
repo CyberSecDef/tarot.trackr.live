@@ -1,0 +1,194 @@
+{
+	"love": {
+		"anxious": [
+			"Let {card} be something steady to hold while you think about the people you love. You don't need to know how anyone else feels right now. Start with one kind word, and let that be today's work.",
+			"If your mind keeps running ahead, bring it back to {card} and to this moment. Relationships unfold slowly. You can ask, listen and wait without having every answer.",
+			"One card, one thought to carry: {card} asks what you need in order to feel safe with someone. Naming that, even just to yourself, is a small and real step."
+		],
+		"curious": [
+			"A single card can say a lot. Carry {card} with you this week and notice who it reminds you of, and why.",
+			"What would {card} ask you about how you love? Let that question sit in the background of your conversations for a few days.",
+			"Try imagining {card} as a guest at your next dinner with someone you care about. What would it notice that you usually miss?"
+		],
+		"grieving": [
+			"{card} keeps you company with the love you are carrying, even where someone is missing. There is nothing to fix. Let it be as it is.",
+			"Take {card} gently. It doesn't ask you to let go of anyone, only to be kind to yourself as you remember them.",
+			"Let {card} be a quiet companion for a while. Love and loss often arrive together, and both deserve room."
+		],
+		"skeptical": [
+			"Take {card} as one prompt about your relationships, nothing more. What pattern does it bring to mind, and is that pattern helping you?",
+			"No forecast here: {card} is simply a frame. Use it to look at one relationship honestly and notice what you have been avoiding saying.",
+			"Read practically, {card} asks a question about how you give and receive care. Answer it in a sentence and see whether you agree with yourself."
+		],
+		"hopeful": [
+			"Let {card} encourage the warmth you are bringing to love. It can't promise how anyone will respond, but it honors the courage of reaching out.",
+			"{card} suggests there is something good to nurture here. Keep your hope open and your feet on the ground, and see what grows.",
+			"Carry {card} as a reminder of what you offer in a relationship. Hope is strongest when it starts with valuing yourself."
+		],
+		"neutral": [
+			"{card} is the whole message this time. Consider what it says about how you connect with the people around you.",
+			"With only {card} to read, let its main theme settle. Where in your relationships does it seem to fit?",
+			"Hold {card} in mind the next time you talk with someone close to you, and notice whether it changes what you hear."
+		]
+	},
+	"career": {
+		"anxious": [
+			"Let {card} bring your attention back to what you can do at work today. One task, finished well, is enough to steady the ground a little.",
+			"Work worry can make everything feel urgent. {card} invites you to pause, name the actual concern, and choose one person to talk it over with.",
+			"Carry {card} as a reminder that your job is part of your life, not the whole of it. Do the next small thing, then take a breath."
+		],
+		"curious": [
+			"What does {card} suggest about the work you might enjoy more? Follow that thought for a few days and see where it leads.",
+			"Picture {card} as a colleague. What advice would it give you about your craft, and would you take it?",
+			"Let {card} spark a small experiment at work: a new approach, a different question, a skill you've wanted to try."
+		],
+		"grieving": [
+			"{card} recognises that work can feel distant when you're carrying a loss. It's all right to do only what is needed for now.",
+			"Let {card} sit beside you as you move through the workday. There's no rush to feel like yourself again.",
+			"If a role or a path has ended, {card} holds space for that loss too. Give yourself the same patience you'd offer a colleague."
+		],
+		"skeptical": [
+			"Use {card} as a practical prompt: what is one thing about your work you keep putting up with, and what would change it?",
+			"No claims here about your career, just a question. {card} asks you to look at your ambitions plainly and decide which one matters most.",
+			"Read as a tool for thinking, {card} points to a decision at work worth reconsidering. Write down the case for and against."
+		],
+		"hopeful": [
+			"{card} encourages the effort you are putting into your working life. It doesn't guarantee results, but it suggests you are building on something real.",
+			"Let {card} fuel a practical hope: one application, one conversation, one improvement. Momentum grows from small steps.",
+			"Carry {card} into your next work decision as encouragement to ask for what you want. Asking is already movement."
+		],
+		"neutral": [
+			"{card} is the single message about your work this time. Consider what it says about where you are and where you might go.",
+			"With {card} alone, look for the one theme it raises in your career, and keep it in mind as you plan the week.",
+			"Let {card} serve as a lens on your working life. What looks clearer through it, and what looks different?"
+		]
+	},
+	"money": {
+		"anxious": [
+			"Let {card} guide you to one small, clear step with your money today. Looking at a single number can be a relief in itself.",
+			"{card} doesn't predict your finances; it simply invites you to pause. Start with what is covered right now and let that steady you.",
+			"When money worries rise, return to {card} and to the present. Security is built bit by bit, and you can add one piece today."
+		],
+		"curious": [
+			"What does {card} reveal about how you value things? Think beyond money to time, effort and attention.",
+			"Let {card} prompt a playful look at your spending habits this week. What surprises you?",
+			"Imagine {card} as an attitude toward resources. Is it one you share, or one you'd like to try?"
+		],
+		"grieving": [
+			"{card} acknowledges that practical matters can feel heavy while you're grieving. Make only the decisions that can't wait.",
+			"Let {card} give you permission to keep things simple with money for now, and to accept help if it's offered.",
+			"There's no need to sort everything at once. {card} sits with you while you take care of only what matters today."
+		],
+		"skeptical": [
+			"Use {card} as a prompt to review where your money actually goes. An honest look at the numbers is the useful part here.",
+			"Read practically, {card} asks whether your spending matches what you say you value. That question stands on its own.",
+			"No magic involved: {card} highlights a habit around resources. If there is a money decision you've been avoiding, this is a nudge."
+		],
+		"hopeful": [
+			"{card} encourages steady attention to your resources. It won't produce a windfall, but it supports the habits that build security.",
+			"Let {card} remind you that what you value and what you do with money can line up. Take one step this week to bring them closer.",
+			"Carry {card} as encouragement to plan for the good you want while staying honest about what you have now."
+		],
+		"neutral": [
+			"{card} is the single message about your resources this time. Consider what it says about security and choice.",
+			"With only {card} to read, notice the one theme it raises about money and how you relate to it.",
+			"Let {card} inform your next decision about spending or saving, without rushing it."
+		]
+	},
+	"health": {
+		"anxious": [
+			"Let {card} bring you back to your breath and your body as they are right now. One slow minute of rest is a real act of care.",
+			"When worry about your wellbeing builds, {card} invites you to ask what kind of support would help today, and to reach for it.",
+			"Carry {card} as a reminder to do one small kind thing for yourself: water, a walk, an early night."
+		],
+		"curious": [
+			"What does {card} suggest about your energy lately? Notice when you feel most awake this week, and what you were doing.",
+			"Let {card} inspire a small experiment with rest or movement, and pay attention to how you feel afterwards.",
+			"Picture {card} as a voice from your body. What might it be asking for that you haven't heard yet?"
+		],
+		"grieving": [
+			"{card} recognises how tiring loss can be. Let yourself rest when you can, and be as gentle with your body as with a friend's.",
+			"Let {card} sit quietly with the heaviness you feel. Small comforts count: warmth, quiet, a familiar routine.",
+			"There's no right way to carry grief in the body. {card} asks only that you treat yourself kindly as you do."
+		],
+		"skeptical": [
+			"Use {card} as a check-in prompt: how are you sleeping, moving and resting this week? Tracking it will tell you more than any card.",
+			"Read practically, {card} points to the balance between strain and rest. Where is yours, honestly?",
+			"No claims about your body here. {card} simply asks which helpful habit you already know about and what keeps you from it."
+		],
+		"hopeful": [
+			"{card} honors the care you are already giving yourself. Keep building the habits that leave you feeling more like you.",
+			"Let {card} remind you that care adds up. One good night, one walk, one nourishing meal at a time.",
+			"Carry {card} as encouragement that your energy may respond to steady kindness. Hope is sturdier when practised daily."
+		],
+		"neutral": [
+			"{card} is the single message about your wellbeing this time. Consider what it says about rest and effort.",
+			"With only {card}, notice the balance it points to between what drains you and what restores you.",
+			"Let {card} invite you to listen to your body as it is today, and let that shape one choice this week."
+		]
+	},
+	"spiritual": {
+		"anxious": [
+			"Let {card} be a quiet center to return to when your thoughts spin. A few minutes of stillness can be enough ground for today.",
+			"{card} reminds you that you don't need every answer. Trust the next small, honest step on your path.",
+			"Carry {card} into a familiar practice today, however simple, and let it steady you."
+		],
+		"curious": [
+			"What might {card} reveal about what gives your life meaning? Let your intuition answer first.",
+			"Try journaling from the voice of {card} for a few minutes, and see what it says that surprises you.",
+			"Let {card} open a question you haven't let yourself ask about belief or practice. Wander with it."
+		],
+		"grieving": [
+			"{card} holds space for the big questions that loss can raise. You don't have to resolve them. Let them be here.",
+			"If meaning feels far away right now, {card} keeps you company in that distance without rushing to fill it.",
+			"Let {card} be part of a quiet moment of remembrance, in whatever form helps you honor what you've lost."
+		],
+		"skeptical": [
+			"Set aside any mystical claims and use {card} as a question: what do you value most, and do your days reflect it?",
+			"{card} is a symbol, and symbols are tools for thinking. Use it to examine one belief and whether it still serves you.",
+			"Read practically, {card} invites a short reflection on meaning. Write a paragraph, then reread it tomorrow."
+		],
+		"hopeful": [
+			"{card} encourages the growth you are reaching for. Keep nourishing your practice, and trust the slow work of becoming.",
+			"Let {card} affirm what you already sense about your path. Give it time without demanding it arrive on schedule.",
+			"Carry {card} as a sign of something in you ready to deepen. Tend it gently and honestly."
+		],
+		"neutral": [
+			"{card} is the single message about your inner life this time. Consider what it says about your intuition and values.",
+			"With only {card}, notice what feels settled in your sense of meaning, and what still feels open.",
+			"Spend a quiet moment with {card}, and see what rises when you stop trying so hard to interpret it."
+		]
+	},
+	"general": {
+		"anxious": [
+			"Let {card} be something steady to hold. You don't need to know what comes next; choose one small thing within your control and do it today.",
+			"{card} invites you to slow down and breathe. Take the next step only, and let the rest wait.",
+			"Carry {card} as a reminder that you've handled hard things before. Lean on what helped you then."
+		],
+		"curious": [
+			"What does {card} stir up when you look at it a second time? Follow that thought and see where it leads.",
+			"Try telling a short story with {card} at the center, and notice what role you give yourself.",
+			"Let {card} be a question you carry for the week. Where does it show up when you aren't looking for it?"
+		],
+		"grieving": [
+			"{card} sits quietly with you in what you are carrying. No lessons, no silver linings, only company.",
+			"Let {card} be a gentle acknowledgment that this is hard and that you are still here. That is enough for today.",
+			"With {card} beside you, move through the coming days at whatever pace feels possible."
+		],
+		"skeptical": [
+			"Treat {card} as a single prompt: what would you do differently if you took it seriously for a week?",
+			"{card} doesn't know anything about your life, but you do. What does it make you think of, and is that worth acting on?",
+			"Read practically, {card} highlights one theme. Name it, test it against your week, and keep it only if it fits."
+		],
+		"hopeful": [
+			"{card} lends a little light to the path you're hoping for. It doesn't promise the outcome, but it suggests your efforts matter.",
+			"Let {card} remind you of your strengths, and use them on the step right in front of you.",
+			"Carry {card} as encouragement: honest about what is real, generous about what could be."
+		],
+		"neutral": [
+			"{card} is the whole message this time. Consider what it suggests about where you stand.",
+			"With only {card} to read, name its main theme in your own words and see whether it fits.",
+			"Let {card} settle for a day before deciding what, if anything, it asks of you."
+		]
+	}
+}

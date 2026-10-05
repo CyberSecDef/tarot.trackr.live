@@ -1,0 +1,412 @@
+{
+	"id": "major_10_wheel_of_fortune",
+	"name": "Wheel of Fortune",
+	"facets": [
+		{
+			"id": "cycles",
+			"keywords": ["a turning point", "the turn of a cycle", "a change of season"]
+		},
+		{
+			"id": "chance",
+			"keywords": ["a stroke of luck", "an unexpected opening", "a chance encounter"]
+		},
+		{
+			"id": "impermanence",
+			"keywords": ["impermanence", "the ebb and flow of life", "a shift in circumstance"]
+		},
+		{
+			"id": "pattern",
+			"keywords": ["a larger pattern", "a recurring theme"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"In love, {keyword} can make everything feel up in the air. You don't need to know where things land; focus on how you want to treat the people you care about this week, which stays in your hands whatever turns.",
+					"If {keyword} has you bracing for change in a relationship, notice that change can bring things closer as easily as it moves them. Breathe, and take today as it comes.",
+					"{keyword} between people rarely settles in a single moment. Choose one steady habit, a regular call, a shared meal, to hold onto while things shift around it."
+				],
+				"curious": [
+					"{keyword} in love invites you to look back. Which relationships arrived when you least expected them, and what did they have in common?",
+					"With {keyword} turning through your love life, you might ask what season a relationship is in: planting, growing, harvest or rest? Each asks for something different.",
+					"{card} spins without favourites. If {keyword} brought someone new into your orbit, or changed an old bond, what would you hope it taught you?"
+				],
+				"grieving": [
+					"{keyword} can feel cruel when it has taken someone from you. You don't have to accept it or find a reason for it. It's enough to let yourself miss them.",
+					"If you're grieving, talk of change and turning wheels may feel like too much. Let {keyword} mean only this: you won't always feel exactly as you do today, and you don't have to hurry.",
+					"Love lost to {keyword} still happened, and it still counts. Hold the good seasons you shared as gently as you need to."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is a reminder that relationships change over time, whatever anyone intends. Which of yours are you still treating as they were years ago?",
+					"No fate involved: {keyword} describes how timing shapes love as much as choice does. Where are you blaming yourself for something that was partly bad timing?",
+					"Treat {keyword} as a pattern-spotting exercise. Look at your last few relationships: what keeps coming round, and what would you like to change on purpose?"
+				],
+				"hopeful": [
+					"{keyword} suggests things in love can move after a still stretch. It isn't a promise of a particular outcome, but it's a reason to stay open.",
+					"If you've been hoping for a change of heart or a new beginning, {keyword} encourages you to notice openings as they appear. Will you say yes to the next invitation?",
+					"There's real hope in {keyword}: seasons change, and a lonely one doesn't last forever. What would you like to bring into the next one?"
+				],
+				"neutral": [
+					"In love, {keyword} points to change, timing and the natural cycles relationships move through.",
+					"{keyword} here suggests a shift in a relationship's season. It asks how you can meet it with openness rather than resistance.",
+					"With {keyword} present, the focus is on what is changing between you and others, and what you choose to do as it turns."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can make the ground feel uncertain. You can't control every change, but you can keep doing good work on the task in front of you today.",
+					"If {keyword} is unsettling your job, remember that change at work often brings openings along with losses. Write down one thing you'd like to come out of it.",
+					"{keyword} in your career doesn't require you to predict anything. Focus on what you can prepare for: your skills, your contacts, your energy."
+				],
+				"curious": [
+					"{keyword} at work invites you to look at the long arc of your career. Where has luck played a part, and where has effort?",
+					"With {keyword} in your working life, you might explore what's coming round again. Is an old interest or skill asking for another chance?",
+					"{card} turns whether we're ready or not. If {keyword} opened a door at work tomorrow, which would you most want it to be?"
+				],
+				"grieving": [
+					"{keyword} at work may have taken something you valued: a role, a team, a sense of place. That loss is real, and you don't have to look past it yet.",
+					"If you're grieving and work keeps changing around you, {keyword} can feel like too much. Let yourself do only what's necessary for now.",
+					"Sometimes {keyword} at work arrives at the worst possible time. You don't have to make sense of the timing; only get through it."
+				],
+				"skeptical": [
+					"Read practically, {keyword} at work is about timing and circumstance. Which parts of your career are under your influence, and which are simply weather?",
+					"No mystery: {keyword} points to change that's partly outside your control. What could you put in place so you're ready whichever way it goes?",
+					"Treat {keyword} as a prompt to notice cycles in your industry or role. What tends to come round every few years, and how do you usually respond?"
+				],
+				"hopeful": [
+					"{keyword} suggests things at work may be starting to move. It isn't a guarantee, but staying alert to openings is worth it.",
+					"If you've been waiting for a break, {keyword} encourages you to be ready to take it. Preparation tends to meet opportunity halfway.",
+					"There's encouragement in {keyword}: a stalled stretch at work doesn't last forever. What would you like to be doing when things pick up?"
+				],
+				"neutral": [
+					"In career matters, {keyword} points to change, timing and circumstances shifting around you.",
+					"{keyword} here suggests a turn in your working life. It asks how you'll respond to what moves.",
+					"Professionally, {keyword} highlights cycles: what's ending, what's beginning, and what's coming round again."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} can make security feel fragile. You can't control every change, but you can know your basic numbers. Look at one of them today.",
+					"If finances are shifting, {keyword} reminds you that money tends to move in cycles. Focus on what you can steady this month, not on every possible outcome.",
+					"{keyword} in money matters doesn't require prediction. A small buffer, even a modest one, is something within your reach."
+				],
+				"curious": [
+					"{keyword} invites you to look at the rhythm of your finances. Are there seasons of plenty and seasons of scarcity you could plan around?",
+					"With {keyword} touching your resources, you might wonder what you'd do with a windfall, and what you'd do in a lean month. What do the two answers say about your priorities?",
+					"{card} reminds you that circumstances turn. If {keyword} changed your finances, what would you most want to protect?"
+				],
+				"grieving": [
+					"{keyword} may have changed your circumstances along with your heart. Let practical matters wait where they can, and accept help where it's offered.",
+					"If a loss has shifted your finances, {keyword} can feel overwhelming. One small task at a time is enough.",
+					"Sometimes {keyword} with money arrives just when you have nothing left to give it. Be gentle with yourself; you're doing what you can."
+				],
+				"skeptical": [
+					"Practically, {keyword} in money is about change you can't fully predict. What would you do if your income shifted by ten percent either way?",
+					"No mystery: {keyword} points to the value of planning for variability. Do you have a cushion for the low parts of the cycle?",
+					"Treat {keyword} as a prompt to notice your financial patterns. What tends to happen to your money at the same time each year?"
+				],
+				"hopeful": [
+					"{keyword} suggests your financial situation may be starting to shift. Nothing is promised, but it's worth watching for openings.",
+					"If you're hoping for better luck with money, {keyword} encourages readiness. Know what you'd do with an opportunity before it arrives.",
+					"There's encouragement in {keyword}: a lean season doesn't last forever. What would you like to build when things ease?"
+				],
+				"neutral": [
+					"In money matters, {keyword} points to change, timing and the natural ups and downs of resources.",
+					"{keyword} here suggests a shift in your financial circumstances. It asks how you'll adapt.",
+					"Financially, {keyword} highlights cycles and the value of planning for both good and lean times."
+				]
+			},
+			"health": {
+				"anxious": [
+					"When so much feels changeable, {keyword} can unsettle the body too. Come back to one fixed point you control, a regular bedtime, a morning glass of water, and let it anchor you.",
+					"If {keyword} has you on edge, remember that energy naturally rises and falls. A low day doesn't define the week; be kind to yourself on this one.",
+					"{keyword} doesn't ask you to brace for anything. Breathe out slowly, feel your feet on the floor, and take care of just the next few hours."
+				],
+				"curious": [
+					"{keyword} invites you to notice the rhythms of your own energy. When in the day, or the year, do you feel most alive?",
+					"With {keyword} in mind, you might explore how your habits shift with the seasons. What does your body want in winter that it doesn't in summer?",
+					"{card} keeps turning. If {keyword} brought a new habit into your life by chance, which one would you hope it was?"
+				],
+				"grieving": [
+					"Grief moves in waves, and {keyword} may mirror that: some days heavier, some lighter. Neither kind of day is wrong.",
+					"{keyword} can feel unfair when you're already carrying so much. Let rest come first, and let routines be as simple as they need to be.",
+					"If you're grieving, your energy may change without warning. {keyword} is a reminder to meet each day as it arrives, without judging it."
+				],
+				"skeptical": [
+					"Practically, {keyword} in health is about natural variation. Do you expect yourself to feel the same every day, and is that realistic?",
+					"No mystery here: {keyword} points to cycles of energy and rest. Try tracking how you feel for a fortnight and see what pattern appears.",
+					"Treat {keyword} as a prompt to plan for low-energy stretches. What would a gentler version of your routine look like for the harder weeks?"
+				],
+				"hopeful": [
+					"{keyword} suggests that how you feel can change, and often does. Nothing is guaranteed, but a hard stretch is rarely permanent.",
+					"If you're hoping to feel better, {keyword} encourages you to notice small upturns when they come. They're worth celebrating quietly.",
+					"There's encouragement in {keyword}: energy moves in seasons, and a lighter one may be closer than it feels."
+				],
+				"neutral": [
+					"In health, {keyword} points to natural cycles of energy, rest and change.",
+					"{keyword} here suggests a shift in how you feel or how you live day to day. It asks how you can adapt your care to match.",
+					"With {keyword} present, the focus is on rhythm: working with your highs and lows rather than against them."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"Spiritually, {keyword} can make everything feel uncertain. You don't have to understand the whole turning; just notice one thing that has stayed steady in you.",
+					"If change is unsettling your inner life, {keyword} reminds you that the centre of a wheel moves least. Find your centre with a few slow breaths.",
+					"{keyword} doesn't ask you to know where things are going. It may only ask you to be present for where they are now."
+				],
+				"curious": [
+					"{keyword} invites you to look at the cycles in your inner life. What beliefs have you held, let go of, and come back to?",
+					"With {keyword} on your path, you might wonder what role chance has played in your growth. Which unexpected meetings or books changed you?",
+					"{card} turns through every season. If {keyword} marks a new one in your inner life, what would you like to plant in it?"
+				],
+				"grieving": [
+					"In grief, {keyword} can feel like the world moving on without you. You don't have to move with it yet.",
+					"{keyword} may bring memories round again at unexpected moments. Let them come; they are part of how love continues.",
+					"Spiritually, {keyword} doesn't need to make sense of your loss. It may only remind you that this feeling, too, has its own season."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about noticing change and patterns over time. What themes keep showing up in your inner life?",
+					"No supernatural reading needed: {keyword} describes the plain fact that circumstances change. How do you usually respond when they do?",
+					"Treat {keyword} as a prompt to reflect: which parts of your life are within your influence, and which are better met with acceptance?"
+				],
+				"hopeful": [
+					"{keyword} suggests a new phase may be opening in your inner life. Nothing is promised, but staying open to it costs little.",
+					"If you've felt spiritually stuck, {keyword} encourages patience. Seasons change, and growth often follows a quiet stretch.",
+					"There's encouragement in {keyword}: what comes round again comes round with more understanding each time."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to cycles, change and the larger patterns in your life.",
+					"{keyword} here suggests a turn in your inner life. It asks how you'll meet it.",
+					"With {keyword} present, the focus is on acceptance of change and attention to recurring lessons."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} can make life feel unpredictable, and that's unsettling. You don't have to know how things turn out; choose one steady thing to look after today.",
+					"If change is in the air, {keyword} reminds you that not every turn is for the worse. Breathe, and give the next few hours your full attention rather than the next few years.",
+					"{keyword} doesn't need you to brace. Your routines, your people and your values are still here; lean on one of them while things move."
+				],
+				"curious": [
+					"{keyword} invites a question: looking back, which lucky accidents shaped your life most? What were you doing when they happened?",
+					"With {keyword} in view, you might notice what keeps coming round in your life. What would happen if you met it differently this time?",
+					"{card} reminds you that circumstances keep turning. If {keyword} arrived this month, what would you want to be ready for?"
+				],
+				"grieving": [
+					"{keyword} can feel cruel when it has carried away someone you love. You don't have to make peace with that; just let yourself feel it.",
+					"If you're grieving, {keyword} may mean only this: today is not every day. There's no need to rush toward feeling different.",
+					"Sometimes {keyword} brings memories back at unexpected moments. Let them come; they're a way of keeping someone close."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is about change and timing that are partly outside your control. Which parts of your situation can you actually influence?",
+					"No mystery here: {keyword} describes the way circumstances shift over time. How do you usually respond when they do, and does it serve you?",
+					"Treat {keyword} as a pattern-spotting prompt: what tends to repeat in your life, and is it repeating because of something you keep doing?"
+				],
+				"hopeful": [
+					"{keyword} suggests things may be starting to move. Nothing is promised, but it's worth keeping your eyes open for the openings.",
+					"If you've been waiting for a change, {keyword} encourages readiness. Know what you'd say yes to before the moment comes.",
+					"There's encouragement in {keyword}: hard seasons pass, and a better turn may be nearer than it feels. What would you like to bring into it?"
+				],
+				"neutral": [
+					"{keyword} points to change, timing and the cycles that shape life. It asks how you meet what you can't control.",
+					"In general, {keyword} suggests a turn in circumstances. Some of it may be welcome and some not; the focus is on how you respond.",
+					"With {keyword} present, the emphasis is on movement: what's ending, what's beginning, and what's coming round again."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} may feel stuck, as if a relationship keeps circling the same place. You can't force it forward today, but you can choose one small thing to do differently.",
+					"If you feel caught in a run of disappointments in love, {keyword} can seem to be working against you. It isn't a verdict on you; be as kind to yourself as you would to a friend in the same spot.",
+					"When {keyword} feels slow to come, it's easy to believe nothing will change. Look for one thing that's already a little different from a year ago."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} held back by habit. What pattern in love do you keep repeating, and what does it give you?",
+					"{keyword} may be turning more slowly than you'd like. What could you learn in this pause that you'd miss if things moved faster?",
+					"If {keyword} seems to keep passing you by, get curious about where you've been standing. Are you somewhere new people or new feelings can reach you?"
+				],
+				"grieving": [
+					"{keyword} may feel stopped since your loss, as if the world kept turning without you. You're allowed to stay still for as long as you need.",
+					"If grief has made everything feel stuck, {keyword} doesn't need to arrive yet. Be gentle with the days that feel the same.",
+					"Sometimes {keyword} brings back memories at unexpected moments, an anniversary, a song. Let those moments come; they're part of loving someone."
+				],
+				"skeptical": [
+					"Practically, reversed, {card} points to {keyword} being resisted, or to a cycle repeating. Which relationship habit keeps producing the same result?",
+					"Use {keyword} as a check: are you waiting for a relationship to change on its own, or doing something to change it?",
+					"No mystery here: {keyword} feels like bad luck when a pattern keeps repeating. What's the common factor you could look at more closely?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than gone. Slow seasons in love often end more quietly than they begin.",
+					"If you feel caught in a cycle, {keyword} can begin with one different choice. Nothing is promised, but breaking a pattern often opens something new.",
+					"There's hope in noticing the pattern. Once you can see {keyword} clearly, you have more say in how it turns next."
+				],
+				"neutral": [
+					"Reversed, {keyword} in love suggests resistance to change, a repeating pattern, or a turn that is taking its time.",
+					"{keyword} here may be blocked or delayed. It asks what you're holding onto that keeps things the same.",
+					"In love, {keyword} reversed can point to a stuck cycle, and an invitation to step outside it."
+				]
+			},
+			"career": {
+				"anxious": [
+					"{keyword} at work may feel stuck, as if nothing you do makes a difference. Pick one small thing you can finish this week; progress you can see helps.",
+					"If setbacks keep piling up at work, {keyword} can feel personal. It often isn't. Be fair to yourself about what was in your control.",
+					"When {keyword} seems to be working against you, lean on routine. Turning up and doing the basics well is steadying while the wider picture shifts."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} that you're resisting. What change at work are you hoping won't happen, and what would it mean if it did?",
+					"{keyword} may be turning slowly in your career. What could you prepare, learn or build while you wait?",
+					"If {keyword} keeps repeating at work, get curious about it. What situation keeps coming back, and what is it trying to show you?"
+				],
+				"grieving": [
+					"{keyword} at work may feel frozen while you grieve. That's understandable; let things be slow.",
+					"If a loss has knocked your career off balance, {keyword} can wait. You don't need to plan the next step yet.",
+					"Sometimes {keyword} brings changes at work you have no energy for. Do what you must, and let the rest go for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests resistance to change, or a pattern at work that keeps repeating. Which do you recognise?",
+					"Use {keyword} as a check: are you waiting for circumstances to improve, or doing something to improve them?",
+					"No mystery: {keyword} feels like a bad run when the same problem keeps recurring. What's the root cause?"
+				],
+				"hopeful": [
+					"{keyword} at work may be delayed rather than lost. Use this slow stretch to prepare for when things move.",
+					"If you feel stuck in a cycle at work, {keyword} can shift with one different choice. Nothing is promised, but it's worth trying.",
+					"There's hope in recognising the pattern. Once you see {keyword} clearly, you can choose how to meet it next time."
+				],
+				"neutral": [
+					"Reversed, {keyword} at work suggests resisted change, a stubborn pattern, or a turn that's delayed.",
+					"{keyword} here may be blocked or slow. It asks what you're holding onto at work that keeps things the same.",
+					"Professionally, {keyword} reversed can point to a stuck cycle and the chance to break it."
+				]
+			},
+			"money": {
+				"anxious": [
+					"{keyword} with money may feel as if it's running against you. One small step: choose a single regular cost you can look at calmly today, and decide whether it stays.",
+					"If financial setbacks keep arriving one after another, {keyword} can start to feel personal. It usually isn't. Be fair to yourself about what was ever in your hands.",
+					"When {keyword} feels stuck, keep the plan very simple: cover the essentials this week, and give yourself one evening off from the bigger worries."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} that you're quietly resisting. What money change are you avoiding, and what do you imagine would happen if you faced it?",
+					"{keyword} may be turning more slowly than you'd like. What could you set up now, a small fund, a skill, a plan, that would help once things move again?",
+					"If {keyword} keeps coming round with money, get curious about the timing. Does the same strain show up in the same month, or after the same kind of decision?"
+				],
+				"grieving": [
+					"{keyword} with finances may feel frozen while you grieve. Let things move slowly, and let others carry some of the practical load where they can.",
+					"If a loss has changed your money situation, {keyword} doesn't need to be understood or solved right now. The essentials are enough.",
+					"Sometimes {keyword} with money adds weight to a time that is already heavy. Notice it, set it down where you can, and be gentle with yourself."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests a financial pattern that keeps repeating, or a change you're putting off. Which fits your last year better?",
+					"Use {keyword} as a check: are you waiting for your finances to improve on their own, or taking one concrete action to change them?",
+					"No mystery here: {keyword} feels like bad luck when the same money problem keeps recurring. What's the common thread behind each time it happens?"
+				],
+				"hopeful": [
+					"{keyword} in money may be delayed rather than gone. A slow stretch can be used to prepare, so you're ready when things begin to move.",
+					"If you feel stuck financially, {keyword} can begin to shift with one new habit kept steadily. Nothing is promised, but small changes do compound.",
+					"Seeing the pattern clearly is the hopeful part. Once you recognise {keyword}, you get more say in how you respond to it next time."
+				],
+				"neutral": [
+					"Reversed, {keyword} in money suggests resistance to change, a repeating financial pattern, or improvement that is taking its time.",
+					"{keyword} here may be blocked or slow. It asks what you're holding onto financially that keeps things as they are.",
+					"In money matters, {keyword} reversed can point to a stuck cycle, and to the chance of stepping out of it deliberately."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} may feel stuck on a low setting right now. One small thing in your control: rest when you're tired, without arguing with yourself about it.",
+					"If a run of hard days has worn you down, {keyword} can seem to have stopped turning. It hasn't stopped for good; be gentle with yourself in the meantime.",
+					"When {keyword} feels slow, return to the most basic care: water, food, sleep, a little fresh air. These steady the body when little else does."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} being resisted. Is there a change in your routine your body seems to be asking for, that you keep putting off?",
+					"{keyword} may be turning slowly. What small experiment could you try with your sleep, movement or rest while you wait for things to shift?",
+					"If {keyword} keeps bringing you back to the same tired place, get curious about what happens just before. What is the pattern?"
+				],
+				"grieving": [
+					"{keyword} may feel stalled while you grieve, and every day can seem alike. That's normal; rest and small comforts are enough.",
+					"If grief has made your energy flat, {keyword} doesn't need to turn yet. Let your body take the time it needs.",
+					"Sometimes {keyword} brings tiredness in waves after a loss. Let those waves pass without asking anything more of yourself."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests a habit loop you keep returning to, or a change you're avoiding. Which one is it?",
+					"Use {keyword} as a check: are you waiting to feel better before you change anything, or changing something small so you might feel better?",
+					"No mystery: {keyword} feels stuck when the same routines produce the same results. What is one routine you could adjust this week?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than stalled for good. Small, kind choices now can help when your energy starts to lift.",
+					"If you feel caught in a low cycle, {keyword} can begin to shift with one gentle change. Nothing is promised, but the body often responds to care.",
+					"Noticing the pattern is already a kind of progress. Once you see {keyword} clearly, you can meet the next low stretch with more kindness."
+				],
+				"neutral": [
+					"Reversed, {keyword} in health suggests a stuck routine, resistance to a needed change, or a slower turn than you'd like.",
+					"{keyword} here may be blocked or delayed. It asks what habit is keeping things the same.",
+					"In health, {keyword} reversed can point to a repeating loop, and to the possibility of gently stepping out of it."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{keyword} may feel stuck, as if your inner life has stopped moving. That's a familiar stretch on most paths; one small practice, kept each day, can help it start to turn.",
+					"If you keep landing on the same spiritual questions, {keyword} doesn't demand an answer. You can simply keep showing up to them, without pressure.",
+					"When {keyword} feels slow, return to something plain and grounding: a walk outside, one thing you're grateful for, a few unhurried breaths."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} being resisted. Which shift in your beliefs have you felt coming but not yet admitted to yourself?",
+					"{keyword} may be turning slowly in your inner life. What could you read, try or ask about while you wait for things to become clearer?",
+					"If {keyword} keeps returning you to the same lesson, get curious about it. What part of it haven't you taken in yet?"
+				],
+				"grieving": [
+					"{keyword} may feel frozen while you grieve. Let your inner life rest; it can begin to move again when you're ready, and not before.",
+					"If loss has made meaning feel very far away, {keyword} doesn't need to return on any timetable. Your questions can simply sit with you.",
+					"Sometimes {keyword} brings grief round again in waves, on dates and in places you didn't expect. Let each wave pass without fighting it."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests a change you're resisting, or a pattern you keep returning to. Which description fits you better?",
+					"Use {keyword} as a check: are you holding onto a belief that no longer fits, mainly out of habit or fear of what replaces it?",
+					"No mystery here: {keyword} feels stuck when we avoid something we already half-know. What is it you already know but haven't acted on?"
+				],
+				"hopeful": [
+					"{keyword} may be paused rather than gone. A quiet season in your inner life can be the ground the next turn grows from.",
+					"If you feel spiritually stuck, {keyword} can shift with one new practice or a fresh perspective. Nothing is promised, but openness tends to help.",
+					"Recognising the loop is the hopeful part. Once you can see {keyword} plainly, you have the chance to meet it differently next time."
+				],
+				"neutral": [
+					"Reversed, {keyword} on a spiritual level suggests resistance to change, a lesson that keeps repeating, or a turn that's delayed.",
+					"{keyword} here may be blocked or slow. It asks what belief or habit you're holding onto that keeps things the same.",
+					"Spiritually, {keyword} reversed can point to a stuck cycle, and an invitation to loosen your grip on it."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} may feel stuck, or seem to be running against you. One small thing you can do: name what's still in your hands today, and start there.",
+					"If a run of hard luck has worn you down, {keyword} can feel personal. It usually isn't. Treat yourself as kindly as you'd treat a friend in the same run.",
+					"When {keyword} feels slow, it's easy to believe nothing will change. Look for one small thing that's already different from how it was a month ago."
+				],
+				"curious": [
+					"Reversed, {card} can show {keyword} that you're resisting. What change have you been holding back, and what are you protecting by holding it?",
+					"{keyword} may be turning more slowly than you'd like. What could you learn or prepare in the pause that you'd miss if things moved faster?",
+					"If {keyword} keeps bringing you back to the same place, get curious about it. What would you do differently if you were here for the last time?"
+				],
+				"grieving": [
+					"{keyword} may feel frozen since your loss, as if the world kept turning without you. You're allowed to stay still for now.",
+					"If grief has made every day feel the same, {keyword} doesn't need to arrive yet. Let the days be what they are.",
+					"Sometimes {keyword} brings an old grief round again, on an anniversary or in a familiar place. Let it come, and be gentle with yourself when it does."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed suggests a change being resisted, or a pattern that keeps repeating. Which can you see most clearly in your life now?",
+					"Use {keyword} as a check: are you waiting for luck to turn, or doing one thing that might help it turn?",
+					"No mystery here: {keyword} feels like bad luck when the same problem keeps recurring. What is the common thread you could address?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than gone. Slow stretches often end more quietly than they begin.",
+					"If you feel caught in a loop, {keyword} can begin to shift with one different choice. Nothing is promised, but breaking a pattern often opens space.",
+					"Seeing the pattern is already a turn of its own. Once {keyword} is clear to you, you have more say in what happens next."
+				],
+				"neutral": [
+					"Reversed, {keyword} suggests resistance to change, a repeating pattern, or a turn that's taking its time.",
+					"{keyword} here may be blocked or slow. It asks what you're holding onto that keeps things the same.",
+					"In general, {keyword} reversed can point to a stuck cycle, and to the chance of stepping outside it on purpose."
+				]
+			}
+		}
+	}
+}

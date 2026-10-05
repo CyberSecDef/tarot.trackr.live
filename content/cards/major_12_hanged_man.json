@@ -1,0 +1,412 @@
+{
+	"id": "major_12_hanged_man",
+	"name": "The Hanged Man",
+	"facets": [
+		{
+			"id": "surrender",
+			"keywords": ["surrender", "letting go of control", "an open hand"]
+		},
+		{
+			"id": "pause",
+			"keywords": ["a pause", "a necessary wait", "time in suspension"]
+		},
+		{
+			"id": "new_perspective",
+			"keywords": ["a new perspective", "a view from another angle", "a shift in how you see"]
+		},
+		{
+			"id": "sacrifice",
+			"keywords": ["a willing sacrifice", "a meaningful trade", "giving something up"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"In love, {keyword} can feel like hanging in mid-air, not knowing which way things will go. You don't have to force an answer. Today, just notice what you feel without acting on it.",
+					"If {keyword} has you waiting on someone else, bring your attention back to your own day. One thing you enjoy, done for yourself, is a steady place to stand.",
+					"{keyword} between you and another person doesn't mean something is wrong. It may simply be a quiet stretch. Breathe out, and let the question sit unanswered for one evening."
+				],
+				"curious": [
+					"{keyword} in a relationship invites you to turn the picture upside down. What would this look like if you told it from the other person's side?",
+					"What might {keyword} reveal if you stopped trying to steer? Sometimes the most interesting thing about a connection shows up when you stop managing it.",
+					"Here {keyword} asks what you've been holding on to tightly in love. What would happen to it if you loosened your grip just a little?"
+				],
+				"grieving": [
+					"{keyword} can describe how love feels after a loss: suspended, unsure, between one shape of life and the next. There's no hurry to come down.",
+					"When someone is missing, {keyword} may be all you can manage. Letting the days be slow and unproductive is not giving up; it is how a heart rests.",
+					"{keyword} doesn't ask you to see your loss differently yet. It only says that this in-between place is allowed to last as long as it lasts."
+				],
+				"skeptical": [
+					"Treat {keyword} as a practical prompt: is there a relationship decision you're forcing before you have the information to make it? Waiting can be a choice, not a failure.",
+					"Read plainly, {keyword} asks you to consider the situation from the other person's actual position. Write their version in two sentences and see what changes.",
+					"No mysticism needed: {keyword} points to the trade-offs you've made for a relationship. List what you gave up and ask whether it was worth it."
+				],
+				"hopeful": [
+					"{keyword} in love can make space for something better to settle in. A pause isn't an ending; it can be the breath before an honest conversation.",
+					"If you're hoping for closeness, {keyword} invites patience and a softer hold. People often come closer when they don't feel pulled.",
+					"{keyword} may show you a way forward you couldn't see while you were rushing. What do you notice about this connection when you stop trying to fix it?"
+				],
+				"neutral": [
+					"In relationships, {keyword} points to a period of waiting, a change in how you see someone, or a choice to let go of control.",
+					"{keyword} suggests that progress in love may come from stillness and a different point of view rather than effort.",
+					"Here {keyword} speaks to what you're willing to give up, or put on hold, for the sake of a connection."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can feel like being stuck while everyone else moves. You are still allowed to rest in it. Pick one small task you can finish, and let that be today's progress.",
+					"If {keyword} has stalled a project or a step up, remember that waiting isn't the same as failing. What one thing is still within your reach this week?",
+					"{keyword} in your working life may simply mean the answer isn't ready yet. Write down the question you're waiting on, then give your mind permission to put it down."
+				],
+				"curious": [
+					"{keyword} at work invites you to look at your role from an odd angle. If you were new here, what would strike you as strange?",
+					"What would {keyword} change about a problem you've been pushing on? Sometimes turning a task upside down shows a much simpler way in.",
+					"Here {keyword} asks what you might learn by doing less for a while. Which effort at work is really just motion?"
+				],
+				"grieving": [
+					"If work has lost its meaning after a loss, {keyword} can be a gentle permission to coast. Doing the basics is enough right now.",
+					"{keyword} in your career doesn't ask for decisions while you're grieving. Big choices can wait until the ground feels firmer.",
+					"When everything feels suspended, {keyword} is simply a name for where you are. You don't have to climb out of it on anyone's schedule."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work can be a sound strategy: some decisions improve with more information. What, specifically, are you waiting to learn?",
+					"Read as a prompt, {keyword} asks which assumption about your job you've never questioned. Try arguing the opposite for five minutes.",
+					"Treat {keyword} as a cost-benefit question. What have you given up for this role, and what have you got in return? Put both on paper."
+				],
+				"hopeful": [
+					"{keyword} in your career may be the quiet stretch before a clearer direction. Use it to notice what you actually want, not just what's next.",
+					"If you're hoping for a breakthrough, {keyword} invites you to step back. Fresh ideas often arrive when you stop staring at the problem.",
+					"{keyword} can make a later step stronger. What could you learn or prepare now that would make you readier when movement returns?"
+				],
+				"neutral": [
+					"At work, {keyword} points to a pause in momentum, a need for a different view, or a trade-off made for longer-term gain.",
+					"{keyword} suggests holding still in your career long enough to see a situation clearly.",
+					"Here {keyword} speaks to surrendering a fixed plan and allowing a different approach to emerge."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} can feel like being frozen. You don't need to make a big move today. Look at one figure, then let that be all you do.",
+					"If {keyword} around your finances has you on edge, notice what is stable right now, even if it's small. A paid bill, a regular income, food in the cupboard.",
+					"{keyword} may be the wise move with money for the moment. Holding off on a decision while you're anxious is a kind of care, not avoidance."
+				],
+				"curious": [
+					"{keyword} invites you to look at your money from upside down. What if the thing you're saving for isn't what you actually want?",
+					"What would {keyword} reveal about your spending if you paused all non-essential purchases for a week? It could be an interesting experiment.",
+					"Here {keyword} asks what you'd willingly give up to gain something more valuable. What trade would feel good to make?"
+				],
+				"grieving": [
+					"If money matters have come with a loss, {keyword} gives you room not to decide anything yet. Practical things can wait a little.",
+					"{keyword} may be how your finances feel right now: on hold, in limbo. That's alright. Cover what's needed today and leave the rest.",
+					"When grief makes money hard to think about, {keyword} is a fair response. Let someone you trust help with the details if you can."
+				],
+				"skeptical": [
+					"Practically, {keyword} with money can mean a cooling-off period before a purchase. Wait a set number of days and see if you still want it.",
+					"Read plainly, {keyword} asks you to question one money belief you've had for years. Is it based on numbers, or on habit?",
+					"Treat {keyword} as a straightforward trade-off check. What are you giving up now, and is the future benefit concrete enough to justify it?"
+				],
+				"hopeful": [
+					"{keyword} with money may be the patient step that pays off later. Hope can live inside a deliberate pause.",
+					"If you're hoping for more security, {keyword} invites you to see your resources freshly. What do you already have that you've overlooked?",
+					"{keyword} can turn a stuck situation into a considered one. What would you do differently if you weren't in a hurry?"
+				],
+				"neutral": [
+					"With money, {keyword} points to waiting before acting, a change in how you value things, or a deliberate trade-off.",
+					"{keyword} suggests that a financial situation may benefit from stillness and a different point of view.",
+					"Here {keyword} speaks to giving up a short-term gain for something that matters more over time."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} in your body can feel like being stuck in place. Let it be a rest rather than a worry. Lie down for a few minutes and feel the floor holding you.",
+					"If {keyword} makes you restless, try one slow breath where the exhale is longer than the inhale. That's a small thing fully in your control.",
+					"{keyword} may be your body asking for less, not more. You don't have to solve your energy today; just give it a little quiet."
+				],
+				"curious": [
+					"{keyword} invites you to notice your body from a different angle. What do you feel when you stop doing and just observe for a minute?",
+					"What might {keyword} teach you about rest? Try a pause in the middle of the day and see what changes afterward.",
+					"Here {keyword} asks which habit you'd be willing to give up for a week to see how you feel without it."
+				],
+				"grieving": [
+					"Grief often brings {keyword} into the body: heaviness, slowness, a sense of time stretching. That is not you doing anything wrong.",
+					"{keyword} can be a kind of shelter. Let yourself lie still, curl up, or simply sit, without needing the time to be useful.",
+					"When you're carrying a loss, {keyword} may be exactly what your body needs. Be patient with how slow everything feels."
+				],
+				"skeptical": [
+					"Practically, {keyword} could mean scheduling actual rest instead of hoping it happens. When in your week could it fit?",
+					"Read as a prompt, {keyword} asks you to look at your routines differently. Which one do you do only because you always have?",
+					"Treat {keyword} as a simple experiment: change one variable, like screen time before bed, and observe the difference for a week."
+				],
+				"hopeful": [
+					"{keyword} can give your energy a chance to gather. Rest may not feel productive, but it often makes later effort easier.",
+					"If you're hoping to feel better in yourself, {keyword} invites a gentler pace. Small pauses through the day can add up.",
+					"{keyword} may show you a kinder way to care for yourself. What would it look like to rest without guilt?"
+				],
+				"neutral": [
+					"In health, {keyword} points to rest, stillness, and a change in how you approach your daily habits.",
+					"{keyword} suggests slowing down and listening to your body before pushing forward.",
+					"Here {keyword} speaks to letting go of strain and seeing your routines with a fresh eye."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{keyword} in your inner life can feel like floating without a handhold. You can let yourself be held by something simple: your breath, your feet, the room around you.",
+					"If {keyword} brings uncertainty, it's alright not to know what comes next. One quiet moment of stillness is a full practice for today.",
+					"{keyword} may feel uncomfortable, but nothing is required of you in it. Rest, and let understanding come in its own time."
+				],
+				"curious": [
+					"{keyword} invites a playful question: what would your beliefs look like if you hung them upside down? Which would still stand?",
+					"What might {keyword} open up in your practice? Try sitting in silence with no goal and notice what arises.",
+					"Here {keyword} asks what you'd give up to see more clearly. What are you holding that might be blocking the view?"
+				],
+				"grieving": [
+					"{keyword} can describe the strange stillness that comes with loss. Let it be; meaning, if it comes, can come later.",
+					"In grief, {keyword} may be the only practice you can manage. Simply being where you are is enough.",
+					"{keyword} doesn't ask you to understand anything. It only offers permission to stop, and to be held by the quiet."
+				],
+				"skeptical": [
+					"Read without mysticism, {keyword} is about cognitive flexibility. Pick a belief you hold firmly and argue against it honestly.",
+					"Treat {keyword} as a prompt to pause before reacting. Even a few seconds can change what you choose to do.",
+					"{keyword} needs no special framing to be useful: it simply asks what you'd see if you stopped insisting on your current view."
+				],
+				"hopeful": [
+					"{keyword} on your spiritual path can bring unexpected insight. Stillness often makes room for what effort can't reach.",
+					"If you hope to grow, {keyword} invites you to let go of needing to control the process. What happens when you allow rather than push?",
+					"{keyword} may lead to a quiet clarity. Trust the slow work of not rushing."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to surrender, stillness, and seeing from a new angle.",
+					"{keyword} suggests insight that comes through pausing and letting go rather than striving.",
+					"Here {keyword} speaks to a willing release of control in exchange for deeper understanding."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} can feel like being stuck between one thing and the next. You don't have to move yet. Notice one thing around you that is steady.",
+					"If {keyword} is making you uneasy, remember that pauses end. What's one small, comforting thing you can do while you wait?",
+					"{keyword} may be the space you need to see clearly. Let the decision rest for a day and check how it looks tomorrow."
+				],
+				"curious": [
+					"{keyword} invites you to flip your usual view. What would this situation look like if you assumed the opposite of what you've been assuming?",
+					"What could {keyword} show you if you stopped trying to move forward for a moment? Sometimes stillness is where the interesting part is.",
+					"Here {keyword} asks what you might be ready to let go of. What would feel lighter without it?"
+				],
+				"grieving": [
+					"{keyword} can mirror the in-between feeling of grief. Life may seem paused, and that's alright.",
+					"In a heavy time, {keyword} offers permission to stop striving. Rest is not wasted.",
+					"{keyword} doesn't ask you to find a new angle on your loss. Let the stillness be what it is."
+				],
+				"skeptical": [
+					"Practically, {keyword} can mean delaying a decision until you have better information. What specific information would change your mind?",
+					"Read as a prompt, {keyword} asks you to question an assumption you rely on. Which one have you never tested?",
+					"Treat {keyword} as a trade-off check. What are you giving up, and what are you gaining? Write both down."
+				],
+				"hopeful": [
+					"{keyword} can be the quiet before a clearer path. Use the pause to notice what you really want.",
+					"If you're hoping for change, {keyword} invites you to see things freshly. New options often appear when you look differently.",
+					"{keyword} may make what comes next more considered. What would you do if you weren't in a rush?"
+				],
+				"neutral": [
+					"{keyword} points to pausing, surrendering control, and seeing things from a different angle.",
+					"In general, {keyword} suggests a time when waiting and reflection serve you better than action.",
+					"Here {keyword} speaks to letting go of one thing to make room for a clearer view."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} in love may feel like a wait that never ends. You can set a gentle limit for yourself: a date by which you'll check in with how you feel.",
+					"If you've been resisting {keyword} in a relationship, gripping tight because letting go feels risky, notice where you're holding your breath. Let it out.",
+					"{keyword} may be stuck rather than finished. One small step: say one honest thing you've been holding back, kindly."
+				],
+				"curious": [
+					"{keyword} reversed in love might show up as stalling. What are you waiting for, really, and is it coming?",
+					"What if {keyword} has been overdone, so you've given up too much of yourself for a relationship? Explore what you'd want back.",
+					"Here {keyword} might be resisted because the new view would be uncomfortable. What do you suspect you'd see?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible right now, and that's understandable. Holding on is part of loving.",
+					"If you've been stuck in the pause after a loss, there's no need to force your way out. Let {keyword} come when it comes.",
+					"{keyword} may be delayed because you're not ready. That is not a failing; grief has its own pace."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often looks like indecision dressed up as patience. Is there a decision you're avoiding?",
+					"Read plainly, {keyword} overdone can become self-sacrifice that no one asked for. Is the trade you're making actually helping the relationship?",
+					"Treat {keyword} as a prompt: how long have you been waiting, and what has the waiting cost you?"
+				],
+				"hopeful": [
+					"{keyword} may be ready to shift. If you've been stuck, a small move now could get things flowing again.",
+					"If you hope for a change in love, {keyword} invites you to stop waiting for the other person and choose your own next step.",
+					"{keyword} may be easing. Notice whether you feel a little less suspended than you did."
+				],
+				"neutral": [
+					"Reversed in love, {keyword} may become stalling, resistance to change, or sacrifice that has gone too far.",
+					"{keyword} suggests a pause that has lasted too long, or one that's being resisted.",
+					"Here {keyword} points to indecision in a relationship, or holding on to an old way of seeing someone."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} may feel like it has gone on forever, with nothing moving. Pick one action that is entirely yours, an email, a tidy file, a single finished task, and let it remind you that you can still move.",
+					"If you've been fighting {keyword} at work, pushing hard because stopping feels dangerous, ask what you fear would happen if you eased off for a day. Is that fear based on anything you've actually seen?",
+					"{keyword} in your job may be delayed rather than refused. Write down what you're waiting on and who holds it, then let the list hold the worry for you tonight."
+				],
+				"curious": [
+					"{keyword} reversed at work might look like being very busy in order not to think about something. What are you keeping yourself too occupied to notice?",
+					"What if {keyword} has tipped into martyrdom, staying late and taking on extra with nothing coming back? It could be worth exploring who you're trying to prove something to.",
+					"Here {keyword} might be resisted because seeing your work differently would mean admitting it needs to change. What change do you sense, but haven't said aloud?"
+				],
+				"grieving": [
+					"If work has ground to a halt after a loss, {keyword} may not feel like a choice so much as where you've landed. You don't need to climb out quickly.",
+					"{keyword} may be hard to accept when you'd rather stay busy than feel. That's understandable; let yourself lean on routine for as long as it helps.",
+					"When your working life feels stuck, {keyword} doesn't ask you to make sense of it yet. Showing up, or not, as you're able, is enough for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often looks like procrastination with a good excuse. What is the smallest concrete step you could take before the end of today?",
+					"Read plainly, {keyword} overdone means giving your job more than it gives back. Count the unpaid hours from last month and see what the number tells you.",
+					"Treat {keyword} as a straight question: is this waiting strategic, or just comfortable? An honest answer is more useful than a hopeful one."
+				],
+				"hopeful": [
+					"{keyword} at work may be loosening. If you've felt stuck, keep an eye out for small openings, a conversation, a vacancy, a new project, that you might have overlooked.",
+					"If you're hoping for movement, {keyword} invites you to make one decision, however modest, rather than waiting for perfect conditions.",
+					"{keyword} may be giving way to something more active. What have you learned during the stuck stretch that you could now put to use?"
+				],
+				"neutral": [
+					"Reversed at work, {keyword} may turn into stalling, procrastination, or sacrifice that goes unrewarded.",
+					"{keyword} suggests either resistance to a pause your career needs, or a pause that has lasted past its usefulness.",
+					"Here {keyword} points to being fixed in one way of seeing your work, and reluctant to look again."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} may feel like being frozen in place. One small, steady action, such as checking a single balance or paying one bill, can loosen the grip a little.",
+					"If you've been resisting {keyword} in your finances, scrambling instead of stopping to look, try sitting still with the figures for ten minutes. Nothing has to be decided in that time.",
+					"{keyword} may be delayed rather than lost. Remind yourself of one thing that is secure right now, however modest, and let it steady you."
+				],
+				"curious": [
+					"{keyword} reversed with money might show up as waiting for the perfect moment to act. Does that moment actually exist, or does it keep moving?",
+					"What if {keyword} has gone too far, so you're going without things you genuinely need in the name of saving? Explore where frugality has become denial.",
+					"Here {keyword} might be avoided because seeing your money differently would mean changing a comfortable habit. Which habit are you protecting?"
+				],
+				"grieving": [
+					"{keyword} with money may feel beyond you after a loss. Let practical matters wait where they can, and ask for help with the ones that can't.",
+					"If finances feel stuck in grief, {keyword} doesn't ask you to push through. Covering today's needs is enough.",
+					"{keyword} may come later, when you have more room inside. For now, the kindest move may be to do very little."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means a financial decision postponed for months. Put a date on it, even a rough one.",
+					"Read plainly, {keyword} overdone is sacrificing too much now for a future that hasn't been defined. What, specifically, is the saving for?",
+					"Treat {keyword} as a prompt to calculate what waiting is costing: fees, missed rates, the energy of worrying. The number may move you."
+				],
+				"hopeful": [
+					"{keyword} with money may be easing. A small, deliberate move this month could get things flowing again.",
+					"If you're hoping for change, {keyword} invites one clear decision this week rather than another round of thinking it over.",
+					"{keyword} may be shifting as you look at your resources with fresh eyes. What option have you dismissed too quickly?"
+				],
+				"neutral": [
+					"Reversed with money, {keyword} may become stalling, excessive caution, or indecision about a financial choice.",
+					"{keyword} suggests a pause in your finances that has gone on longer than it needs to.",
+					"Here {keyword} points to resistance to a new way of thinking about value and resources."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} may show up as restlessness, an inability to settle. One small, calming act, like a slow walk around the block, can help your body find its pace.",
+					"If you've been resisting {keyword}, pushing on when your body is asking you to stop, notice that gently, without scolding yourself. Then sit down for five minutes.",
+					"{keyword} may be hard to reach right now. Try lengthening your out-breath a few times; it's a small, reliable way to tell your body it can rest."
+				],
+				"curious": [
+					"{keyword} reversed might show up as rest that never quite restores you. What kind of rest do you actually need: sleep, quiet, play, company?",
+					"What if {keyword} has gone too far, and stillness has become sluggishness? You might explore what gentle movement feels like today.",
+					"Here {keyword} might be resisted because stopping feels unproductive. What would happen, really, if you let yourself stop for an afternoon?"
+				],
+				"grieving": [
+					"{keyword} may feel out of reach while you're grieving; sleep and stillness can be hard to find. Be patient with yourself when rest won't come.",
+					"If you can't seem to pause, {keyword} doesn't ask you to force it. Small comforts, warmth, a familiar song, can do quiet work.",
+					"{keyword} may come in its own time. Until then, there's nothing to fix, only a body that is carrying a lot."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means rest that keeps being postponed. Put an actual break in your calendar and treat it as fixed.",
+					"Read plainly, {keyword} overdone can become inactivity. Notice how you feel on days you move a little versus days you don't.",
+					"Treat {keyword} as a prompt to review one routine honestly. Is it serving you, or just familiar?"
+				],
+				"hopeful": [
+					"{keyword} may be easing. Small, steady steps can help your energy return, even if slowly.",
+					"If you're hoping to feel more like yourself, {keyword} invites one gentle change to try for a week.",
+					"{keyword} may be shifting. Notice any small improvement, and let yourself be encouraged by it."
+				],
+				"neutral": [
+					"Reversed in health, {keyword} may become restlessness, resisted rest, or stillness that has turned into stagnation.",
+					"{keyword} suggests that rest is either being avoided or has lost its restoring quality.",
+					"Here {keyword} points to a need to approach your daily care from a different angle."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{keyword} may feel out of reach in your inner life, as if you can't quiet your mind. That's alright. One breath noticed fully is enough practice for today.",
+					"If you've been resisting {keyword}, clutching at certainty, notice what you're afraid would happen if you didn't know. Let the question stay open a little.",
+					"{keyword} may be delayed. Your practice doesn't need to produce anything; it can just be a few minutes of sitting."
+				],
+				"curious": [
+					"{keyword} reversed might show up as using spiritual ideas to avoid feeling something. What might you be stepping around?",
+					"What if {keyword} has stalled because you're waiting for a sign? Explore what you'd do if no sign came.",
+					"Here {keyword} might be resisted because a new view would ask you to change. What part of you is guarding the old one?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible in grief; the mind can't let go when the heart is so full. Let that be alright.",
+					"If you're stuck in the inner stillness after a loss, {keyword} doesn't ask you to move on. Stay as long as you need.",
+					"{keyword} may come later, or differently than you expect. For now, rest is a kind of prayer too."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often looks like rigid thinking. Choose one belief and test it against an opposing argument.",
+					"Read plainly, {keyword} overdone can become passivity, waiting for meaning to arrive instead of looking for it.",
+					"Treat {keyword} as a prompt: what are you waiting for in your inner life, and is it realistic to expect it?"
+				],
+				"hopeful": [
+					"{keyword} may be easing in your inner life. Small insights may begin to arrive when you stop chasing them.",
+					"If you hope to grow, {keyword} invites you to release one expectation of how growth should look.",
+					"{keyword} may be shifting. Notice moments of unexpected calm, and let them in."
+				],
+				"neutral": [
+					"Reversed spiritually, {keyword} may become stagnation, rigid belief, or resistance to change.",
+					"{keyword} suggests a pause in your inner life that isn't serving you, or a surrender being avoided.",
+					"Here {keyword} points to holding on too tightly to one way of understanding."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} may feel stuck or drawn out, and waiting can be exhausting. Take one small step that's yours to take, and let it remind you that things can still move.",
+					"If you've been resisting {keyword}, rushing to fill the silence, notice that urge gently. You're allowed to be still for a moment.",
+					"{keyword} may be delayed, but you are not powerless. What is one thing you can do today that would make the waiting a little kinder?"
+				],
+				"curious": [
+					"{keyword} reversed might show up as stalling while calling it patience. What are you really waiting for?",
+					"What if {keyword} has gone too far, so you've given up something you still need? Explore what you'd want back.",
+					"Here {keyword} might be resisted because a different view would be inconvenient. What do you half-see already?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible right now, whether that means letting go or stopping. Both are hard after a loss.",
+					"If you feel stuck, {keyword} can wait. There's no schedule for coming out of a hard season.",
+					"{keyword} may come in its own time, and you don't have to chase it. Rest where you are."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed usually means indecision. Set a deadline and decide with the information you have.",
+					"Read plainly, {keyword} overdone becomes passivity. What's one action you've been avoiding?",
+					"Treat {keyword} as a prompt to ask what the delay has gained you, and what it has cost."
+				],
+				"hopeful": [
+					"{keyword} may be easing. Things that felt stuck could start to move with a small push.",
+					"If you're hoping for change, {keyword} invites you to stop waiting and take one step.",
+					"{keyword} may be shifting. Notice where you feel less suspended than before."
+				],
+				"neutral": [
+					"Reversed, {keyword} may become stalling, indecision, or sacrifice that has gone too far.",
+					"{keyword} suggests a pause that is being resisted, or one that has lasted too long.",
+					"Here {keyword} points to holding on to a fixed view, or putting off a needed choice."
+				]
+			}
+		}
+	}
+}

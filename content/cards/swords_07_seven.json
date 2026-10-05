@@ -1,0 +1,412 @@
+{
+	"id": "swords_07_seven",
+	"name": "Seven of Swords",
+	"facets": [
+		{
+			"id": "strategy",
+			"keywords": ["a quiet strategy", "a clever workaround", "thinking several moves ahead"]
+		},
+		{
+			"id": "deception",
+			"keywords": ["a half-truth", "something kept hidden", "a story that doesn't add up"]
+		},
+		{
+			"id": "going_alone",
+			"keywords": ["going it alone", "a solo move", "a plan kept to yourself"]
+		},
+		{
+			"id": "evasion",
+			"keywords": ["a shortcut", "slipping away unnoticed", "avoiding the direct path"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If something in a relationship feels unspoken, {keyword} may be pointing at it. You can't read anyone's mind, but you can ask one clear, calm question when the moment is right.",
+					"{keyword} can stir up worry about trust. Before imagining the worst, write down what you actually know, and keep that list separate from what you fear.",
+					"When love feels uncertain, {keyword} invites you to check your own part first. Is there anything you have been holding back that would be easier to say than to carry?"
+				],
+				"curious": [
+					"{keyword} raises an intriguing question: how much of yourself do you keep in reserve with the people you love, and why?",
+					"What if {keyword} is less about secrecy and more about privacy? It might be worth noticing where one ends and the other begins for you.",
+					"{keyword} hints at strategy in matters of the heart. Are you playing it safe, playing a game, or simply waiting to see what the other person does?"
+				],
+				"grieving": [
+					"After a loss, {keyword} might look like keeping your grief to yourself so others don't worry. You are allowed to let one person see how heavy it is.",
+					"{keyword} may bring up things you wish had been said, or discovered too late. Those feelings are real, and they don't need to be resolved today.",
+					"If you are quietly carrying sorrow on your own, {keyword} gently asks whether it is still helping you. There is no pressure to share before you're ready."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about honesty in close relationships. Is there a conversation you keep stepping around, and what is the cost of that?",
+					"{keyword} is a useful prompt: where are you managing someone's reactions instead of telling them what you think?",
+					"No hidden forces here: {keyword} describes a familiar pattern. When people avoid direct talk, small gaps tend to grow. Which gap could you close first?"
+				],
+				"hopeful": [
+					"{keyword} can be turned toward something good: a thoughtful surprise, a careful approach, a well-timed honest word. How might you use it kindly?",
+					"If you are hoping for closeness, {keyword} suggests that being a little more open may serve you better than being clever. Try one small honest gesture.",
+					"{keyword} invites you to trust your own judgement about people, while staying open to talking things through. Both can sit together."
+				],
+				"neutral": [
+					"In love, {keyword} points to strategy, discretion or something left unsaid between people. It asks how much openness the relationship can hold.",
+					"{keyword} speaks to tactics in relationships: careful moves, held-back feelings, or a sense that not everything is on the table.",
+					"{keyword} suggests looking at trust from both sides: what you share, what you keep, and why."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If office politics have you on edge, {keyword} suggests you focus on what you can verify. Keep a simple record of your own work and decisions.",
+					"{keyword} at work can feel like everyone else knows something you don't. One thing in your control: ask your manager or a trusted colleague one direct question.",
+					"When you suspect things are happening behind the scenes, {keyword} invites you to stay steady and do your own job well. That's a strong position in itself."
+				],
+				"curious": [
+					"{keyword} opens a question: is there a smarter route through a work problem that you haven't tried because it feels unconventional?",
+					"What if {keyword} were exactly the skill this situation calls for? Some problems reward a quiet plan more than a loud one.",
+					"{keyword} hints at tactics. Which of your working habits are genuinely strategic, and which are just ways of avoiding a conversation?"
+				],
+				"grieving": [
+					"If you are grieving while working, {keyword} may mean keeping a lot to yourself to get through the day. It's okay to tell one colleague what you're carrying.",
+					"{keyword} might show up as quietly managing your workload around a loss. That's a sensible way to cope, not a failing.",
+					"At work, {keyword} may feel like a mask you have to wear. Let it slip somewhere safe, even for a few minutes."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about tactics and transparency at work. Are you being strategic or just avoiding a hard conversation with your team?",
+					"{keyword} is a prompt to check whether any shortcut you're taking might cost you later. Most do, eventually.",
+					"Read without mysticism, {keyword} describes a common workplace pattern: information held close for advantage. Decide how you want to handle that."
+				],
+				"hopeful": [
+					"{keyword} can help you navigate a tricky situation at work if you use it with integrity. What's the clever, honest move here?",
+					"If you are hoping to get ahead, {keyword} suggests careful planning. Think a few steps ahead, but keep your reputation in mind.",
+					"{keyword} invites you to trust your ingenuity. A creative solution may be within reach if you look at the problem from another side."
+				],
+				"neutral": [
+					"In career matters, {keyword} points to strategy, discretion, or working around obstacles rather than through them.",
+					"{keyword} speaks to tactics at work: independent moves, careful positioning, or information kept close.",
+					"{keyword} suggests weighing cleverness against openness in how you handle your working life."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money feels slippery, {keyword} suggests checking your accounts for anything you have been avoiding. Looking is usually less frightening than not looking.",
+					"{keyword} might point to a cost or commitment that hasn't been fully faced. One thing you can do: open the statement you have been putting off.",
+					"When finances feel uncertain, {keyword} invites you to be honest with yourself about one figure. Clarity is steadier than guessing."
+				],
+				"curious": [
+					"{keyword} raises a question: is there a clever way to stretch your resources that you haven't explored yet?",
+					"What might {keyword} reveal about how you handle money? Do you keep spending private, even from yourself?",
+					"{keyword} hints at strategy with resources. What would a smarter, quieter plan look like for the next few months?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may mean money matters you'd rather not look at. It's alright to ask someone to help you sort them out.",
+					"{keyword} might show up as keeping financial worries to yourself to protect others. You don't have to carry them alone.",
+					"If a loss has left loose ends, {keyword} doesn't ask you to tie them all now. Take one at a time."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to check for hidden costs, small print, or deals that seem too good. What's the catch?",
+					"{keyword} points to financial transparency. Are there any arrangements, shared or personal, that would benefit from being written down?",
+					"Read plainly, {keyword} can mean a shortcut that saves now and costs later. Is that what you're doing anywhere?"
+				],
+				"hopeful": [
+					"{keyword} encourages resourcefulness. A creative solution to a money problem may be closer than it seems.",
+					"If you are hoping for more security, {keyword} suggests a quiet, steady plan that you keep to and don't broadcast.",
+					"{keyword} invites you to be clever with what you have. Small strategic changes can add up over time."
+				],
+				"neutral": [
+					"Around money, {keyword} points to strategy, discretion, or something not fully disclosed.",
+					"{keyword} speaks to resourcefulness with money, along with a caution about shortcuts and hidden terms.",
+					"{keyword} suggests examining how openly and honestly money moves in your life."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you have been hiding how tired you are, {keyword} may be pointing to that. One thing you can do: tell someone close how you're really feeling.",
+					"{keyword} can show up as pushing through quietly. Pause for a moment today and check in with your body.",
+					"When stress is high, {keyword} invites you to stop managing everything alone. Let one person help with one small thing."
+				],
+				"curious": [
+					"{keyword} raises a question: are you sneaking past what your body is asking for? Try listening a little more closely this week.",
+					"What would {keyword} look like if it were working for your wellbeing instead of against it? Perhaps a clever way to fit more rest into your day.",
+					"{keyword} hints at strategy. What small trick helps you stick to a good habit?"
+				],
+				"grieving": [
+					"Grief can make you keep things to yourself, and {keyword} may reflect that. Your body might still need care even if you don't say much.",
+					"{keyword} may look like getting through the days quietly. That's allowed. Rest when you can.",
+					"If you've been holding yourself together alone, {keyword} gently asks whether there's someone who could share a little of the weight."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to be honest with yourself about habits. Is there anything you tell yourself is fine when it isn't?",
+					"{keyword} points to shortcuts. Are you trying to skip the slow parts of looking after yourself?",
+					"Read plainly, {keyword} is about avoidance. Which part of your wellbeing do you keep putting off thinking about?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to be clever about care: small, sustainable changes that slip easily into your routine.",
+					"If you are hoping to feel better, {keyword} suggests being honest about what's working and what isn't.",
+					"{keyword} invites you to find a smart, gentle approach to your energy rather than forcing it."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to avoidance, quiet coping, or a need for honesty about how you feel.",
+					"{keyword} speaks to managing things alone, perhaps more than you need to.",
+					"{keyword} suggests looking at where you might be bypassing your own needs."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsettled, {keyword} may be pointing at something you haven't admitted to yourself. Sit quietly and let it surface gently.",
+					"{keyword} can stir worry about self-deception. One small step: write down one belief you hold, and ask whether it still feels true.",
+					"When you feel uneasy, {keyword} invites you to trust your own honesty. You don't need to have it all figured out."
+				],
+				"curious": [
+					"{keyword} opens a question: what part of yourself do you keep hidden, even in your own reflection?",
+					"What might {keyword} reveal about your spiritual path? Perhaps an unconventional route that suits you better.",
+					"{keyword} hints at independence. Where do you prefer to find meaning on your own terms?"
+				],
+				"grieving": [
+					"{keyword} may show up as keeping your grief private, even from your own practice. Let yourself feel it when you're ready.",
+					"If loss has made you withdraw, {keyword} doesn't judge that. Solitude can be a kind of tending.",
+					"{keyword} may bring up questions you'd rather not face yet. They can wait until you feel steadier."
+				],
+				"skeptical": [
+					"Plainly, {keyword} is a prompt about self-honesty. Are you telling yourself a comfortable story about your own growth?",
+					"{keyword} points to shortcuts in inner work. What would doing it the slow way look like?",
+					"Read practically, {keyword} asks whether you are avoiding something by staying busy or clever."
+				],
+				"hopeful": [
+					"{keyword} encourages you to find your own way. An independent path can still lead somewhere meaningful.",
+					"If you are hoping for clarity, {keyword} suggests honesty with yourself is the most direct route.",
+					"{keyword} invites you to use your wits gently, not to escape but to understand."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to self-honesty, independence, or something you're not yet ready to face.",
+					"{keyword} speaks to taking an unconventional route in your inner life, with care about what you might be avoiding.",
+					"{keyword} suggests looking at where cleverness may be standing in for depth."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you sense something isn't quite right, {keyword} suggests focusing on what you know for sure. Facts are steadier than fears.",
+					"{keyword} can make you feel on guard. One small step: ask one direct question about what's bothering you.",
+					"When trust feels shaky, {keyword} invites you to look after your own integrity. That's something firmly in your control."
+				],
+				"curious": [
+					"{keyword} raises a question: is there a clever way around a problem that you haven't considered?",
+					"What if {keyword} is asking you to look at a situation from a different angle? You might find a quieter solution.",
+					"{keyword} hints at strategy. Which battles are worth fighting directly, and which can be handled more quietly?"
+				],
+				"grieving": [
+					"{keyword} may look like keeping your grief to yourself. It's alright to let someone in when you're ready.",
+					"If you've been carrying a lot quietly, {keyword} doesn't ask you to change that today. Just notice it.",
+					"{keyword} may bring up things left unsaid. Those feelings can be held gently, without needing an answer."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to weigh strategy against honesty. Where are you using one in place of the other?",
+					"{keyword} points to shortcuts and their costs. Which one are you tempted by right now?",
+					"Read plainly, {keyword} is about avoidance. Is there something you'd rather not face directly?"
+				],
+				"hopeful": [
+					"{keyword} encourages resourcefulness. A creative solution may be within reach.",
+					"If you are hoping for a way through, {keyword} suggests thinking a few steps ahead, with integrity.",
+					"{keyword} invites you to trust your ingenuity, and to use it openly where you can."
+				],
+				"neutral": [
+					"{keyword} points to strategy, discretion, or something left unsaid.",
+					"In general, {keyword} speaks to working around obstacles rather than through them.",
+					"{keyword} suggests weighing cleverness against openness."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you have been holding something back from someone you love, {keyword} may be pressing on you. You don't have to confess everything at once; start with one honest sentence.",
+					"{keyword} may be coming to the surface, and that can feel exposed. Remember that honesty usually lightens a relationship more than it breaks it.",
+					"When guilt or suspicion keeps you awake, {keyword} invites you to focus on what you can say yourself. Your own words are in your control."
+				],
+				"curious": [
+					"{keyword} might be losing its hold. What would it feel like to put all your cards on the table?",
+					"What if {keyword} has been more of a burden than a protection? Notice how it feels to imagine letting it go.",
+					"{keyword} may be turning inward. Are you hiding something from yourself about what you want?"
+				],
+				"grieving": [
+					"{keyword} may bring regrets about things unsaid. Those feelings are human; you can write them down, or speak them aloud, whenever you're ready.",
+					"If grief has made you less guarded, {keyword} may soften. Let yourself be seen by someone who cares.",
+					"{keyword} can rest for now. There's no need to sort out every truth while you're grieving."
+				],
+				"skeptical": [
+					"Practically, {keyword} breaking down often means a conversation that's overdue. What's the honest version you've been avoiding?",
+					"Read plainly, {keyword} may simply have stopped working. Most hidden things become harder to maintain than to admit.",
+					"{keyword} is a prompt to examine your own story. Is there a part you tell yourself that doesn't quite add up?"
+				],
+				"hopeful": [
+					"{keyword} may give way to openness. Honesty could bring you closer, though how others respond is theirs to choose.",
+					"If you're hoping for trust, {keyword} suggests that coming clean, gently, can be a good place to start.",
+					"{keyword} could be set aside in favour of something simpler: saying what you mean."
+				],
+				"neutral": [
+					"In love, {keyword} turned inward can point to a secret surfacing, a change of heart, or self-deception being recognised.",
+					"{keyword} appears to be weakening: what was hidden or evaded may be ready to come into the open.",
+					"{keyword} suggests honesty and accountability may be more useful now than strategy."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If you're worried something at work may come out, {keyword} suggests getting ahead of it. One step: speak to your manager before someone else does.",
+					"{keyword} may be unravelling, and that can feel uncomfortable. Remember that owning a mistake early is usually easier than defending it later.",
+					"When you feel exposed at work, {keyword} invites you to focus on what you can put right, one task at a time."
+				],
+				"curious": [
+					"{keyword} might be running out of road. What would doing things the straightforward way look like?",
+					"What if {keyword} has been costing you more energy than it saves? Notice what changes if you stop.",
+					"{keyword} may be turning inward. Are you overthinking a work situation that needs a simpler response?"
+				],
+				"grieving": [
+					"If you've been hiding how hard work is during a loss, {keyword} may be easing. It's okay to let your colleagues know you need support.",
+					"{keyword} can rest. You don't need to strategise your way through grief; just do what's in front of you.",
+					"{keyword} may soften as you allow yourself to be more open at work. Take it slowly."
+				],
+				"skeptical": [
+					"Plainly, {keyword} breaking down often means a shortcut catching up with you. What would doing it properly cost now?",
+					"{keyword} is a prompt to come clean on something small before it becomes larger. Is there anything like that?",
+					"Read practically, {keyword} may mean you're overplanning. Sometimes the direct route is simply faster."
+				],
+				"hopeful": [
+					"{keyword} may give way to more honest collaboration. That could open doors, though nothing is guaranteed.",
+					"If you're hoping for a fresh start at work, {keyword} suggests letting go of old tactics.",
+					"{keyword} could be replaced with straightforward effort that others can see and trust."
+				],
+				"neutral": [
+					"In career matters, {keyword} turned inward can point to plans exposed, a change of approach, or a return to transparency.",
+					"{keyword} appears to be losing its grip: shortcuts may no longer work.",
+					"{keyword} suggests honesty and directness might serve your work better now."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If you've been avoiding a money matter, {keyword} may be catching up. One step: look at it honestly today, just for ten minutes.",
+					"{keyword} might be coming to light, and that can feel worrying. Facing it early usually gives you more options.",
+					"When finances feel exposed, {keyword} invites you to make one honest list of what you owe and what you have."
+				],
+				"curious": [
+					"{keyword} might be losing its usefulness. What would complete financial honesty with yourself look like?",
+					"What if {keyword} has been more stressful than helpful? Notice how it feels to stop.",
+					"{keyword} may be turning inward. Is there a money story you tell yourself that isn't quite true?"
+				],
+				"grieving": [
+					"If a loss has uncovered money matters you didn't know about, {keyword} may feel unsettling. Take it slowly, with help.",
+					"{keyword} can wait. You don't need to sort every financial secret while grieving.",
+					"{keyword} may soften as things come into the open. Be gentle with yourself about what you find."
+				],
+				"skeptical": [
+					"Practically, {keyword} breaking down often means hidden costs surfacing. Better to know than not.",
+					"{keyword} is a prompt to tidy up any informal arrangements. What could you put in writing?",
+					"Read plainly, {keyword} may mean a shortcut has stopped saving you anything. Is it time to change approach?"
+				],
+				"hopeful": [
+					"{keyword} may give way to clearer finances. Honesty can be a foundation for stability.",
+					"If you're hoping for more security, {keyword} suggests dropping a habit that's been quietly costing you.",
+					"{keyword} could be replaced with a simple, open plan you can actually stick to."
+				],
+				"neutral": [
+					"Around money, {keyword} turned inward can point to hidden costs surfacing, a change of heart, or a return to transparency.",
+					"{keyword} appears to be weakening: what was avoided may now need attention.",
+					"{keyword} suggests honesty about money could be more useful than cleverness."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you've been hiding how you feel, {keyword} may be easing. One thing you can do: tell someone close the honest version.",
+					"{keyword} might be catching up with you, and that's okay. Rest is not a confession; it's care.",
+					"When stress feels exposed, {keyword} invites you to stop pretending you're fine, even just to yourself."
+				],
+				"curious": [
+					"{keyword} might be loosening. What would it feel like to be completely honest about your energy?",
+					"What if {keyword} has cost you more rest than it saved? Notice what happens when you stop.",
+					"{keyword} may be turning inward. What do you tell yourself about your habits that you suspect isn't true?"
+				],
+				"grieving": [
+					"{keyword} may soften as grief makes it harder to pretend. Let yourself be tired.",
+					"If you've been holding it together, {keyword} doesn't need to continue. Care can be simple.",
+					"{keyword} can rest. Your body knows what it needs; let it speak."
+				],
+				"skeptical": [
+					"Practically, {keyword} breaking down may mean an unhelpful habit catching up with you. What would you change?",
+					"{keyword} is a prompt to be honest about rest. Are you getting enough, or just telling yourself so?",
+					"Read plainly, {keyword} may mean shortcuts in self-care have stopped working."
+				],
+				"hopeful": [
+					"{keyword} may give way to more honest care. That can be a good place to rebuild energy.",
+					"If you're hoping to feel better, {keyword} suggests dropping a habit that's been quietly draining you.",
+					"{keyword} could be replaced with simple, visible routines that support you."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} turned inward can point to stress surfacing, a habit catching up, or a return to honesty.",
+					"{keyword} appears to be weakening: quiet coping may no longer be enough.",
+					"{keyword} suggests honesty about your needs may help more than pushing through."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If you've been avoiding something within, {keyword} may be surfacing. One small step: sit with it for a few minutes without judgement.",
+					"{keyword} might feel exposing. Remember that honesty with yourself is a kindness, not a punishment.",
+					"When inner truth feels uncomfortable, {keyword} invites you to take it slowly. You don't need to face everything today."
+				],
+				"curious": [
+					"{keyword} might be loosening. What would complete honesty with yourself reveal?",
+					"What if {keyword} has been keeping you from deeper growth? Notice what opens when you let it go.",
+					"{keyword} may be turning inward. What story about yourself is ready to be revised?"
+				],
+				"grieving": [
+					"{keyword} may soften in grief, as loss strips away pretence. Let yourself be honest about what you feel.",
+					"If grief has made you question things, {keyword} isn't asking for answers. Just honesty.",
+					"{keyword} can rest. Being with your loss is enough practice for now."
+				],
+				"skeptical": [
+					"Plainly, {keyword} breaking down suggests a moment of self-honesty. What have you been avoiding?",
+					"{keyword} is a prompt to examine the gap between what you say you believe and how you act.",
+					"Read practically, {keyword} may mean clever rationalisations have stopped convincing you."
+				],
+				"hopeful": [
+					"{keyword} may give way to deeper honesty, which can be a strong foundation for growth.",
+					"If you're hoping for clarity, {keyword} suggests letting go of an old rationalisation.",
+					"{keyword} could be replaced with a simpler, more open practice."
+				],
+				"neutral": [
+					"Spiritually, {keyword} turned inward can point to self-deception recognised, a change of heart, or a return to honesty.",
+					"{keyword} appears to be loosening its grip on your inner life.",
+					"{keyword} suggests honesty with yourself may be the next step."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you're worried something will come out, {keyword} suggests getting ahead of it gently. One honest sentence, said early, is often enough to start.",
+					"{keyword} might be unravelling, and that can feel exposed. Honesty usually brings more relief than the fear of it suggests.",
+					"When guilt or doubt weighs on you, {keyword} invites you to focus on what you can put right this week, rather than everything at once."
+				],
+				"curious": [
+					"{keyword} might be running out of road. What would the direct route look like, if you tried it just once?",
+					"What if {keyword} has been more trouble than it's worth? Notice how much energy it takes, and what you'd do with that energy instead.",
+					"{keyword} may be turning inward. Is there something you've been hiding mostly from yourself?"
+				],
+				"grieving": [
+					"{keyword} may soften in grief, as loss makes pretending harder. Let yourself be honest about how you feel, even if only privately.",
+					"If you've been holding things in, {keyword} doesn't need to continue. Let someone in when you're ready, and not before.",
+					"{keyword} can rest for now. There's no need to manage appearances or plan ahead while you are grieving."
+				],
+				"skeptical": [
+					"Practically, {keyword} breaking down often means something is overdue. What's the honest conversation you've been avoiding?",
+					"{keyword} is a prompt to look at shortcuts that have stopped working. Which one is now costing you more than it saves?",
+					"Read plainly, {keyword} may simply mean it's time to stop strategising and say what you mean."
+				],
+				"hopeful": [
+					"{keyword} may give way to openness, and openness tends to make things simpler. Nothing is promised, but the load gets lighter.",
+					"If you're hoping for a fresh start, {keyword} suggests setting down an old tactic and seeing what happens without it.",
+					"{keyword} could be replaced with straightforward honesty. People often respond to that better than you expect."
+				],
+				"neutral": [
+					"{keyword} turned inward can point to secrets surfacing, a change of heart, or a return to transparency.",
+					"In general, {keyword} appears to be losing its grip, and what was evaded may be ready to be faced.",
+					"{keyword} suggests that honesty may serve you better than strategy now."
+				]
+			}
+		}
+	}
+}

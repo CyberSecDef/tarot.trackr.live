@@ -1,0 +1,412 @@
+{
+	"id": "swords_06_six",
+	"name": "Six of Swords",
+	"facets": [
+		{
+			"id": "transition",
+			"keywords": ["a transition", "moving on", "a passage to calmer water"]
+		},
+		{
+			"id": "leaving_behind",
+			"keywords": ["leaving something behind", "a quiet departure", "a necessary goodbye"]
+		},
+		{
+			"id": "calmer_waters",
+			"keywords": ["calmer water", "rest after turmoil", "a slow return to ease"]
+		},
+		{
+			"id": "guided_passage",
+			"keywords": ["help on the crossing", "a steady hand on the journey"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If a relationship has been rough lately, {keyword} suggests the hardest stretch may already be behind you. You don't need to know where you are landing; just notice one thing that feels a little quieter than before.",
+					"{keyword} in love can feel strange, even when it is right. One thing in your control today: say plainly to yourself what you are moving away from, and let that be enough for now.",
+					"When your heart is unsettled, {keyword} invites you to travel slowly. Let one trusted person sit beside you for part of the way, even if all you do is talk about something else."
+				],
+				"curious": [
+					"{keyword} raises a gentle question: what are you carrying from an old relationship into the next one, and is all of it worth the space?",
+					"What might {keyword} look like between you and someone close? Sometimes a bond changes shape without ending, the way a river bends without stopping.",
+					"{keyword} hints that the way you love is shifting. Which old habit of the heart feels ready to stay on the far shore?"
+				],
+				"grieving": [
+					"{keyword} does not ask you to leave the person or the love behind. It only notes that you are moving, slowly, through something very hard, and that slowness is allowed.",
+					"If you are carrying a loss, {keyword} may feel less like a choice and more like being carried. Let the quiet do some of the work for a while.",
+					"{keyword} can be heavy and tender at once. You may look back many times on the way, and each glance is part of loving them."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to a relationship pattern you may be ready to leave. What would it take to stop repeating it, starting this week?",
+					"Read as a prompt rather than a sign, {keyword} asks whether you are staying in a difficult dynamic out of habit. Name the cost honestly before deciding anything.",
+					"No mystical claim here: {keyword} is simply what happens when people outgrow an old arrangement. The useful question is what you want to bring with you."
+				],
+				"hopeful": [
+					"{keyword} suggests calmer days in love are possible, though not promised. Notice where things already feel a little easier, and give more attention there.",
+					"If you are hoping for something gentler, {keyword} encourages you to keep moving toward it at your own pace. Quiet progress still counts.",
+					"{keyword} invites you to picture what a steadier kind of closeness would feel like. Holding that picture can help you choose your next step."
+				],
+				"neutral": [
+					"In love, {keyword} points to a shift away from turbulence toward something quieter, often carried out slowly and with some sadness.",
+					"{keyword} speaks to moving through a relationship change: leaving an old pattern, a place, or a version of the bond behind.",
+					"{keyword} suggests a period of passage in your connections, where the destination matters less than getting through with care."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can feel like stepping onto a boat before you can see the other side. Focus on today's task; the crossing happens one shift at a time.",
+					"{keyword} may be unsettling, especially if you liked knowing your place. One small step in your control: write down three things you already do well, to take with you.",
+					"If a job change or reshuffle is on your mind, {keyword} suggests the turbulence may be easing. Ask one colleague you trust how they see things."
+				],
+				"curious": [
+					"{keyword} opens a question about your working life: what are you heading toward, rather than simply away from?",
+					"What would {keyword} look like if you treated it as an experiment? You might try a new role or project for a season and see how it fits.",
+					"{keyword} hints that the skills you built in a hard place travel well. Which ones surprised you by being useful somewhere new?"
+				],
+				"grieving": [
+					"If you have lost a role, a team or a sense of purpose, {keyword} may feel more like drifting than steering. It is all right to let the days be quiet for a while.",
+					"{keyword} can carry the sadness of leaving people and work you cared about. You don't have to pretend the old place meant nothing.",
+					"At work, {keyword} may simply mean showing up and doing what is in front of you while grief sits with you. That is enough for now."
+				],
+				"skeptical": [
+					"Plainly, {keyword} points to a career move away from something that wasn't working. What is the realistic next step, and what does it cost?",
+					"Treat {keyword} as a planning prompt: list what you are leaving, what you are keeping, and what you still need to find out.",
+					"{keyword} here is a familiar pattern rather than a prophecy. Most work transitions go better with a clear handover and a modest first goal."
+				],
+				"hopeful": [
+					"{keyword} encourages you to keep heading toward work that feels steadier. Nothing is guaranteed, but you can choose the direction.",
+					"If you are hoping for a calmer workplace, {keyword} suggests it is reasonable to look for one. Notice which environments already leave you less tense.",
+					"{keyword} invites you to trust the effort you have already made to get this far. The next shore may be closer than it looks."
+				],
+				"neutral": [
+					"In career matters, {keyword} points to leaving a difficult situation for a more manageable one, often with guidance or support along the way.",
+					"{keyword} speaks to a working transition: a new role, a change of team, or simply a calmer approach to the same job.",
+					"{keyword} suggests movement from strain toward steadiness, carried out gradually rather than all at once."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money has been stormy, {keyword} suggests things may be starting to settle, even if slowly. One thing you can do: check one account today and simply note the number.",
+					"{keyword} around finances can feel uncertain. Choose one bill, one plan or one conversation that will help steady the boat this week.",
+					"When finances feel unsteady, {keyword} invites you to take only what you need on this stretch. Set aside one expense you can let go of for now."
+				],
+				"curious": [
+					"{keyword} raises a question about money: what old spending habit are you ready to leave behind, and what would replace it?",
+					"What might {keyword} mean for how you think about security? Perhaps steadiness looks different now than it did a few years ago.",
+					"{keyword} hints at a shift in what you value. Which purchases still feel worth it, and which belong to an earlier version of you?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may mean money has to be handled while your heart is elsewhere. Do only the essentials, and let the rest wait.",
+					"{keyword} can involve sorting through what someone left behind, or adjusting to less. Take it slowly, and accept help with the paperwork if it is offered.",
+					"If finances have changed because of a loss, {keyword} doesn't ask you to plan everything now. Just get through this week with what you need."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to moving your finances from crisis mode toward stability. What is the single most useful change you could make?",
+					"{keyword} is a prompt to look at what you are carrying financially: debts, subscriptions, commitments. Which ones still serve you?",
+					"Read plainly, {keyword} suggests a gradual shift rather than a sudden fix. Small, steady changes tend to hold up better over time."
+				],
+				"hopeful": [
+					"{keyword} encourages you to keep steering toward steadier ground with money. Progress may be slow, and slow is still progress.",
+					"If you are hoping things ease, {keyword} suggests looking for the help that is available: advice, a plan, someone who has made the same crossing.",
+					"{keyword} invites you to notice how far you have already come financially. That distance is real, even if the shore isn't in sight."
+				],
+				"neutral": [
+					"Around money, {keyword} points to moving away from instability toward something calmer, often with careful planning.",
+					"{keyword} speaks to a financial transition: a move, a new arrangement, or leaving behind a pattern that kept you anxious.",
+					"{keyword} suggests travelling light with resources for a while, keeping what supports you and releasing what weighs you down."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you have been worn down, {keyword} suggests the rough water may be easing. One small thing you can do tonight: rest a little longer than usual.",
+					"{keyword} may feel slow when you want to feel better faster. Choose one gentle habit to steady you, like a short walk or an earlier bedtime.",
+					"When your body feels tense, {keyword} invites you to breathe out slowly and notice what is calmer now than a week ago."
+				],
+				"curious": [
+					"{keyword} raises a question about energy: what situations leave you feeling as if you have reached calmer water?",
+					"What would {keyword} look like in your daily routine? Perhaps a habit to set down, or a quieter rhythm to try for a while.",
+					"{keyword} hints that rest might be a journey rather than a single stop. Where in your week do you feel most at ease?"
+				],
+				"grieving": [
+					"Grief is tiring, and {keyword} may simply mean letting yourself be carried for a while. Rest is not giving up.",
+					"{keyword} can be very slow when you are grieving. Let your body set the pace, and let meals and sleep be enough of a plan.",
+					"If you feel heavy, {keyword} doesn't ask you to feel better. It only notes that you are moving, gently, and that is allowed."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to easing out of a stressful period. What routine helps you wind down, and are you making time for it?",
+					"{keyword} is a plain prompt about pace: are you giving yourself the slower stretch your body seems to be asking for?",
+					"No mysticism needed: {keyword} is about moving from strain toward rest. Pick one change that would make the next week calmer."
+				],
+				"hopeful": [
+					"{keyword} encourages you to trust that steadier days are possible. Notice small signs of ease and let them count.",
+					"If you are hoping to feel more like yourself, {keyword} suggests patience and support. Let someone share the load where they can.",
+					"{keyword} invites you to imagine what calmer energy would feel like, and to take one small step toward it today."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to leaving behind a draining period and moving, gradually, toward rest and steadier energy.",
+					"{keyword} speaks to a gentle transition in how you look after yourself, often aided by others.",
+					"{keyword} suggests slowing down enough to let your body catch up with the changes around you."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels stormy, {keyword} suggests you are already moving toward quieter water. A few minutes of stillness each day can be your oar.",
+					"{keyword} may feel unfamiliar, especially if old certainties are fading. One thing you can do: return to a simple practice that has steadied you before.",
+					"When you feel spiritually unmoored, {keyword} invites you to trust the passage itself. You don't need the destination mapped to keep going."
+				],
+				"curious": [
+					"{keyword} opens a question: what belief or practice have you outgrown, and what is quietly taking its place?",
+					"What might {keyword} reveal if you treated it as a pilgrimage? Notice what you meet along the way, not just where you arrive.",
+					"{keyword} hints that inner change is happening beneath the surface. What feels more peaceful now than it did a year ago?"
+				],
+				"grieving": [
+					"{keyword} may be how grief moves you through meaning, slowly and without asking permission. Let it be as quiet as it needs to be.",
+					"If loss has shaken what you believe, {keyword} doesn't ask you to find answers yet. Being on the water is enough for now.",
+					"{keyword} can carry both sorrow and a faint sense of peace. Neither cancels the other, and you can hold them together."
+				],
+				"skeptical": [
+					"Plainly, {keyword} points to a shift in how you make sense of things. What idea have you stopped finding convincing, and why?",
+					"Treat {keyword} as a reflective prompt: which beliefs still help you, and which do you keep mainly out of habit?",
+					"No mystical reading required: {keyword} is a familiar stage of growth, moving from turmoil toward a calmer perspective."
+				],
+				"hopeful": [
+					"{keyword} encourages you to keep going through a period of inner change. Peace may grow gradually rather than arrive all at once.",
+					"If you are hoping for clarity, {keyword} suggests it may come as calmer water rather than a lightning bolt. Watch for subtle shifts.",
+					"{keyword} invites you to trust the guidance you have, whether a teacher, a practice or your own quiet knowing."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to moving away from inner turbulence toward a more settled sense of meaning.",
+					"{keyword} speaks to a passage between one way of seeing and another, often taken slowly and with some sadness.",
+					"{keyword} suggests leaving behind what no longer fits your inner life, while carrying forward what still does."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} suggests the hardest part may already be behind you, even if it doesn't feel that way yet. Look for one thing that is calmer today than last week.",
+					"If you are in the middle of change, {keyword} invites you to focus on the next small step. You don't have to see the whole route to keep going.",
+					"{keyword} can feel uncertain, but it often moves toward steadier ground. Choose one thing you can do today to make the journey easier."
+				],
+				"curious": [
+					"{keyword} raises a question about your life right now: what are you moving away from, and what are you hoping to find?",
+					"What would {keyword} look like if you chose it on purpose? Sometimes deciding to leave is the beginning of the calm.",
+					"{keyword} hints at a quiet crossing. Who or what is helping you along the way, and have you noticed them yet?"
+				],
+				"grieving": [
+					"{keyword} does not ask you to forget what you are leaving. It only suggests you are moving through something hard, and that you can take your time.",
+					"If you are carrying loss, {keyword} may feel like drifting. Let the quiet hold you for a while; steering can come later.",
+					"{keyword} can hold sadness and relief at once. Both are part of the passage, and neither needs to be explained."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to leaving a difficult situation for a steadier one. What would make that shift easier this month?",
+					"{keyword} is a prompt to think about transitions: what you're carrying, what you can set down, and who could help.",
+					"Read plainly, {keyword} describes a common experience: moving from turmoil toward calm, slowly and imperfectly."
+				],
+				"hopeful": [
+					"{keyword} encourages you to keep moving toward something calmer. It isn't guaranteed, but the direction is yours to choose.",
+					"If you are hoping for relief, {keyword} suggests it may come gradually. Notice small signs of ease and let them encourage you.",
+					"{keyword} invites you to trust that you have already come a long way. The far shore may be nearer than it feels."
+				],
+				"neutral": [
+					"{keyword} points to a transition from difficulty toward calm, often taken slowly and with support.",
+					"In general, {keyword} speaks to leaving something behind in order to reach steadier ground.",
+					"{keyword} suggests a period of passage, where moving forward matters more than arriving quickly."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you feel stuck in a relationship that is hard to leave or hard to mend, {keyword} may be delayed rather than lost. One step you can take: write down what you need, just for yourself.",
+					"{keyword} may be harder than you expected, and that's okay. You don't have to make a big decision tonight; just notice what you're holding on to.",
+					"When you keep circling back to an old love or an old hurt, {keyword} can feel out of reach. Talk to one person you trust about where you are now."
+				],
+				"curious": [
+					"{keyword} might be stalling. What's keeping you in familiar waters, even when you say you want something different?",
+					"What would happen if you let {keyword} take a little longer? Sometimes a pause shows you what you still need to settle first.",
+					"{keyword} may be turning inward. Before anything changes between you and someone else, what is shifting in how you see yourself?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible right now, and that's understandable. You don't have to move on from someone you loved before you're ready.",
+					"If you keep looking back, {keyword} is not asking you to stop. Grief often needs to return to the shore many times.",
+					"{keyword} can wait. For now, it is enough to stay where you are and let the loss be what it is."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be stuck because something hasn't been said. What unfinished conversation is keeping you anchored?",
+					"Read plainly, {keyword} blocked often means carrying old patterns into new relationships. Which one do you recognise?",
+					"{keyword} is a prompt to notice resistance. Are you staying because it's right, or because leaving feels like too much work?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed, not denied. Hope can sit alongside the slower pace while you sort out what you need.",
+					"If you're hoping to leave an old hurt behind, {keyword} suggests doing it in smaller pieces. Each one you set down makes the boat lighter.",
+					"{keyword} could arrive more gently than you think, once the baggage is lighter. Keep doing the quiet work."
+				],
+				"neutral": [
+					"In love, {keyword}, when blocked, can point to resistance to change, unfinished emotional business, or a return to old patterns.",
+					"{keyword} appears held back: a transition that is postponed, or one that is happening only on the inside.",
+					"{keyword} suggests looking at what you are still carrying from past relationships, and whether it belongs in the present."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If you feel stuck in a job you want to leave, {keyword} may be slower than you'd like. One thing in your control: update one small part of your CV or portfolio this week.",
+					"{keyword} might be on hold, and that can feel trapping. Remember that waiting is not failing; it can also be a time to prepare.",
+					"When a work move keeps stalling, {keyword} can feel hopeless. Pick one practical task that moves you an inch closer, and let that be today's progress."
+				],
+				"curious": [
+					"{keyword} might be blocked by something you haven't named. What would you need to know before you felt ready to go?",
+					"What if {keyword} isn't about leaving at all, but about changing how you work where you are?",
+					"{keyword} may be paused. Is it the job holding you, or the fear of starting somewhere unfamiliar?"
+				],
+				"grieving": [
+					"{keyword} may feel out of reach while you're grieving. It is fine to stay put and let work be steady rather than changing.",
+					"If you're mourning a role or a workplace, {keyword} may come slowly. Let it.",
+					"{keyword} can wait until you have more energy. For now, getting through the week is plenty."
+				],
+				"skeptical": [
+					"Plainly, {keyword} delayed often means an exit plan without enough detail. What's the concrete next step, and when could you take it?",
+					"{keyword} is a prompt to check whether you're bringing old frustrations into new roles. Changing jobs doesn't always change the pattern.",
+					"Read practically, {keyword} stuck may simply mean timing. Is there a better moment to move, or are you postponing out of habit?"
+				],
+				"hopeful": [
+					"{keyword} might be slower than planned, but preparation now can make it smoother later. Keep building.",
+					"If you're hoping for a change, {keyword} suggests patience and small steps. The door isn't closed.",
+					"{keyword} may come once a few loose ends are tied. Hope is reasonable, especially if you keep moving forward a little each week."
+				],
+				"neutral": [
+					"In career matters, {keyword}, when blocked, can point to a delayed move, resistance to leaving, or carrying old problems into a new role.",
+					"{keyword} appears stalled: the intention to move on is there, but something is holding it back.",
+					"{keyword} suggests that an internal shift may need to come before an external one at work."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If you feel stuck financially, {keyword} may be delayed rather than impossible. One step: list your fixed costs and circle one you could reduce.",
+					"{keyword} might feel blocked by debt or obligations. It's okay to move slowly; start with the one payment that worries you most.",
+					"When money keeps pulling you back, {keyword} can feel far away. Talk to someone you trust about one practical next step."
+				],
+				"curious": [
+					"{keyword} may be paused. What financial habit keeps bringing you back to the same place?",
+					"What would {keyword} require that you haven't tried yet? A budget, a conversation, a different kind of plan?",
+					"{keyword} might be turning inward. How has your sense of what's 'enough' shifted lately?"
+				],
+				"grieving": [
+					"{keyword} may be hard when finances are tied up with a loss. Take it one task at a time, and let others help where they can.",
+					"If you're not ready to sort out money matters after a loss, {keyword} can wait. Only the essentials need you now.",
+					"{keyword} may feel slow, but there's no rush to have everything settled. Be gentle with yourself."
+				],
+				"skeptical": [
+					"Practically, {keyword} stalled often means old spending patterns travelling with you. Which one keeps showing up?",
+					"{keyword} is a prompt to check whether a move or change is affordable yet. Do the sums before deciding.",
+					"Read plainly, {keyword} delayed can mean unfinished financial business. What's the loose end you keep avoiding?"
+				],
+				"hopeful": [
+					"{keyword} may be slower than hoped, but each small step builds stability. Keep going.",
+					"If you're hoping for financial calm, {keyword} suggests tidying up what's behind you first. It can make the way ahead lighter.",
+					"{keyword} might come once a few things are settled. Hope and a careful plan work well together."
+				],
+				"neutral": [
+					"Around money, {keyword}, when blocked, can point to financial baggage, a delayed move, or difficulty letting go of old habits.",
+					"{keyword} appears held back: a transition toward stability that hasn't quite started.",
+					"{keyword} suggests looking at what is anchoring your finances in place, for better or worse."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel stuck in a tiring stretch, {keyword} may be delayed rather than gone. One thing you can do today: drink some water and rest for ten minutes.",
+					"{keyword} might feel slower than you want. Notice one small sign that your energy is shifting, however slight.",
+					"When rest feels out of reach, {keyword} can seem far away. Choose one gentle habit to return to, and let that be enough."
+				],
+				"curious": [
+					"{keyword} may be paused. What habit keeps pulling you back into tiredness or tension?",
+					"What would {keyword} need from you? Perhaps less pushing, or a different kind of rest.",
+					"{keyword} might be happening inside first. How does your body feel when you finally let go of a stressful day?"
+				],
+				"grieving": [
+					"{keyword} may feel distant while you're grieving. Your body is carrying a lot; let it rest without expectations.",
+					"If you can't seem to move forward, {keyword} is not asking you to hurry. Grief has its own pace.",
+					"{keyword} can wait. For now, simple care like food, warmth and sleep is plenty."
+				],
+				"skeptical": [
+					"Practically, {keyword} stalled may mean old stress habits travelling with you. Which one do you notice most?",
+					"{keyword} is a plain prompt: are you resting enough to actually feel the benefit, or just between demands?",
+					"No mystical reading: {keyword} delayed often means carrying tension from one situation into the next. Where could you put some down?"
+				],
+				"hopeful": [
+					"{keyword} may come more slowly than you'd like, but it can still come. Keep your routines gentle and steady.",
+					"If you're hoping to feel lighter, {keyword} suggests letting go of one draining commitment.",
+					"{keyword} could arrive once you stop rushing it. Patience can be a form of care."
+				],
+				"neutral": [
+					"In wellbeing, {keyword}, when blocked, can point to resisting rest, carrying old stress forward, or a slower return to balance.",
+					"{keyword} appears delayed: the move toward calmer energy hasn't fully begun.",
+					"{keyword} suggests checking what keeps pulling you back into strain."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If you feel spiritually stuck, {keyword} may be delayed rather than lost. One small step: sit quietly for five minutes and simply notice your breath.",
+					"{keyword} might feel blocked by old beliefs or fears. You don't need to resolve them all; just notice which one feels loudest.",
+					"When you keep returning to the same inner storm, {keyword} can seem far away. Return to one simple practice that has helped before."
+				],
+				"curious": [
+					"{keyword} might be stalled. What belief are you holding on to because letting go feels like losing your footing?",
+					"What would {keyword} look like if you allowed it to happen slowly, without forcing a breakthrough?",
+					"{keyword} may be turning inward. What's quietly changing in how you understand yourself?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible while you're grieving. It's okay to stay in the questions for as long as you need.",
+					"If loss has made you cling to old meaning, {keyword} isn't asking you to let go. Hold on as long as it comforts you.",
+					"{keyword} can wait. For now, being gentle with yourself is the practice."
+				],
+				"skeptical": [
+					"Plainly, {keyword} stuck often means holding on to a worldview because it's familiar. Does it still help you?",
+					"{keyword} is a prompt to notice resistance to change in what you believe. What makes changing your mind feel risky?",
+					"Read practically, {keyword} delayed suggests inner work still in progress. That's normal, not a failure."
+				],
+				"hopeful": [
+					"{keyword} may be slower than you'd like, but inner change often happens beneath the surface first. Trust the process a little.",
+					"If you're hoping for peace, {keyword} suggests setting down one old certainty that has started to weigh on you.",
+					"{keyword} could come gently once you stop pushing for it. Openness can be its own practice."
+				],
+				"neutral": [
+					"Spiritually, {keyword}, when blocked, can point to resistance to growth, unfinished inner work, or a transition still in its early stages.",
+					"{keyword} appears held back: a shift in meaning that hasn't fully arrived.",
+					"{keyword} suggests examining what keeps you tied to old ways of seeing."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you feel stuck, {keyword} may be delayed rather than impossible. Choose one small thing that would make tomorrow a little easier.",
+					"{keyword} might feel blocked right now. That's okay; waiting can be a time to gather strength.",
+					"When you keep circling back, {keyword} can seem far away. Talk to someone you trust about one step forward."
+				],
+				"curious": [
+					"{keyword} may be paused. What's keeping you on this shore, and is it something you can change?",
+					"What would {keyword} require that you haven't yet allowed? A decision, a goodbye, a bit of help?",
+					"{keyword} might be happening quietly inside before it shows outside. What feels different in you lately?"
+				],
+				"grieving": [
+					"{keyword} may feel out of reach while you're grieving. There's no need to move on before you're ready.",
+					"If you keep looking back, {keyword} isn't asking you to stop. Let grief take the time it needs.",
+					"{keyword} can wait. For now, staying where you are is allowed."
+				],
+				"skeptical": [
+					"Practically, {keyword} stalled often means something unfinished. What loose end keeps pulling you back?",
+					"{keyword} is a prompt to check whether you're avoiding a change because it's hard, or because it's wrong.",
+					"Read plainly, {keyword} delayed can simply mean the timing isn't right yet. What would make it right?"
+				],
+				"hopeful": [
+					"{keyword} may be slower than hoped, but it isn't closed off. Keep preparing quietly.",
+					"If you're hoping for change, {keyword} suggests letting go of one thing that keeps you anchored.",
+					"{keyword} could come more gently than expected, once the way is clearer."
+				],
+				"neutral": [
+					"{keyword}, when blocked, can point to resistance to change, unfinished business, or a transition that hasn't fully begun.",
+					"In general, {keyword} appears delayed or turned inward.",
+					"{keyword} suggests looking at what keeps you from moving forward, and whether it still deserves your loyalty."
+				]
+			}
+		}
+	}
+}

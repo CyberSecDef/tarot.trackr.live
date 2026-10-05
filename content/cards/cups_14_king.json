@@ -1,0 +1,412 @@
+{
+	"id": "cups_14_king",
+	"name": "King of Cups",
+	"facets": [
+		{
+			"id": "emotional_balance",
+			"keywords": ["emotional balance", "a steady heart", "calm under pressure"]
+		},
+		{
+			"id": "diplomacy",
+			"keywords": ["diplomacy", "tact", "a peacemaking word"]
+		},
+		{
+			"id": "wise_counsel",
+			"keywords": ["wise counsel", "a generous ear", "steady guidance"]
+		},
+		{
+			"id": "compassionate_leadership",
+			"keywords": ["compassionate leadership", "kind authority", "care with clear boundaries"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If a relationship is making you uneasy, {keyword} suggests you can feel the worry fully and still respond calmly. One thing you can do tonight: wait until morning before sending the hard message.",
+					"{keyword} reminds you that strong feelings don't have to steer the boat. Name what you feel to yourself, then choose one steady thing to say.",
+					"When love feels unsettled, {keyword} invites you to be the calm shore rather than the wave. That steadiness is something you can practise, one conversation at a time."
+				],
+				"curious": [
+					"{keyword} poses an interesting question: what would it look like to stay warm and open in love while also staying level?",
+					"What if {keyword} is the quality your closest relationship needs most right now? Notice where it already shows up between you.",
+					"{keyword} invites you to wonder how you handle conflict with someone you love. Do you rush in, pull away, or find a middle path?"
+				],
+				"grieving": [
+					"{keyword} doesn't mean holding your grief at arm's length. It may simply mean letting the sorrow come in waves, knowing you can stay afloat.",
+					"When you are missing someone, {keyword} can look like being patient with the days that are harder than others. There is no right pace.",
+					"{keyword} may come from someone who has known loss and can sit beside you without flinching. If you have such a person, lean on them a little."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to emotional maturity in relationships. Can you disagree with someone close to you without either of you feeling unsafe?",
+					"Read plainly, {keyword} is a prompt to look at how you respond when a partner or friend is upset. Do you calm things or escalate them?",
+					"No mystical reading needed: {keyword} asks whether you can hold your own feelings and someone else's at the same time. That skill can be practised."
+				],
+				"hopeful": [
+					"{keyword} is a reassuring quality to bring into love: warm, steady and kind. Hope does well in relationships that can weather a storm.",
+					"If you are hoping a relationship can deepen, {keyword} suggests that calm, consistent care is what builds trust over time.",
+					"{keyword} encourages you to be both tender and grounded with the people you love. It can't promise how they respond, but it shapes what you offer."
+				],
+				"neutral": [
+					"In love, {keyword} speaks of emotional maturity, steady kindness, and the ability to stay calm when feelings run high.",
+					"{keyword} points to relationships held with both warmth and balance, where care doesn't tip into drama.",
+					"{keyword} highlights how you meet the people you love when things are difficult, and how steady you can stay."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels turbulent, {keyword} reminds you that a calm voice in the room is often the most useful one. One thing you can do: slow down your replies today.",
+					"{keyword} suggests you can face a tense situation at work without absorbing all of its tension. Decide on one thing you are choosing not to take home tonight.",
+					"When pressure is high, {keyword} invites you to lead yourself first. A short pause before each decision is enough to begin."
+				],
+				"curious": [
+					"{keyword} asks a career question: who at work comes to you when things go wrong, and what does that say about your strengths?",
+					"What if {keyword} is the next skill your work is asking you to grow into? Think about where a calmer, kinder approach would change things.",
+					"{keyword} invites you to notice the leaders you admire. How do they handle feelings, theirs and other people's?"
+				],
+				"grieving": [
+					"If you are grieving, {keyword} at work may mean letting yourself be less composed than usual. You don't have to hold the team together right now.",
+					"{keyword} may come from a manager or colleague who gives you room. Accepting it is not weakness.",
+					"When loss is heavy, {keyword} can mean doing what's needed and nothing more. Steady and simple is enough for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to emotional intelligence in leadership. How do you handle a colleague who is upset or angry?",
+					"Read as a thinking tool, {keyword} asks whether you separate feelings from decisions at work, or whether you ignore feelings altogether. Neither extreme works well.",
+					"No mysticism needed: {keyword} is a workplace skill. Where would a calmer tone or a well-timed conversation save trouble?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to step into a steadier, more trusted role at work. Hope is reasonable when people already turn to you.",
+					"If you are hoping to grow in your career, {keyword} suggests that the ability to stay calm and kind is worth highlighting.",
+					"{keyword} supports leading with both heart and head. It doesn't guarantee the promotion, but it builds the kind of trust that lasts."
+				],
+				"neutral": [
+					"At work, {keyword} points to calm leadership, emotional intelligence, and helping others through difficult moments.",
+					"{keyword} suggests a balanced, humane approach to responsibility and decision-making.",
+					"{keyword} highlights your ability to stay steady while caring about the people you work with."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money is worrying you, {keyword} suggests looking at it calmly rather than all at once. One small step: list three fixed costs and leave it there for today.",
+					"{keyword} reminds you that panic rarely makes good financial choices. Give yourself a day before any big decision.",
+					"When finances feel unsteady, {keyword} invites you to stay level and kind with yourself. Choose one practical thing you can do this week."
+				],
+				"curious": [
+					"{keyword} asks how your feelings show up in your money habits. Do you spend when you are restless, or save when you are scared?",
+					"What if {keyword} were your approach to a money conversation you've been avoiding? Imagine how it would sound.",
+					"{keyword} invites you to wonder what a balanced relationship with money would feel like: generous without being careless."
+				],
+				"grieving": [
+					"Money may feel like the last thing you can think about, and {keyword} doesn't ask you to. Let someone steady help with essentials.",
+					"{keyword} can mean making no big financial decisions while you grieve. Holding still is a reasonable choice.",
+					"When loss is near, {keyword} may come from a trusted friend or adviser who can sit with the paperwork alongside you."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to keep emotion and money in proportion. Is there a decision you are making out of guilt or pride?",
+					"Read plainly, {keyword} asks whether you can be generous and still keep clear limits. Both matter for long-term security.",
+					"No mystical reading needed: {keyword} points to calm, considered money choices. What would you decide if you weren't in a hurry?"
+				],
+				"hopeful": [
+					"{keyword} encourages a calm, steady approach to money. Hope is fair here when it rests on habits you can keep.",
+					"If you are hoping for more security, {keyword} suggests that patience and balance may serve you better than a bold move.",
+					"{keyword} brings a generous but grounded spirit. Supporting others while protecting your own base is a realistic aim."
+				],
+				"neutral": [
+					"Financially, {keyword} points to balanced decisions, generosity within limits, and keeping a cool head.",
+					"{keyword} suggests that steadiness matters more than speed in money matters right now.",
+					"{keyword} highlights how well you hold feelings and figures together when making choices."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body is a worry right now, {keyword} invites you to meet it calmly. One thing you can do: three slow breaths, then one small act of care.",
+					"{keyword} suggests that steady routines may soothe you more than big changes. Keep one simple habit going this week.",
+					"When stress rises, {keyword} reminds you that feeling anxious and being calm can coexist. Let your breath set the pace."
+				],
+				"curious": [
+					"{keyword} asks what calm feels like in your body. Where do you notice it first, and what helps it arrive?",
+					"What if {keyword} were a daily practice rather than a trait? It might look like a slow walk, a quiet cup of tea, or an early night.",
+					"{keyword} invites you to notice how your emotions affect your energy. What steadies you when you feel stirred up?"
+				],
+				"grieving": [
+					"Grief moves through the body in waves, and {keyword} doesn't mean stopping them. It may only mean resting between them.",
+					"{keyword} can look like keeping a few gentle routines while everything else feels unsteady. Meals, sleep, a little fresh air.",
+					"When you are carrying loss, {keyword} may come from someone who can sit with you calmly. Let yourself be steadied."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to emotional regulation as part of wellbeing. What do you do when stress spikes, and does it help?",
+					"Read plainly, {keyword} is a prompt to notice whether you manage feelings or simply hold them in. Your energy may tell you which.",
+					"No mysticism needed: {keyword} asks whether your habits keep you balanced. Sleep, food and movement are good places to check."
+				],
+				"hopeful": [
+					"{keyword} encourages a calm, consistent approach to looking after yourself. Hope tends to grow with steady habits.",
+					"If you are hoping to feel more at ease, {keyword} suggests that balance is built slowly. Small, regular care counts.",
+					"{keyword} invites you to treat your body with patient kindness. That steadiness can make energy feel more available."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to emotional steadiness, balanced routines, and calm self-care.",
+					"{keyword} suggests that managing stress gently is central to how you feel right now.",
+					"{keyword} highlights the link between a settled heart and a settled body."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels choppy, {keyword} reminds you that depth and calm can exist together. Spend five minutes in stillness and let thoughts pass.",
+					"{keyword} suggests you don't have to choose between feeling deeply and staying grounded. A simple breathing practice can hold both.",
+					"When meaning feels shaky, {keyword} invites you to rely on practices that have steadied you before."
+				],
+				"curious": [
+					"{keyword} asks how you hold strong feelings in your spiritual life. Do they guide you, or do you guide them?",
+					"What if {keyword} is a form of wisdom you are ready to grow into? Imagine meeting turmoil with calm curiosity.",
+					"{keyword} invites you to explore practices that balance heart and mind: contemplative reading, slow walking, quiet reflection."
+				],
+				"grieving": [
+					"In grief, {keyword} may feel far away, and that is all right. Your spirit doesn't need to be composed right now.",
+					"{keyword} can mean trusting that you are able to stay afloat, even when the waters are deep. You don't have to swim anywhere yet.",
+					"When the heart is heavy, {keyword} may come from a wise friend, a mentor, or a familiar ritual. Let it hold you."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is about emotional maturity, which needs no mystical claim. Where are you growing in that right now?",
+					"No mystical claims needed: {keyword} asks whether your beliefs help you respond calmly to life. If not, what would?",
+					"Treat {keyword} as a prompt to reflect on how you handle intense feeling. That reflection is its own kind of practice."
+				],
+				"hopeful": [
+					"{keyword} encourages a mature, steady spirituality. Hope fits well here alongside patience.",
+					"If you are hoping for inner peace, {keyword} suggests that it grows through practice more than revelation.",
+					"{keyword} brings a sense of calm depth. Let it remind you that wisdom often looks quiet from the outside."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to emotional wisdom, inner calm, and a compassionate relationship with your own depths.",
+					"{keyword} suggests a path of balance, where feeling and reflection inform each other.",
+					"{keyword} highlights the steady, wise part of you that can stay present with strong emotions."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels turbulent, {keyword} reminds you that you can feel unsettled and still act steadily. One small thing in your control: the pace of your next decision.",
+					"{keyword} suggests you have more calm available than worry admits. Find it in one ordinary task done slowly.",
+					"When everything feels like a lot, {keyword} invites you to be kind and firm with yourself at once. Rest, and set one small limit."
+				],
+				"curious": [
+					"{keyword} asks a question worth exploring: when are you at your calmest, and what made that possible?",
+					"What if {keyword} is something people already see in you? Ask someone you trust how you come across under pressure.",
+					"{keyword} invites you to wonder how you balance caring deeply with staying clear-headed."
+				],
+				"grieving": [
+					"{keyword} doesn't ask you to hide your grief or manage it neatly. It may only mean trusting that you can carry it.",
+					"When loss is close, {keyword} might come from people who can stay steady beside you. Let them.",
+					"{keyword} can simply mean taking one day at a time without needing to be composed. That is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about emotional maturity. Where in your life do you handle feelings well, and where less so?",
+					"Read as a thinking tool, {keyword} asks whether you are responding to situations or reacting to them. A pause usually tells the difference.",
+					"No mystery needed: {keyword} points to calm, compassionate decision-making. Which choice this week could use more of it?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging quality to carry: grounded, warm and wise. Hope rests well on a steady heart.",
+					"If you are hoping for something good, {keyword} encourages patience and calm as you work toward it.",
+					"{keyword} suggests you can meet what comes with both kindness and balance. That is a solid place to hope from."
+				],
+				"neutral": [
+					"Overall, {keyword} speaks of emotional mastery, calm compassion, and wise handling of life's tides.",
+					"{keyword} points to a season of steadiness, where feelings are honoured but don't take over.",
+					"{keyword} highlights your capacity to stay calm and caring, and asks where it is most needed."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you have been holding everything together in a relationship, {keyword} may be strained. One thing you can do: tell one person how you really feel.",
+					"{keyword} may feel out of reach when moods are running high. You don't need to calm everyone; just look after your own reactions today.",
+					"When {keyword} seems to have slipped, try not to judge yourself harshly. A short break before a hard conversation can help."
+				],
+				"curious": [
+					"{keyword} might be looking calm on the outside but stirred up within. What would it be like to let someone see the inside?",
+					"What if {keyword} has turned into keeping the peace at any cost? It could be interesting to notice what goes unsaid.",
+					"{keyword} feels a little held back here. When did you last show a partner or friend how much something mattered to you?"
+				],
+				"grieving": [
+					"If you have been staying composed for others since your loss, {keyword} may be stretched thin. You are allowed to fall apart a little.",
+					"{keyword} may feel impossible right now, and it doesn't need to be possible. Grief is not something to manage perfectly.",
+					"Grief can make {keyword} feel like a mask. Let at least one person see what is behind it."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to bottled-up feelings or moodiness in a relationship. Which pattern is more familiar?",
+					"{keyword} is a prompt to check whether calm has become coldness. Being steady is different from being distant.",
+					"No mysticism required: {keyword} blocked often shows up as using feelings to steer others. Notice if that is happening, on either side."
+				],
+				"hopeful": [
+					"{keyword} may be finding its footing again. If you are hoping for a healthier connection, honest feeling is a good start.",
+					"If {keyword} has wobbled, hope is reasonable. Relationships often improve when both people stop pretending to be fine.",
+					"{keyword} could return in a warmer form once feelings are allowed to show. That is worth looking forward to."
+				],
+				"neutral": [
+					"In love, {keyword} reversed can point to suppressed feelings, moodiness, or calm that has turned into distance.",
+					"{keyword} appears blocked or overdone here: control where there could be openness, or volatility where there could be steadiness.",
+					"{keyword} may be turned inward, asking whether you let yourself feel as much as you help others feel."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If you are the calm one at work and quietly struggling, {keyword} may be overstretched. One step you can take: ask for help with one task.",
+					"{keyword} may be wobbling under pressure. That is human; take a short walk before your next difficult conversation.",
+					"When {keyword} slips, small reactions can feel large. Notice one moment today where you can pause before replying."
+				],
+				"curious": [
+					"{keyword} might be a role you play at work rather than how you feel. What would happen if you dropped the act for a moment?",
+					"What if {keyword} has been missing from a leader around you, or from you? It could be useful to notice the effect.",
+					"{keyword} feels held back here. What feeling about your work have you been keeping professional and unspoken?"
+				],
+				"grieving": [
+					"If grief has made {keyword} at work hard to manage, that is understandable. You don't have to be the steady one right now.",
+					"{keyword} may need to be borrowed from others for a while. Let someone else take the lead on what can wait.",
+					"Grief can make {keyword} feel like effort you can't spare. Keep your workload simple where you can."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to emotional suppression or volatility at work. Which is costing you more?",
+					"{keyword} is a prompt to look at whether calm is being used to avoid conflict that needs addressing.",
+					"No mysticism needed: {keyword} blocked often looks like moods spilling into decisions. A cooling-off rule could help."
+				],
+				"hopeful": [
+					"{keyword} may be recovering. If you are hoping for a steadier work life, honest conversations could help it return.",
+					"If {keyword} has been strained, hope is reasonable. Leaders grow by noticing when they lose balance.",
+					"{keyword} could come back stronger once you stop carrying everything silently. Who could share the load?"
+				],
+				"neutral": [
+					"At work, {keyword} reversed can suggest bottled-up stress, emotional reactivity, or calm that hides tension.",
+					"{keyword} appears overdone or blocked, asking whether feelings are being managed or merely hidden.",
+					"{keyword} may be turned inward, inviting a check on how your emotions are shaping your working life."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money stress is building, {keyword} may be harder to find. One small step: write down the worry and one action you could take, then stop for today.",
+					"{keyword} may be wobbling, leading to quick money decisions. Wait a day before anything significant.",
+					"When {keyword} slips around finances, be gentle with yourself. Check one number calmly and let that be enough."
+				],
+				"curious": [
+					"{keyword} poses a question: do you stay calm about money until suddenly you don't? What sets that off?",
+					"What if {keyword} has been used to avoid looking at a money problem? It might be interesting to peek.",
+					"{keyword} feels muffled here. What feeling about money have you been keeping to yourself?"
+				],
+				"grieving": [
+					"Grief can make {keyword} around money hard to hold. Keep big decisions for later where you can.",
+					"{keyword} may be absent right now, and that's understandable. Ask someone steady to help you with essentials.",
+					"If {keyword} feels out of reach, let money be simple for a while. Nothing needs to be solved today."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to emotional money decisions or using money to control a situation. Which fits?",
+					"{keyword} is a prompt to check whether calm about finances is real or just avoidance.",
+					"No mysticism needed: {keyword} blocked can mean mood-driven spending. A simple record would show whether that is happening."
+				],
+				"hopeful": [
+					"{keyword} may be returning. If you are hoping for financial steadiness, calm, regular habits can help.",
+					"If {keyword} has been shaken, hope is reasonable. One clear plan can restore a sense of balance.",
+					"{keyword} could come back as you face money matters openly. What is one thing you could look at this week?"
+				],
+				"neutral": [
+					"Financially, {keyword} reversed can point to emotional spending, avoidance, or using money to manage feelings.",
+					"{keyword} appears out of balance, asking whether feelings are steering money choices.",
+					"{keyword} may be turned inward, inviting an honest look at how you feel about money."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you have been holding stress in, {keyword} may be under strain. One thing you can do: let yourself feel it for five minutes, then rest.",
+					"{keyword} may be hard to reach when you are worried about your body. Slow breathing and a comforting routine can steady you.",
+					"When {keyword} slips, tension can build quietly. Notice where you are holding it and soften one muscle at a time."
+				],
+				"curious": [
+					"{keyword} asks a question: where does unspoken feeling live in your body? Shoulders, jaw, stomach?",
+					"What if {keyword} has been more about keeping a lid on things than being at ease? It might be worth noticing the difference.",
+					"{keyword} feels held in here. What would happen if you let yourself feel tired, or sad, or frustrated, out loud?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible in a grieving body, and it doesn't need to be possible. Rest when you can.",
+					"If you have been holding {keyword} together for others, let your body have its turn. Lie down, cry, sleep.",
+					"Grief can make {keyword} feel like a heavy lid. You can lift it a little with someone you trust."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to stress being bottled up rather than worked through. How does that show up in your energy?",
+					"{keyword} is a prompt to notice whether you use food, drink or busyness to stay calm. Notice it without judgement.",
+					"No mysticism needed: {keyword} out of balance often looks like being fine until you're suddenly not. Build in regular rest."
+				],
+				"hopeful": [
+					"{keyword} may be finding its way back. If you are hoping to feel more settled, letting feelings out can ease the body too.",
+					"If {keyword} has been shaky, hope is reasonable. Gentle routines can help you feel steady again.",
+					"{keyword} could return as you stop holding everything in. That is worth trying, slowly."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} reversed can point to suppressed stress, mood swings, or coping that numbs rather than soothes.",
+					"{keyword} appears overdone or blocked, asking whether calm is real or held in place by effort.",
+					"{keyword} may be turned inward, inviting you to notice what your body carries for your heart."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels stormy, {keyword} may be hard to find. One steady step: return to a simple, familiar practice.",
+					"{keyword} may be struggling under strong feeling. You don't have to master it today; just let it pass through.",
+					"When {keyword} slips, it is not a spiritual failure. Calm comes and goes, and so does storm."
+				],
+				"curious": [
+					"{keyword} asks whether your calm is peace or suppression. How can you tell the difference?",
+					"What if {keyword} has been used to stay above your feelings rather than with them? Explore what happens when you drop in.",
+					"{keyword} feels hidden here. What feeling have you been tidying away in the name of serenity?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel lost entirely. That is all right; deep water is still water.",
+					"{keyword} may be turned inward and quiet. You don't need to be wise about your loss right now.",
+					"If {keyword} feels out of reach, let it rest. Your inner life can be messy and still be yours."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to using calm as a way to avoid feeling. Does your practice let difficult emotions in?",
+					"{keyword} is a prompt to notice whether spiritual ideas are helping you face things or keeping you from them.",
+					"No mystical claims needed: {keyword} blocked can simply mean you need someone to talk to. Who could that be?"
+				],
+				"hopeful": [
+					"{keyword} may be in a quiet, rebuilding phase. If you are hoping for inner peace, honesty with yourself can help it grow.",
+					"If {keyword} has been shaken, hope is reasonable. Balance often returns after a period of feeling things fully.",
+					"{keyword} could become more real once it includes all your feelings, not only the calm ones."
+				],
+				"neutral": [
+					"Spiritually, {keyword} reversed can point to emotional avoidance, inner turbulence, or calm that is more performance than peace.",
+					"{keyword} appears blocked or inward, asking you to let your depths be felt rather than managed.",
+					"{keyword} may be overdone, inviting a softer, more honest inner life."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you have been keeping it all together, {keyword} may be stretched thin. One thing in your control: tell one person how you are really doing.",
+					"{keyword} may feel shaky right now. That is a moment, not a verdict; breathe and take the next small step.",
+					"When {keyword} slips, emotions can feel bigger than they are. Pause before reacting and give yourself time."
+				],
+				"curious": [
+					"{keyword} poses a question: where are you calm on the surface and stirred underneath?",
+					"What if {keyword} has become a habit of holding back? It might be revealing to say one true feeling aloud.",
+					"{keyword} feels held back here. What would change if you allowed yourself a little less control?"
+				],
+				"grieving": [
+					"Grief can make {keyword} feel impossible to hold. You don't need to be composed for anyone.",
+					"{keyword} may be turned inward and tired. Let others steady you for a while.",
+					"If {keyword} has slipped since your loss, that is natural. Be gentle with yourself."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to bottled-up feelings, moodiness or control. Which shows up most in your week?",
+					"{keyword} is a prompt to notice whether calm has become a cover. What happens when you let it drop?",
+					"No mysticism needed: {keyword} out of balance often means feelings leak out sideways. Where have you noticed that?"
+				],
+				"hopeful": [
+					"{keyword} may be coming back into balance. Hope is reasonable, especially if you allow yourself to feel honestly.",
+					"If {keyword} has wobbled, a little openness may steady it more than more control would.",
+					"{keyword} could return in a warmer, more genuine form. That is something to look forward to."
+				],
+				"neutral": [
+					"Overall, {keyword} reversed can suggest suppressed emotion, moodiness, or calm held too tightly.",
+					"{keyword} appears overdone or blocked, asking you to balance composure with honesty.",
+					"{keyword} may be turned inward, inviting a look at what lies beneath your steady surface."
+				]
+			}
+		}
+	}
+}

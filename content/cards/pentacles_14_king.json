@@ -1,0 +1,412 @@
+{
+	"id": "pentacles_14_king",
+	"name": "King of Pentacles",
+	"facets": [
+		{
+			"id": "security",
+			"keywords": ["lasting security", "a secure foundation", "stability built over time"]
+		},
+		{
+			"id": "stewardship",
+			"keywords": ["stewardship", "steady leadership", "responsible authority"]
+		},
+		{
+			"id": "abundance",
+			"keywords": ["abundance", "well-earned success", "the fruit of long effort"]
+		},
+		{
+			"id": "generosity",
+			"keywords": ["generosity from strength", "a provider's care", "open-handed support"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If love feels uncertain, {keyword} reminds you that you can be a steady presence whatever the other person chooses. One thing in your control: keep your own word, gently and consistently.",
+					"{keyword} suggests looking at what has been reliably there for you, rather than what might go wrong. Name one person whose care has never really wavered.",
+					"When worry makes everything feel fragile, {keyword} invites you to stand on what you have already built: your values, your friendships, your home. They hold more weight than fear admits."
+				],
+				"curious": [
+					"{keyword} raises an interesting question: what does it mean to you to feel safe with someone? Is it about words, actions, time, or something else?",
+					"What if {keyword} were the most attractive quality you could grow in yourself? Calm, dependable warmth tends to draw people in.",
+					"{keyword} hints at love as something you build together, like a house. Which part of yours feels finished, and which is still going up?"
+				],
+				"grieving": [
+					"{keyword} may feel shaken when you have lost someone who helped hold your world together. It is all right to lean on others' steadiness while yours returns.",
+					"After a loss, {keyword} might look like the people who quietly take care of practical things so you can grieve. Let them.",
+					"Grief can make the ground feel uncertain, and {keyword} does not ask you to be strong for everyone. You are allowed to be held instead of holding."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to commitment you can see: shared plans, kept promises, responsibilities split fairly. How does your relationship measure up on those?",
+					"Read {keyword} as a prompt about security in love. Do you feel safe enough to be honest, and does the other person?",
+					"No mystery needed: {keyword} is about whether people can rely on each other over years, not weeks. Which habits are building that, and which are wearing it down?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign to carry into love. Hope tends to last longer when it rests on steadiness rather than sparks alone.",
+					"If you are hoping for a lasting bond, {keyword} encourages you to invest in it the way you would in anything that matters: patiently, over time.",
+					"{keyword} suggests you have more to offer than you may think. Being someone others can rely on is a real gift, and a hopeful one."
+				],
+				"neutral": [
+					"In matters of the heart, {keyword} speaks of loyalty, security and a love that provides shelter as well as feeling.",
+					"{keyword} points to a mature, grounded relationship built on trust and shared responsibility.",
+					"{keyword} brings attention to the stability people offer each other and how it is maintained."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels unsteady, {keyword} reminds you of the experience you have already earned. Write down three things you know how to do well; they are still yours.",
+					"{keyword} suggests leading yourself calmly through the week. One thing in your control: set a clear priority each morning and let the rest be secondary.",
+					"When you fear losing ground at work, {keyword} invites you to look at your track record rather than the rumour mill. What does the evidence actually show?"
+				],
+				"curious": [
+					"{keyword} opens a question: what would you build at work if you were planning for ten years rather than one?",
+					"What if {keyword} were already part of your role, in ways nobody has named? Notice where people come to you for a steady hand.",
+					"{keyword} hints at mastery. Which skill have you practised long enough that it now feels easy, and how could it serve you further?"
+				],
+				"grieving": [
+					"Work may feel unimportant after a loss, and {keyword} does not ask you to lead anything right now. Let your experience carry the routine tasks.",
+					"{keyword} might be the structure that holds while you grieve: a role you know, a team that knows you. You can lean on it without apology.",
+					"If grief has made work feel heavy, {keyword} reminds you that what you have built does not vanish while you rest. It can wait for you."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to long-term thinking. Which decision at work would look different if you judged it by its effect in five years?",
+					"Treat {keyword} as a prompt about responsibility. Who depends on your work, and are you giving them what they need to rely on you?",
+					"No mysticism required: {keyword} is about results built steadily. Consistency, competence and fair dealing usually earn trust over time."
+				],
+				"hopeful": [
+					"{keyword} encourages you to trust the foundation you have laid. Hope is reasonable when it rests on years of real effort.",
+					"If you are hoping to grow into a bigger role, {keyword} suggests practising steady, fair leadership in the role you already have.",
+					"{keyword} invites you to recognise how far you have come. Success that builds slowly tends to be the kind that stays."
+				],
+				"neutral": [
+					"At work, {keyword} speaks of mastery, leadership and success built through discipline and experience.",
+					"{keyword} points to a practical, responsible approach to ambition and authority.",
+					"{keyword} brings attention to the long-term rewards of steady, competent work."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money worries are loud, {keyword} may feel far away. One thing in your control: list what you already have, not just what you lack. It is often more than fear suggests.",
+					"{keyword} suggests that security is built, not found. One small, steady habit around money can calm you more than a big decision made in a hurry.",
+					"When finances feel precarious, {keyword} invites you to think in seasons rather than days. What would steady look like a year from now, and what supports that today?"
+				],
+				"curious": [
+					"{keyword} raises a question: what does enough look like for you? Not for anyone else, just for you.",
+					"What if {keyword} were more about how you feel with money than how much you have? Notice when you feel secure, and what is present then.",
+					"{keyword} hints at legacy. What would you like your resources to make possible, for you or for the people you care about?"
+				],
+				"grieving": [
+					"After a loss, money matters can feel both urgent and meaningless, and {keyword} acknowledges that. Let someone steady help you with what cannot wait.",
+					"{keyword} might look like the practical support of people who have walked this road before. Accepting it is not weakness.",
+					"If a loss has changed your financial picture, {keyword} does not ask you to have it settled. Take the essentials one at a time."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to long-term thinking about money. Are your everyday choices consistent with the security you say you want?",
+					"Treat {keyword} as a prompt about stewardship. How well do you look after what you already have, from possessions to accounts to time?",
+					"No magic involved: {keyword} usually grows from patience, good information and steady habits. Which of those three is weakest for you right now?"
+				],
+				"hopeful": [
+					"{keyword} suggests that the security you hope for can be built step by step. Hope is honest here, so long as it is patient.",
+					"If you are hoping for more comfort, {keyword} encourages you to value the progress already made, even when it seems modest.",
+					"{keyword} invites you to imagine using your resources generously once you feel secure. Knowing that purpose can make the slow part easier."
+				],
+				"neutral": [
+					"Around money, {keyword} speaks of security, wise management and wealth built steadily over time.",
+					"{keyword} points to a mature, responsible relationship with resources and their use.",
+					"{keyword} brings attention to stability, generosity and the long view in matters of value."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} suggests steadying the foundations: regular meals, regular sleep, regular time outside. Choose one to protect this week.",
+					"{keyword} invites you to treat your body as something you look after for the long term. One kind, steady habit is enough to begin.",
+					"When stress is high, {keyword} reminds you that you have weathered hard seasons before. Notice what helped then, and borrow it now."
+				],
+				"curious": [
+					"{keyword} poses a question: what would caring for your body look like if you planned for decades rather than weeks?",
+					"What if {keyword} described your relationship with rest? Notice whether you treat it as a reward or as part of the foundation.",
+					"{keyword} hints at maturity in self-care. Which habits have you kept for years, and what have they given you?"
+				],
+				"grieving": [
+					"Grief lives in the body, and {keyword} may simply mean keeping the basics in place while the rest of life feels uncertain.",
+					"{keyword} does not ask you to be strong. It only invites you to lean on routines and people that have held you before.",
+					"When loss has left you depleted, {keyword} might look like letting someone else take care of meals and errands for a while."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to consistency over intensity. Which habit, kept for a year, would matter most to how you feel?",
+					"Treat {keyword} as a prompt: are you investing in your wellbeing with the same seriousness you give work or money?",
+					"No mysticism needed: {keyword} is about foundations. Sleep, movement, food and rest are dull to discuss and powerful to keep."
+				],
+				"hopeful": [
+					"{keyword} encourages you to trust steady care over time. It is a reasonable thing to put hope in.",
+					"If you are hoping to feel stronger, {keyword} suggests building habits that support you for the long haul.",
+					"{keyword} invites you to notice the ways your body has carried you so far. That resilience is worth honouring."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} speaks of stable routines, long-term care and a grounded relationship with your body.",
+					"{keyword} points to steady habits that support energy and ease over time.",
+					"{keyword} highlights the value of strong foundations in how you look after yourself."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsettled, {keyword} suggests finding ground in what you have already learned. Which belief or practice has carried you before?",
+					"{keyword} reminds you that spiritual life can be practical and steady. Do one small thing today that matches your values.",
+					"When doubts crowd in, {keyword} invites you to stand on solid experience rather than open questions. What do you know to be true from your own life?"
+				],
+				"curious": [
+					"{keyword} asks what you would like to pass on to others: values, stories, ways of living.",
+					"What if {keyword} were a spiritual quality as well as a material one? Notice where your inner life feels rich and settled.",
+					"{keyword} hints that meaning and material life need not be opposed. Where do they meet for you?"
+				],
+				"grieving": [
+					"{keyword} may feel shaken when grief has unsettled what you believe. It is all right to rely on old habits until new understanding comes.",
+					"After a loss, {keyword} might look like a community or tradition that holds you when you cannot hold yourself.",
+					"Grief has its own timing, and {keyword} does not ask you to find meaning quickly. Let what is steady around you do some of the holding."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to living by your values in concrete ways. Where do your actions match what you say matters?",
+					"Treat {keyword} as a prompt: is your spiritual life grounded in practice, or mostly in ideas?",
+					"No mystical claims needed: {keyword} is about integrity over time. Living consistently with your values is its own kind of practice."
+				],
+				"hopeful": [
+					"{keyword} encourages a spirituality that grows slowly and lasts. Hope can rest in the depth you have already gained.",
+					"If you are hoping for more meaning, {keyword} suggests it may come from tending what you already have with care.",
+					"{keyword} invites you to see your life's ordinary achievements as part of your inner growth."
+				],
+				"neutral": [
+					"In inner life, {keyword} speaks of grounded wisdom, integrity and meaning found in a well-tended life.",
+					"{keyword} points to a mature spirituality that values steadiness, generosity and practical care.",
+					"{keyword} brings attention to the meeting point of material life and inner values."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels uncertain, {keyword} reminds you of what you have already built. Name one solid thing in your life today.",
+					"{keyword} suggests steadying yourself with the long view. Most things that matter are built over years, not days.",
+					"When everything feels unsteady, {keyword} invites you to take one practical step toward security, however small."
+				],
+				"curious": [
+					"{keyword} asks a question worth exploring: what do you want your life to rest on in ten years?",
+					"What if {keyword} were already more present than you notice? Look around at what you have built.",
+					"{keyword} hints at leadership. Where in your life are you already the steady one?"
+				],
+				"grieving": [
+					"{keyword} may feel shaken while you grieve. Let others be steady for you for a while.",
+					"After a loss, {keyword} might mean leaning on the structures and people that have held you before.",
+					"{keyword} does not ask you to be strong. It only notes that what you have built can carry you while you mourn."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to long-term planning and responsibility. Which commitments are building the life you want?",
+					"Treat {keyword} as a prompt to look at foundations. Which part of your life feels solid, and which feels improvised?",
+					"No mystery needed: {keyword} is about patience and good stewardship. Both are dull and both tend to work."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign for anything you are building slowly. Hope is reasonable when the foundation is real.",
+					"If you are hoping for stability, {keyword} suggests it is within reach through steady effort.",
+					"{keyword} invites you to trust what you have already achieved. It is a real base to build from."
+				],
+				"neutral": [
+					"{keyword} speaks of security, mastery and success built through patience and discipline.",
+					"{keyword} points to a grounded, generous approach to life and responsibility.",
+					"{keyword} brings attention to the rewards of steady effort and wise stewardship."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you feel you must hold everything together in a relationship, {keyword} may have become a burden. One thing in your control: let someone help you with one task this week.",
+					"{keyword} may be tipping into control, perhaps from fear of losing what you have. Notice where you are gripping, and see if you can loosen one finger.",
+					"When love feels insecure, {keyword} can seem out of reach. Remember that steadiness is something you can build slowly, starting with being kind to yourself."
+				],
+				"curious": [
+					"{keyword} might be overdone, with provision standing in for presence. What would your relationship feel like if you gave time instead of things?",
+					"What if {keyword} has hardened into stubbornness? Wonder where you could bend a little without losing yourself.",
+					"{keyword} feels blocked here. Is security being used as a reason to avoid changes that love might ask for?"
+				],
+				"grieving": [
+					"{keyword} may feel shattered after a loss, especially if someone you lost helped hold things together. That is a real grief of its own.",
+					"If you are struggling to be the steady one, {keyword} does not ask you to try. Let others hold things for a while.",
+					"{keyword} can rest for now. You do not have to provide for everyone while you are grieving."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance. Is one person making all the decisions, especially about money or the home?",
+					"{keyword} is a prompt about control. Security is valuable, but not when it limits the other person's freedom.",
+					"Read plainly, {keyword} gone too far can look like work or possessions coming before people. Is that happening in your relationships?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. Hope is reasonable if you are willing to share responsibility more evenly.",
+					"If you are hoping to feel closer, {keyword} encourages you to show care through presence as well as provision.",
+					"{keyword} might simply need loosening. A little flexibility can let warmth back in."
+				],
+				"neutral": [
+					"In love, {keyword} can point to control, materialism, or security valued over closeness.",
+					"{keyword} appears blocked or overdone: stability that has hardened into rigidity, or care expressed only through things.",
+					"{keyword} may be turned inward, asking whether fear of loss is shaping how you love."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels unstable, {keyword} may be hard to feel right now. One thing in your control: do one task well today, and let that be your footing.",
+					"{keyword} may be overdone, with work quietly taking over evenings, weekends and thoughts. You are allowed to step back a little this week without losing what you've built.",
+					"When you fear losing standing, {keyword} reminds you that your worth is more than a title. Name one quality you bring to work that has nothing to do with rank."
+				],
+				"curious": [
+					"{keyword} might be held back by stubbornness. Which way of doing things at work are you defending mostly out of habit?",
+					"What if {keyword} has tipped into chasing status? Wonder what your work would feel like if you cared a little less about how it looks from outside.",
+					"{keyword} hints at authority that has gone rigid. Where could you listen more and direct less, and what might you learn?"
+				],
+				"grieving": [
+					"{keyword} may be hard to find while you grieve, and it is all right if work slips a little. What you have built does not disappear in a hard season.",
+					"If a loss has shaken your confidence, {keyword} can wait. Your experience and skill are still there underneath the grief.",
+					"{keyword} might be overextended, with work used as a place to hide from feeling. Be gentle with yourself either way, and notice which it is."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance. Is ambition crowding out the rest of your life, and is the trade still worth it to you?",
+					"{keyword} is a prompt about control. Delegating can feel risky, but holding every decision yourself tends to limit what a team can do.",
+					"Read plainly, {keyword} blocked can mean decisions made from fear of losing ground. What would a calmer, longer-term choice look like?"
+				],
+				"hopeful": [
+					"{keyword} may be paused, not lost. A little flexibility and a willingness to share the load can restore momentum.",
+					"If you are hoping for success, {keyword} encourages you to measure it by more than status or income: by what you build and who you help.",
+					"{keyword} might return once you trust others with more responsibility. Hope is reasonable when you are not carrying everything alone."
+				],
+				"neutral": [
+					"At work, {keyword} can point to rigidity, overwork, status-seeking, or leadership that has become controlling.",
+					"{keyword} appears overdone or blocked: ambition that has lost its purpose, or authority that has stopped listening.",
+					"{keyword} may be turned inward, asking whether fear of loss is steering your choices at work."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money feels insecure, {keyword} may seem very far away. One thing in your control: look at a single area of your finances calmly, without judging yourself for what you find.",
+					"{keyword} may be overdone, with the need for security turning into constant checking and worry. You are allowed to notice that, and to breathe.",
+					"When finances feel shaky, {keyword} reminds you that stability is usually rebuilt slowly, not all at once. Name one small step that is within reach this week."
+				],
+				"curious": [
+					"{keyword} raises a question: how much is enough for you, and do you actually believe your own answer?",
+					"What if {keyword} has tipped into holding too tightly? Wonder what generosity might look like within the means you have now.",
+					"{keyword} hints at money and identity tangled together. How much of your sense of worth rests on what you own or earn?"
+				],
+				"grieving": [
+					"{keyword} may feel shaken after a loss, especially if someone you lost was part of how things were managed. It is all right if money feels overwhelming right now.",
+					"If your circumstances have changed since your loss, {keyword} does not ask you to have it all worked out. Ask someone steady to help with what truly can't wait.",
+					"{keyword} can be rebuilt later, when you have more to give. For now, keeping the essentials in place is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to materialism or over-caution. Is your approach to money serving your life, or is your life serving it?",
+					"{keyword} is a prompt about stewardship. Are your resources being put to good use, or mostly accumulated, or mostly spent?",
+					"Read plainly, {keyword} blocked can mean spending to keep up appearances. Is any of your outgoing money about how things look rather than what you need?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed, not lost. Steady, patient habits can rebuild a sense of security over time.",
+					"If you are hoping for more stability, {keyword} encourages an honest look at where you stand, which is often less frightening than imagining it.",
+					"{keyword} might return as you find a better balance between holding on and sharing. Hope is reasonable when the foundation is honest."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to greed, over-caution, insecurity, or spending driven by status.",
+					"{keyword} appears blocked or overdone: resources held too tightly, or managed too loosely.",
+					"{keyword} suggests checking whether your relationship with money reflects your actual values."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you have been pushing hard to keep everything running, {keyword} may be stretched thin. One small, deliberate rest today is enough to begin.",
+					"{keyword} may be tilting toward work and duty at your body's expense. You are allowed to slow down before anything forces you to.",
+					"When you feel worn out, {keyword} reminds you that foundations can be repaired one habit at a time. Pick the easiest one and start there tonight."
+				],
+				"curious": [
+					"{keyword} poses a question: are you investing in your own wellbeing, or spending it to keep up with work and obligations?",
+					"What if {keyword} has hardened into routines that no longer fit? Wonder which habits you keep simply because you always have.",
+					"{keyword} might be overdone in one place and missing in another: plenty of effort at work, perhaps, and very little real rest. Where is the imbalance for you?"
+				],
+				"grieving": [
+					"{keyword} may feel shaken while you grieve, especially if you are used to being the strong one. Your body is carrying a lot; rest whenever you can.",
+					"If your routines have slipped since your loss, {keyword} does not ask you to rebuild them now. Small comforts are enough for this season.",
+					"{keyword} can come from others for a while. Let someone else handle a meal or an errand, and let that be care you accept."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to overwork pushing the basics aside. How have your sleep and meals been over the past fortnight?",
+					"{keyword} is a prompt about comfort tipping into excess. Rich food, late nights and long sitting add up; is any of that worth adjusting?",
+					"Read plainly, {keyword} blocked often shows up as the strain of carrying too much responsibility alone. What could you hand to someone else?"
+				],
+				"hopeful": [
+					"{keyword} may be paused, not lost. Proper rest can begin to restore it.",
+					"If you are hoping to feel better, {keyword} encourages you to treat rest as part of the foundation rather than a reward for finishing.",
+					"{keyword} might return as you share the load. Hope is reasonable here, especially when you stop trying to carry everything yourself."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to overwork, indulgence, or neglecting your body in favour of other priorities.",
+					"{keyword} appears blocked or overdone, asking for a better balance between effort and rest.",
+					"{keyword} suggests checking whether your daily habits support how you want to feel in the long run."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If you feel spiritually unmoored, {keyword} suggests returning to one simple, grounding practice: a walk, a quiet cup of tea, a few minutes of stillness.",
+					"{keyword} may be crowded out by practical worries. Five quiet minutes, set aside on purpose, can be a real start.",
+					"When you feel disconnected, {keyword} reminds you that your values can guide you even without certainty. Act on one of them today."
+				],
+				"curious": [
+					"{keyword} asks whether material concerns have taken up the space where your inner life used to be.",
+					"What if {keyword} has hardened into fixed belief? Wonder what might open up if you held one idea a little more loosely.",
+					"{keyword} hints at achievement that feels strangely empty. What would make it mean something to you?"
+				],
+				"grieving": [
+					"{keyword} may feel shaken after a loss, and it is all right to have no answers. Belief can wait while you grieve.",
+					"If familiar faith or practice feels hollow since your loss, {keyword} does not ask you to force it. It can return in its own time.",
+					"{keyword} can rest for now. Being held by a community, a place or a simple routine may be enough of a practice."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to busyness and acquisition crowding out reflection. When in your week do you actually think about meaning?",
+					"{keyword} is a prompt about rigidity. Are your beliefs still open to question, or have they become something to defend?",
+					"Read plainly, {keyword} blocked often means success without a clear purpose. What is all this effort ultimately for?"
+				],
+				"hopeful": [
+					"{keyword} may be paused. Hope can live in reconnecting with the values that first gave your efforts meaning.",
+					"If you are hoping for renewal, {keyword} encourages generosity as a practice: giving something freely, with no return expected.",
+					"{keyword} might return as you loosen your grip on control. Meaning often needs a little open space."
+				],
+				"neutral": [
+					"In inner life, {keyword} can point to materialism, fixed belief, or success that lacks a sense of purpose.",
+					"{keyword} appears blocked or overdone, asking for openness, humility and generosity.",
+					"{keyword} suggests looking at whether achievement has crowded out reflection and wonder."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels unstable, {keyword} may be hard to feel. One thing in your control: name one solid thing in your life today, however small.",
+					"{keyword} may be overdone, with control standing in for security. You can loosen your grip on one thing and see what happens.",
+					"When everything feels shaky, {keyword} reminds you that foundations can be rebuilt. You have built things before; you can lay one brick today."
+				],
+				"curious": [
+					"{keyword} asks a revealing question: where in your life are you holding on more tightly than you need to?",
+					"What if {keyword} has turned into stubbornness? Wonder what might change if you tried someone else's way just once.",
+					"{keyword} hints at success that feels hollow. What is missing from it, and is that something money or status could ever supply?"
+				],
+				"grieving": [
+					"{keyword} may feel shaken while you grieve. Let other people be steady for you for a while.",
+					"If your foundations feel uncertain since your loss, {keyword} does not ask you to rebuild them now. They can wait.",
+					"{keyword} can rest. Getting through each day, one practical thing at a time, is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to rigidity or materialism. Which plan or possession are you holding on to past its usefulness?",
+					"{keyword} is a prompt about control. Are you carrying responsibilities that could reasonably be shared?",
+					"Read plainly, {keyword} blocked can mean fear of losing ground driving your decisions. What would you choose if you felt secure?"
+				],
+				"hopeful": [
+					"{keyword} may be paused, not lost. A little flexibility can help restore it.",
+					"If you are hoping for stability, {keyword} encourages a balance between holding on and sharing what you have.",
+					"{keyword} might return as you let go of what is no longer working. Hope is reasonable once there is room to build again."
+				],
+				"neutral": [
+					"{keyword} can point to control, materialism, stubbornness, or insecurity hidden behind status.",
+					"{keyword} appears blocked or overdone: security held too tightly, or responsibilities neglected.",
+					"{keyword} suggests checking whether the foundations you rely on still serve the life you want."
+				]
+			}
+		}
+	}
+}

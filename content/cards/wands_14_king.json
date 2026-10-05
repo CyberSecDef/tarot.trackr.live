@@ -1,0 +1,412 @@
+{
+	"id": "wands_14_king",
+	"name": "King of Wands",
+	"facets": [
+		{
+			"id": "leadership",
+			"keywords": ["leadership", "the courage to lead", "a steady hand at the helm"]
+		},
+		{
+			"id": "vision",
+			"keywords": ["vision", "a big-picture view", "a long-range plan"]
+		},
+		{
+			"id": "enterprise",
+			"keywords": ["enterprise", "an entrepreneurial streak", "the will to build something"]
+		},
+		{
+			"id": "self_command",
+			"keywords": ["self-command", "seasoned confidence", "fire under control"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If love feels uncertain, {keyword} is something you can practise from your own side. Decide one way you want to show up this week, regardless of what the other person does, and keep to it.",
+					"{keyword} suggests that steadiness is more reassuring than certainty. One thing in your control: respond to the next worrying moment with a calm question instead of a conclusion.",
+					"When you are braced for hurt, {keyword} invites you to remember you can take care of yourself whatever happens. Name one person or habit that keeps you upright."
+				],
+				"curious": [
+					"{keyword} asks what kind of partner, friend or family member you want to be in five years. What small choice today points that way?",
+					"What if {keyword} in love means being the one who suggests the plan, books the table, or starts the honest conversation? How does that role sit with you?",
+					"{keyword} hints at a relationship where both people are building something. What are you building together, or would you like to?"
+				],
+				"grieving": [
+					"{keyword} may feel heavy to hold while you are grieving someone. You don't have to be the strong one for everyone; it is all right to set the role down for a while.",
+					"When love has been lost, {keyword} might simply mean handling what needs handling, one day at a time. Let that be enough without asking more of yourself.",
+					"{keyword} can also mean letting someone else take the lead for now. Leaning on others is not a failure of strength."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} in relationships is about taking responsibility for your part. Where could you be more consistent between what you say and what you do?",
+					"Take {keyword} as a prompt to ask whether decisions in your relationship are shared, or whether one person quietly steers everything.",
+					"No signs needed: {keyword} is a useful quality in love when it serves both people. Is your steadiness making room for the other person, or crowding them?"
+				],
+				"hopeful": [
+					"{keyword} is a solid energy to bring into your hopes for love. It suggests building something real, step by step, rather than waiting to be swept away.",
+					"If you are hoping for commitment, {keyword} encourages you to be clear and generous about what you want. Their answer is theirs, and clarity gives it a fair chance.",
+					"{keyword} invites you to bring warmth and direction to a bond you care about. A shared plan, even a small one, can be its own kind of romance."
+				],
+				"neutral": [
+					"In love, {keyword} points to maturity, reliability and a relationship guided by shared direction.",
+					"{keyword} speaks of showing up with confidence and integrity, taking responsibility without taking over.",
+					"{keyword} highlights the long view in relationships: what you are building, and how you lead within it."
+				]
+			},
+			"career": {
+				"anxious": [
+					"When work feels unstable, {keyword} can begin very small. Choose the one decision you have been avoiding at work and make it today, even if it is minor.",
+					"{keyword} suggests you have more experience to draw on than worry allows. Write down three things you know how to handle well, and keep them in view.",
+					"If you are bracing for change at work, {keyword} invites you to sketch your own plan B. Having one, however rough, can quiet the noise."
+				],
+				"curious": [
+					"{keyword} asks what you would build if you were fully in charge. Which part of that could you start inside your current role?",
+					"What might {keyword} look like if you mentored someone, or asked to be mentored? Leadership often grows in both directions.",
+					"{keyword} hints at a bigger idea than your current job description. What is it, and who would you need on your side?"
+				],
+				"grieving": [
+					"If you are grieving a role, a team or a colleague, {keyword} may feel like a weight rather than a gift. It is fine to carry only what you must.",
+					"{keyword} might mean steadying others while you are hurting yourself. If that is too much right now, it is all right to say so.",
+					"When work holds a loss, {keyword} can wait. Your experience will still be there when you are ready to draw on it."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work means setting direction and owning outcomes. Is there a decision sitting with you that you keep passing upward?",
+					"Treat {keyword} as a prompt to check whether your long-term plan still fits what you want, or just what you planned years ago.",
+					"There is nothing mystical here: {keyword} is a set of habits, like deciding, delegating and following through. Which of those is weakest for you?"
+				],
+				"hopeful": [
+					"{keyword} is a strong energy for career growth. If you are hoping to step up, it encourages you to act as the leader you want to be before the title arrives.",
+					"If you are hoping to launch something, {keyword} suggests your ideas may be ready for a real plan. Write it down and show it to one person.",
+					"{keyword} invites you to aim higher and build steadily. The outcome is not in your hands, but the direction is."
+				],
+				"neutral": [
+					"At work, {keyword} points to leadership, vision, and the drive to turn ideas into something lasting.",
+					"{keyword} speaks of confident direction, entrepreneurial energy, and the ability to inspire others.",
+					"{keyword} highlights how you lead, and whether your long-term goals are guiding your everyday choices."
+				]
+			},
+			"money": {
+				"anxious": [
+					"When money feels uncertain, {keyword} can look like taking one clear decision. Choose a single financial task, finish it, and let that steady you.",
+					"{keyword} suggests you can face your finances as their manager rather than their victim. One small thing: write out where your money goes this month.",
+					"If money stress is loud, {keyword} invites you to plan one month ahead, not ten years. A short horizon is easier to steer."
+				],
+				"curious": [
+					"{keyword} asks what you would invest in if you trusted your own judgement. Time, skills, a venture?",
+					"What could {keyword} create financially if you treated your income like a small business with a strategy?",
+					"{keyword} hints at building something of value from an idea you already have. Which one do you keep coming back to?"
+				],
+				"grieving": [
+					"Money decisions after a loss can feel heavy, and {keyword} may feel out of reach. One task at a time is enough.",
+					"{keyword} might mean managing shared resources on someone's behalf. That is hard work, and it is fine to ask for help.",
+					"When grief and money are tangled, {keyword} can wait. Big decisions usually keep for a while."
+				],
+				"skeptical": [
+					"Read practically, {keyword} with money means having a plan and owning your choices. Do you have one written down?",
+					"Take {keyword} as a prompt to check whether your financial goals match the life you actually want.",
+					"No mystery needed: {keyword} in money is mostly about follow-through. Which plan needs your attention most?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging energy for building security. If you are hoping for growth, it suggests a steady, long-range approach.",
+					"If you are hoping to start something, {keyword} invites you to make a simple business plan. Clarity tends to attract support.",
+					"{keyword} suggests that patient, confident effort can build something lasting. Keep your eye on the long view."
+				],
+				"neutral": [
+					"With money, {keyword} points to strategic thinking, enterprise, and confident management of resources.",
+					"{keyword} speaks of building wealth with vision and discipline, rather than chasing quick wins.",
+					"{keyword} highlights the link between your bigger goals and your everyday financial choices."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} can mean taking charge of one small habit. Choose a regular bedtime this week and hold to it gently.",
+					"{keyword} suggests you can be the steady presence your body needs. One thing you control: a short walk at the same time each day.",
+					"When stress is high, {keyword} invites you to plan rest the way you plan work, with a clear time and no apologies."
+				],
+				"curious": [
+					"{keyword} asks what your long-term vision for your wellbeing is. What would you like to feel like in ten years?",
+					"What would {keyword} look like as a health habit? Perhaps a routine you design yourself instead of borrowing someone else's.",
+					"{keyword} hints at energy that is strong and well-directed. Where does your energy feel most focused?"
+				],
+				"grieving": [
+					"Grief takes physical energy, and {keyword} may feel like too much to ask of yourself right now. Rest is allowed, and it is enough.",
+					"{keyword} might look like keeping a few basic routines going while everything else feels uncertain. That is plenty.",
+					"When you are carrying loss, {keyword} can include letting someone else look after the practical things for a while."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about consistency. Which habit do you know helps you, but rarely keep?",
+					"Treat {keyword} as a prompt to plan your energy like a resource, with time for effort and time for rest.",
+					"No mysticism needed: {keyword} in wellbeing often means fewer, better habits. Which one would you choose?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to take ownership of how you feel. Small, steady choices can add up.",
+					"If you are hoping to feel stronger, {keyword} suggests setting a clear, realistic goal and building toward it.",
+					"{keyword} is a confident energy for self-care. Let it help you lead yourself the way a good mentor would: firmly, and kindly."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to disciplined energy, steady habits and a long-term view.",
+					"{keyword} speaks of directing your vitality with intention, so that energy goes where you choose rather than wherever it leaks.",
+					"{keyword} highlights how leading yourself well includes scheduling rest as seriously as effort."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsettled, {keyword} reminds you that you can choose your own practice. One small step: five quiet minutes at the start of the day.",
+					"{keyword} suggests you can lead yourself through uncertainty. Write down one value you want to act on today.",
+					"When doubt is loud, {keyword} invites you to trust the wisdom you have earned through experience."
+				],
+				"curious": [
+					"{keyword} asks what larger purpose you feel drawn to. How might it shape your choices this year?",
+					"What would {keyword} look like as a spiritual practice? Perhaps living your values visibly, in ways others notice.",
+					"{keyword} hints at inspiring others simply through how you live. Who has done that for you, and what did they do that you could borrow?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel far away, and any sense of purpose may feel thin. It is all right to let the big questions rest for now.",
+					"{keyword} might return as a quiet wish to honour someone through how you live. Only when you are ready.",
+					"When you are mourning, {keyword} can include allowing someone wiser or steadier to guide you for a while. You don't have to find the way alone."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about living by your values. Where do your actions and beliefs line up, and where don't they?",
+					"Treat {keyword} as a prompt to define what matters most to you, in plain words, on one page. It is easier to live by what you can actually read.",
+					"No mystical claims: {keyword} is about purpose and integrity. What would living more on purpose look like this week?"
+				],
+				"hopeful": [
+					"{keyword} is a strong energy for inner growth. If you are hoping for meaning, it encourages you to act on what you believe.",
+					"If you are hoping to feel purposeful, {keyword} suggests starting with one project that reflects your values.",
+					"{keyword} invites you to trust the experience you have gathered and to lead from it, rather than waiting for a sign to tell you you are ready."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to purpose, integrity and living by a clear inner direction.",
+					"{keyword} speaks of a mature, confident trust in your own path, steady enough to stay open to others' views.",
+					"{keyword} highlights the connection between vision and values, and asks whether your big plans still reflect what you care about."
+				]
+			},
+			"general": {
+				"anxious": [
+					"When life feels uncertain, {keyword} reminds you that you can steer, even if you can't control the weather. Choose one decision to make today.",
+					"{keyword} suggests you have been through hard things before and found your way. Name one of them.",
+					"If you are bracing for change, {keyword} invites you to sketch a simple plan, however rough. Having direction can calm the mind."
+				],
+				"curious": [
+					"{keyword} opens a question: what are you building with your life, and does it excite you?",
+					"What might {keyword} change if you took the lead on something you have been waiting for someone else to start?",
+					"{keyword} hints at a bigger vision. What would you do if you trusted yourself to lead?"
+				],
+				"grieving": [
+					"{keyword} may feel heavy while you are grieving, especially if others expect you to hold things together. You don't have to lead anything right now.",
+					"If {keyword} appears, it may look like keeping a few things steady for yourself and others. That is enough.",
+					"{keyword} can wait. For now, it is enough to let others carry some of the weight, and to accept that help without explaining yourself."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about direction and responsibility. Where are you waiting for someone else to decide?",
+					"Treat {keyword} as a prompt to check whether your plans still match what you want.",
+					"No mysticism needed: {keyword} is built through decisions and follow-through. What needs deciding?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging energy for big goals. If you are hoping for change, it suggests leading the way yourself.",
+					"If you are hoping to build something lasting, {keyword} encourages vision paired with steady effort.",
+					"{keyword} invites you to step into your own authority. Nobody can promise where it leads, but the direction is yours to set."
+				],
+				"neutral": [
+					"In general, {keyword} points to leadership, vision, enterprise and mature confidence.",
+					"{keyword} speaks of directing your energy toward something larger than today's to-do list.",
+					"{keyword} highlights your capacity to lead yourself and others with warmth as well as authority."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} in a relationship has turned into one person deciding everything, it is worth noticing calmly. One step in your control: ask the other person what they want before offering your plan.",
+					"{keyword} may feel shaky right now, so you over-manage or go quiet. Either way, take a breath; one honest sentence about how you feel can do more than a strategy.",
+					"When love feels uncertain, {keyword} can tip into trying to control the outcome. Choose one thing to let go of today and notice what happens."
+				],
+				"curious": [
+					"Perhaps {keyword} has tipped into high expectations of a partner or friend. What would it be like to meet them as they are, not as the plan says?",
+					"What has stalled {keyword} in your love life? Fear of being responsible for someone else's happiness, perhaps?",
+					"{keyword} could be turning inward. What do you need to lead in yourself before you can share your life more fully?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may crumble, and you may not feel able to hold anything together. That is human, not a failure.",
+					"If you have been the strong one for everyone, {keyword} may be running on empty. You are allowed to stop holding it all up.",
+					"{keyword} might feel pointless while you are missing someone. It can wait until the future feels like a place again."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often shows up as impatience or a need to be right. Where does that show up between you and the people you love?",
+					"Take {keyword} as a prompt to check whether you are making decisions for two without asking the other person.",
+					"No mystery here: {keyword} out of balance can feel controlling to others even when it feels caring to you. Ask, and listen to the answer."
+				],
+				"hopeful": [
+					"{keyword} may be finding a gentler form. If you are hoping for a stronger bond, try leading with listening.",
+					"If you are hoping to feel secure in love, {keyword} encourages you to share the steering rather than hold it alone.",
+					"{keyword} might simply need softening. Hope is reasonable, especially if both people get a say in where things go."
+				],
+				"neutral": [
+					"In love, {keyword} reversed can point to control, impatience, unrealistic expectations, or avoiding responsibility.",
+					"{keyword} appears blocked or overdone, either too forceful or reluctant to take a stand.",
+					"{keyword} may be turning inward, asking you to look at how you use your influence with the people closest to you."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} at work has stalled or slipped, that does not cancel your experience. One small thing in your control: finish one decision you have been sitting on.",
+					"{keyword} may be tangled with pressure to have every answer. You don't have to; saying 'let me find out' is a perfectly good leadership move.",
+					"When work feels chaotic, {keyword} can turn into micromanaging. Choose one task to trust someone else with this week."
+				],
+				"curious": [
+					"Perhaps {keyword} has grown bigger than the plan to reach it. What would a realistic first step be?",
+					"What is blocking {keyword} at work? Too many ideas, too little support, or a fear of being seen to fail?",
+					"{keyword} could be turning inward. Is there a quieter kind of leadership that suits you better than the loud kind?"
+				],
+				"grieving": [
+					"If grief has knocked {keyword} sideways at work, it is all right to step back from leading for a while.",
+					"{keyword} might feel hollow while you are hurting. You can still do good work without carrying the whole team.",
+					"When work holds a loss, {keyword} may return slowly. Your judgement will still be there when you are ready."
+				],
+				"skeptical": [
+					"Plainly, {keyword} reversed can look like big plans without follow-through, or authority used too heavily. Which is closer to your situation?",
+					"Treat {keyword} as a prompt to notice whether you are setting goals others can't reasonably meet, including yourself.",
+					"There is nothing mystical here: {keyword} out of balance often shows up as impatience with others. What is the real source of the frustration?"
+				],
+				"hopeful": [
+					"{keyword} may be regrouping rather than gone. If you are hoping to lead, this is a good time to listen and learn from your team.",
+					"If you are hoping to launch something, {keyword} encourages a tighter plan before the big push.",
+					"{keyword} might simply need grounding. Hope is fair, especially if you pair ambition with patience."
+				],
+				"neutral": [
+					"At work, {keyword} reversed can point to impulsive decisions, domineering leadership, or vision that outpaces reality.",
+					"{keyword} appears blocked or overdone, asking you to balance authority with collaboration.",
+					"{keyword} suggests looking at whether your goals are inspiring others or exhausting them."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} with money has led to risky decisions, you can look at them calmly. Pick one and write down what you would do differently next time.",
+					"{keyword} may feel shaky when money is tight. One thing in your control: set a simple spending limit for the next week.",
+					"When financial worry makes you want to take dramatic action, {keyword} can wait a day. Sleep on any big decision."
+				],
+				"curious": [
+					"Perhaps {keyword} has you chasing a big win. What would a slower, steadier version of the plan look like?",
+					"What is holding back {keyword} financially? Fear of risk, or a plan that has never been written down?",
+					"{keyword} could be turning inward. What does financial success actually mean to you, apart from other people's measures?"
+				],
+				"grieving": [
+					"Money matters after a loss can feel overwhelming, and {keyword} may feel out of reach. Let trusted people help where they can.",
+					"{keyword} might push you to make big changes quickly. In grief, it is often kinder to wait.",
+					"If you have been managing everything for others, {keyword} may be stretched thin. It is all right to delegate."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often looks like overconfidence with money or plans that never get funded. Which do you recognise?",
+					"Take {keyword} as a prompt to check whether pride is stopping you from getting advice.",
+					"No mystery: {keyword} out of balance can mean risk without a safety net. Where do you need one?"
+				],
+				"hopeful": [
+					"{keyword} may be regrouping. If you are hoping for financial growth, a more grounded plan could serve you well.",
+					"If you are hoping to build something, {keyword} encourages patience and a clear first milestone.",
+					"{keyword} might simply need structure. Hope is reasonable, paired with an honest budget."
+				],
+				"neutral": [
+					"With money, {keyword} reversed can point to rash ventures, overconfidence, or plans that stall before they start.",
+					"{keyword} appears either stalled or overreaching: grand plans that never get funded, or bold bets placed without enough checking.",
+					"{keyword} suggests examining whether ambition is outrunning your resources, and what a plan sized to what you actually have would look like."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} has turned into pushing yourself too hard, try one gentle thing tonight: an earlier bedtime or a slow, quiet evening.",
+					"{keyword} may feel shaky when your energy is low. One small thing in your control: drink a glass of water and sit down for five minutes.",
+					"When stress runs high, {keyword} can become rigid rules about your body. Loosen one of them this week and notice how that feels."
+				],
+				"curious": [
+					"Perhaps {keyword} has you treating your body like a project to manage. What would it be like to listen to it instead?",
+					"What is draining {keyword} lately? Too many responsibilities, too little rest, or expectations that are simply too high?",
+					"{keyword} could be turning inward. What would leading yourself gently look like this week?"
+				],
+				"grieving": [
+					"Grief can drain {keyword} completely, and the body may feel heavy. Rest is care, not weakness.",
+					"If you have been holding things together for everyone, {keyword} may be running low. Let someone else take a turn.",
+					"{keyword} can wait. Simple comforts, early nights and meals someone else cooks are plenty for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can look like ignoring your body's signals to keep performing. Is that familiar?",
+					"Treat {keyword} as a prompt to check whether your goals for your body are realistic or punishing.",
+					"No mysticism needed: {keyword} out of balance often means too much drive and too little rest."
+				],
+				"hopeful": [
+					"{keyword} may be regrouping while you rest. That pause can make your energy steadier when it returns.",
+					"If you are hoping to feel stronger, {keyword} encourages realistic goals and patience with yourself.",
+					"{keyword} could return in a more balanced form. Hope is reasonable, especially if you let rest count as progress."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} reversed can point to overexertion, rigid routines, or energy that has run low.",
+					"{keyword} appears blocked or overdone, asking you to balance discipline with gentleness.",
+					"{keyword} suggests leading yourself with care rather than pressure, the way you would want a good coach to treat you."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} in your inner life has faltered, that is all right. One small thing: spend a minute in quiet, without needing to achieve anything.",
+					"{keyword} may be clouded by pressure to have it all figured out. You don't need to; questions are part of the path.",
+					"When you feel spiritually adrift, {keyword} can rest. Return to one simple practice that once steadied you."
+				],
+				"curious": [
+					"Perhaps {keyword} has hardened into certainty. What might you learn if you held your beliefs a little more loosely?",
+					"What has stalled {keyword} on your path? Perhaps a sense that you should be further along?",
+					"{keyword} could be turning inward. What does your inner life need from you that you have been too busy to give?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel empty, and purpose may feel far away. Let it rest for now.",
+					"If {keyword} has faded since your loss, there is nothing to prove. Simply being with your sorrow is enough.",
+					"{keyword} might return as a wish to live in a way that honours someone. Only when you are ready."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can mean imposing your views on others, or losing touch with your own. Which feels closer?",
+					"Treat {keyword} as a prompt to notice whether pride has crept into how you talk about meaning.",
+					"No mystical claims: {keyword} stalling may simply reflect a busy, depleting season. What would a realistic amount of reflection look like right now?"
+				],
+				"hopeful": [
+					"{keyword} may be gathering quietly. If you are hoping for renewed purpose, small, consistent practice can rebuild it.",
+					"If you are hoping to feel guided again, {keyword} encourages humility and openness.",
+					"{keyword} might simply need softening. Hope is fair, especially if you let yourself be a learner again."
+				],
+				"neutral": [
+					"Spiritually, {keyword} reversed can point to rigidity, spiritual pride, or a dimmed sense of purpose.",
+					"{keyword} appears either hardened into certainty or faded into doubt, and either way it asks for openness.",
+					"{keyword} suggests exploring where your inner authority has wavered or hardened."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} has slipped, that does not erase what you know. One small step in your control: make one clear decision today, however minor.",
+					"{keyword} may be tangled with pressure to control everything. Choose one thing to let go of, and notice the relief.",
+					"When everything feels uncertain, {keyword} can rest. A simple routine may steady you more than a grand plan."
+				],
+				"curious": [
+					"Perhaps {keyword} has grown into impatience. What would happen if you let things take a little longer?",
+					"What is holding back {keyword} right now? Fear of failure, or fear of what success would demand?",
+					"{keyword} could be turning inward. Before steering anything else, what part of your own life most needs a steady hand?"
+				],
+				"grieving": [
+					"In grief, {keyword} may feel far away, and that is natural. You don't have to hold everything together.",
+					"If you have been the steady one, {keyword} may be exhausted. Let others carry some of it now.",
+					"{keyword} can return in its own time. For now, getting through the day is enough."
+				],
+				"skeptical": [
+					"Plainly, {keyword} reversed often looks like overreach or avoidance. Which one do you recognise?",
+					"Treat {keyword} as a prompt to check whether your expectations of yourself and others are realistic.",
+					"No mystery here: {keyword} out of balance tends to exhaust everyone involved. Where could you ease off?"
+				],
+				"hopeful": [
+					"{keyword} may be regrouping rather than gone. If you are hoping for change, use this pause to refine your plan.",
+					"If you are hoping to lead your life more fully, {keyword} encourages steady steps over grand gestures.",
+					"{keyword} might simply need grounding. Hope is reasonable, paired with patience and humility."
+				],
+				"neutral": [
+					"In general, {keyword} reversed points to impulsiveness, control, unrealistic expectations, or leadership avoided.",
+					"{keyword} appears blocked or overdone: either holding back from leading at all, or leading so hard that others stop following.",
+					"{keyword} suggests looking at how you use your influence, over others and over yourself."
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,412 @@
+{
+	"id": "swords_10_ten",
+	"name": "Ten of Swords",
+	"facets": [
+		{
+			"id": "ending",
+			"keywords": ["an ending", "a chapter closing", "something that has run its course"]
+		},
+		{
+			"id": "rock_bottom",
+			"keywords": ["hitting bottom", "the lowest point", "a hard bottom to stand on"]
+		},
+		{
+			"id": "release",
+			"keywords": ["letting go", "a final release", "putting down the struggle"]
+		},
+		{
+			"id": "exhaustion",
+			"keywords": ["being worn out", "having nothing left to give", "the end of your reserves"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If a relationship feels as if it has reached its end, {keyword} doesn't ask you to know what happens next. For tonight, the only task is to eat something, rest, and let one person know how you are.",
+					"{keyword} in love can feel like the floor giving way. Put both feet on the ground, breathe out slowly, and remember that the worst moment is usually also the one where things stop falling.",
+					"When your heart feels spent, {keyword} invites you to stop holding up what can't stand on its own. You don't have to fix it or explain it today; you only have to be gentle with yourself."
+				],
+				"curious": [
+					"{keyword} raises a quiet question: now that this part of love has finished, what do you know about yourself that you didn't know before?",
+					"What if {keyword} is also a clearing? Once you've rested, you might wonder what kind of closeness you'd want to build from here.",
+					"{keyword} hints that an old way of loving may have reached its limit. Which part of it are you relieved to leave behind?"
+				],
+				"grieving": [
+					"{keyword} may be exactly where you are, and there's no need to hurry out of it. Let the loss be as big as it is.",
+					"If love has ended or someone is gone, {keyword} doesn't need a lesson or a bright side. It is enough to say this is hard and let others sit with you.",
+					"{keyword} can leave you very tired. Lie down, let people bring you things, and let the days be slow for a while."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} describes a relationship situation that has gone as far as it can. What would accepting that, rather than fighting it, make possible?",
+					"{keyword} is a useful prompt: are you still investing in something that has already finished? Naming it is painful but usually clarifying.",
+					"No dramatic omen here: {keyword} is a familiar point in many relationships. The practical question is how to look after yourself now that it's here."
+				],
+				"hopeful": [
+					"{keyword} is hard, and it can also mark the point where things stop getting worse. Hope doesn't need to rush; it can wait quietly at the edge of the room.",
+					"If you are hoping for love to feel good again, {keyword} suggests clearing space first. The next chapter, whatever it holds, starts from rest.",
+					"{keyword} invites you to notice that you are still here, still capable of caring. That isn't a promise of what comes next, but it is something real."
+				],
+				"neutral": [
+					"In love, {keyword} points to an ending, a low point, or the release that comes when something has truly finished.",
+					"{keyword} speaks to a relationship situation reaching its natural close, painful but also final enough to move on from.",
+					"{keyword} suggests accepting what has ended so that rest, and later something new, can begin."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels as if it has collapsed, {keyword} doesn't mean you have. Tonight, write down one skill you still have and one person you could talk to this week.",
+					"{keyword} at work can feel like everything stopping at once. One step in your control: rest first, then make a short list of practical next moves in daylight.",
+					"When a job or project ends badly, {keyword} invites you to separate what happened from what it says about you. They are not the same thing."
+				],
+				"curious": [
+					"{keyword} opens a question: if this chapter of your work is over, what did it teach you about what you want, or don't want, next?",
+					"What if {keyword} is the point where you stop pushing a door that won't open? You may notice others that were there all along.",
+					"{keyword} hints that a way of working has gone as far as it can. What would you keep from it, and what are you glad to put down?"
+				],
+				"grieving": [
+					"If you've lost a job, a role or a sense of purpose, {keyword} may feel very heavy. You don't need a plan yet; you need rest and kindness.",
+					"{keyword} can bring real grief for colleagues, routines and the person you were at work. It's alright to miss it.",
+					"At work, {keyword} may ask you to stop for a while. Let that pause be rest rather than a verdict on your worth."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to a work situation that has reached its end. What are the concrete next steps, and who can help with them?",
+					"{keyword} is a prompt to stop investing energy in something that's already over. Where could that energy go instead?",
+					"Read plainly, {keyword} describes a common career experience. Most people go through at least one; the useful focus is what you rebuild first."
+				],
+				"hopeful": [
+					"{keyword} is hard, but it can also clear the ground. Hope can begin with one small step once you've rested.",
+					"If you are hoping for better work, {keyword} suggests the old situation may be finished. That leaves room for something new, though nothing is guaranteed.",
+					"{keyword} invites you to remember that endings at work are rarely the end of a career. You still carry your skills and your experience."
+				],
+				"neutral": [
+					"In career matters, {keyword} points to a job, project or approach reaching its end, often painfully but also definitively.",
+					"{keyword} speaks to a low point in working life that may also be a turning point.",
+					"{keyword} suggests accepting what has finished at work so you can turn toward what comes next."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money feels as if it has hit bottom, {keyword} doesn't ask you to fix everything tonight. One step: write down the one bill or call that matters most this week.",
+					"{keyword} with finances can feel frightening. Remember that help exists, from advice services to people you trust, and reaching out is a sensible move, not a failure.",
+					"When resources feel exhausted, {keyword} invites you to focus only on essentials for now. Food, shelter, rest; the rest can wait its turn."
+				],
+				"curious": [
+					"{keyword} raises a question: now that a financial pattern has run its course, what would you do differently starting from here?",
+					"What if {keyword} is the moment a habit finally stops? It might be worth noticing which one you're ready to leave behind.",
+					"{keyword} hints that a way of handling money has reached its limit. What would a simpler approach look like?"
+				],
+				"grieving": [
+					"After a loss, {keyword} with money may feel like too much. Let someone help, and do only what's truly necessary.",
+					"{keyword} can mix grief with financial worry. Be gentle with yourself; there's no need to sort it all now.",
+					"If a loss has changed your circumstances, {keyword} is understandable. Take one small practical step at a time, and rest in between."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to a financial situation that can't continue as it was. What's the first concrete step to stabilise it?",
+					"{keyword} is a prompt to stop patching something that's already broken. What would a fresh, realistic plan look like?",
+					"Read plainly, {keyword} describes a low point that many people reach. Getting accurate figures and good advice is usually the useful next move."
+				],
+				"hopeful": [
+					"{keyword} is hard, but it can also mark the point where things stop sliding. Hope can start with one small, steady step.",
+					"If you are hoping for more security, {keyword} suggests building from the ground up. That ground, however low, is something to stand on.",
+					"{keyword} invites you to notice what you still have, not just what's gone. It may be more than it feels like right now."
+				],
+				"neutral": [
+					"Around money, {keyword} points to a financial low, an ending of old patterns, or a situation that has run its course.",
+					"{keyword} speaks to hitting a limit with resources, and the need to rebuild from there.",
+					"{keyword} suggests accepting the reality of your finances so a new plan can begin."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel utterly spent, {keyword} is a signal to stop and rest, not a reason for alarm. Lie down, breathe slowly, and let one person know you need some care.",
+					"{keyword} can make your body feel heavy. One small thing in your control: drink some water, eat something simple, and go to bed early tonight.",
+					"When energy is gone, {keyword} invites you to let the world wait. Rest is the most sensible thing you can do right now."
+				],
+				"curious": [
+					"{keyword} raises a question: what finally made you stop, and what does your body seem to be asking for now?",
+					"What if {keyword} is your body drawing a clear line? Notice what you'd like to do differently once you've rested.",
+					"{keyword} hints that an old way of pushing yourself has reached its limit. What would a gentler rhythm look like?"
+				],
+				"grieving": [
+					"Grief is exhausting, and {keyword} may describe how you feel. Let yourself rest as much as you need, without guilt.",
+					"{keyword} can sit heavily in the body after a loss. Warmth, simple food and sleep are enough care for now.",
+					"If you feel worn through, {keyword} doesn't ask you to get up yet. Let others help, and let yourself be still."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to running out of energy after a long stretch of strain. What can you take off your plate this week?",
+					"{keyword} is a prompt to stop pushing through. Rest is not optional when reserves run this low.",
+					"Read plainly, {keyword} describes the deep tiredness that follows long strain. It's a sign to slow down, not a judgement on your strength."
+				],
+				"hopeful": [
+					"{keyword} is hard, but it can also be the point where you finally rest. Energy often returns slowly once you stop spending it.",
+					"If you are hoping to feel better, {keyword} suggests starting with rest and very small steps.",
+					"{keyword} invites you to trust that stopping is part of the way back to yourself, not a failure."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to exhaustion, a low point, or the need to stop and rest fully.",
+					"{keyword} speaks to energy reaching its end after a long period of strain.",
+					"{keyword} suggests letting your body rest before asking anything more of it."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner world feels as if it has reached its end, {keyword} doesn't ask you to understand it yet. Breathe, and let stillness hold you for a moment.",
+					"{keyword} can feel like the dark before anything else. One thing in your control: return to a simple, familiar practice, even just a single breath with your eyes closed.",
+					"When meaning feels lost, {keyword} invites you to stop searching for a while. Rest can be a spiritual act too."
+				],
+				"curious": [
+					"{keyword} raises a question: what belief or way of seeing has come to an end in you, and what space does that leave?",
+					"What if {keyword} is the quiet moment before something new can grow? Notice what you're drawn toward as you rest.",
+					"{keyword} hints that an old story about yourself may be finished. What would you like the next one to be about?"
+				],
+				"grieving": [
+					"{keyword} may be part of how grief moves through your inner life. There's no need to find meaning in it now.",
+					"If loss has shaken everything, {keyword} doesn't ask for faith or answers. Just let yourself be held by whatever comforts you.",
+					"{keyword} can feel very lonely. You are allowed to rest in the dark until you're ready to look for light."
+				],
+				"skeptical": [
+					"Plainly, {keyword} describes the end of a way of thinking. What evidence or experience brought you here?",
+					"{keyword} is a prompt to notice which beliefs have stopped working for you. Letting them go can be a relief.",
+					"Read practically, {keyword} is a natural stage of growth: something ends so something else can be built."
+				],
+				"hopeful": [
+					"{keyword} is hard, and it can also be the moment the night stops deepening. Hope can wait quietly until you're ready.",
+					"If you are hoping for renewal, {keyword} suggests that letting go fully may be the first step.",
+					"{keyword} invites you to trust that endings make room. What fills that room isn't promised, but the space is real."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to an ending of old beliefs, a low point, or the release that allows renewal.",
+					"{keyword} speaks to reaching the end of a cycle in your inner life.",
+					"{keyword} suggests surrendering what has finished so something new can begin."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If things feel as bad as they can be, {keyword} doesn't ask you to fix it all. Choose one small thing that will help you get through today, and let that be enough.",
+					"{keyword} can feel overwhelming. Breathe slowly, put your feet on the floor, and remind yourself that you have made it through hard days before.",
+					"When everything seems to end at once, {keyword} invites you to reach out. Tell one person how you're really doing."
+				],
+				"curious": [
+					"{keyword} raises a question: now that something has finished, what are you curious about in the quiet that follows?",
+					"What if {keyword} is a turning point as well as an ending? Notice what you feel drawn toward as you rest.",
+					"{keyword} hints that a cycle has run its course. What did it teach you that you'll carry forward?"
+				],
+				"grieving": [
+					"{keyword} may be exactly where you are. There's no need to rush out of it or find a reason for it.",
+					"If you're carrying loss, {keyword} doesn't need a silver lining. It is enough to say this is hard.",
+					"{keyword} can leave you very tired. Rest, let others help, and let the days be slow."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to a situation that has reached its end. What's the first realistic step from here?",
+					"{keyword} is a prompt to stop investing in what's already finished. Where could that energy go instead?",
+					"Read plainly, {keyword} describes a low point most people reach at some time. The useful focus is on what you rebuild first."
+				],
+				"hopeful": [
+					"{keyword} is hard, but it may also be the point where things stop getting worse. Hope can begin quietly from here.",
+					"If you are hoping for change, {keyword} suggests the old has finished. That leaves room, though what fills it isn't promised.",
+					"{keyword} invites you to notice that you're still here. That is something to build on."
+				],
+				"neutral": [
+					"{keyword} points to an ending, a low point, or a release that comes when something has fully finished.",
+					"In general, {keyword} speaks to reaching the end of a cycle, painful but also clarifying.",
+					"{keyword} suggests accepting what has ended so rest and renewal can begin."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If you've been bracing for the worst in love, {keyword} may be arriving more gently than you feared, or may already be behind you. One small step: notice one moment today when you felt a little more like yourself.",
+					"{keyword} may be stretching on because part of you is still holding the door shut. You don't have to force it open; just loosen your grip by one finger, and breathe.",
+					"When an ending in love lingers, the worst of {keyword} has often already passed. Let someone you trust help with one ordinary thing today, like a meal or a walk."
+				],
+				"curious": [
+					"You may be quietly resisting {keyword}. What would you lose by accepting it, and what might you get back?",
+					"What if {keyword} is already behind you, and you're standing up without noticing? Look at what feels different in how you see love now.",
+					"{keyword} might be happening inside before it shows on the outside. Which hope about a relationship are you ready to set down, and which are you keeping?"
+				],
+				"grieving": [
+					"{keyword} may come very slowly in grief, and there's no need to hurry it. You can stay with the people and memories you love as long as you need.",
+					"If you're beginning to lift your head after a loss, the worst of {keyword} may have passed, even though the missing hasn't. Both can be true at once.",
+					"Sometimes {keyword} returns in waves after you thought it had finished. Each time, you can meet it with a little more gentleness than before."
+				],
+				"skeptical": [
+					"Practically, resisting {keyword} tends to stretch out the hardest part. Is there anything you're holding on to mainly because letting it go would make it real?",
+					"{keyword} is a prompt to check whether you're reopening something that has already closed, through messages, hopes or replaying. What would it take to stop?",
+					"Read plainly, the worst of {keyword} may be behind you. What is one small, realistic step toward ordinary life this week?"
+				],
+				"hopeful": [
+					"{keyword} may be giving way, slowly, to something steadier. Nothing is guaranteed, but you are moving again.",
+					"If you're hoping to love freely again, the hardest part of {keyword} may already be over. Let your trust come back at its own pace.",
+					"Once you stop holding off {keyword}, there may be more room to breathe. Hope can grow in that room, quietly."
+				],
+				"neutral": [
+					"In love, {keyword}, when it lingers or lifts, can point to slow renewal, resistance to an ending that has already happened, or the worst passing.",
+					"{keyword} appears drawn out or easing: the low point may be behind you, or still being held at arm's length.",
+					"{keyword} suggests noticing whether you're beginning to rise or still holding on to what has finished."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work has hit a low, the worst of {keyword} may already be behind you. One step in your control: notice one thing that's a little steadier than it was last week.",
+					"{keyword} may be arriving more slowly than you feared, which gives you time. Use it gently: one task, one conversation, one application at a time.",
+					"When a work ending drags on, you may be holding off {keyword} because it feels like failure. It isn't. Rest tonight, and decide one small thing tomorrow."
+				],
+				"curious": [
+					"You may be resisting {keyword} at work. What old role or identity are you still trying to keep alive, and is it worth the effort?",
+					"What if {keyword} is mostly behind you and the next thing is quietly starting? Notice which ideas keep returning when your mind is free.",
+					"{keyword} might be more internal than external: a way of working you've outgrown even if the job is the same. What would you change first?"
+				],
+				"grieving": [
+					"If you're grieving a job, a team or a working identity, {keyword} may unfold slowly. You don't need to be over it to keep going.",
+					"The worst of {keyword} may have passed, and still some days at work may feel heavy. Let them be heavy; you're allowed.",
+					"{keyword} can linger long after the final day. Be gentle with yourself as you find your footing, one small routine at a time."
+				],
+				"skeptical": [
+					"Plainly, holding off {keyword} at work often wastes energy on something already decided. What would you do with that energy if you accepted it?",
+					"{keyword} is a prompt to check whether you're still making plans around a situation that has ended. Update the plan to match reality.",
+					"Read practically, if the worst of {keyword} has passed, it's a good moment to list what you have: skills, contacts, experience."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to a slow rebuild at work. Each small step counts, even when the progress is hard to see.",
+					"If you're hoping for a fresh start, the hardest part of {keyword} may already be over. That doesn't promise the next role, but it frees you to look.",
+					"Once you stop holding off {keyword}, new options may become easier to see. Keep your eyes open and your expectations kind."
+				],
+				"neutral": [
+					"In career matters, {keyword}, when it lingers or lifts, can point to a slow rebuild, resistance to an ending, or the worst passing.",
+					"{keyword} appears drawn out or easing, as a working chapter closes more slowly than expected.",
+					"{keyword} suggests noticing whether you're rebuilding or still trying to hold together what has finished."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money has been at its worst, {keyword} may be easing or already behind you. One step: look at one figure that's a little better than it was, however small.",
+					"{keyword} may be arriving more gently than you feared, giving you time to plan. Choose one essential to secure this week and let the rest wait.",
+					"When financial strain drags on, you may be holding off {keyword} by avoiding the numbers. Looking, in daylight and with support, is usually less frightening than not looking."
+				],
+				"curious": [
+					"You may be resisting {keyword} with money. What financial habit are you keeping alive even though it has clearly run its course?",
+					"What if the hardest part of {keyword} is behind you? Notice what you'd like your relationship with money to look like from here.",
+					"{keyword} might be happening slowly and quietly. Which old expectation about money are you finally ready to let go of?"
+				],
+				"grieving": [
+					"If a loss has upended your finances, {keyword} may unfold slowly. Let others help with the practical parts, and do only what's urgent.",
+					"The worst of {keyword} may have passed, though grief can make every form feel heavy. Take one task at a time, with rest in between.",
+					"{keyword} can linger when money and loss are tangled together. Be patient with yourself; there's no deadline for sorting it out."
+				],
+				"skeptical": [
+					"Practically, holding off {keyword} with money often means patching a plan that can't work. What would a realistic fresh start involve?",
+					"{keyword} is a prompt to check whether you're still spending or borrowing as if an old situation hadn't ended. What needs updating?",
+					"Read plainly, if the worst of {keyword} has passed, now is a good time to get accurate figures and, if you need it, sound advice."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to slow stability. Small, steady steps tend to hold up better than big leaps.",
+					"If you're hoping for financial relief, the hardest part of {keyword} may already be over. Notice what's working and keep doing it.",
+					"Once you stop holding off {keyword}, you may find it easier to build a plan that fits your real circumstances."
+				],
+				"neutral": [
+					"Around money, {keyword}, when it lingers or lifts, can point to slow rebuilding, resistance to a financial ending, or the worst passing.",
+					"{keyword} appears drawn out or easing as resources begin to steady.",
+					"{keyword} suggests checking whether you're rebuilding on solid ground or still propping up what has ended."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you've been utterly spent, the worst of {keyword} may already be behind you. One thing you can do today: rest without waiting until you've earned it.",
+					"{keyword} may be easing more slowly than you'd like. Notice one small sign of returning energy, however faint, and let it count.",
+					"When tiredness lingers, you may be holding off {keyword} by pushing through. Let yourself stop properly for one afternoon this week."
+				],
+				"curious": [
+					"You may be resisting {keyword}. What would happen if you let yourself rest fully instead of halfway?",
+					"What if the hardest part of {keyword} has passed? Notice what your body seems to want now: movement, quiet, company, sleep.",
+					"{keyword} might be shifting inside you. What old way of pushing yourself are you ready to leave behind?"
+				],
+				"grieving": [
+					"{keyword} may ease very slowly while you grieve. Rest as much as you need, without measuring it.",
+					"If you're beginning to feel a little more energy, the worst of {keyword} may have passed. Let it return gently; there's no need to make up for lost time.",
+					"{keyword} can come back in waves. On heavy days, simple care like warmth, water and sleep is plenty."
+				],
+				"skeptical": [
+					"Practically, holding off {keyword} by pushing on usually stretches it out. Where could you build in proper rest this week?",
+					"{keyword} is a prompt to check whether you're treating yourself as fully rested when you aren't. What does your energy actually say?",
+					"Read plainly, if the worst of {keyword} has passed, keep the habits that helped and resist the urge to go straight back to full speed."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to returning energy. Let it build slowly, without testing it too hard.",
+					"If you're hoping to feel like yourself again, the hardest part of {keyword} may already be over. Small, gentle routines can carry you forward.",
+					"Once you stop holding off {keyword}, rest may finally do its work. Patience is part of the care."
+				],
+				"neutral": [
+					"In wellbeing, {keyword}, when it lingers or lifts, can point to energy slowly returning, resistance to rest, or the worst passing.",
+					"{keyword} appears drawn out or easing, as reserves begin to rebuild.",
+					"{keyword} suggests noticing whether you're truly resting or still pushing through."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner world has felt at its darkest, the worst of {keyword} may already be behind you. Notice one moment of stillness today, however brief.",
+					"{keyword} may be arriving more gently than you feared. Return to a simple practice, a breath, a phrase, a walk, and let it hold you for a minute.",
+					"When inner struggle drags on, you may be holding off {keyword} by clinging to old certainty. You don't need new answers yet; just loosen your grip a little."
+				],
+				"curious": [
+					"You may be resisting {keyword} in your inner life. What belief are you still guarding, even though it no longer fits?",
+					"What if the hardest part of {keyword} is behind you? Notice what feels new, or newly possible, in how you see things.",
+					"{keyword} might be a slow inner process rather than a single moment. What has been quietly ending in you?"
+				],
+				"grieving": [
+					"{keyword} may unfold slowly in grief, and meaning may take a long time to return. That's alright.",
+					"If you're beginning to lift your head, the worst of {keyword} may have passed. You can carry the loss and still look up.",
+					"{keyword} can come back in waves. Each time, let yourself be held by whatever comforts you."
+				],
+				"skeptical": [
+					"Plainly, holding off {keyword} often means keeping a worldview that has stopped making sense to you. What would happen if you let it change?",
+					"{keyword} is a prompt to notice whether you're returning to old beliefs mainly out of fear of the empty space.",
+					"Read practically, if the worst of {keyword} has passed, it may be a good time to reflect on what you've learned."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to slow renewal in your inner life. Trust small signs of light.",
+					"If you're hoping for meaning to return, the hardest part of {keyword} may already be over. Let it come back in its own form.",
+					"Once you stop holding off {keyword}, there may be room for something new to grow. What grows isn't promised, but the space is real."
+				],
+				"neutral": [
+					"Spiritually, {keyword}, when it lingers or lifts, can point to slow renewal, resistance to an inner ending, or the darkest point passing.",
+					"{keyword} appears drawn out or easing as an inner cycle closes.",
+					"{keyword} suggests noticing whether you're rising or still holding on to what has finished."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If you've been bracing for the worst, {keyword} may be arriving more gently than you feared, or may already be behind you. Choose one small thing that helps you through today.",
+					"{keyword} may be easing slowly. Notice one thing that's a little steadier than it was, and let that be your ground for now.",
+					"When a hard stretch drags on, you may be holding off {keyword} because accepting it feels frightening. Tell one person how you're really doing."
+				],
+				"curious": [
+					"You may be resisting {keyword}. What are you still holding together that's ready to be set down?",
+					"What if the hardest part of {keyword} is behind you, and you're beginning to rise without noticing? Look for the signs.",
+					"{keyword} might be happening inside before it shows outside. What has quietly finished in you?"
+				],
+				"grieving": [
+					"{keyword} may unfold very slowly in grief. There's no need to be done with it before you're ready.",
+					"If you're beginning to lift your head, the worst of {keyword} may have passed. You can carry the loss and still take a step.",
+					"{keyword} can come back in waves. Meet each one as gently as you can, and let others help."
+				],
+				"skeptical": [
+					"Practically, holding off {keyword} often stretches out the hardest part. What are you keeping alive mainly out of habit?",
+					"{keyword} is a prompt to check whether you're still planning around something that has already ended.",
+					"Read plainly, if the worst of {keyword} has passed, now is a good time for one small, realistic step."
+				],
+				"hopeful": [
+					"{keyword} may be giving way to slow renewal. Nothing is promised, but you're moving again.",
+					"If you're hoping for things to improve, the hardest part of {keyword} may already be over. Let that encourage you gently.",
+					"Once you stop holding off {keyword}, there may be more room to breathe and rebuild."
+				],
+				"neutral": [
+					"{keyword}, when it lingers or lifts, can point to slow renewal, resistance to an ending, or the worst passing.",
+					"In general, {keyword} appears drawn out or easing.",
+					"{keyword} suggests noticing whether you're rising or still holding on."
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,412 @@
+{
+	"id": "wands_04_four",
+	"name": "Four of Wands",
+	"facets": [
+		{
+			"id": "celebration",
+			"keywords": ["celebration", "a milestone reached", "a joyful gathering"]
+		},
+		{
+			"id": "homecoming",
+			"keywords": ["homecoming", "a sense of home", "a warm welcome"]
+		},
+		{
+			"id": "stability",
+			"keywords": ["stability", "a firm foundation", "a settled season"]
+		},
+		{
+			"id": "harmony",
+			"keywords": ["harmony", "a happy household", "community spirit"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you're unsure where you stand, {keyword} is a reminder that some things in your life are already holding. Name one person whose welcome you never have to question.",
+					"{keyword} in love may feel almost too good to trust. You don't have to brace for it to end; let yourself enjoy one evening of it fully.",
+					"When nerves run high, {keyword} invites you to come back to the simple rituals you share with someone: a meal, a walk, the way you say goodnight."
+				],
+				"curious": [
+					"{keyword} asks a warm question: what does home feel like with the people you love, and who helps make it feel that way?",
+					"What if {keyword} were something you created on purpose? A small ceremony, an anniversary marked, a table set a little more nicely than usual.",
+					"{keyword} hints at commitment or a step forward together. What would you want to celebrate in your relationships if you gave yourself permission?"
+				],
+				"grieving": [
+					"{keyword} may feel far away while you're missing someone, and celebrations can sting. You're allowed to sit quietly at the edge of the gathering.",
+					"When love has been lost, {keyword} might mean the place or people that still hold you. Let them hold you, without needing to be cheerful.",
+					"{keyword} can include remembering. A familiar room, a shared story, a candle at the table can honour the person who isn't there."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to notice what's working in your relationships. People often name problems quickly and good things rarely; which have you named lately?",
+					"{keyword} needs no mysticism: shared rituals and celebrations help relationships stay steady. Which ones do you keep, and which have lapsed?",
+					"Read plainly, {keyword} asks whether your home life feels like a shelter or just a schedule. Small changes can shift that."
+				],
+				"hopeful": [
+					"{keyword} is a lovely thing to carry into love. Mark the good moments out loud, even small ones; they tend to multiply when noticed.",
+					"If you're hoping for commitment or closeness, {keyword} suggests building it through shared rituals as much as big gestures.",
+					"{keyword} encourages you to celebrate the love you already have. That gratitude can make room for more, though nothing is promised."
+				],
+				"neutral": [
+					"In love, {keyword} points to commitment, shared joy, and a relationship that feels like home.",
+					"{keyword} speaks of stability and celebration between people. It asks where you feel most welcome.",
+					"{keyword} suggests a time to honour what has been built together, whether in a partnership, a family or a friendship."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels uncertain, {keyword} reminds you that some foundations are still solid. List two things you've done well this year, and let them steady you.",
+					"{keyword} at work may feel undeserved when you're anxious. One thing in your control: accept the thanks or recognition when it comes, rather than deflecting it.",
+					"When pressure builds, {keyword} invites you to remember the team or colleague who makes work feel more like home. Lean on that a little."
+				],
+				"curious": [
+					"{keyword} asks a cheerful question about work: when did your team last pause to mark something going right?",
+					"What could {keyword} look like in your working life? A launch party, a thank-you lunch, or simply taking Friday afternoon to breathe.",
+					"{keyword} hints that you've reached a resting point. What have you built that's worth stepping back to admire?"
+				],
+				"grieving": [
+					"If you're grieving a job or a colleague, {keyword} may feel out of reach. Familiar routines at work can be a quiet kind of shelter.",
+					"{keyword} may be happening around you while you're hurting. You can join in a little, or not at all, and still belong.",
+					"When a loss touches your working life, {keyword} might mean the people who have stood beside you. Let them do so a while longer."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to mark milestones. Teams that recognise progress tend to keep going; does yours?",
+					"{keyword} isn't luck; it's the result of groundwork. What foundations at work are solid enough to build on now?",
+					"Read plainly, {keyword} asks whether your workplace feels stable enough for you to plan ahead. If not, what's missing?"
+				],
+				"hopeful": [
+					"{keyword} suggests your efforts at work may be reaching a satisfying point. Let yourself enjoy it before moving to the next thing.",
+					"If you're hoping for recognition, {keyword} encourages you to share your wins and celebrate others' too.",
+					"{keyword} invites you to settle into what you've achieved. It's a good platform for whatever you choose next."
+				],
+				"neutral": [
+					"At work, {keyword} points to milestones, team harmony, and a stable base to work from.",
+					"{keyword} highlights celebration and belonging in your working life. It asks what you've built.",
+					"{keyword} suggests a time to recognise progress and enjoy a sense of security at work."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money worries are pressing, {keyword} reminds you to notice what is stable. Write down one expense you can count on covering, and start from there.",
+					"{keyword} doesn't have to be expensive. One small, steady step: plan a gathering at home with food everyone brings.",
+					"When finances feel shaky, {keyword} invites you to look at the foundations you've already built. They may be sturdier than fear suggests."
+				],
+				"curious": [
+					"{keyword} raises a money question: what does feeling settled actually cost, and what would it take for you?",
+					"What might {keyword} look like on your budget? A small reward for reaching a goal, or a savings target for a home.",
+					"{keyword} hints that you've reached a point worth noticing. What has your careful effort made possible?"
+				],
+				"grieving": [
+					"After a loss, {keyword} around money may feel distant. Steadying the essentials is plenty for now.",
+					"{keyword} might look like people helping with a meal, a lift, a practical task. Accepting that is not a debt.",
+					"When circumstances change, {keyword} can wait. There's no need to celebrate or decide anything big yet."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to check your foundations: emergency savings, housing, steady income. Which feels most solid?",
+					"{keyword} needs no magic: financial security usually comes from consistent small steps. Which ones are working for you?",
+					"Read plainly, {keyword} asks whether you're marking financial milestones. Noticing progress helps people stay on track."
+				],
+				"hopeful": [
+					"{keyword} suggests your efforts may be building something steady. Let yourself enjoy it, modestly.",
+					"If you're hoping for security, {keyword} encourages you to keep laying foundations; they add up over time.",
+					"{keyword} invites a small celebration of progress. Joy doesn't need a big budget."
+				],
+				"neutral": [
+					"Around money, {keyword} points to security, milestones reached, and resources shared at home.",
+					"{keyword} speaks of stability and modest celebration. It asks what feels solid in your finances.",
+					"{keyword} suggests a time to enjoy what you've built and protect the foundations underneath it."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} invites you to return to the routines that make you feel at home. Pick the simplest one and do it today.",
+					"{keyword} suggests comfort is close by. One thing you can do: make your space a little more restful tonight, with soft light and a warm drink.",
+					"When stress is high, {keyword} reminds you that ease often comes from familiar places and people. Spend a little time with one of them."
+				],
+				"curious": [
+					"{keyword} asks a lovely question: where do you feel most at ease in your body, and how could you spend more time there?",
+					"What might {keyword} add to your habits? A shared meal, a dance at a party, a long, relaxed afternoon.",
+					"{keyword} hints at the link between belonging and wellbeing. Which gatherings leave you feeling restored?"
+				],
+				"grieving": [
+					"Grief lives in the body, and {keyword} may feel too bright right now. Rest in familiar places is enough.",
+					"{keyword} might simply mean being somewhere you feel safe. Let that be your care for today.",
+					"When you're carrying loss, {keyword} can mean letting others bring the comfort. You don't have to provide it yourself."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to look at your home environment. Does it support rest, or work against it?",
+					"{keyword} needs no mystical reading: stable routines tend to help energy and mood. Which of yours are steady right now?",
+					"Read plainly, {keyword} asks whether you're making time for enjoyment. Rest and pleasure are part of care, not extras."
+				],
+				"hopeful": [
+					"{keyword} encourages you to let comfort and joy be part of how you care for yourself.",
+					"If you're hoping to feel more settled, {keyword} suggests building routines that feel like coming home.",
+					"{keyword} invites you to mark small gains in how you feel. Being glad about them is part of the care."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to rest, ease, and routines that feel stable and welcoming.",
+					"{keyword} highlights the energy that comes from feeling at home. It asks where you feel settled.",
+					"{keyword} suggests attention to comfort, celebration and a sense of being grounded."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsteady, {keyword} reminds you that you have somewhere to return to. Go back to one practice or place that has held you before.",
+					"{keyword} on the inner path can be as simple as gratitude. Name three things that feel solid today.",
+					"When doubt crowds in, {keyword} invites you to rest in what you already know. You don't have to search further right now."
+				],
+				"curious": [
+					"{keyword} asks a gentle question: what rituals mark the important moments in your life, and which ones would you like to create?",
+					"What could {keyword} teach you about the sacred? Some traditions find it in feasts, thresholds and homecomings.",
+					"{keyword} hints that joy can be a spiritual practice. Where do you feel most connected when you celebrate?"
+				],
+				"grieving": [
+					"{keyword} may seem far from grief, yet many traditions gather people to honour loss together. You can attend without needing to lead.",
+					"When loss has shaken your beliefs, {keyword} might mean a familiar place where you can simply sit.",
+					"{keyword} can be quiet: a doorway, a candle, a place set at the table. Ritual can hold what words can't."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about the rituals that mark meaning in life. Which ones do you keep, and why?",
+					"{keyword} needs no faith. It's a prompt to notice where you feel you belong and what that gives you.",
+					"Treat {keyword} as a question about stability: what values feel solid enough to build on?"
+				],
+				"hopeful": [
+					"{keyword} encourages you to celebrate inner progress, not just outer achievements.",
+					"If you're hoping for a sense of belonging, {keyword} suggests seeking out people and rituals that feel like home.",
+					"{keyword} invites gratitude as a daily practice, a simple way to notice what's already good."
+				],
+				"neutral": [
+					"On the inner path, {keyword} points to ritual, belonging, and a sense of having arrived somewhere.",
+					"{keyword} speaks of joy as part of spiritual life. It asks where you feel at home inwardly.",
+					"{keyword} suggests a time to honour the foundations of your practice and the people who share it."
+				]
+			},
+			"general": {
+				"anxious": [
+					"Whatever is worrying you, {keyword} reminds you that you have solid ground somewhere. Name one place or person that feels like home.",
+					"{keyword} suggests it's all right to pause and enjoy what's working. One small thing: let yourself have an easy evening.",
+					"When life feels uncertain, {keyword} invites you to notice the foundations still holding. That's real, even now."
+				],
+				"curious": [
+					"{keyword} opens a cheerful question: what would you celebrate right now if you allowed yourself to?",
+					"What might {keyword} look like this week? A dinner with friends, a finished project marked, a quiet toast to yourself.",
+					"{keyword} hints that you've arrived somewhere worth noticing. What has changed since you started?"
+				],
+				"grieving": [
+					"{keyword} may feel distant while you grieve. That's all right; celebrations can wait.",
+					"When you're carrying loss, {keyword} can be the people and places that hold you steady. Let them.",
+					"{keyword} doesn't ask you to feel joyful. It only notes that home is still there when you need it."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to recognise progress. When did you last mark something going right?",
+					"{keyword} isn't magic; it's what tends to follow steady effort. What foundations have you built?",
+					"Read plainly, {keyword} asks whether you feel settled where you are, and what would help if not."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image. Let yourself enjoy what you've built.",
+					"If you're hoping for stability, {keyword} suggests it may be closer than it seems. Keep tending it.",
+					"{keyword} invites you to celebrate the steps already taken, not only the outcome you're waiting for."
+				],
+				"neutral": [
+					"{keyword} speaks of celebration, home and the ease of a stable foundation.",
+					"In life as a whole, {keyword} points to milestones, belonging and harmony.",
+					"{keyword} brings attention to what is settled and worth honouring."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If home feels tense, {keyword} may be strained rather than lost. One thing in your control: choose a calm moment, not a heated one, to say what's on your mind.",
+					"{keyword} may feel shaky during a transition, like a move, a new arrangement or a change in who lives where. Hold on to one shared ritual while the rest settles.",
+					"When you feel unwelcome somewhere you hoped to belong, {keyword} can seem out of reach. Find one person who makes room for you without being asked, and spend time there."
+				],
+				"curious": [
+					"{keyword} might be turning inward in love. What would make you feel at home in yourself, regardless of anyone else?",
+					"What if {keyword} is shifting because your idea of home has changed? It could be interesting to describe what you want now.",
+					"{keyword} feels a little unsettled here. Is the celebration you're expected to want actually the one you'd choose?"
+				],
+				"grieving": [
+					"{keyword} may feel hollow while you grieve, especially at gatherings meant to be happy. You're allowed to step away.",
+					"If {keyword} changed when someone left, that's a loss in itself. You can miss the home you had as well as the person.",
+					"{keyword} may be on pause for a while. Small, private comforts can stand in until you're ready for more."
+				],
+				"skeptical": [
+					"Practically, {keyword} under strain often comes down to unspoken expectations about home life. Have you named yours?",
+					"{keyword} is a prompt to notice whether you're celebrating for appearances. Does it reflect how things really are?",
+					"Read plainly, {keyword} wobbling can mean a transition that hasn't been talked about. Who needs to be part of that conversation?"
+				],
+				"hopeful": [
+					"{keyword} may simply be delayed. If you're hoping for a settled bond, small steady acts of care help it take root.",
+					"If {keyword} feels shaky, hope is still fair. Homes are rebuilt all the time, one honest conversation at a time.",
+					"{keyword} could return in a quieter form, perhaps just the two of you, or just you, and that can be enough."
+				],
+				"neutral": [
+					"In love, {keyword} can point to tension at home, a celebration put off, or a relationship in transition.",
+					"{keyword} appears unsettled or turned inward, asking where you feel truly welcome.",
+					"{keyword} suggests the foundations of a relationship may need tending before they can be celebrated."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If your workplace feels unstable, {keyword} may be shaken for now. One thing in your control: steady the part of your work that's yours alone.",
+					"{keyword} may feel missing when wins go unrecognised. Keep your own record of what you've achieved; it still counts.",
+					"When the team feels out of step, {keyword} can be rebuilt with one good working relationship. Start there."
+				],
+				"curious": [
+					"{keyword} at work might be turning inward. What would you celebrate privately, even if no one else noticed?",
+					"What if {keyword} is unsettled because the team is in transition? What could you help shape as things change?",
+					"{keyword} might be on hold. Could this be a time to build foundations rather than mark achievements?"
+				],
+				"grieving": [
+					"{keyword} may be too much while you grieve. It's fine to skip the party or slip out early.",
+					"If {keyword} at work has faded since a loss, colleagues may not know what to say. Let one person know what helps.",
+					"{keyword} can wait. Familiar routines may be the steadiest thing for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} shaken may point to a lack of recognition. Is good work being seen?",
+					"{keyword} is a prompt to check stability. Are there structural issues at work being papered over with celebrations?",
+					"Read plainly, {keyword} delayed can mean a milestone pushed back. What needs to happen first?"
+				],
+				"hopeful": [
+					"{keyword} may simply be postponed. Keep building; the moment to mark it could still come.",
+					"If {keyword} feels missing, find one or two colleagues who make work feel more like home.",
+					"{keyword} could return as things settle. Hope is fair, alongside steady effort."
+				],
+				"neutral": [
+					"At work, {keyword} can point to instability, a lack of recognition, or a team in transition.",
+					"{keyword} appears delayed or unsettled, asking what foundations need attention.",
+					"{keyword} suggests celebrating privately, or waiting for a steadier time."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If your foundations feel shaky, {keyword} may be under pressure. One step in your control: secure one essential, like rent or a regular bill, before anything else.",
+					"{keyword} may come with costs you're quietly dreading. You can scale down a gathering without losing its warmth; people usually remember the company, not the spend.",
+					"When household costs feel heavy, {keyword} can seem out of reach. List what's solid, then what's wobbling, and deal with the smallest wobble first."
+				],
+				"curious": [
+					"{keyword} raises an interesting question: how much of your spending keeps up appearances, and how much brings you genuine joy?",
+					"What would {keyword} look like on a smaller budget? Some of the warmest evenings cost very little and are remembered for years.",
+					"{keyword} hints at a transition around home and money, perhaps a move or a new arrangement. What would help you feel settled through it?"
+				],
+				"grieving": [
+					"{keyword} may be unsettled by a loss, and decisions about home or money can feel enormous. They can wait until you're steadier.",
+					"If {keyword} feels out of reach, let someone you trust help with the practical side. You don't have to manage every form and figure alone.",
+					"{keyword} can be postponed. There's no need to spend, host or mark anything before you feel ready."
+				],
+				"skeptical": [
+					"Practically, {keyword} under strain often points to housing or household costs. Have you looked at the real numbers recently?",
+					"{keyword} is a prompt to check whether occasions and gatherings are quietly straining your budget. A clear limit is kinder than a vague worry.",
+					"Read plainly, {keyword} wobbling can mean the foundations need shoring up before anything is added on top. What's the first repair?"
+				],
+				"hopeful": [
+					"{keyword} may be on hold while you rebuild, and that's a sensible pause rather than a permanent one.",
+					"If you're hoping for security, {keyword} encourages small, steady steps. A modest buffer can make home feel calmer surprisingly quickly.",
+					"{keyword} could return once things are steadier. In the meantime, a small, affordable treat can still mark progress."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to instability at home, a milestone pushed back, or spending to keep up appearances.",
+					"{keyword} appears shaky or postponed, asking which financial foundations need attention first.",
+					"{keyword} suggests a transition in how you manage shared or household resources."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your routines feel unsettled, {keyword} may be disrupted for now. One small thing you can control: keep a regular bedtime while everything else shifts.",
+					"{keyword} may feel out of reach when home doesn't feel restful. Make one corner calm, with a chair, a lamp, a blanket, and let that be your refuge.",
+					"When things feel unstable, {keyword} can be rebuilt slowly. Start with whatever reliably comforts you, and do it on purpose."
+				],
+				"curious": [
+					"{keyword} might be turning inward. What would it take to feel at home in your own body, wherever you happen to be?",
+					"What if {keyword} is disrupted because your routines were built for a life you no longer live? What would fit the current one?",
+					"{keyword} hints at transition. It might be worth noticing how change is showing up in your sleep, appetite or mood."
+				],
+				"grieving": [
+					"{keyword} may feel too loud for a grieving body. Choosing quiet and rest is care, not withdrawal.",
+					"If {keyword} has been disrupted by loss, be gentle about it. Routines can be rebuilt later; for now, getting through the day is plenty.",
+					"{keyword} can return slowly. For now, warmth, simple food and a familiar room are enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} disrupted may point to an unsettled environment. What in your surroundings is getting in the way of rest?",
+					"{keyword} is a prompt to look at whether your home supports your wellbeing: light, noise, clutter, the people coming and going.",
+					"Read plainly, {keyword} shaken can mean good routines lost in a transition. Which one would be easiest to restore this week?"
+				],
+				"hopeful": [
+					"{keyword} may return as things settle. Keeping even one steady routine going can make that return easier.",
+					"If {keyword} feels missing, small comforts help rebuild it: the same morning drink, the same evening walk.",
+					"{keyword} could come back in a form that suits you better than before. Be patient with the in-between."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to disrupted routines, a home that doesn't feel restful, or ease postponed.",
+					"{keyword} appears shaken, asking what would help you feel at ease in your days again.",
+					"{keyword} suggests paying attention to comfort and stability while life is in transition."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If you feel unmoored, {keyword} may be shifting rather than gone. One steady step: keep one small practice going, even for a few minutes a day.",
+					"{keyword} may feel strained in a community you once trusted. You can step back to breathe without deciding anything final.",
+					"When belonging feels shaky, {keyword} can begin again with one kindred person rather than the approval of a whole group."
+				],
+				"curious": [
+					"{keyword} might be turning inward. What does home mean to you spiritually, apart from any building or group?",
+					"What if {keyword} is shifting because you've outgrown an old practice? It could be interesting to notice what you miss and what you don't.",
+					"{keyword} hints at rituals that have started to feel empty. Which ones would you change if no one else had a say?"
+				],
+				"grieving": [
+					"{keyword} may feel hollow while you grieve, even in places that once held you. That emptiness is part of loss, not a failing.",
+					"If {keyword} has faded since your loss, you may need some solitude for a while. Familiar places will still be there.",
+					"{keyword} can return slowly, perhaps in a different form. For now, honesty about what you feel is practice enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} shaken may mean a community that no longer fits your values. Is that worth naming to yourself?",
+					"{keyword} is a prompt to examine which rituals still carry meaning and which you keep only from habit or obligation.",
+					"Read plainly, {keyword} disrupted can point to a change in what you believe. That change deserves attention rather than embarrassment."
+				],
+				"hopeful": [
+					"{keyword} may be rebuilding quietly. Keep a little space open for it, and let it take a new shape if it needs to.",
+					"If you're hoping to belong somewhere, {keyword} encourages patience. The right circle may look different from the last one.",
+					"{keyword} could return closer to who you are now. That's worth waiting for."
+				],
+				"neutral": [
+					"On the inner path, {keyword} can point to feeling unmoored, a practice in transition, or a celebration kept private.",
+					"{keyword} appears turned inward, asking where you feel spiritually at home.",
+					"{keyword} suggests examining which foundations of your practice still hold."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If things feel unsettled, {keyword} may be shaken but not gone. One thing in your control: tend one small corner of your life, like your room or your morning.",
+					"{keyword} may feel missing right now. Plan one simple, comforting thing to look forward to this week.",
+					"When life is in transition, {keyword} can feel far away. Hold on to one familiar ritual while everything else moves."
+				],
+				"curious": [
+					"{keyword} feels a little off-balance. What would it take for you to feel truly at home, and where?",
+					"What if {keyword} is postponed rather than lost? When the moment comes, what would you most want to celebrate?",
+					"{keyword} hints at a transition. What's changing around you, and what would you like to carry through it?"
+				],
+				"grieving": [
+					"{keyword} may feel like something that belongs to other people right now. You don't have to join in to stay loved.",
+					"If {keyword} has been disrupted by loss, there's no rush to rebuild. Home can be very small for a while.",
+					"{keyword} can wait. Some seasons are for quiet rooms and a few close people."
+				],
+				"skeptical": [
+					"Practically, {keyword} shaken often means one foundation needs attention: home, work, money or people. Which is it for you?",
+					"{keyword} is a prompt to notice whether the celebrations in your life match how things actually feel.",
+					"Read plainly, {keyword} delayed may point to a transition that isn't finished yet. What still needs to happen?"
+				],
+				"hopeful": [
+					"{keyword} may simply be delayed. Keep the door open and the invitations warm.",
+					"If {keyword} feels shaky, hope is still fair. Foundations can be rebuilt, often more to your liking than before.",
+					"{keyword} could return as things settle. Notice the small moments of ease along the way."
+				],
+				"neutral": [
+					"Overall, {keyword} can point to instability, a life in transition, or a celebration postponed.",
+					"{keyword} appears shaken or turned inward, asking where you feel truly at home.",
+					"{keyword} suggests foundations that need tending before they can be enjoyed."
+				]
+			}
+		}
+	}
+}

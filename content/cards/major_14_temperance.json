@@ -1,0 +1,412 @@
+{
+	"id": "major_14_temperance",
+	"name": "Temperance",
+	"facets": [
+		{
+			"id": "balance",
+			"keywords": ["balance", "a middle path", "moderation"]
+		},
+		{
+			"id": "patience",
+			"keywords": ["patience", "steady pacing", "a slow blending"]
+		},
+		{
+			"id": "integration",
+			"keywords": ["integration", "a blending of opposites", "common ground"]
+		},
+		{
+			"id": "harmony",
+			"keywords": ["harmony", "a sense of flow", "inner calm"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"In love, {keyword} can be built in small measures. You don't need to settle every worry tonight; one calm, ordinary moment together, or alone, is enough to start.",
+					"If your thoughts about someone are racing, let {keyword} mean slowing them down. Breathe in for four, out for six, and decide nothing until you've done it a few times.",
+					"{keyword} between people rarely arrives all at once. What is one small thing you could add to the relationship this week, and one small thing you could let go of?"
+				],
+				"curious": [
+					"{keyword} in a relationship invites a gentle experiment: what happens if you meet the other person halfway on something you've both dug in about?",
+					"What might {keyword} look like between two people who are very different? It can be fascinating to notice where your opposites actually fit together.",
+					"Here {keyword} asks about the mix: how much closeness and how much space feels right to you, and has the recipe changed lately?"
+				],
+				"grieving": [
+					"{keyword} can feel far away when your heart is heavy. Let love be uneven for a while; there's no right blend of feelings to aim for.",
+					"When someone is missing, {keyword} may simply mean letting tears and ordinary moments sit side by side. Both belong.",
+					"{keyword} doesn't ask you to steady yourself quickly. Take each day in whatever measure you can manage, and let others pour a little care your way."
+				],
+				"skeptical": [
+					"Practically, {keyword} in love is about give and take. Is one of you consistently compromising more? A quick look at recent decisions will tell you.",
+					"Read plainly, {keyword} asks whether you swing between extremes with someone, too close then too distant. What would a steadier middle look like?",
+					"Treat {keyword} as a prompt to find one shared interest or value you can both build on, rather than another point to argue over."
+				],
+				"hopeful": [
+					"{keyword} in love can grow from small, patient acts. It doesn't promise an outcome, but it makes a good one easier to reach.",
+					"If you're hoping for a warmer connection, {keyword} invites you to go slowly and stay consistent. Steady care is often more persuasive than grand gestures.",
+					"{keyword} may already be forming between you and someone close. Where have you noticed things flowing more easily lately?"
+				],
+				"neutral": [
+					"In relationships, {keyword} points to compromise, patience, and finding a workable middle between two people.",
+					"{keyword} suggests that a connection benefits from moderation, steady effort, and blending different needs.",
+					"Here {keyword} speaks to calm, measured care in the way people treat each other."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} can be a steadying idea. You don't have to do everything at full speed; choose a pace you can keep for the whole week, not just today.",
+					"If work feels overwhelming, let {keyword} guide one small change: a proper lunch break, or finishing one task before starting the next.",
+					"{keyword} in your working life may mean blending effort with rest. Which single item could wait until tomorrow without real harm?"
+				],
+				"curious": [
+					"{keyword} at work invites you to mix skills that don't usually meet. What would happen if you brought a hobby's way of thinking into your job?",
+					"What would {keyword} look like on your team? Notice who balances whom, and where a different mix might work better.",
+					"Here {keyword} asks how you'd combine ambition with ease. Is there a version of your goals that doesn't cost you your evenings?"
+				],
+				"grieving": [
+					"If you're carrying a loss while working, {keyword} may mean doing less and doing it gently. That is a reasonable pace, not a failure.",
+					"{keyword} at work can be as simple as letting colleagues help a little more than usual. You don't have to hold the whole load right now.",
+					"When everything feels heavy, {keyword} invites you to take work one measured task at a time, without asking more of yourself than you have."
+				],
+				"skeptical": [
+					"Practically, {keyword} at work means sustainable pace. How many weeks in a row could you keep up your current hours? Be honest.",
+					"Read as a prompt, {keyword} asks whether you're overcorrecting, from too little effort to too much, or the reverse. Where is the steady middle?",
+					"No mysticism needed: {keyword} is a project management habit. Combine two half-finished efforts into one, and see what that frees up."
+				],
+				"hopeful": [
+					"{keyword} in your career can turn slow progress into lasting progress. Steady, moderate effort tends to outlast bursts of strain.",
+					"If you're hoping to move forward, {keyword} invites you to blend patience with action. What step this week would be steady rather than rushed?",
+					"{keyword} may help you find work that fits your life rather than consuming it. What would that balance look like for you?"
+				],
+				"neutral": [
+					"At work, {keyword} points to sustainable pace, cooperation, and combining different skills well.",
+					"{keyword} suggests that patience and moderation will serve your career better than extremes.",
+					"Here {keyword} speaks to finding a workable blend of ambition, effort, and rest."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} can steady you. You don't have to fix everything at once; one modest, regular habit, like checking your balance on the same day each week, is enough.",
+					"If finances feel tight, let {keyword} guide a single small adjustment rather than a sweeping one. Small changes are easier to keep.",
+					"{keyword} in money matters may mean neither panic nor avoidance. Look at the figures calmly, for just a few minutes, and then stop."
+				],
+				"curious": [
+					"{keyword} invites you to notice your spending rhythm. Do you swing between strict and loose? What would a gentler middle feel like?",
+					"What would {keyword} look like if you blended saving with enjoying? Try setting aside a small amount purely for pleasure.",
+					"Here {keyword} asks how you mix security and generosity. Where do you lean, and is that by choice?"
+				],
+				"grieving": [
+					"If money is tangled with a loss, {keyword} may mean doing only what's needed. The rest can wait.",
+					"{keyword} with your finances doesn't have to be achieved now. Let someone help you keep things steady while you grieve.",
+					"When everything feels heavy, {keyword} can be small: pay what's due, spend gently on what comforts you, and leave bigger decisions for later."
+				],
+				"skeptical": [
+					"Practically, {keyword} with money means a budget you can actually keep. Is yours realistic, or does it need loosening to work?",
+					"Read plainly, {keyword} asks whether you overcorrect, saving hard and then splurging. Look at the last three months for the pattern.",
+					"Treat {keyword} as a simple rule of thumb: avoid extremes in spending or risk. Which of your current choices is the most extreme?"
+				],
+				"hopeful": [
+					"{keyword} with money can build security slowly and reliably. Steady habits won't guarantee wealth, but they make stability more likely.",
+					"If you're hoping for more ease with money, {keyword} invites patience. Small, consistent steps add up more than you'd expect.",
+					"{keyword} may help you enjoy what you have while still planning ahead. What one habit would make that blend easier?"
+				],
+				"neutral": [
+					"With money, {keyword} points to moderation, patient saving, and a balanced approach to spending.",
+					"{keyword} suggests avoiding extremes and letting financial stability build steadily.",
+					"Here {keyword} speaks to blending security with enjoyment in how you use resources."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} in your body can begin with breath. Try breathing out a little longer than you breathe in, a few times; it's a small, reliable way to steady yourself.",
+					"If you're worried about your energy, let {keyword} mean one gentle adjustment rather than many. A regular bedtime is a fine place to start.",
+					"{keyword} can be found in ordinary things: a glass of water, a short walk, a moment of sitting still. Choose one and let that be enough today."
+				],
+				"curious": [
+					"{keyword} invites you to notice the mix in your days. How much rest, how much movement, how much stimulation? What feels slightly off?",
+					"What would {keyword} feel like in your body? Try paying attention after a meal, a walk, or a conversation, and notice what restores you.",
+					"Here {keyword} asks whether you swing between pushing hard and collapsing. What would a gentler rhythm look like?"
+				],
+				"grieving": [
+					"Grief can unsettle every rhythm, and {keyword} doesn't have to be achieved now. Eat when you can, rest when you can; that's enough.",
+					"{keyword} in your body may come back slowly. Be patient with the heaviness and the uneven days.",
+					"When you're carrying a loss, {keyword} can be as simple as a warm drink and a few minutes of quiet. Let small comforts count."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about not overdoing anything. Which habit are you doing too much of, and which too little?",
+					"Read as a prompt, {keyword} asks you to look at your week as a recipe: sleep, work, movement, rest. Which ingredient is missing?",
+					"Treat {keyword} as an experiment. Change one habit moderately for two weeks and note how your energy responds."
+				],
+				"hopeful": [
+					"{keyword} can help your energy steady over time. Small, consistent care often matters more than big efforts.",
+					"If you're hoping to feel better in yourself, {keyword} invites patience. Gentle routines can build a sense of ease.",
+					"{keyword} may already be returning in small ways. Notice the moments when you feel steady, and do more of what led to them."
+				],
+				"neutral": [
+					"In health, {keyword} points to moderation, steady routines, and a balanced mix of rest and activity.",
+					"{keyword} suggests that patience and gentle consistency will support your wellbeing.",
+					"Here {keyword} speaks to finding a sustainable rhythm in how you care for your body."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{keyword} in your inner life can start with one quiet breath. You don't need a perfect practice; a few calm moments are enough.",
+					"If you feel unsettled, let {keyword} remind you that inner calm grows slowly. Return to a simple practice that steadies you.",
+					"{keyword} can be found in the space between thoughts. Try pausing for a moment and noticing what's there."
+				],
+				"curious": [
+					"{keyword} invites you to blend practices or ideas that might seem to conflict. What happens when you hold both at once?",
+					"What might {keyword} reveal if you approached your beliefs as a mixture rather than a single thing? Which parts blend easily, and which resist?",
+					"Here {keyword} asks what your inner life would look like if it moved at a slower, steadier pace."
+				],
+				"grieving": [
+					"{keyword} may feel distant in grief. Let your inner life be messy and uneven; it doesn't need to be calm right now.",
+					"In a heavy season, {keyword} can be very small: a candle, a quiet minute, a breath. Let that be enough.",
+					"{keyword} doesn't ask you to make peace with anything yet. Let yourself be held by whatever practice still comforts you."
+				],
+				"skeptical": [
+					"Read without mysticism, {keyword} is about integrating different parts of yourself. Which two values do you find hardest to reconcile?",
+					"Treat {keyword} as a prompt to avoid extremes in belief. Where are you holding a view more rigidly than the evidence warrants?",
+					"{keyword} needs no special framing to be useful. Simply ask whether your inner life has room for both effort and rest."
+				],
+				"hopeful": [
+					"{keyword} on your spiritual path can bring a quieter, steadier kind of growth. It may be slow, but it tends to last.",
+					"If you hope to feel more whole, {keyword} invites you to bring together parts of yourself that you've kept apart.",
+					"{keyword} may be closer than you think. Notice moments of calm, and let them stretch a little longer."
+				],
+				"neutral": [
+					"Spiritually, {keyword} points to integration, patience, and a middle path between extremes.",
+					"{keyword} suggests growth through steady practice and the blending of different parts of yourself.",
+					"Here {keyword} speaks to inner calm and the slow work of becoming whole."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} can steady you when things feel uncertain. Choose one small, calm action today, making a meal, tidying one surface, and let it set the pace for the rest.",
+					"If life feels like too much, let {keyword} give you permission to do a little less, a little more slowly. That is a sensible response, not a weakness.",
+					"{keyword} may begin with one deliberate breath. Start there, then choose only the next step, not the whole staircase."
+				],
+				"curious": [
+					"{keyword} invites you to notice where you swing between extremes, all or nothing, yes or never. What might live in the middle?",
+					"What could {keyword} create if you blended two things you usually keep apart, like work and play, or solitude and company? Try it on a small scale.",
+					"Here {keyword} asks what would change if you moved through your days at a steadier, slower pace. Which part of life would you notice first?"
+				],
+				"grieving": [
+					"{keyword} may feel out of reach in a heavy time. Let your days be uneven; some will be heavier than others, and that's alright.",
+					"In grief, {keyword} can be as simple as getting through today gently. Nothing more is asked of you.",
+					"{keyword} doesn't ask you to find calm quickly. Let others carry a little of what you can't, and accept what they pour your way."
+				],
+				"skeptical": [
+					"Practically, {keyword} means avoiding extremes. Which part of your life is currently out of proportion to how much it matters to you?",
+					"Read as a prompt, {keyword} asks whether you could blend two approaches instead of choosing between them. Where would a hybrid work?",
+					"Treat {keyword} as a pacing check: if you kept up this week's level of effort for a year, how would you feel?"
+				],
+				"hopeful": [
+					"{keyword} can make progress steadier and more lasting. It doesn't promise speed, but it offers something sturdier.",
+					"If you're hoping for a good outcome, {keyword} invites patience alongside action. Small, steady steps tend to add up.",
+					"{keyword} may already be forming. Notice where life feels a touch more even than it did a month ago."
+				],
+				"neutral": [
+					"{keyword} points to moderation, patience, and blending different elements well.",
+					"In general, {keyword} suggests a steady, balanced approach rather than swinging between extremes.",
+					"Here {keyword} speaks to calm, gradual progress and finding a workable middle."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"{keyword} in a relationship may feel out of reach right now, with things swinging hot and cold. You don't have to fix the rhythm today; just notice it without blame.",
+					"If {keyword} between you and someone close has slipped, bring it back to one small, calm exchange. A kind message or a quiet meal together is enough.",
+					"{keyword} may be strained by too much worry on your side. One thing in your control: give yourself an evening off from analysing the relationship."
+				],
+				"curious": [
+					"{keyword} reversed in love might show up as one person doing all the adjusting. Who bends more between you, and has anyone noticed?",
+					"What if {keyword} has tipped into excess, too much time together, too many expectations? Explore what a little more space might bring.",
+					"Here {keyword} may be blocked by impatience. What are you trying to hurry in a relationship that might need longer to settle?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible when love has been shaken by loss. Let feelings come in uneven waves; you don't need to balance them.",
+					"If you've been swinging between numbness and overwhelm, that's a very human response. {keyword} can return slowly, without being forced.",
+					"{keyword} doesn't have to be found yet. Lean on the people who can be steady for you while you can't be steady yourself."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed in love often means a pattern of overcorrecting: a fight, then too much apology, then another fight. Where does the cycle start?",
+					"Read plainly, {keyword} missing can mean incompatible paces. Does one of you want to move faster? Say it out loud.",
+					"Treat {keyword} as a prompt to check excess in a relationship: too much checking in, too much giving, too much compromise. Which one?"
+				],
+				"hopeful": [
+					"{keyword} may be returning slowly in love. Small, steady gestures can rebuild a rhythm that got lost.",
+					"If you hope to steady a connection, {keyword} invites you to slow down rather than try harder. Ease often comes back when pressure drops.",
+					"{keyword} may be closer than it seems. Notice the moments when you and someone close fall back into an easy rhythm."
+				],
+				"neutral": [
+					"Reversed in love, {keyword} may be strained by impatience, excess, or one-sided compromise.",
+					"{keyword} suggests a relationship swinging between extremes rather than settling.",
+					"Here {keyword} points to an imbalance in pace or effort between people."
+				]
+			},
+			"career": {
+				"anxious": [
+					"At work, {keyword} may have slipped, with too much on one side of the scale. Choose one thing to set down this week; that's a real step.",
+					"If {keyword} is missing from your working days, notice when you last took a proper break. Take a short one today, without guilt.",
+					"{keyword} may feel far off while deadlines pile up. Write down the three most important tasks and let the rest wait their turn."
+				],
+				"curious": [
+					"{keyword} reversed at work might show up as burnout disguised as dedication. How would you know if you'd crossed that line?",
+					"What if {keyword} were blocked by impatience, wanting results faster than the work allows? Explore what slower progress might make possible.",
+					"Here {keyword} may be overdone, so much compromise you've lost your own view. Where did your voice go at work?"
+				],
+				"grieving": [
+					"If you're working through a hard time, {keyword} may be difficult to find. Doing less is reasonable right now.",
+					"{keyword} at work may slip while you're carrying a loss. Let colleagues help where they can.",
+					"When work feels unbalanced, {keyword} doesn't ask you to fix it immediately. Be gentle with your pace."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed at work often means overcommitting. Count your current commitments and compare them honestly with your hours.",
+					"Read plainly, {keyword} missing can mean swinging between procrastination and panic. What would steady, daily progress look like?",
+					"Treat {keyword} as a prompt to check whether you're rushing a process that needs time, or dragging one that needs a decision."
+				],
+				"hopeful": [
+					"{keyword} may return at work as you adjust your pace. Small changes to your workload can restore a lot.",
+					"If you're hoping for steadier days, {keyword} invites you to drop one unnecessary commitment.",
+					"{keyword} may already be coming back. Notice where work feels a little more manageable than it did."
+				],
+				"neutral": [
+					"Reversed at work, {keyword} may be lost to overwork, impatience, or swinging between extremes.",
+					"{keyword} suggests a pace that isn't sustainable, or a team that isn't blending well.",
+					"Here {keyword} points to imbalance between effort and rest in your career."
+				]
+			},
+			"money": {
+				"anxious": [
+					"With money, {keyword} may have slipped, perhaps spending in bursts or saving in panics. One steady step: set a small, regular amount aside, however modest.",
+					"If {keyword} is missing from your finances, you don't have to fix it all now. Look at one category of spending and ask whether it feels right.",
+					"{keyword} may feel far off. Steady yourself with what is reliable: a known income, a bill already paid."
+				],
+				"curious": [
+					"{keyword} reversed with money might show up as feast and famine: generous one week, anxious the next. What triggers the swing?",
+					"What if {keyword} were blocked by impatience, wanting financial results faster than they can come? Explore a slower plan.",
+					"Here {keyword} may be overdone, so cautious that you never enjoy what you've earned. Where could you loosen a little?"
+				],
+				"grieving": [
+					"If money has become uneven after a loss, {keyword} may take time to return. Cover today's needs and leave the rest.",
+					"{keyword} with finances may slip in grief. Let someone you trust help you steady things.",
+					"When everything feels heavy, {keyword} doesn't need to be achieved now. Small, gentle care is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means impulse spending followed by over-restriction. Track one month and look for the pattern.",
+					"Read plainly, {keyword} missing can mean a budget that's too strict to keep. Would a looser, realistic one work better?",
+					"Treat {keyword} as a prompt to check for extremes in your financial choices. Which one would a calm friend question?"
+				],
+				"hopeful": [
+					"{keyword} with money may return as you find a steadier rhythm. Small, regular habits can rebuild stability.",
+					"If you're hoping for financial ease, {keyword} invites patience and one realistic adjustment.",
+					"{keyword} may be closer than it feels. Notice where your money habits are already a little steadier."
+				],
+				"neutral": [
+					"Reversed with money, {keyword} may be lost to impulse, over-restriction, or impatience.",
+					"{keyword} suggests financial swings between extremes rather than steady habits.",
+					"Here {keyword} points to imbalance between saving and spending."
+				]
+			},
+			"health": {
+				"anxious": [
+					"{keyword} in your daily life may have slipped, with too much of one thing and too little of another. One small correction, like an earlier night, is enough to start.",
+					"If {keyword} feels far away, try one slow breath where the exhale is longer than the inhale. It's a small, real thing you can do right now.",
+					"{keyword} may be strained by doing everything at once. Choose one gentle habit to focus on this week."
+				],
+				"curious": [
+					"{keyword} reversed might show up as all-or-nothing habits: intense effort, then nothing. What would a steadier middle look like for you?",
+					"What if {keyword} were blocked by impatience with your own body? Explore what it would mean to give it more time.",
+					"Here {keyword} may be overdone, so careful with routines that they've become rigid. Where could you allow some flexibility?"
+				],
+				"grieving": [
+					"{keyword} may slip in grief; sleep, appetite and energy can all go uneven. That's understandable, and it's not your fault.",
+					"If your rhythms feel off, {keyword} can return slowly. Small comforts are enough for now.",
+					"{keyword} doesn't have to be restored yet. Be gentle with your body as it carries this."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means excess in one area. Which habit are you overdoing right now?",
+					"Read plainly, {keyword} missing can mean swinging between strict routines and abandoning them. What would be sustainable?",
+					"Treat {keyword} as a prompt to notice which part of your day has the least rest in it."
+				],
+				"hopeful": [
+					"{keyword} may return as you adjust gently. Small, consistent changes can restore a sense of steadiness.",
+					"If you hope to feel better in yourself, {keyword} invites patience rather than pressure.",
+					"{keyword} may already be returning. Notice a day that felt a little more even, and what helped."
+				],
+				"neutral": [
+					"Reversed in health, {keyword} may be lost to excess, rigidity, or impatience.",
+					"{keyword} suggests swinging between extremes in how you care for yourself.",
+					"Here {keyword} points to an uneven rhythm of rest and effort."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"{keyword} in your inner life may feel disrupted. One quiet breath, noticed fully, is a small way back.",
+					"If {keyword} seems missing, it's alright not to feel calm. A simple practice, done gently, is enough.",
+					"{keyword} may be strained by trying too hard. Let your practice be lighter today."
+				],
+				"curious": [
+					"{keyword} reversed might show up as spiritual extremes: intense devotion, then nothing. What draws you into the swing?",
+					"What if {keyword} were blocked by impatience for growth? Explore what slow, unremarkable practice might offer.",
+					"Here {keyword} may be missing because two parts of you are in conflict. Which two?"
+				],
+				"grieving": [
+					"{keyword} may feel distant in grief. Let your inner life be uneven and unresolved.",
+					"If calm won't come, that's alright. {keyword} can return in its own time.",
+					"{keyword} doesn't have to be found now. Let yourself be held by whatever still comforts you."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means rigid or extreme thinking. Which belief are you holding most tightly?",
+					"Read plainly, {keyword} missing can mean trying to force inner growth. What would happen if you eased off?",
+					"Treat {keyword} as a prompt to notice where your values and your habits are pulling in different directions."
+				],
+				"hopeful": [
+					"{keyword} may return as you slow down. Inner calm tends to grow when it isn't chased.",
+					"If you hope to feel more whole, {keyword} invites you to let two parts of yourself speak to each other.",
+					"{keyword} may already be returning. Notice moments of quiet that arrive unexpectedly."
+				],
+				"neutral": [
+					"Reversed spiritually, {keyword} may be lost to extremes, impatience, or inner conflict.",
+					"{keyword} suggests that parts of yourself are pulling in different directions.",
+					"Here {keyword} points to inner discord or a practice that has become too forced."
+				]
+			},
+			"general": {
+				"anxious": [
+					"{keyword} may feel out of reach, with life tipping too far one way. One small, steadying action today, a meal at a normal hour, a walk, is enough to begin rebalancing.",
+					"If {keyword} seems missing, notice where you're overdoing things, even with good intentions. Choose one thing to ease off on this week.",
+					"{keyword} may be strained right now, and that's not a sign of failure. Focus on the one thing in your control today and let the rest wait its turn."
+				],
+				"curious": [
+					"{keyword} reversed might show up as all-or-nothing thinking: perfect or pointless, now or never. Where in your life does that pattern turn up most?",
+					"What if {keyword} were blocked by impatience? It could be revealing to ask what you're trying to rush, and who set the deadline.",
+					"Here {keyword} may be overdone, so much compromise that your own view has gone quiet. Where would you like to take a clearer position?"
+				],
+				"grieving": [
+					"{keyword} may feel far off in a heavy time. Let your days be uneven; some hours will be harder than others, and that's alright.",
+					"If calm won't come, there's nothing wrong with you. {keyword} can return slowly, without being chased.",
+					"{keyword} doesn't have to be restored now. Lean on the steadier people around you, and let them do some of the balancing."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed usually means excess somewhere. Which area of your life gets far more of your time than it deserves?",
+					"Read plainly, {keyword} missing often comes down to impatience. What are you trying to finish faster than it can reasonably be done?",
+					"Treat {keyword} as a prompt to pick one area to moderate for a month, and keep a short note of what changes."
+				],
+				"hopeful": [
+					"{keyword} may return as you adjust your pace. A few small corrections can restore more than you'd expect.",
+					"If you're hoping for steadier days, {keyword} invites one gentle correction rather than a complete overhaul.",
+					"{keyword} may already be returning. Notice where things feel a little more even than they did, and what helped."
+				],
+				"neutral": [
+					"Reversed, {keyword} may be lost to excess, impatience, or swinging between extremes.",
+					"{keyword} suggests imbalance, or a pace that can't be sustained for long.",
+					"Here {keyword} points to discord between different parts of life that haven't yet been brought together."
+				]
+			}
+		}
+	}
+}

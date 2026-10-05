@@ -1,0 +1,412 @@
+{
+	"id": "pentacles_07_seven",
+	"name": "Seven of Pentacles",
+	"facets": [
+		{
+			"id": "patience",
+			"keywords": ["patience", "slow growth", "a harvest not yet ready"]
+		},
+		{
+			"id": "taking_stock",
+			"keywords": ["taking stock", "an honest review of progress", "a pause to assess"]
+		},
+		{
+			"id": "long_term_effort",
+			"keywords": ["long-term effort", "steady tending", "work that pays off slowly"]
+		},
+		{
+			"id": "perseverance",
+			"keywords": ["perseverance", "staying the course", "commitment through a slow season"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are worried a relationship is not moving fast enough, {keyword} asks you to look at what has quietly grown rather than what is missing. Name one thing that is better now than six months ago.",
+					"{keyword} suggests love often deepens on its own schedule. One small thing in your control today: tend the relationship with an ordinary kindness and let the bigger questions rest a while.",
+					"When you cannot tell where things are heading, {keyword} invites you to pause rather than push. Write down what you have both put in so far; it may steady you to see it."
+				],
+				"curious": [
+					"{keyword} asks an interesting question about love: what are you growing together, and what would a good harvest even look like for the two of you?",
+					"What if {keyword} were the most romantic thing on offer this season? Notice the slow, unglamorous ways closeness builds, and which ones you most enjoy.",
+					"{keyword} hints at a moment to step back and look at the garden. Which parts of your relationships are flourishing, and which have you stopped watering?"
+				],
+				"grieving": [
+					"When you are missing someone, {keyword} may simply mean letting grief take the time it takes. Nothing needs to bloom yet.",
+					"{keyword} can be a gentle way of looking back at what you built with someone. The years of care were real, and they still count even now.",
+					"Grief has its own seasons, and {keyword} does not ask you to hurry through this one. It is all right to sit in the field for a while without planting anything new."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to review a relationship honestly. Is the effort each of you puts in roughly matched by what you both get from it?",
+					"Read {keyword} as a plain question: are you giving this connection enough time to show what it is, or judging it too early? Both mistakes are common.",
+					"No mystery is needed: {keyword} points to the fact that trust builds through repetition. What small, consistent thing could you keep doing for a month and then reassess?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign for love. If you are hoping something will grow, the steady care you are giving may matter more than any grand gesture.",
+					"If you are hoping for a deeper bond, {keyword} suggests you are on a real path, just a slow one. Keep tending it, and let it surprise you.",
+					"{keyword} invites hope with its feet on the ground. Good relationships are often grown rather than found, and you can keep growing this one without forcing it."
+				],
+				"neutral": [
+					"In love, {keyword} speaks of a relationship that is developing slowly, and of a moment to look at what has been built so far.",
+					"{keyword} points to patient care and honest assessment. It asks whether your relationships are getting the steady attention they need to grow.",
+					"{keyword} brings attention to the long view in love: what you have planted together, and how it is coming along."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work progress feels painfully slow, {keyword} asks you to list what you have actually done, not what is left. One small step: write down three things you finished this month.",
+					"{keyword} suggests your efforts may be growing beneath the surface. One thing in your control today: take the next small step on the project that matters most, and leave the rest.",
+					"When you are unsure your work is going anywhere, {keyword} invites a calm review. Set aside twenty minutes this week to look at where you started and where you are now."
+				],
+				"curious": [
+					"{keyword} asks a lively question: which of your projects would you keep tending even if nobody noticed for a year? That may say a lot about your real vocation.",
+					"What if {keyword} were a skill in itself? Notice how you handle the middle of long projects, the dull, unrewarded stretch, and what helps you through it.",
+					"{keyword} hints at a moment to lean on the fence and look at the field. Which parts of your career are growing well, and which are you watering out of habit?"
+				],
+				"grieving": [
+					"If you are mourning a job or a plan that did not come to fruit, {keyword} may simply mean honouring the years you gave it. That effort shaped you, even if it ended.",
+					"{keyword} can be a quiet way of sitting with a working life that has changed. You don't need a new plan yet; you only need time.",
+					"When work holds grief, {keyword} may look like slowing down on purpose. The field can lie fallow for a season without anything being lost."
+				],
+				"skeptical": [
+					"Read practically, {keyword} is about reviewing return on effort. Which tasks produce real results, and which just keep you busy? A plain audit is worth doing.",
+					"Treat {keyword} as a prompt for a progress check: set one measurable goal, give it a fixed time, then look again. That is the whole method.",
+					"Plainly put, {keyword} reminds you that most careers are built slowly. Is your frustration about the pace, or about the direction? Those call for different responses."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign at work. If you are hoping your efforts will be recognised, keep going steadily; slow growth tends to be sturdy growth.",
+					"If you are hoping for progress, {keyword} suggests the groundwork you have laid matters. Take a moment to see how far you have come before deciding the next step.",
+					"{keyword} invites you to trust the process without promising the outcome. Hope is reasonable here when it is paired with regular, honest check-ins."
+				],
+				"neutral": [
+					"At work, {keyword} points to long-term projects, patient development and a natural pause to evaluate progress.",
+					"{keyword} speaks of effort that compounds over time and the need to step back and check it is going where you want.",
+					"{keyword} highlights the middle stretch of a career or project, when results are still forming and assessment matters."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money feels slow to build, {keyword} asks you to notice what you have kept steady, not only what you lack. One small step: look at one month's figures and mark a single bright spot.",
+					"{keyword} suggests that security often grows quietly. One thing you control today: decide on one small, regular habit with money that you could keep without strain.",
+					"When finances worry you, {keyword} invites you to step back rather than react. A calm look at where things stand can be steadier than any quick fix."
+				],
+				"curious": [
+					"{keyword} raises an interesting question: what does a good harvest look like for you, financially? More money, more ease, more time? The answer shapes what you tend.",
+					"What if {keyword} were how you thought about money this month? Notice which small, repeated choices add up and which quietly leak away.",
+					"{keyword} hints at a pause to look at the field. Where have your resources grown over the last year, and where have they stood still?"
+				],
+				"grieving": [
+					"Money can feel heavy after a loss, and {keyword} may simply mean not making big decisions yet. There is time to look at the numbers later.",
+					"{keyword} may also touch on what someone spent years building. You don't need to decide what to do with it now; it can rest while you do.",
+					"If a loss has changed your finances, {keyword} gently notes that clarity often comes slowly. It is all right to take one small task at a time."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to review. Look at what you earn, spend and set aside over a few months, then ask whether the pattern matches your priorities.",
+					"Treat {keyword} as a reminder that most financial stability is unglamorous and slow. Which steady habit would make the biggest difference if you kept it for a year?",
+					"No mystery here: {keyword} points to the gap between effort and return. Is there somewhere your time or money is going that produces less than you thought?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image for money. If you are hoping for more security, the steady choices you are making may matter more than any windfall.",
+					"If things are slowly improving, {keyword} invites you to notice the progress. Hope is easier to keep when you can see the first green shoots.",
+					"{keyword} suggests your patience with money may be worth it, without promising when. Keep tending, and check in now and then on how things are growing."
+				],
+				"neutral": [
+					"Around money, {keyword} points to slow growth, patient saving and a moment to evaluate how resources are developing over time.",
+					"{keyword} speaks of the long view with money: what you have put in, what is returning, and whether the balance feels right.",
+					"{keyword} highlights resources that are still maturing, and the value of an honest look before deciding what to do next."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels slow to respond to your care, {keyword} asks you to notice small changes rather than big ones. One step you can take: jot down how you feel each evening for a week.",
+					"{keyword} suggests steady habits often work quietly. One thing in your control today: keep doing the one small thing that helps, even if you can't yet see a difference.",
+					"When you are worried about how you feel, {keyword} invites a calm pause. Look at the last month as a whole instead of judging today alone."
+				],
+				"curious": [
+					"{keyword} poses an interesting question: which of your habits have quietly changed how you feel over the past year? Some may surprise you.",
+					"What might {keyword} look like as a way of caring for yourself? Small routines kept over seasons, checked on now and then, without hurry.",
+					"{keyword} hints at a moment to step back and look at your energy as a garden. Where is it thriving, and where does it need a different kind of attention?"
+				],
+				"grieving": [
+					"Grief is tiring, and {keyword} may simply mean letting your body take its time. There is no schedule you need to keep.",
+					"{keyword} may look like very small acts of care, done slowly: a glass of water, a short walk, an early night. They count, even when they feel like little.",
+					"When you are carrying loss, {keyword} does not ask for progress. Rest can be a season of its own."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to consistency. Most changes in energy and wellbeing come from habits kept over time, not single efforts. Which one could you keep?",
+					"{keyword} is a plain prompt to review your routines. Look at sleep, movement and food over a month and see what the pattern says.",
+					"No mystical reading needed: {keyword} asks whether you are judging your efforts too soon. Some habits take weeks before you feel any difference."
+				],
+				"hopeful": [
+					"{keyword} encourages you to keep tending yourself steadily. Energy often returns gradually, and noticing small gains can keep hope realistic.",
+					"If you are hoping to feel stronger, {keyword} suggests the slow work you are doing may be quietly adding up.",
+					"{keyword} invites you to trust gentle, regular care. Hope is reasonable here, especially when you check in kindly with how you feel."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to patient habits, gradual change and a pause to look at how your energy is developing.",
+					"{keyword} highlights the long view of care for yourself: small routines, kept over time, and checked now and then.",
+					"{keyword} suggests paying attention to slow trends in how you feel, rather than only to how today went."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels like it is not progressing, {keyword} reminds you that growth is often invisible for a while. One small step: keep a simple practice for a few minutes each day.",
+					"{keyword} suggests that you don't have to see the fruit to trust the roots. Sit quietly once today and simply notice what is still steady.",
+					"When you feel spiritually stuck, {keyword} invites a gentle review. Write down one way you see things differently than you did a year ago."
+				],
+				"curious": [
+					"{keyword} asks an intriguing question: what are you cultivating inwardly, and how would you know if it were growing?",
+					"What if {keyword} were a practice in itself? Many traditions treat waiting attentively as a form of devotion.",
+					"{keyword} hints at a moment to lean back and look at your inner landscape. Which beliefs have deepened, and which have quietly dried up?"
+				],
+				"grieving": [
+					"{keyword} may feel distant in grief. Your inner life can lie fallow for a season; that is part of its rhythm, not a loss of it.",
+					"When you have lost someone, {keyword} can mean letting meaning take its time to return. There is nothing to cultivate yet.",
+					"{keyword} does not ask you to find a lesson in your loss. It only notes that seasons change slowly, and you can rest in this one."
+				],
+				"skeptical": [
+					"Read plainly, {keyword} is about consistency. Whatever you believe, reflection and practice tend to work through repetition, not sudden insight.",
+					"Treat {keyword} as a prompt: is your inner practice something you return to, or something you try once and judge? Fair evaluation needs time.",
+					"No mystical claim is needed. {keyword} simply asks whether your sense of meaning has grown over the years, and what helped it."
+				],
+				"hopeful": [
+					"{keyword} encourages you to keep tending your inner life even when progress is quiet. Hope often lives in the roots before it shows in the leaves.",
+					"If you are hoping for deeper meaning, {keyword} suggests that what you have already practised may be ready to show itself, in its own time.",
+					"{keyword} invites a patient kind of hope, one that keeps watering without demanding a date for the harvest."
+				],
+				"neutral": [
+					"On the inner path, {keyword} points to patient practice, gradual growth and a moment of reflection on how far you have come.",
+					"{keyword} speaks of cultivation over time and the value of pausing to see what has taken root.",
+					"{keyword} highlights the slow seasons of inner growth and the honest look that helps you know what to keep tending."
+				]
+			},
+			"general": {
+				"anxious": [
+					"Whatever is worrying you, {keyword} asks you to look at how far you have come before measuring how far is left. Name one thing you have built that still holds.",
+					"{keyword} suggests that things may be growing more than you can see right now. One small step in your control: keep doing the next ordinary task well.",
+					"When life feels slow, {keyword} invites a calm pause. Take stock of one area of your life and let that be today's only review."
+				],
+				"curious": [
+					"{keyword} opens a playful question: if your life were a garden, what would you say is ripening right now?",
+					"What if {keyword} were the theme of your month? Notice where patience serves you and where it has quietly turned into waiting for nothing.",
+					"{keyword} hints at a moment to lean on the fence and look around. What is worth more of your attention, and what could you let go of?"
+				],
+				"grieving": [
+					"{keyword} may feel far away while you grieve. Nothing needs to grow right now, and resting through a slow season is allowed.",
+					"When you are carrying loss, {keyword} can simply mean taking life one day at a time. That pace is enough.",
+					"{keyword} can be a way of honouring what you and others built over the years. It was real, and it still matters."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt to review. Across work, money and relationships, where is your effort producing results, and where is it not?",
+					"Treat {keyword} as a check-in: are you being patient, or just avoiding a decision? It is useful to know which.",
+					"No mystery here: {keyword} reflects how most things in life grow, slowly and unevenly. Pick one long-term goal and look at it honestly."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging image. If you are hoping for results, the work you have already done may be closer to bearing fruit than it feels.",
+					"If things are slowly improving, {keyword} invites you to notice and appreciate that before reaching for the next goal.",
+					"{keyword} suggests hope with patience. Keep tending what matters, and check now and then on how it is growing."
+				],
+				"neutral": [
+					"Overall, {keyword} speaks of patience, long-term effort and a natural moment to review what is growing in your life.",
+					"{keyword} points to slow progress and honest assessment. It invites you to step back and see the whole field.",
+					"{keyword} highlights the time between planting and harvest, and what you choose to do while you wait."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} is wearing thin and you feel like you are waiting forever, that frustration is understandable. One step you can take: say plainly what you are hoping for, rather than waiting to be guessed.",
+					"{keyword} may feel stalled here, with lots of effort and little sign of growth. Before deciding anything, take one quiet evening to notice what, if anything, you still enjoy together.",
+					"When {keyword} feels like it is going nowhere, it is easy to panic or pull away. Choose one small, low-stakes conversation this week and let that be your next step."
+				],
+				"curious": [
+					"{keyword} might be blocked by impatience. What are you hoping a relationship will deliver, and is that timeline yours or someone else's?",
+					"What if {keyword} reversed is asking whether you are tending the right garden? It could be worth wondering where your love and effort actually flow most naturally.",
+					"{keyword} feels a little stuck here. Is it a slow season, or a sign that something needs replanting rather than more waiting?"
+				],
+				"grieving": [
+					"If {keyword} feels wasted after a loss, as though years of care came to nothing, that thought is part of grief. The care was not wasted; it was love.",
+					"{keyword} may feel impossible right now. You don't need to look ahead or plan anything new; just getting through the day is enough.",
+					"Grief can make {keyword} seem meaningless. You are allowed to stop tending things for a while and simply rest."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance. If you have put years into a pattern that is not changing, it is fair to ask what more waiting would realistically achieve.",
+					"{keyword} is a prompt to check for sunk costs. Are you staying in something because it is good, or because you have already put so much into it?",
+					"Read plainly, {keyword} reversed often means effort without review. When did you and the people closest to you last talk honestly about how things are going?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping for growth, a fresh approach may serve better than simply trying harder.",
+					"If love has felt slow, {keyword} encourages you to look for small signs of life before giving up on the season. Hope is reasonable when it is paying attention.",
+					"{keyword} could find its rhythm again once expectations are reset. Hoping for that is fair, as long as you are honest about what you need."
+				],
+				"neutral": [
+					"In love, {keyword} can point to impatience, a relationship that feels like a poor return on effort, or care given without stepping back to look.",
+					"{keyword} appears blocked or overdone: waiting too long, giving up too soon, or tending the wrong thing out of habit.",
+					"{keyword} may be delayed or turned inward, asking you to look at what you are growing in love and whether it still matches what you want."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If {keyword} feels like it is not paying off at work, that discouragement is real. One step you control: ask someone you trust for an outside view of your progress.",
+					"{keyword} may feel stuck right now, with effort going in and little coming back. Pick one thing this week you could stop doing, and use that time on something with clearer results.",
+					"When {keyword} turns into restlessness, it is tempting to make a big change fast. Give yourself a week to gather facts before deciding anything."
+				],
+				"curious": [
+					"{keyword} might be blocked by impatience. What would you do differently at work if you knew results would take twice as long as you hoped?",
+					"What if {keyword} reversed is asking whether you are tending the wrong crop? It could be interesting to list where your working hours go and what each produces.",
+					"{keyword} feels a little off here. Are you reviewing your work so often that nothing gets time to grow, or so rarely that problems go unnoticed?"
+				],
+				"grieving": [
+					"{keyword} may feel pointless after a loss at work, as if all that effort has gone. It is all right to grieve the years as well as the role.",
+					"If a long effort did not bear the fruit you hoped, {keyword} may be part of what you are mourning. That disappointment deserves gentleness, not a quick fix.",
+					"Grief can make {keyword} at work feel unbearable. You don't have to plan the next chapter yet; showing up, or not, is enough for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance: years on a path with little return, or jumping ship before anything could grow. Which describes you better?",
+					"{keyword} is a prompt to check for sunk costs. Are you continuing with a role or project because it has promise, or because you have already given so much?",
+					"Read plainly, {keyword} reversed often means effort without measurement. What evidence do you have that this work is moving you where you want to go?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than denied. If you are hoping for results, a small change in approach could help more than simply working longer hours.",
+					"If you have felt stalled, {keyword} encourages you to look for one early sign of progress and build from there. Hope grows well from evidence.",
+					"{keyword} could take root again once you are clearer on what you are aiming at. Hoping for that is reasonable, especially after an honest review."
+				],
+				"neutral": [
+					"At work, {keyword} can point to impatience, frustration with slow results, effort in the wrong place, or a review that has been put off.",
+					"{keyword} appears blocked or overdone: giving up too early, or staying too long on something that is not growing.",
+					"{keyword} may be delayed at work, asking you to look at whether your effort is well placed and your expectations realistic."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If {keyword} feels like it is not paying off financially, that is discouraging but not final. One step you control: write down exactly where things stand, so worry has a smaller space to fill.",
+					"{keyword} may feel stalled, with effort going in and little seeming to come back. Choose one small leak in your spending to look at this week, and only that one.",
+					"When {keyword} turns into impatience with money, rushed decisions can look tempting. Notice the urge to act quickly, and let it settle before you choose anything."
+				],
+				"curious": [
+					"{keyword} raises an interesting question: what would change if you measured financial progress over five years instead of five weeks?",
+					"What if {keyword} reversed is about where your money goes on autopilot? It could be revealing to trace one month of small, repeated costs.",
+					"{keyword} feels a little stuck here. Is it a slow season, or is your effort going into something that will never yield much?"
+				],
+				"grieving": [
+					"{keyword} may feel impossible to think about after a loss. It is all right to let the money questions wait a little while you steady yourself.",
+					"If years of careful effort have been undone, {keyword} may be part of what you are grieving. That loss is real, and you do not need to rush past it.",
+					"{keyword} can be set aside for now. Basic needs met, one day at a time, is enough of a plan during grief."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to effort or money going into something with poor returns. Look at the numbers without wishful thinking.",
+					"{keyword} is a prompt to check for sunk costs. Are you continuing to pour resources into something because it works, or because you already have?",
+					"Read plainly, {keyword} reversed often means impatience: wanting results fast and abandoning steady habits too soon. Which habit did you drop most recently?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. If you are hoping for financial progress, a revised plan might serve you better than simply waiting.",
+					"If money has felt slow, {keyword} encourages you to celebrate one small gain. Hope tends to grow when it can see evidence.",
+					"{keyword} could take root again with a clearer plan. Hoping for that is reasonable, especially once you have taken an honest look at where things stand."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to poor returns, impatience, frustration with slow progress, or effort spent without review.",
+					"{keyword} appears blocked or overdone: chasing quick results, or staying committed to something that is not growing.",
+					"{keyword} may be delayed, asking you to look at whether your resources are going where they can actually grow."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If {keyword} feels frustrating because you are doing everything and feel no different, that is hard. One thing in your control: choose one habit to keep and let the others rest.",
+					"{keyword} may feel stalled. Instead of pushing harder, try one gentler day this week and notice how your body responds.",
+					"When {keyword} turns into impatience with yourself, stress can build. Breathe slowly, and remind yourself that a slow week is not a failed one."
+				],
+				"curious": [
+					"{keyword} poses a question: are you giving your routines enough time, or switching them so often that none can settle?",
+					"What would {keyword} look like if you stopped measuring and just noticed? Try a week without tracking, and see what you learn.",
+					"{keyword} might be turned inward. Where does impatience sit in your body, and what helps it loosen?"
+				],
+				"grieving": [
+					"{keyword} may feel beyond reach while you grieve. It is fine to drop routines for now and do only what the day requires.",
+					"If you had been tending your wellbeing carefully before your loss, {keyword} may feel undone. That is not a failure; grief takes energy.",
+					"{keyword} can wait. Your body is carrying something heavy, and rest is the most patient care there is."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often means giving up on a habit just before it starts to help. Is there one you abandoned recently that deserves another try?",
+					"{keyword} is a prompt about effort in the wrong place. Are you working hard at something that leaves you more tired rather than less?",
+					"No mysticism here: {keyword} out of balance usually means impatience or overwork. Which way are you leaning right now?"
+				],
+				"hopeful": [
+					"{keyword} may be paused rather than gone. A smaller, kinder routine could bring back the sense of progress you are hoping for.",
+					"If you are hoping to feel better, {keyword} encourages you to adjust rather than abandon. Small changes kept steadily often go further.",
+					"{keyword} could find its rhythm again. Hoping for that is fair, especially if you give your body time to answer."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to impatience with slow change, routines dropped too soon, or effort that is not restoring you.",
+					"{keyword} appears blocked or overdone: pushing for quick results, or tending habits that no longer serve your energy.",
+					"{keyword} suggests checking whether your care for yourself is well placed and given enough time to work."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If {keyword} has turned into self-judgement about your inner progress, set that down for today. One small step: return to the simplest practice you know.",
+					"{keyword} may feel stalled, as though nothing is happening inside. That stillness is not failure; try one quiet minute without expecting anything from it.",
+					"When {keyword} feels out of reach, spiritual life can feel like a test. It isn't. Choose one kind thing to do for yourself today instead."
+				],
+				"curious": [
+					"{keyword} might be blocked by wanting results. What would your practice look like if you stopped asking what it was giving you?",
+					"What if {keyword} reversed is asking whether you are tending a path that no longer fits? Curiosity can be gentler than abandoning it outright.",
+					"{keyword} feels a little restless here. Is it time for patience, or for planting something new?"
+				],
+				"grieving": [
+					"{keyword} may feel hollow while you grieve, and practices that used to help may feel empty. That emptiness is not a spiritual failing.",
+					"If you have stopped tending your inner life since your loss, {keyword} gently says that is all right. It can wait for you.",
+					"{keyword} can rest for now. Grief is its own kind of inner work, even when it feels like nothing."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed may point to hopping between practices without giving any a fair trial. Which one did you leave too soon?",
+					"{keyword} is a prompt about expectations. If you expected a practice to change everything quickly, the disappointment may be about the expectation.",
+					"Read plainly, {keyword} reversed can mean effort without reflection. When did you last ask whether your practice still means anything to you?"
+				],
+				"hopeful": [
+					"{keyword} may be on hold while something shifts beneath the surface. The hope here is that a quieter season makes room for real growth.",
+					"If you have felt spiritually stalled, {keyword} encourages small, steady returns to practice. Hope is reasonable when it is patient.",
+					"{keyword} could take a new shape once you let go of how it was supposed to look. Hoping for that is fair."
+				],
+				"neutral": [
+					"On the inner path, {keyword} can point to impatience, a practice that has stalled, or growth that has not yet become visible.",
+					"{keyword} appears blocked or overdone: chasing quick insight, or clinging to a practice that no longer feeds you.",
+					"{keyword} may be delayed or turned inward, inviting you to look at what you are cultivating and why."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} is wearing thin and you feel stuck, that frustration makes sense. One step in your control: pick a single small result you could see by the end of this week.",
+					"{keyword} may feel like effort with nothing to show for it. Write down what you have done anyway; it may be more than you think.",
+					"When {keyword} turns into restlessness, big leaps can look tempting. Give yourself a few days before deciding to change course."
+				],
+				"curious": [
+					"{keyword} feels a little blocked. Is the problem the pace, or the direction? Asking which can change what you do next.",
+					"What if {keyword} reversed is about where your energy is going? Trace one ordinary day and see what it is actually building.",
+					"{keyword} might be turned inward. Are you giving yourself the patience you would give someone else learning something new?"
+				],
+				"grieving": [
+					"{keyword} may feel pointless after a loss, as if plans no longer matter. You don't need to look ahead yet; today is enough.",
+					"If something you tended for years has ended, {keyword} may be part of what you are mourning. That grief deserves time.",
+					"{keyword} can wait. There is no need to plan, review or plant anything new until you are ready."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be out of balance: impatience on one side, or clinging to something that is not working on the other.",
+					"{keyword} is a prompt to check for sunk costs. Is there something you continue mostly because you have already put so much in?",
+					"Read plainly, {keyword} reversed often means effort without stepping back. When did you last ask whether your hard work is pointed the right way?"
+				],
+				"hopeful": [
+					"{keyword} may simply be delayed. If you are hoping for progress, a small change in approach could help it along.",
+					"If life has felt slow, {keyword} encourages you to look for one early sign of growth and let that keep you going.",
+					"{keyword} could find its footing again with a clearer aim. Hope is reasonable here, especially after an honest look."
+				],
+				"neutral": [
+					"Overall, {keyword} can point to impatience, frustration with slow progress, effort in the wrong place, or a review that keeps being put off.",
+					"{keyword} appears blocked or overdone: giving up too soon, or staying too long with something that is not growing.",
+					"{keyword} may be delayed or turned inward, asking you to look at whether your effort and your expectations still match."
+				]
+			}
+		}
+	}
+}

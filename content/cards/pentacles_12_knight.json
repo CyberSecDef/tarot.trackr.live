@@ -1,0 +1,412 @@
+{
+	"id": "pentacles_12_knight",
+	"name": "Knight of Pentacles",
+	"facets": [
+		{
+			"id": "diligence",
+			"keywords": ["diligence", "steady effort", "work done thoroughly"]
+		},
+		{
+			"id": "reliability",
+			"keywords": ["reliability", "a promise kept", "dependable routine"]
+		},
+		{
+			"id": "patience",
+			"keywords": ["patient progress", "a slow and sure pace", "persistence"]
+		},
+		{
+			"id": "method",
+			"keywords": ["a careful method", "attention to detail", "thoroughness"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If love feels uncertain, {keyword} is something you can offer without waiting for answers. Turn up when you said you would; that alone steadies a lot.",
+					"{keyword} suggests that trust is built in ordinary moments, not tested in dramatic ones. One thing in your control this week: be the person whose word holds.",
+					"When worry runs ahead, {keyword} asks you to measure a relationship by what actually happens over time rather than by one quiet day. What has stayed consistent?"
+				],
+				"curious": [
+					"{keyword} raises an interesting question: is steadiness romantic to you, or does it feel dull? Your answer may say a lot about what you are looking for.",
+					"What if {keyword} were the most loving thing you could bring right now? Notice how it feels to be counted on, and to count on someone else.",
+					"{keyword} hints that love can be a craft as well as a feeling. Which small, repeated kindness do you most appreciate receiving?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may be all you can manage, and that is plenty. Getting up, eating, answering one message: these are acts of care.",
+					"{keyword} might look like the friend who keeps checking in without needing a reply. Let that kind of quiet steadiness hold you for a while.",
+					"Grief is slow, and {keyword} honours that. You don't need to feel better by any particular date; you only need to keep going gently."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to consistency. Relationships tend to rest on whether people do what they say; how does yours measure up, on both sides?",
+					"Read {keyword} as a prompt to look at the everyday logistics of love: who remembers, who plans, who follows through. Is that shared fairly?",
+					"No mystery needed: {keyword} is the unglamorous part of closeness. It rarely makes a story, but it is often what keeps a bond standing."
+				],
+				"hopeful": [
+					"{keyword} encourages a hope that grows by degrees. Something real can be built here if both people keep showing up.",
+					"If you are hoping for something lasting, {keyword} suggests letting trust build at its own pace. Rushing rarely helps a foundation set.",
+					"{keyword} invites you to value the slow way. Steady attention, kept up, can carry a relationship further than a burst of passion."
+				],
+				"neutral": [
+					"In matters of the heart, {keyword} speaks of loyalty, consistency and love shown through dependable action.",
+					"{keyword} points to a relationship built slowly and carefully, valuing trust over excitement.",
+					"{keyword} brings attention to the quiet, steady effort that keeps closeness alive day after day."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If work feels shaky, {keyword} reminds you that one task done properly is solid ground. Start with the job you can finish today.",
+					"{keyword} suggests that you don't have to be brilliant this week, only consistent. Make a short list and work through it in order.",
+					"When you are worried about your standing, {keyword} invites you to let your work speak quietly. Which piece of it could you finish a little better than required?"
+				],
+				"curious": [
+					"{keyword} opens a question: which part of your work do you enjoy doing slowly and well? That may be where your real craft lies.",
+					"What if {keyword} were your quiet advantage? Plenty of people start things; fewer see them through.",
+					"{keyword} hints at the pleasure of a routine that works. What would you change about your working day if you designed it for steadiness?"
+				],
+				"grieving": [
+					"Work may feel heavy after a loss, and {keyword} does not ask you to excel. Keeping a simple rhythm can give your days some shape.",
+					"{keyword} might be a comfort right now: familiar tasks, done one after another, while the rest of life feels uncertain.",
+					"If grief has slowed you down at work, {keyword} reminds you that slow is still moving. Let that be enough for this season."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to process. Which part of your work would benefit from a checklist, a schedule or a second look?",
+					"Treat {keyword} as a prompt about follow-through. Reliability tends to be noticed over time, even when nobody comments on it.",
+					"No mysticism required: {keyword} is about compounding effort. Small, consistent improvements usually beat occasional heroic pushes."
+				],
+				"hopeful": [
+					"{keyword} encourages you to trust the long game at work. Hope is reasonable when it rests on effort you can keep up.",
+					"If you are hoping to advance, {keyword} suggests building a record people can rely on. It is slower than a leap, and often surer.",
+					"{keyword} invites you to take pride in progress that is gradual but real. Each finished task adds to something."
+				],
+				"neutral": [
+					"At work, {keyword} speaks of diligence, responsibility and doing a job properly from start to finish.",
+					"{keyword} points to a methodical, dependable approach to ambition and craft.",
+					"{keyword} brings attention to the value of routine, patience and careful work."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money worries are pressing, {keyword} suggests one small, regular habit rather than a dramatic fix. What could you check once a week, at the same time?",
+					"{keyword} reminds you that steadiness counts more than speed with money. One thing in your control: look at a single bill and understand it fully.",
+					"When finances feel uncertain, {keyword} invites you to notice the parts that are already steady. Naming them can calm the rest a little."
+				],
+				"curious": [
+					"{keyword} raises a question: what would your money look like if you treated it with the same care you give your best work?",
+					"What if {keyword} were more interesting than it sounds? Watching something grow slowly can be oddly satisfying.",
+					"{keyword} hints at routine. Which money habits run on autopilot, and which would you like to set up deliberately?"
+				],
+				"grieving": [
+					"After a loss, {keyword} may mean simply keeping the essentials paid and leaving the rest for later. That is a reasonable plan.",
+					"{keyword} might look like a friend helping you go through the paperwork slowly, one piece at a time. You don't have to do it alone or quickly.",
+					"Money can feel meaningless while you grieve, and {keyword} does not ask you to care about it more than you can. Steady is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to consistency. Regular, unremarkable choices tend to shape security more than big moves do.",
+					"Treat {keyword} as a prompt to review rather than react. When did you last look calmly at where your money goes?",
+					"No magic involved: {keyword} is about method. A simple system you actually use is worth more than a clever one you abandon."
+				],
+				"hopeful": [
+					"{keyword} suggests that security grows from steady effort. Hope is honest here, so long as you allow it time.",
+					"If you are hoping for more stability, {keyword} encourages patience. Slow progress may not feel exciting, but it tends to last.",
+					"{keyword} invites you to notice how far careful habits have already carried you. That record is worth trusting."
+				],
+				"neutral": [
+					"Around money, {keyword} speaks of careful management, routine and slow, steady growth.",
+					"{keyword} points to a responsible, patient relationship with resources and value.",
+					"{keyword} brings attention to reliable habits and the security they build over time."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} suggests a steady rhythm rather than big changes. Keep one simple routine today, like a regular mealtime.",
+					"{keyword} reminds you that care does not have to be dramatic. A short walk at the same time each day is a calm place to start.",
+					"When stress is high, {keyword} invites you to focus on what you can repeat. What is one small habit that reliably helps you settle?"
+				],
+				"curious": [
+					"{keyword} poses a question: which routine leaves you feeling most like yourself? It may be worth protecting.",
+					"What if {keyword} made care feel less like effort? Habits that run on rhythm can free up a surprising amount of energy.",
+					"{keyword} hints at noticing patterns. Over a week, when is your energy steadiest, and what came just before it?"
+				],
+				"grieving": [
+					"Grief tires the body, and {keyword} may simply mean keeping the basics going: water, food, sleep, a little air.",
+					"{keyword} does not ask for progress while you mourn. A gentle, repeated routine can be something to lean on.",
+					"When the days blur, {keyword} might look like one small ritual you keep each morning. It can anchor you without asking much."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to consistency. Most habits that help do so because they are kept, not because they are intense.",
+					"Treat {keyword} as a prompt: which healthy habit do you keep most reliably, and what makes it easy?",
+					"No mysticism needed: {keyword} is about pacing. Notice whether you tend to do too much at once and then nothing at all."
+				],
+				"hopeful": [
+					"{keyword} encourages you to trust gradual change. Steady care is a reasonable thing to place hope in.",
+					"If you are hoping to feel stronger, {keyword} suggests a pace you can keep for months rather than days.",
+					"{keyword} invites you to notice small improvements as they accumulate. They are easier to miss than to earn."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} speaks of routine, pacing and care that is sustained over time.",
+					"{keyword} points to steady habits and a patient relationship with your own energy.",
+					"{keyword} highlights the value of consistency over intensity when looking after yourself."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsteady, {keyword} suggests returning to one simple practice at the same time each day. Repetition can be calming.",
+					"{keyword} reminds you that growth does not have to feel dramatic to be real. Sit quietly for five minutes and call that enough.",
+					"When doubts pile up, {keyword} invites you to keep going without needing certainty. What practice could you continue even on a hard day?"
+				],
+				"curious": [
+					"{keyword} asks what kind of devotion feels natural to you. Is it found in stillness, in work, in tending something living?",
+					"What if {keyword} were a spiritual practice in itself? Doing ordinary things carefully can be a way of paying attention to life.",
+					"{keyword} hints at the depth that comes from staying with one path. What might you discover by not switching?"
+				],
+				"grieving": [
+					"{keyword} may feel distant when grief has shaken your sense of meaning. Keeping one small ritual can be enough for now.",
+					"After a loss, {keyword} might look like a daily walk to the same place, or a candle lit at the same hour. Repetition can hold what words cannot.",
+					"Grief has no timetable, and {keyword} honours that. You can keep walking slowly without knowing where the path leads."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to commitment over novelty. Which practice have you actually kept, and what has it given you?",
+					"Treat {keyword} as a prompt: are you collecting insights, or living by a few of them consistently?",
+					"No mystical claims needed: {keyword} is about showing up. A practice kept for a year usually teaches more than many sampled for a week."
+				],
+				"hopeful": [
+					"{keyword} encourages patience with your inner growth. Hope can rest in the simple fact that you keep returning.",
+					"If you are hoping for deeper meaning, {keyword} suggests it may come from depth rather than breadth.",
+					"{keyword} invites you to trust that steady practice changes you, even when the change is too gradual to see."
+				],
+				"neutral": [
+					"In inner life, {keyword} speaks of devotion, discipline and spiritual growth through steady practice.",
+					"{keyword} points to meaning found in faithful, repeated attention.",
+					"{keyword} brings attention to a grounded, patient approach to belief and practice."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels uncertain, {keyword} suggests narrowing your focus to the next sensible step. Take it, then the one after.",
+					"{keyword} reminds you that you don't need to see the whole road. A steady pace on the stretch in front of you is enough.",
+					"When everything feels unsettled, {keyword} invites you to keep one routine going. Familiar rhythms can steady the rest."
+				],
+				"curious": [
+					"{keyword} asks a question worth turning over: where in your life has slow and steady actually won?",
+					"What if {keyword} were the theme of this season? Finishing what you have started could be its own adventure.",
+					"{keyword} hints at quiet strength. Who do you know who embodies it, and what could you borrow from how they work?"
+				],
+				"grieving": [
+					"{keyword} may be all you have energy for while you grieve, and it is enough. One foot in front of the other is real movement.",
+					"After a loss, {keyword} might mean letting routine carry you through days that feel strange. That is not avoidance; it is support.",
+					"{keyword} does not ask you to move on. It only notes that small, steady acts can keep you company while you mourn."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to follow-through. Which commitment matters most to you, and is it getting consistent time?",
+					"Treat {keyword} as a prompt to look at your habits rather than your intentions. The habits usually tell the truer story.",
+					"No mystery needed: {keyword} is about effort that compounds. Small, regular work tends to outlast enthusiasm."
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign for anything that needs time. Hope is honest when it is paired with patience.",
+					"If you are hoping for change, {keyword} suggests it may come gradually, through effort you keep up rather than a sudden turn.",
+					"{keyword} invites you to trust your own reliability. You have carried things this far, step by step."
+				],
+				"neutral": [
+					"{keyword} speaks of diligence, routine and reliable progress toward practical goals.",
+					"{keyword} points to a patient, methodical approach that values completion over speed.",
+					"{keyword} brings attention to responsibility and the steady effort that builds something lasting."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If a relationship feels stuck, {keyword} may have turned into routine without warmth. One small thing in your control: suggest something different this week, however simple.",
+					"{keyword} may be running low on one side, which can stir worry. Rather than keeping score, ask calmly for the one thing you need most.",
+					"When you fear things have gone flat, {keyword} reminds you that a rut is not an ending. Notice one moment of real connection, even a brief one."
+				],
+				"curious": [
+					"{keyword} might have hardened into habit. What would happen if you broke one small routine in your relationship, just to see?",
+					"What if {keyword} is being overdone, with so much planning that spontaneity has no room? Wonder where a little play could fit.",
+					"{keyword} feels stalled here. Is the relationship steady, or simply unchanged? Those can look alike from the outside."
+				],
+				"grieving": [
+					"{keyword} may feel impossible after a loss. If you can't keep up with people the way you did, that is understandable.",
+					"If the routines you shared with someone are gone, {keyword} may feel hollow. It is all right to let those empty spaces stay empty for a while.",
+					"{keyword} can rest for now. The people who love you may be able to carry the effort while you can't."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be off balance. Is one person doing most of the planning, remembering and following through?",
+					"{keyword} is a prompt about stagnation. Relationships usually need some novelty as well as steadiness; when did you last try something new together?",
+					"Read plainly, {keyword} gone too far can look like rigidity. Notice whether you are holding on to how things are done rather than to each other."
+				],
+				"hopeful": [
+					"{keyword} may be paused rather than gone. A small, fresh gesture could get things moving again.",
+					"If you are hoping to reconnect, {keyword} encourages you to bring steadiness back gently, without turning it into a chore.",
+					"{keyword} might simply need some warmth added. Hope is reasonable here if both people are willing to try."
+				],
+				"neutral": [
+					"In love, {keyword} can point to a relationship in a rut, uneven effort, or routine that has replaced real attention.",
+					"{keyword} appears blocked or overdone: either commitment that has slipped, or predictability that has crowded out spontaneity.",
+					"{keyword} may be turned inward, asking whether caution is keeping you from opening up."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If you feel stuck at work, {keyword} may have stalled through fatigue rather than failure. One thing in your control: finish one small, overdue task today.",
+					"{keyword} may be overdone, with long hours leaving little in reserve. You are allowed to stop at a reasonable time this week.",
+					"When progress seems to have stopped, {keyword} reminds you that a plateau is common. Name one thing you could learn to get moving again."
+				],
+				"curious": [
+					"{keyword} might have tipped into perfectionism. Which task are you polishing that is already good enough?",
+					"What if {keyword} is stuck because the work has become too familiar? Wonder what a small new challenge might wake up.",
+					"{keyword} hints at routine gone stale. What would you change if you could redesign one part of your week?"
+				],
+				"grieving": [
+					"{keyword} may be hard to find while you grieve, and that is no reflection on your worth as a worker.",
+					"If a loss has made work feel pointless, {keyword} can wait. Doing what is needed and nothing more is allowed.",
+					"{keyword} might be overextended, with work used to avoid the grief. Be gentle with yourself either way, and notice which it is."
+				],
+				"skeptical": [
+					"Practically, {keyword} may be stuck in a rut. Is the method still serving the goal, or has it become a habit nobody questions?",
+					"{keyword} is a prompt about overwork. Long hours often look like dedication but can quietly lower the quality of what you produce.",
+					"Read plainly, {keyword} blocked can mean procrastination on dull tasks. Which one keeps slipping, and could you do it first tomorrow?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed, but it can return with a little change of pace. Hope is reasonable once the rut is named.",
+					"If you are hoping for progress, {keyword} encourages you to pair steadiness with one fresh idea.",
+					"{keyword} might simply need rest behind it. Well-rested effort tends to go further than tired effort."
+				],
+				"neutral": [
+					"At work, {keyword} can point to stagnation, perfectionism, overwork, or tasks left undone.",
+					"{keyword} appears overdone or stalled: routine without growth, or effort without direction.",
+					"{keyword} may be turned inward, asking whether caution is keeping you from taking a useful risk."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money feels stuck, {keyword} may have slipped while other things took your attention. One thing in your control: restart one small, regular habit, like checking your balance on the same day each week.",
+					"{keyword} may be overdone, with worry about every small cost leaving no room to breathe. It is all right to notice that tension and loosen it a little.",
+					"When finances feel stagnant, {keyword} reminds you that slow seasons are ordinary. Look for one thing that is still working, and let it steady you."
+				],
+				"curious": [
+					"{keyword} raises a question: is your caution with money protecting you, or keeping you from things that genuinely matter to you?",
+					"What if {keyword} has slid into autopilot? Wonder which money habit you keep simply because it is familiar, not because it still fits.",
+					"{keyword} hints at a gap between knowing and doing. Which sensible plan have you described to yourself many times but never quite started?"
+				],
+				"grieving": [
+					"{keyword} may be beyond reach after a loss. It is all right if paperwork and accounts wait a little while you grieve.",
+					"If your usual routines around money have fallen away, {keyword} can be rebuilt slowly, later. Ask someone you trust to help with anything urgent.",
+					"{keyword} might feel meaningless right now, and you don't have to care about it more than you can. Keeping the essentials going is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may have tipped into rigidity. Is your way of handling money still suited to your life as it is now, or to how it used to be?",
+					"{keyword} is a prompt about avoidance. Is there a dull money task you keep putting off? Naming it and giving it a date is half the work.",
+					"Read plainly, {keyword} stalled can mean resources sitting idle out of over-caution. Is that a considered choice, or simply a habit you haven't examined?"
+				],
+				"hopeful": [
+					"{keyword} may be paused, not lost. One small, steady step can be enough to start things moving again.",
+					"If you are hoping for progress, {keyword} encourages you to find the one place where effort has stalled and give it a gentle nudge.",
+					"{keyword} might return as your energy does. Hope is reasonable when it rests on small habits you can actually keep."
+				],
+				"neutral": [
+					"Around money, {keyword} can point to stagnation, excessive caution, or routines that have been quietly neglected.",
+					"{keyword} appears blocked or overdone: either too little attention to money, or too tight a grip on it.",
+					"{keyword} suggests checking whether your habits with money still match your current priorities."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your routines feel stuck, {keyword} may simply need a smaller target. One gentle habit kept today is enough, and tomorrow can look after itself.",
+					"{keyword} may be overdone, with you pushing through tiredness when your body is asking for rest. You are allowed to slow down before you feel you've earned it.",
+					"When you feel you have let things slide, {keyword} reminds you that restarting is an ordinary part of any routine. Choose one small step for this evening."
+				],
+				"curious": [
+					"{keyword} poses a question: which routine have you outgrown? Your body may be ready for something different from what worked a few years ago.",
+					"What if {keyword} has turned into a grind? Wonder what movement or rest might feel like if you chose it for enjoyment rather than duty.",
+					"{keyword} might be stuck because the plan is too rigid to survive a busy week. Where could you bend it without breaking it?"
+				],
+				"grieving": [
+					"{keyword} may be out of reach while you grieve. Rest is not laziness; it is what a tired body asks for after a loss.",
+					"If your routines have fallen away since your loss, {keyword} does not ask you to rebuild them yet. A warm meal and an early night count.",
+					"{keyword} can wait. When you are ready, start with the gentlest habit you can think of, and let it be enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to all-or-nothing habits. Is there a middle ground between the perfect routine and none at all?",
+					"{keyword} is a prompt about pacing. Do you tend to push hard for a week and then stop entirely? Notice the pattern without judging it.",
+					"Read plainly, {keyword} stalled often comes down to boredom. Changing the time, the place or the company can be enough to keep a habit going."
+				],
+				"hopeful": [
+					"{keyword} may be paused rather than lost. Hope is reasonable when the next step is small enough to take on a tired day.",
+					"If you are hoping to feel better, {keyword} encourages you to treat rest as part of the plan rather than a break from it.",
+					"{keyword} might return in a form that fits your life now. Let it be different from before, and judge it by how you feel."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} can point to stalled routines, overexertion, or care that has become joyless.",
+					"{keyword} appears blocked or overdone: either habits that have slipped, or effort that leaves no room for rest.",
+					"{keyword} suggests checking whether your routines still serve your energy, or only your sense of duty."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your practice feels stuck, {keyword} may simply need a lighter touch. Two minutes of quiet attention is still practice, and it still counts.",
+					"{keyword} may have become a rule rather than a comfort. You are allowed to loosen it without abandoning it.",
+					"When you feel spiritually flat, {keyword} reminds you that dry spells come to almost everyone who keeps a practice. Keep one small thing and let the rest rest."
+				],
+				"curious": [
+					"{keyword} asks whether your practice has become routine in the dull sense. What would it feel like to approach it as if for the first time?",
+					"What if {keyword} is overdone, with discipline crowding out wonder? Wonder where a little play or surprise could find its way in.",
+					"{keyword} hints at stagnation. Which belief have you not looked at closely in years, and what might you find if you did?"
+				],
+				"grieving": [
+					"{keyword} may feel empty after a loss. It is all right to step away from practice for a while; it is not a failure of faith.",
+					"If rituals have felt hollow since your grief began, {keyword} does not ask you to force them. They can wait for you.",
+					"{keyword} can rest while you mourn. Simply staying present with your grief is its own quiet kind of practice."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to going through the motions. Is your practice still doing anything for you, and how would you know?",
+					"{keyword} is a prompt about rigidity. Habits can protect what matters or quietly replace it; which is happening here?",
+					"Read plainly, {keyword} stalled often means boredom rather than loss of meaning. Changing the setting or the hour can be enough to wake it up."
+				],
+				"hopeful": [
+					"{keyword} may be in a fallow season. Hope can rest in knowing that pauses are part of how anything grows.",
+					"If you are hoping for renewal, {keyword} encourages you to keep the practice but let its shape change.",
+					"{keyword} might return with fresh energy once you allow some flexibility. Steady does not have to mean identical."
+				],
+				"neutral": [
+					"In inner life, {keyword} can point to stagnation, rigid practice, or a lapse in commitment.",
+					"{keyword} appears overdone or stalled, asking for flexibility and renewed attention.",
+					"{keyword} suggests looking honestly at whether your practice still feeds you."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If life feels stuck, {keyword} may need a small restart rather than a big one. Choose the thing you have been putting off and do ten minutes of it.",
+					"{keyword} may be overdone, with so much caution that nothing moves. You are allowed to take one small, sensible risk this week.",
+					"When you feel stalled, {keyword} reminds you that ruts are common and can be left one ordinary step at a time. What is the first step out of this one?"
+				],
+				"curious": [
+					"{keyword} asks which parts of your routine still serve you, and which you keep simply out of habit.",
+					"What if {keyword} has hardened into perfectionism? Wonder what you might finish if good enough were allowed.",
+					"{keyword} hints at boredom. Where in your days could one small change bring a little life back?"
+				],
+				"grieving": [
+					"{keyword} may be hard to find while you grieve. Doing less is a reasonable response to carrying something so heavy.",
+					"If your routines have fallen apart since your loss, {keyword} does not ask you to rebuild them now. They can be put back together later.",
+					"{keyword} can return in time. For now, getting through each day is effort enough, and it is real effort."
+				],
+				"skeptical": [
+					"Practically, {keyword} may point to stagnation or procrastination. Which task has been waiting the longest, and what is actually stopping it?",
+					"{keyword} is a prompt about rigidity. Is the way you do things still the best way, or just the way you have always done them?",
+					"Read plainly, {keyword} overdone can look like working without pause. Is effort crowding out rest, people and everything else that matters?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed rather than lost. A small change of pace can be enough to restart momentum.",
+					"If you are hoping for progress, {keyword} encourages you to pair steadiness with a little flexibility.",
+					"{keyword} might return after a proper rest. Effort often comes back stronger once it has had a pause."
+				],
+				"neutral": [
+					"{keyword} can point to stagnation, perfectionism, overwork, or responsibilities left undone.",
+					"{keyword} appears blocked or overdone: either too little follow-through, or too rigid a routine.",
+					"{keyword} suggests checking whether your effort is still carrying you somewhere you want to go."
+				]
+			}
+		}
+	}
+}

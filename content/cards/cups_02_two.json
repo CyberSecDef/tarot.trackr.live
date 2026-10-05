@@ -1,0 +1,412 @@
+{
+	"id": "cups_02_two",
+	"name": "Two of Cups",
+	"facets": [
+		{
+			"id": "partnership",
+			"keywords": ["partnership", "a meeting of equals", "a shared commitment"]
+		},
+		{
+			"id": "mutual_attraction",
+			"keywords": ["mutual attraction", "a spark between two people", "a growing bond"]
+		},
+		{
+			"id": "harmony",
+			"keywords": ["harmony", "mutual respect", "an even exchange"]
+		},
+		{
+			"id": "reconciliation",
+			"keywords": ["reconciliation", "a hand held out", "a bridge rebuilt"]
+		}
+	],
+	"fragments": {
+		"upright": {
+			"love": {
+				"anxious": [
+					"If you are unsure whether feelings are returned, {keyword} suggests looking at what actually passes between you, not what you fear. Notice one thing they did this week that showed care.",
+					"{keyword} can feel precarious when you are braced for disappointment. You don't need to know where it is going; for today, simply be honest about how you feel.",
+					"When closeness makes you nervous, {keyword} reminds you that a bond is built by two people, at two people's pace. You are allowed to ask for the pace you need."
+				],
+				"curious": [
+					"{keyword} asks a lovely question: who do you feel most like yourself around? That ease is worth paying attention to.",
+					"What if {keyword} is less about grand romance and more about the quiet click of being understood? Notice where that click happens for you.",
+					"{keyword} hints at two people meeting halfway. What would meeting someone halfway look like for you right now, and what would you bring to the middle?"
+				],
+				"grieving": [
+					"{keyword} may ache to think about if you are missing someone you shared it with. That ache is a measure of how real it was.",
+					"When a bond has ended, {keyword} does not ask you to look for another. It may simply be the memory of being known, which you are allowed to keep.",
+					"{keyword} can still live in the small rituals you shared. Making their kind of tea or walking their usual route can be a quiet way of staying close."
+				],
+				"skeptical": [
+					"Practically, {keyword} is about reciprocity. In your closest relationship, does care flow both ways, or is one of you doing most of the reaching?",
+					"Take {keyword} as a prompt: healthy pairings tend to rest on respect as much as feeling. Where does respect show up between you, in plain terms?",
+					"No mystery is needed to read {keyword}. Relationships usually go better when both people say what they want. Have you both said it?"
+				],
+				"hopeful": [
+					"{keyword} is a warm sign for the heart. It cannot promise how someone else feels, but it encourages you to show up openly and see what is returned.",
+					"If you are hoping for a deeper connection, {keyword} suggests it grows through small, mutual gestures. Offer one and leave room for theirs.",
+					"{keyword} invites you to honour a bond that is already good, rather than waiting for it to become something bigger. Appreciation can be a kind of growth."
+				],
+				"neutral": [
+					"In love, {keyword} speaks of two people meeting as equals, with attraction, respect and a sense of being chosen.",
+					"{keyword} points to connection that runs both ways. It asks how balanced the giving and receiving feels in your closest relationships.",
+					"{keyword} brings the focus to one-to-one bonds: partners, close friends, or a family tie that matters deeply."
+				]
+			},
+			"career": {
+				"anxious": [
+					"Work may feel uncertain, but {keyword} suggests one good working relationship can steady a lot. Who could you check in with today?",
+					"{keyword} reminds you that you don't need everyone on your side, only one or two people you trust. Start by thanking one of them.",
+					"If a work relationship is worrying you, {keyword} invites a calm one-to-one conversation. Choose a quiet moment and lead with what you both want."
+				],
+				"curious": [
+					"{keyword} asks which colleague brings out your best work. What is it about that pairing that clicks?",
+					"What could {keyword} mean for your career? A business partner, a mentor, a collaborator whose skills fit neatly around yours?",
+					"{keyword} hints at an agreement or alliance worth exploring. Is there someone whose goals overlap with yours more than you realised?"
+				],
+				"grieving": [
+					"If you have lost a colleague or a working partnership, {keyword} may feel painfully absent. Missing how you worked together is a real loss.",
+					"{keyword} may simply look like one person at work who understands what you are carrying. Letting them know is allowed.",
+					"When work feels lonely after a loss, {keyword} does not ask you to build something new. It is enough to keep doing the work quietly for now."
+				],
+				"skeptical": [
+					"Read practically, {keyword} points to contracts, agreements and working relationships. Are the terms you work under clear and fair to both sides?",
+					"{keyword} is a plain prompt about collaboration. Some projects go further with a well-chosen partner; is there one you would benefit from?",
+					"There is nothing mystical here: {keyword} is about trust at work. Who do you trust, who trusts you, and is that trust earned both ways?"
+				],
+				"hopeful": [
+					"{keyword} suggests promising collaboration. If a partnership is forming, put your expectations in writing early; it keeps the good feeling intact.",
+					"If you are hoping for a work breakthrough, {keyword} encourages you to look for an ally rather than going it alone.",
+					"{keyword} invites you to strengthen a working relationship that is already going well. A small thank-you now can carry a long way."
+				],
+				"neutral": [
+					"At work, {keyword} points to partnership, agreements and working relationships built on respect.",
+					"{keyword} highlights one-to-one connections at work: a colleague, a client, a business partner.",
+					"{keyword} suggests a stretch when cooperation may serve you better than competition, and asks who you would most like on your side."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money is causing tension between you and someone else, {keyword} invites a calm, open conversation. Pick one topic to talk about, not all of them.",
+					"{keyword} suggests you don't have to handle money worries alone. Who could you sit down with to look at the numbers together?",
+					"When finances feel shaky, {keyword} reminds you that clear, fair agreements can bring relief. Write down one arrangement you would like to make plain."
+				],
+				"curious": [
+					"{keyword} asks a question about money and relationships: how do you and the people closest to you talk about spending and saving?",
+					"What if {keyword} points to a joint venture, a shared goal or a pooled resource? Which of those feels worth exploring?",
+					"{keyword} hints at fair exchange. Where in your life do you feel you are giving and getting about the same, and where not?"
+				],
+				"grieving": [
+					"Money can feel tangled after a loss, especially if you managed it together. {keyword} may feel painfully missing in those moments.",
+					"{keyword} may look like someone sitting beside you while you sort out what has to be sorted. You don't have to do it alone.",
+					"If shared finances are now yours to carry, {keyword} does not ask you to rush. One small task at a time is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} raises a question about shared money. Are agreements with partners, family or friends clear, or assumed?",
+					"{keyword} is a prompt about fairness. Do the financial arrangements in your closest relationships feel balanced to both of you?",
+					"Read plainly, {keyword} points to contracts and deals. Before agreeing to anything, check that both sides understand the terms."
+				],
+				"hopeful": [
+					"{keyword} suggests that working with someone could strengthen your position. Hope fits here, so long as the agreement is clear.",
+					"If you are hoping for more security, {keyword} encourages you to talk openly with whoever shares your finances. A shared plan can feel lighter.",
+					"{keyword} invites you to appreciate the support you have. Mutual help is a real resource, even when it isn't money."
+				],
+				"neutral": [
+					"Around money, {keyword} points to shared resources, fair exchange and agreements between two people.",
+					"{keyword} speaks to partnership in money: joint plans, mutual support and balanced give-and-take.",
+					"{keyword} suggests that how you handle money with others matters as much as how much there is."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If your body feels like a worry, {keyword} reminds you that care can be shared. Tell one person how you are actually doing.",
+					"{keyword} suggests that balance helps. One thing in your control: pair a hard part of your day with something restful.",
+					"When stress is high, {keyword} invites you to lean on one steady person. A walk together or a phone call can settle more than you expect."
+				],
+				"curious": [
+					"{keyword} poses a question: how does your energy change around different people? Some leave you lighter, some heavier.",
+					"What might {keyword} look like in how you care for yourself? A walking partner, a shared meal, a friend to stretch with?",
+					"{keyword} hints at balance between body and heart. When one is tired, does the other notice?"
+				],
+				"grieving": [
+					"Grief can live in the body, and {keyword} may feel far away if you have lost someone close. Be gentle with your tiredness.",
+					"{keyword} may simply look like someone bringing you a warm drink without asking anything. Let them.",
+					"When you are carrying loss, {keyword} does not ask for effort. Quiet company is enough care for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to the effect of relationships on stress. Who in your life calms you, and who winds you up?",
+					"{keyword} is a plain prompt about balance. Are rest and effort roughly even in your week, or tipped heavily one way?",
+					"Read without mysticism, {keyword} is about support. People tend to keep good habits longer when someone shares them."
+				],
+				"hopeful": [
+					"{keyword} suggests that support could help you feel more like yourself. It cannot promise results, but it encourages you to ask.",
+					"If you are hoping for more energy, {keyword} encourages finding a companion for a habit you want to keep.",
+					"{keyword} invites you to notice what restores your balance. Hope grows easier when you are not doing everything alone."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} points to balance, support and the steadying effect of good company.",
+					"{keyword} speaks to harmony between effort and rest, and between you and the people around you.",
+					"{keyword} suggests that care is easier to keep up when it is shared, whether that is a walk with a friend or a partner who notices when you are tired."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If your inner life feels unsettled, {keyword} invites you to find one person to talk to about it. Being heard can steady you.",
+					"{keyword} suggests peace can come from being in tune with yourself. Sit quietly for a moment and notice whether your words and actions match.",
+					"When meaning feels far off, {keyword} reminds you that connection itself can be sacred. Spend a little time with someone who sees you."
+				],
+				"curious": [
+					"{keyword} asks what it feels like to be truly met by another person. Could that be a spiritual experience in its own right?",
+					"What if {keyword} is about the partnership between your head and your heart? Where do they agree, and where do they argue?",
+					"{keyword} hints at kinship of spirit. Who shares your sense of what matters, and how often do you talk about it?"
+				],
+				"grieving": [
+					"{keyword} may feel hollow if you have lost the person you shared your inner life with. That loneliness is real and deserves care.",
+					"When grief is heavy, {keyword} does not ask you to feel connected. You can simply let the bond you had be part of your prayers or thoughts.",
+					"{keyword} might be as quiet as talking to someone you miss, even if they cannot answer. That conversation can be its own kind of practice."
+				],
+				"skeptical": [
+					"Practically, {keyword} is a prompt about values. Do the people closest to you share yours, and does that matter to you?",
+					"{keyword} doesn't need faith to be useful. It can simply mean asking whether your beliefs and your behaviour are on speaking terms.",
+					"Read plainly, {keyword} points to mutual understanding. Have you explained what you believe to someone who matters to you?"
+				],
+				"hopeful": [
+					"{keyword} suggests a meeting of minds and hearts could deepen your inner life. Hope fits, so stay open to it.",
+					"If you are hoping for more meaning, {keyword} encourages you to share your practice with someone. Company can make it richer.",
+					"{keyword} invites you to make peace inside yourself. That inner agreement can make outer connections easier."
+				],
+				"neutral": [
+					"On the inner path, {keyword} speaks of union and kinship: the sense of being met by another person, or of parts of yourself finally agreeing.",
+					"{keyword} points to the meeting of two energies, inside you or between you and another.",
+					"{keyword} suggests that connection itself can carry meaning. A real conversation can feed the spirit as much as solitude does."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If things feel uncertain, {keyword} reminds you that one trusted relationship can make a lot bearable. Reach out to that person today.",
+					"{keyword} suggests that balance is within reach. Name one area of life where give and take feels fair, and let it steady you.",
+					"When you are braced for bad news, {keyword} invites you to share the weight. Talk it through with someone who listens well."
+				],
+				"curious": [
+					"{keyword} asks who you are when you are with the people you trust most. Is there something about that version of you worth bringing elsewhere?",
+					"What if {keyword} is pointing to a connection you haven't fully noticed yet? Look again at who keeps showing up.",
+					"{keyword} hints at two things coming together. What in your life is ready to be joined, rather than kept apart?"
+				],
+				"grieving": [
+					"{keyword} may ache if you are missing someone. Missing them is part of the bond, not the end of it.",
+					"When loss has broken a connection, {keyword} does not ask you to replace it. You can honour what it was and take your time.",
+					"{keyword} might be found in small ways, a friend's hand, a shared silence. Let those be enough for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} points to reciprocity. Where in your life are things balanced, and where are you carrying more than your share?",
+					"{keyword} is a prompt rather than a promise. Ask yourself which relationship most deserves your attention right now.",
+					"Read plainly, {keyword} is about agreements, spoken or unspoken. Is there one you need to make clearer?"
+				],
+				"hopeful": [
+					"{keyword} is an encouraging sign of connection. It cannot promise outcomes, but it suggests that meeting halfway is worth trying.",
+					"If you are hoping for things to come together, {keyword} encourages you to offer your part openly and see what is returned.",
+					"{keyword} invites you to value the bonds that already work. Hope often grows from what is already good."
+				],
+				"neutral": [
+					"Overall, {keyword} speaks of connection, mutual respect and two sides coming together.",
+					"{keyword} points to balance and partnership, and asks where those are working in your life.",
+					"{keyword} suggests two sides meeting as equals, whether in love, in work, or between what you want and what you value."
+				]
+			}
+		},
+		"reversed": {
+			"love": {
+				"anxious": [
+					"If {keyword} feels strained right now, it may be a rough patch rather than an ending. One thing in your control: say one kind, true thing to them today.",
+					"{keyword} may feel lopsided, and that can be worrying. You don't need to fix it all at once; start by noticing what you need and saying it plainly.",
+					"When a bond feels shaky, {keyword} invites you to slow down rather than chase. Give the relationship, and yourself, one calm evening."
+				],
+				"curious": [
+					"{keyword} seems out of balance. Who is reaching more, and who is waiting to be reached? The answer might surprise you.",
+					"What if {keyword} is turned inward, asking you to partner with yourself first? What would you need to feel whole on your own?",
+					"{keyword} hints at a misunderstanding. What might the other person think you meant, and is it worth asking?"
+				],
+				"grieving": [
+					"{keyword} may be broken by distance, a falling-out, or a loss. That break hurts, and it is all right to let it hurt.",
+					"If a bond has ended, {keyword} does not ask you to understand why yet. Grief can come before any explanation.",
+					"{keyword} may feel impossible right now. You can leave that door alone for a while and simply rest."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed often points to an imbalance. Write down what each of you gives; it can be clarifying.",
+					"{keyword} is a prompt about communication. Arguments that repeat are usually about something unsaid; what might yours be about?",
+					"Read plainly, {keyword} blocked can mean two people wanting different things. Have you each said what you want?"
+				],
+				"hopeful": [
+					"{keyword} may be delayed or tested rather than lost. Hope is fair, as long as both of you are willing to try.",
+					"If you are hoping to repair something, {keyword} encourages a gentle first step. Lead with listening rather than explaining.",
+					"{keyword} could grow stronger through a difficult conversation. It cannot promise the outcome, but honesty gives it a chance."
+				],
+				"neutral": [
+					"In love, {keyword} reversed can point to imbalance, misunderstanding, distance or a pause in a connection.",
+					"{keyword} appears strained, asking where the give and take between you has slipped out of step and who noticed first.",
+					"{keyword} suggests a bond that may need attention, honesty, or simply time before it feels easy again."
+				]
+			},
+			"career": {
+				"anxious": [
+					"If a working relationship feels tense, {keyword} may still be repairable. One step in your control: ask for a short, calm conversation.",
+					"{keyword} may feel strained at work. Keep notes of agreements, focus on what you can do well, and let the rest settle.",
+					"When a partnership at work is wobbling, {keyword} invites you to check the facts before assuming the worst."
+				],
+				"curious": [
+					"{keyword} seems out of step at work. Is it the people, the roles, or the expectations that don't match?",
+					"What if {keyword} is asking you to rely more on yourself for a while? What could you do independently?",
+					"{keyword} hints at an agreement that has drifted. What did you both originally sign up for?"
+				],
+				"grieving": [
+					"If a working relationship has ended, {keyword} may feel painfully absent. Missing someone you worked with is real.",
+					"{keyword} may stay broken for now. You don't need to make sense of it while you are grieving.",
+					"When work feels lonely, {keyword} does not ask you to rebuild anything yet. Getting through the day is enough."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to friction or unclear terms. Is it time to put an agreement in writing?",
+					"{keyword} is a prompt about imbalance at work. Who is doing more, and does everyone know it?",
+					"Read plainly, {keyword} blocked can mean a partnership that no longer fits. What would a fair exit or reset look like?"
+				],
+				"hopeful": [
+					"{keyword} may be in a rough patch, not finished. Hope is reasonable if both sides are willing to talk.",
+					"If you are hoping to mend a work relationship, {keyword} encourages starting with shared goals rather than grievances.",
+					"{keyword} could be rebuilt on clearer terms. It is worth trying, even with no promise of how it lands."
+				],
+				"neutral": [
+					"At work, {keyword} reversed can point to tension, broken agreements, or a partnership out of balance.",
+					"{keyword} appears strained at work, asking which expectations were never quite agreed and may now need saying out loud.",
+					"{keyword} suggests cooperation has stalled. It invites an honest look at whether the cause is the task, the terms, or the trust between you."
+				]
+			},
+			"money": {
+				"anxious": [
+					"If money is straining a relationship, {keyword} may be suffering more than it needs to. One step: agree on one small thing together this week.",
+					"{keyword} may feel lopsided around money. You can name what feels unfair calmly, without blaming.",
+					"When shared finances feel tense, {keyword} invites you to get the facts down on paper before the next talk."
+				],
+				"curious": [
+					"{keyword} seems out of balance. Who pays for what in your closest relationships, and how did that pattern start in the first place?",
+					"What if {keyword} is asking you to take more ownership of your own finances for a while?",
+					"{keyword} hints at an unspoken money agreement. What do you assume, and does the other person assume the same?"
+				],
+				"grieving": [
+					"If shared money is now tangled with loss, {keyword} may feel painfully missing. Ask for help with the hardest parts.",
+					"{keyword} may feel broken by what has changed. You don't have to sort everything out yet.",
+					"When finances remind you of someone, {keyword} does not ask you to feel ready. Take one step at a time."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can mean unfair splits or unclear agreements. Write them down.",
+					"{keyword} is a prompt about trust and money. Are you lending, borrowing or sharing more than feels safe?",
+					"Read plainly, {keyword} blocked might mean a deal that went sour. What did you learn about terms?"
+				],
+				"hopeful": [
+					"{keyword} may be repaired with clearer arrangements. Hope fits, with honesty on both sides.",
+					"If you are hoping to ease money tension, {keyword} encourages a calm, shared plan, made at a quiet moment rather than in the middle of a disagreement.",
+					"{keyword} could feel fairer over time. It may start with one honest conversation about what each of you thinks is reasonable."
+				],
+				"neutral": [
+					"Around money, {keyword} reversed can point to imbalance, broken agreements or shared finances under strain.",
+					"{keyword} appears out of step, asking whether your money arrangements are fair and clear.",
+					"{keyword} suggests that money and feelings may have become knotted together, and that untangling them could ease both."
+				]
+			},
+			"health": {
+				"anxious": [
+					"If you feel out of balance, {keyword} may be strained by stress. One small thing: pair your next busy hour with a short rest.",
+					"{keyword} may feel far off when relationships are tense. You are allowed to step back and breathe.",
+					"When you feel unsupported, {keyword} invites you to reach out to one person, even with a short message."
+				],
+				"curious": [
+					"{keyword} seems turned inward. How well are you partnering with your own body, listening and responding?",
+					"What if {keyword} has slipped out of step between what your body asks for and what you actually give it? Try listening for one day without arguing back.",
+					"{keyword} hints at a relationship that is draining you. Which one comes to mind first?"
+				],
+				"grieving": [
+					"Grief can leave you feeling alone in your body, and {keyword} may feel distant. Rest without explaining yourself.",
+					"{keyword} may be missing in the shape it used to have, and your body may feel that absence as tiredness. Let yourself miss it.",
+					"If you have lost someone who helped you care for yourself, {keyword} does not ask you to replace them yet."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can point to imbalance: too much effort, too little rest. Which way are you tipped?",
+					"{keyword} is a prompt about stressful relationships. Conflict tends to wear on energy; is that happening?",
+					"Read plainly, {keyword} blocked may mean ignoring what your body is asking for. What is it asking?"
+				],
+				"hopeful": [
+					"{keyword} may return as you rebalance your days. Hope is fair here, especially when it rests on small, steady steps rather than big promises to yourself.",
+					"If you are hoping to feel steadier, {keyword} encourages gentler routines and kinder company.",
+					"{keyword} could be restored by one change in rhythm, like an earlier night or a slower morning. Try one this week and see how it sits."
+				],
+				"neutral": [
+					"In wellbeing, {keyword} reversed can point to imbalance, stressful relationships or neglected needs.",
+					"{keyword} appears out of step, asking whether you are giving your own energy the same care you give other people's.",
+					"{keyword} suggests the balance between effort, rest and company has tipped, and invites you to notice which one has been squeezed out."
+				]
+			},
+			"spiritual": {
+				"anxious": [
+					"If you feel at odds with yourself, {keyword} may be strained rather than lost. One steady step: sit quietly and name one thing you know is true.",
+					"{keyword} may feel distant from a community or person you trusted. You can step back without deciding anything final.",
+					"When your inner life feels divided, {keyword} invites patience. Head and heart rarely agree on a schedule."
+				],
+				"curious": [
+					"{keyword} seems turned inward. Where are your beliefs and actions pulling in different directions?",
+					"What if {keyword} is asking you to make peace with yourself first? Which old choice of yours still needs forgiving?",
+					"{keyword} hints at a spiritual friendship that has drifted. Is it worth reaching out?"
+				],
+				"grieving": [
+					"{keyword} may feel broken if you have lost someone who shared your sense of meaning. That loss is real.",
+					"If you feel cut off, {keyword} does not ask you to reconnect yet. Grief has its own timing.",
+					"{keyword} may return in time, perhaps differently. For now, simply let yourself feel what you feel."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed can point to conflict between values and choices. Where is that showing up?",
+					"{keyword} is a prompt about disagreements over belief. Do you need agreement, or just respect?",
+					"Read plainly, {keyword} blocked can mean you are out of step with a group. Is that discomfort or growth?"
+				],
+				"hopeful": [
+					"{keyword} may mend with time and honesty. Hope fits here, especially if you are willing to listen as much as you speak.",
+					"If you are hoping for inner peace, {keyword} encourages small acts of self-forgiveness.",
+					"{keyword} could be rebuilt gradually, through small honest moments rather than one grand gesture. Listening may be the first of them."
+				],
+				"neutral": [
+					"On the inner path, {keyword} reversed can point to inner conflict, distance or a bond in need of repair.",
+					"{keyword} appears strained, asking where you feel divided, between people, between beliefs, or within yourself.",
+					"{keyword} suggests something on the inner path is asking to be brought back together, whether that is a friendship, a belief or a part of you."
+				]
+			},
+			"general": {
+				"anxious": [
+					"If {keyword} feels strained, it may be a passing tension. One thing in your control: make one small gesture of goodwill.",
+					"{keyword} may feel uneven right now. You can name what you need without making it a fight.",
+					"When connection feels shaky, {keyword} invites you to slow down and listen before you respond."
+				],
+				"curious": [
+					"{keyword} seems out of balance. Where are you giving more than you receive, or the other way round?",
+					"What if {keyword} is asking you to look at a relationship from the other person's side?",
+					"{keyword} hints at something left unsaid between you and someone else. What might happen if you said it gently, at a calm moment?"
+				],
+				"grieving": [
+					"{keyword} may feel broken by loss or distance. That break deserves to be grieved properly, without hurrying to explain it.",
+					"If a connection has ended, {keyword} does not ask you to move on. Take the time you need.",
+					"{keyword} may stay quiet for a while, and the space where it was can feel very large. Let that be all right for now."
+				],
+				"skeptical": [
+					"Practically, {keyword} reversed points to imbalance or miscommunication. Which fits better?",
+					"{keyword} is a prompt about fairness. Is there an arrangement in your life that no longer works for both sides?",
+					"Read plainly, {keyword} blocked often means a conversation postponed. Why are you postponing it?"
+				],
+				"hopeful": [
+					"{keyword} may be in a difficult stretch, not at an end. Hope is fair if both sides are willing.",
+					"If you are hoping to repair something, {keyword} encourages you to make the first gentle move.",
+					"{keyword} could grow stronger after an honest talk, though nothing is certain. Going in with curiosity rather than a verdict gives it the best chance."
+				],
+				"neutral": [
+					"Overall, {keyword} reversed can point to imbalance, distance, misunderstanding or a bond under strain.",
+					"{keyword} appears out of step, asking what needs to be said, adjusted or simply acknowledged between two people.",
+					"{keyword} suggests a connection in your life that may need more care and honesty than it has been getting lately."
+				]
+			}
+		}
+	}
+}
